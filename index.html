@@ -1,117 +1,16 @@
 <!DOCTYPE html>
 <html lang="ru">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Banda SS13 WebMap | Онлайн-вебкарта серверов Banda</title>
-  
-  <meta name="description" content="Интерактивная онлайн-вебкарта со всеми картами серверов BandaMarines, BandaStation и BandaTroopers с координатной сеткой и Z-уровнями.">
-  <meta name="keywords" content="SS13, Space Station 13, WebMap, BandaMarines, BandaStation, BandaTroopers, Leaflet">
-  <meta name="theme-color" content="#060911">
-
-  <!-- OpenGraph -->
-  <meta property="og:title" content="Banda SS13 WebMap">
-  <meta property="og:description" content="Интерактивная онлайн-вебкарта для трёх билдов: BandaMarines, BandaStation, BandaTroopers.">
-  <meta property="og:type" content="website">
-
-  <!-- Stylesheets -->
-  <link rel="stylesheet" href="assets/css/leaflet.css">
-  <link rel="stylesheet" href="assets/css/style.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" crossorigin="anonymous">
-</head>
-<body class="theme-bandastation">
-  <div class="app-container">
-    <!-- Collapsible Sidebar -->
-    <aside class="sidebar" id="sidebar">
-      <div class="sidebar-header">
-        <div class="brand-title-group">
-          <div class="brand-logo-badge">
-            <i class="fas fa-compass"></i>
-          </div>
-          <div class="brand-name">
-            BANDA <span>WEBMAP</span>
-          </div>
-        </div>
-        <span class="brand-badge" id="last-update-badge">v1.0</span>
-      </div>
-
-      <!-- Server Selector Tabs -->
-      <div class="server-tabs-section">
-        <div class="server-tabs" id="server-tabs">
-          <!-- Dynamically populated -->
-        </div>
-      </div>
-
-      <!-- Search & Filters -->
-      <div class="search-filter-section">
-        <div class="search-box">
-          <i class="fas fa-search"></i>
-          <input type="text" id="map-search" class="search-input" placeholder="Поиск карты по названию..." autocomplete="off">
-        </div>
-        <div class="category-filters" id="category-filters">
-          <!-- Dynamically populated -->
-        </div>
-      </div>
-
-      <div class="list-header-meta">
-        <span>Список карт</span>
-        <span id="map-count">0 карт</span>
-      </div>
-
-      <!-- Map List Container -->
-      <div class="map-list-container" id="map-list">
-        <!-- Dynamically populated -->
-      </div>
-
-      <!-- Active Map Details Card -->
-      <div class="active-map-details-section" id="active-map-card">
-        <!-- Dynamically populated on selection -->
-      </div>
-    </aside>
-
-    <!-- Main Map Viewport -->
-    <main class="map-viewport">
-      <button class="sidebar-toggle-btn" id="sidebar-toggle" title="Свернуть/Развернуть панель">
-        <i class="fas fa-bars"></i>
-      </button>
-
-      <!-- Leaflet Map Container -->
-      <div id="webmap"></div>
-
-      <!-- Floating HUD Bar -->
-      <div class="hud-bar">
-        <div class="coord-display" id="coord-display">
-          <span class="coord-label">X:</span> <span class="coord-val">--</span>
-          <span class="coord-label">Y:</span> <span class="coord-val">--</span>
-          <span class="coord-label">Z:</span> <span class="coord-val">1</span>
-        </div>
-
-        <div class="hud-divider"></div>
-
-        <div class="goto-group">
-          <input type="number" id="goto-x" class="goto-input" placeholder="X" min="1">
-          <input type="number" id="goto-y" class="goto-input" placeholder="Y" min="1">
-          <button id="goto-btn" class="hud-btn" title="Перейти к координатам">Перейти</button>
-        </div>
-
-        <div class="hud-divider"></div>
-
-        <button id="reset-view-btn" class="hud-btn" title="Сбросить масштаб и центрировать">
-          <i class="fas fa-crosshairs"></i> Центр
-        </button>
-
-        <button id="fullscreen-btn" class="hud-btn" title="Полноэкранный режим">
-          <i class="fas fa-expand"></i>
-        </button>
-      </div>
-    </main>
-  </div>
-
-  <!-- Notification Toast -->
-  <div class="toast" id="toast"></div>
-
-  <!-- Leaflet Core & App Modules -->
-  <script src="assets/js/leaflet.js"></script>
-  <script type="module" src="assets/js/app.js"></script>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%2338bdf8' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><circle cx='12' cy='12' r='10'/><polygon points='16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76'/></svg>" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Banda SS13 WebMap | Онлайн-вебкарта серверов Banda</title>
+    
+    <meta name="description" content="Минималистичная интерактивная онлайн-вебкарта серверов BandaMarines, BandaStation и BandaTroopers с Full-HD объектами и точной сеткой координат." />
+    <meta name="theme-color" content="#060911" />
+  </head>
+  <body class="bg-[#060911] text-slate-100 overflow-hidden select-none">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
 </html>

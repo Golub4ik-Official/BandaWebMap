@@ -1,6 +1,10 @@
-const fs = require('fs');
-const path = require('path');
-const { execFileSync } = require('child_process');
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
+import { execFileSync } from 'child_process';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const OWNER = 'Golub4ik-Official';
 const REPO = 'BandaWebMap';
@@ -29,7 +33,12 @@ function getAllFiles(dir, fileList = [], baseDir = ROOT) {
     const fullPath = path.join(dir, entry.name);
     const relPath = path.relative(baseDir, fullPath).replace(/\\/g, '/');
 
-    if (entry.name === '.git' || entry.name === 'node_modules' || entry.name.endsWith('.log')) {
+    if (
+      entry.name === '.git' || 
+      entry.name === 'node_modules' || 
+      entry.name === 'dist' || 
+      entry.name.endsWith('.log')
+    ) {
       continue;
     }
 
@@ -43,19 +52,7 @@ function getAllFiles(dir, fileList = [], baseDir = ROOT) {
 }
 
 async function run() {
-  console.log('--- Initializing repo with first file ---');
-  // First initialize repo if empty by putting README.md via Contents API
-  const readmeContent = fs.readFileSync(path.join(ROOT, 'README.md')).toString('base64');
-  try {
-    ghApi(`/repos/${OWNER}/${REPO}/contents/README.md`, 'PUT', {
-      message: 'Initial commit',
-      content: readmeContent
-    });
-    console.log('Initialized repository with README.md!');
-  } catch (e) {
-    console.log('Repository already has files or README initialized.');
-  }
-
+  console.log('--- Uploading BandaWebMap React/Vite App via gh API ---');
   const files = getAllFiles(ROOT);
   console.log(`Found ${files.length} files to upload.`);
 
@@ -94,10 +91,10 @@ async function run() {
   const parentCommitSha = refRes.object.sha;
   console.log('Parent commit SHA:', parentCommitSha);
 
-  // 4. Create commit with parent
+  // 4. Create commit
   console.log('Creating commit...');
   const commitRes = ghApi(`/repos/${OWNER}/${REPO}/git/commits`, 'POST', {
-    message: 'feat: full release of Banda SS13 WebMap with multi-server support and auto-sync',
+    message: 'refactor: redesign to minimal React+TS+Vite with progressive Full-HD maps',
     tree: treeRes.sha,
     parents: [parentCommitSha]
   });
@@ -111,22 +108,9 @@ async function run() {
   });
   console.log('refs/heads/main updated successfully!');
 
-  // 6. Enable GitHub Pages
-  console.log('Configuring GitHub Pages...');
-  try {
-    const pagesRes = ghApi(`/repos/${OWNER}/${REPO}/pages`, 'POST', {
-      build_type: 'workflow'
-    });
-    console.log('GitHub Pages enabled! Status:', pagesRes.status);
-  } catch (err) {
-    console.log('Pages configuration message:', err.message);
-  }
-
-  console.log('\n=============================================');
-  console.log('🎉 BANDA WEBMAP SUCCESSFULLY DEPLOYED TO GITHUB!');
+  console.log('\n=== COMPLETE ===');
   console.log(`Repository: https://github.com/${OWNER}/${REPO}`);
-  console.log(`GitHub Pages URL: https://${OWNER.toLowerCase()}.github.io/${REPO}/`);
-  console.log('=============================================');
+  console.log(`Pages: https://${OWNER.toLowerCase()}.github.io/${REPO}/`);
 }
 
 run().catch(err => {
