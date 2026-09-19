@@ -113,18 +113,33 @@ export const MapView: React.FC<MapViewProps> = ({
     });
     hoverPolygonRef.current = hoverPoly;
 
-    // Grid layer - canvas based for 60fps performance
+    // Grid layer - canvas based for 60fps performance (tileSize: 256)
     const GridClass = L.GridLayer.extend({
       createTile: function () {
-        const tile = document.createElement('div');
-        tile.className = 'ss13-grid-tile';
+        const tile = document.createElement('canvas');
+        const tileSize = 256;
+        tile.width = tileSize;
+        tile.height = tileSize;
+        const ctx = tile.getContext('2d');
+        if (ctx) {
+          ctx.strokeStyle = 'rgba(56, 189, 248, 0.08)';
+          ctx.lineWidth = 1;
+          ctx.beginPath();
+          for (let x = 0; x <= tileSize; x += 32) {
+            ctx.moveTo(x, 0); ctx.lineTo(x, tileSize);
+          }
+          for (let y = 0; y <= tileSize; y += 32) {
+            ctx.moveTo(0, y); ctx.lineTo(tileSize, y);
+          }
+          ctx.stroke();
+        }
         return tile;
       }
     });
     // @ts-ignore
     gridLayerRef.current = new GridClass({
-      tileSize: 32,
-      opacity: 0.15,
+      tileSize: 256,
+      opacity: 0.8,
       zIndex: 400
     });
 
@@ -136,15 +151,19 @@ export const MapView: React.FC<MapViewProps> = ({
     };
   }, []);
 
-  // Event handlers
+  // Event handlers with requestAnimationFrame throttling
   useEffect(() => {
     const map = mapInstanceRef.current;
     if (!map || !currentMap) return;
 
-    const handleMouseMove = (e: L.LeafletMouseEvent) => {
+    let rafId: number | null = null;
+    let pendingEvent: L.LeafletMouseEvent | null = null;
+
+    const processMouseMove = () => {
+      if (!pendingEvent || !mapInstanceRef.current) return;
       const width = currentMap.width || 255;
       const height = currentMap.height || 255;
-      const { lat, lng } = e.latlng;
+      const { lat, lng } = pendingEvent.latlng;
 
       if (lng < 0 || lng > width || lat > 0 || lat < -height) {
         if (hoverPolygonRef.current && map.hasLayer(hoverPolygonRef.current)) {
@@ -171,6 +190,17 @@ export const MapView: React.FC<MapViewProps> = ({
       }
 
       onCoordChange({ x, y, z: currentZ });
+      pendingEvent = null;
+    };
+
+    const handleMouseMove = (e: L.LeafletMouseEvent) => {
+      pendingEvent = e;
+      if (rafId === null) {
+        rafId = requestAnimationFrame(() => {
+          processMouseMove();
+          rafId = null;
+        });
+      }
     };
 
     const handleClick = (e: L.LeafletMouseEvent) => {
@@ -194,6 +224,7 @@ export const MapView: React.FC<MapViewProps> = ({
     map.on('click', handleClick);
 
     return () => {
+      if (rafId !== null) cancelAnimationFrame(rafId);
       map.off('mousemove', handleMouseMove);
       map.off('click', handleClick);
     };
@@ -312,17 +343,24 @@ export const MapView: React.FC<MapViewProps> = ({
       baseOverlayRef.current = null;
     }
 
+    setIsLoadingFullRes(true);
     const overlay = L.imageOverlay(initialSource, bounds, {
       interactive: false,
       opacity: 1.0
     }).addTo(map);
     baseOverlayRef.current = overlay;
 
+    overlay.on('load', () => {
+      setIsLoadingFullRes(false);
+    });
+    overlay.on('error', () => {
+      setIsLoadingFullRes(false);
+    });
+
     // Step 2: Asynchronously load high-res image only if we used a low-res preview
     let isCancelled = false;
 
     if (fullUrl && !isLocalWebp && initialSource !== fullUrl) {
-      setIsLoadingFullRes(true);
       const highResImg = new Image();
       highResImg.src = fullUrl;
 
@@ -340,8 +378,6 @@ export const MapView: React.FC<MapViewProps> = ({
         setIsLoadingFullRes(false);
         console.warn(`Could not load Full-HD render from ${fullUrl}`);
       };
-    } else {
-      setIsLoadingFullRes(false);
     }
 
     // Pipenet overlay

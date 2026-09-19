@@ -9,6 +9,17 @@
   }
 }
 
+/* Leaflet SS13 Canvas & Space Tuning */
+.leaflet-container {
+  background: #060911 !important;
+  outline: none;
+}
+
+.leaflet-image-layer {
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: pixelated;
+}
+
 /* SS13 Grid Tiles */
 .ss13-grid-tile {
   border-right: 1px solid rgba(255, 255, 255, 0.08);

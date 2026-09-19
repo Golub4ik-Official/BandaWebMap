@@ -52,11 +52,18 @@ export const App: React.FC = () => {
     return () => window.removeEventListener('keydown', handleKeyDown);
   }, []);
 
+  const getDefaultZ = useCallback((map: GameMap | null): number => {
+    if (!map) return 1;
+    if (map.id === 'cyberiad') return 2;
+    if (map.id === 'almayer') return 2;
+    return 1;
+  }, []);
+
   const initFromUrl = useCallback((data: MapsManifest) => {
     const params = new URLSearchParams(window.location.search);
     const sParam = params.get('server') as 'bandamarines' | 'bandastation' | 'bandatroopers' | null;
     const mParam = params.get('map');
-    const zParam = parseInt(params.get('z') || '1', 10);
+    const zParam = parseInt(params.get('z') || '', 10);
     const xParam = parseInt(params.get('x') || '', 10);
     const yParam = parseInt(params.get('y') || '', 10);
 
@@ -70,13 +77,15 @@ export const App: React.FC = () => {
       if (found) initialMap = found;
     }
 
+    const targetZ = !isNaN(zParam) ? zParam : getDefaultZ(initialMap);
+
     setCurrentMap(initialMap);
-    setCurrentZ(isNaN(zParam) ? 1 : zParam);
+    setCurrentZ(targetZ);
 
     if (!isNaN(xParam) && !isNaN(yParam)) {
       setTargetCoords({ x: xParam, y: yParam });
     }
-  }, []);
+  }, [getDefaultZ]);
 
   const updateUrl = useCallback((updates: { server?: string; map?: string; z?: number; x?: number; y?: number }) => {
     const url = new URL(window.location.href);
@@ -95,16 +104,18 @@ export const App: React.FC = () => {
     const maps = manifest.servers[serverId]?.maps || [];
     if (maps.length > 0) {
       const nextMap = maps[0];
+      const nextZ = getDefaultZ(nextMap);
       setCurrentMap(nextMap);
-      setCurrentZ(1);
-      updateUrl({ server: serverId, map: nextMap.id, z: 1 });
+      setCurrentZ(nextZ);
+      updateUrl({ server: serverId, map: nextMap.id, z: nextZ });
     }
   };
 
   const handleSelectMap = (map: GameMap) => {
+    const nextZ = getDefaultZ(map);
     setCurrentMap(map);
-    setCurrentZ(1);
-    updateUrl({ map: map.id, z: 1 });
+    setCurrentZ(nextZ);
+    updateUrl({ map: map.id, z: nextZ });
   };
 
   const handleZChange = (z: number) => {
