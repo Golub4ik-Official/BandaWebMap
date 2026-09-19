@@ -70,38 +70,14 @@ export const MapView: React.FC<MapViewProps> = ({
     return { lat, lng };
   }, [currentMap]);
 
-  // Procedural SVG placeholder generator
+  // Ultra-lightweight SVG placeholder generator (fast to render, zero GPU overhead)
   const getPlaceholderSvg = useCallback((map: GameMap, z: number) => {
     const width = map.width || 255;
     const height = map.height || 255;
     const serverName = (map.server || '').toUpperCase();
     const mapName = map.name || 'Unknown';
 
-    const svg = `
-      <svg xmlns="http://www.w3.org/2000/svg" width="${width * 16}" height="${height * 16}" viewBox="0 0 ${width} ${height}">
-        <defs>
-          <pattern id="pgrid" width="10" height="10" patternUnits="userSpaceOnUse">
-            <path d="M 10 0 L 0 0 0 10" fill="none" stroke="#1e293b" stroke-width="0.3"/>
-          </pattern>
-          <pattern id="pmajor" width="50" height="50" patternUnits="userSpaceOnUse">
-            <rect width="50" height="50" fill="url(#pgrid)" />
-            <path d="M 50 0 L 0 0 0 50" fill="none" stroke="#334155" stroke-width="0.8"/>
-          </pattern>
-        </defs>
-        <rect width="100%" height="100%" fill="#080c16"/>
-        <rect width="100%" height="100%" fill="url(#pmajor)" />
-        <rect x="5" y="5" width="${width - 10}" height="${height - 10}" fill="none" stroke="#38bdf8" stroke-width="0.6" stroke-dasharray="4,4"/>
-        <text x="${width / 2}" y="${height / 2 - 8}" fill="#38bdf8" font-family="monospace" font-size="6" font-weight="bold" text-anchor="middle">
-          [ ${serverName} // ${mapName} ]
-        </text>
-        <text x="${width / 2}" y="${height / 2 + 2}" fill="#94a3b8" font-family="monospace" font-size="3.5" text-anchor="middle">
-          Z-LEVEL ${z} | РАЗМЕР: ${width}x${height}
-        </text>
-        <text x="${width / 2}" y="${height / 2 + 10}" fill="#64748b" font-family="monospace" font-size="2.6" text-anchor="middle">
-          Подключение высокоточного рендера...
-        </text>
-      </svg>
-    `;
+    const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}"><rect width="100%" height="100%" fill="#070b14"/><rect x="2" y="2" width="${width - 4}" height="${height - 4}" fill="none" stroke="#0ea5e9" stroke-width="0.8" stroke-dasharray="3,3"/><text x="${width / 2}" y="${height / 2 - 4}" fill="#38bdf8" font-family="monospace" font-size="5" font-weight="bold" text-anchor="middle">[ ${serverName} // ${mapName} ]</text><text x="${width / 2}" y="${height / 2 + 4}" fill="#94a3b8" font-family="monospace" font-size="3" text-anchor="middle">Z:${z} | РАЗМЕР: ${width}x${height}</text></svg>`;
     return 'data:image/svg+xml;charset=utf-8,' + encodeURIComponent(svg);
   }, []);
 
@@ -112,10 +88,13 @@ export const MapView: React.FC<MapViewProps> = ({
     const map = L.map(mapContainerRef.current, {
       crs: L.CRS.Simple,
       minZoom: -1.5,
-      maxZoom: 6,
-      zoomSnap: 0.25,
+      maxZoom: 5,
+      zoomSnap: 0.5,
       zoomDelta: 0.5,
-      wheelPxPerZoomLevel: 75,
+      preferCanvas: true,
+      fadeAnimation: false,
+      zoomAnimation: true,
+      wheelPxPerZoomLevel: 100,
       attributionControl: false
     });
 
@@ -134,7 +113,7 @@ export const MapView: React.FC<MapViewProps> = ({
     });
     hoverPolygonRef.current = hoverPoly;
 
-    // Grid layer
+    // Grid layer - canvas based for 60fps performance
     const GridClass = L.GridLayer.extend({
       createTile: function () {
         const tile = document.createElement('div');
@@ -318,40 +297,44 @@ export const MapView: React.FC<MapViewProps> = ({
     const fullUrl = layerInfo?.fullUrl || '';
     const pipenetUrl = layerInfo?.pipenetUrl || '';
 
-    // Step 1: Immediately render the preview or procedural SVG
+    // Step 1: Show fast preview or lightweight placeholder
+    let initialSource = previewUrl;
+    if (!initialSource) {
+      initialSource = getPlaceholderSvg(currentMap, currentZ);
+    }
+
     if (baseOverlayRef.current) {
       baseOverlayRef.current.remove();
       baseOverlayRef.current = null;
     }
 
-    const initialSource = previewUrl || (fullUrl ? getPlaceholderSvg(currentMap, currentZ) : getPlaceholderSvg(currentMap, currentZ));
-
-    const initialOverlay = L.imageOverlay(initialSource, bounds, {
+    const previewOverlay = L.imageOverlay(initialSource, bounds, {
       interactive: false,
       opacity: 0.95
     }).addTo(map);
-    baseOverlayRef.current = initialOverlay;
+    baseOverlayRef.current = previewOverlay;
 
-    // Step 2: If fullUrl exists, asynchronously load the high-res render and swap smoothly
+    // Step 2: Asynchronously load high-res image if available
+    let isCancelled = false;
+
     if (fullUrl) {
       setIsLoadingFullRes(true);
       const highResImg = new Image();
       highResImg.src = fullUrl;
 
       highResImg.onload = () => {
+        if (isCancelled || !mapInstanceRef.current) return;
         setIsLoadingFullRes(false);
-        // Only swap if user hasn't switched maps/Z-levels
-        if (mapInstanceRef.current) {
-          if (baseOverlayRef.current) {
-            baseOverlayRef.current.setUrl(fullUrl);
-            baseOverlayRef.current.setOpacity(1.0);
-          }
+        if (baseOverlayRef.current) {
+          baseOverlayRef.current.setUrl(fullUrl);
+          baseOverlayRef.current.setOpacity(1.0);
         }
       };
 
       highResImg.onerror = () => {
+        if (isCancelled) return;
         setIsLoadingFullRes(false);
-        console.warn(`Could not load Full-HD render from ${fullUrl}, keeping preview/placeholder.`);
+        console.warn(`Could not load Full-HD render from ${fullUrl}`);
       };
     } else {
       setIsLoadingFullRes(false);
@@ -379,6 +362,10 @@ export const MapView: React.FC<MapViewProps> = ({
         gridLayerRef.current.remove();
       }
     }
+
+    return () => {
+      isCancelled = true;
+    };
   }, [currentMap, currentZ, showPipenet, showGrid, getBounds, getPlaceholderSvg]);
 
   // Initial bounds fit or target coords

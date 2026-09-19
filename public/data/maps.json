@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T21:43:09.585Z",
+  "generatedAt": "2026-09-19T21:55:49.522Z",
   "totalMaps": 105,
   "servers": {
     "bandamarines": {
@@ -67,7 +67,7 @@
             {
               "z": 1,
               "name": "Surface",
-              "previewUrl": "",
+              "previewUrl": "maps/bandamarines/solaris-1.png",
               "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1.png",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1-pipe.png"
             }
@@ -133,7 +133,7 @@
             {
               "z": 1,
               "name": "Surface",
-              "previewUrl": "",
+              "previewUrl": "maps/bandamarines/trijent-1.png",
               "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/trijent/Desert_Dam-1.png",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/trijent/Desert_Dam-1-pipe.png"
             }
@@ -177,7 +177,7 @@
             {
               "z": 1,
               "name": "Main Deck",
-              "previewUrl": "",
+              "previewUrl": "maps/bandamarines/ice_colony-1.png",
               "fullUrl": "",
               "pipenetUrl": ""
             }
@@ -199,7 +199,7 @@
             {
               "z": 1,
               "name": "Refinery",
-              "previewUrl": "",
+              "previewUrl": "maps/bandamarines/kutjevo-1.png",
               "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/kutjevo/Kutjevo-1.png",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/kutjevo/Kutjevo-1-pipe.png"
             }
@@ -243,7 +243,7 @@
             {
               "z": 1,
               "name": "Ground Colony",
-              "previewUrl": "",
+              "previewUrl": "maps/bandamarines/lv624-1.png",
               "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv624/LV624-1.png",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv624/LV624-1-pipe.png"
             }
@@ -309,7 +309,7 @@
             {
               "z": 1,
               "name": "Main Deck",
-              "previewUrl": "",
+              "previewUrl": "maps/bandamarines/fiorina_cellblocks-1.png",
               "fullUrl": "",
               "pipenetUrl": ""
             }
@@ -382,7 +382,7 @@
             {
               "z": 1,
               "name": "Strata",
-              "previewUrl": "",
+              "previewUrl": "maps/bandamarines/sorokyne-1.png",
               "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/sorokyne/Sorokyne_Strata-1.png",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/sorokyne/Sorokyne_Strata-1-pipe.png"
             }

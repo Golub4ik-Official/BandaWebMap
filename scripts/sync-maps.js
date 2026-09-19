@@ -210,6 +210,17 @@ function parseBandaMarines() {
 
       const webmapInfo = data.webmap_url ? KNOWN_CM_MAPS[data.webmap_url] : null;
 
+      const previewMap = {
+        'almayer': '',
+        'bigredv2': 'maps/bandamarines/solaris-1.png',
+        'desert_dam': 'maps/bandamarines/trijent-1.png',
+        'lv624': 'maps/bandamarines/lv624-1.png',
+        'kutjevo': 'maps/bandamarines/kutjevo-1.png',
+        'sorokyne_strata': 'maps/bandamarines/sorokyne-1.png',
+        'prison_station_fop': 'maps/bandamarines/fiorina_cellblocks-1.png',
+        'ice_colony_v2': 'maps/bandamarines/ice_colony-1.png'
+      };
+
       const layers = [];
       const zCount = dmmInfo.zLevels;
 
@@ -228,10 +239,15 @@ function parseBandaMarines() {
           pipeUrl = `${CM_IMAGE_BASE}/${webmapInfo.path}/${webmapInfo.filePrefix}-${z}-pipe.png`;
         }
 
+        let previewUrl = '';
+        if (z === 1 && previewMap[id]) {
+          previewUrl = previewMap[id];
+        }
+
         layers.push({
           z: z,
           name: deckName,
-          previewUrl: '',
+          previewUrl: previewUrl,
           fullUrl: fullUrl,
           pipenetUrl: pipeUrl
         });
