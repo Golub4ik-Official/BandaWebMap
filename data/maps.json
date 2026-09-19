@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T21:55:49.522Z",
+  "generatedAt": "2026-09-19T22:14:32.162Z",
   "totalMaps": 105,
   "servers": {
     "bandamarines": {
@@ -25,28 +25,28 @@
               "z": 1,
               "name": "Deck 1 (Lower)",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/almayer/USS_Almayer-1.png",
+              "fullUrl": "maps/bandamarines/almayer-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/almayer/USS_Almayer-1-pipe.png"
             },
             {
               "z": 2,
               "name": "Deck 2",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/almayer/USS_Almayer-2.png",
+              "fullUrl": "maps/bandamarines/almayer-2.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/almayer/USS_Almayer-2-pipe.png"
             },
             {
               "z": 3,
               "name": "Deck 3",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/almayer/USS_Almayer-3.png",
+              "fullUrl": "maps/bandamarines/almayer-3.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/almayer/USS_Almayer-3-pipe.png"
             },
             {
               "z": 4,
               "name": "Deck 4 (Upper)",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/almayer/USS_Almayer-4.png",
+              "fullUrl": "maps/bandamarines/almayer-4.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/almayer/USS_Almayer-4-pipe.png"
             }
           ]
@@ -68,7 +68,7 @@
               "z": 1,
               "name": "Surface",
               "previewUrl": "maps/bandamarines/solaris-1.png",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1.png",
+              "fullUrl": "maps/bandamarines/bigredv2-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1-pipe.png"
             }
           ]
@@ -112,7 +112,7 @@
               "z": 1,
               "name": "Main Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandamarines/corsat-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -134,7 +134,7 @@
               "z": 1,
               "name": "Surface",
               "previewUrl": "maps/bandamarines/trijent-1.png",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/trijent/Desert_Dam-1.png",
+              "fullUrl": "maps/bandamarines/desert_dam-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/trijent/Desert_Dam-1-pipe.png"
             }
           ]
@@ -156,7 +156,7 @@
               "z": 1,
               "name": "Science Annex",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/fiorina/Fiorina_SciAnnex-1.png",
+              "fullUrl": "maps/bandamarines/fiorina_sciannex-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/fiorina/Fiorina_SciAnnex-1-pipe.png"
             }
           ]
@@ -200,7 +200,7 @@
               "z": 1,
               "name": "Refinery",
               "previewUrl": "maps/bandamarines/kutjevo-1.png",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/kutjevo/Kutjevo-1.png",
+              "fullUrl": "maps/bandamarines/kutjevo-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/kutjevo/Kutjevo-1-pipe.png"
             }
           ]
@@ -244,7 +244,7 @@
               "z": 1,
               "name": "Ground Colony",
               "previewUrl": "maps/bandamarines/lv624-1.png",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv624/LV624-1.png",
+              "fullUrl": "maps/bandamarines/lv624-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv624/LV624-1-pipe.png"
             }
           ]
@@ -383,7 +383,7 @@
               "z": 1,
               "name": "Strata",
               "previewUrl": "maps/bandamarines/sorokyne-1.png",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/sorokyne/Sorokyne_Strata-1.png",
+              "fullUrl": "maps/bandamarines/sorokyne_strata-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/sorokyne/Sorokyne_Strata-1-pipe.png"
             }
           ]
@@ -427,7 +427,7 @@
               "z": 1,
               "name": "Outpost",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/whiskey/Whiskey_Outpost_v2-1.png",
+              "fullUrl": "maps/bandamarines/whiskey_outpost_v2-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/whiskey/Whiskey_Outpost_v2-1-pipe.png"
             }
           ]
@@ -457,14 +457,14 @@
               "z": 1,
               "name": "Ghetto Deck",
               "previewUrl": "maps/bandastation/Cyberiad_nanomap_z1.png",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/bandastation/cyberiad/Cyberiad-1.png",
+              "fullUrl": "maps/bandastation/cyberiad-1.webp",
               "pipenetUrl": ""
             },
             {
               "z": 2,
               "name": "Main Deck",
               "previewUrl": "maps/bandastation/Cyberiad_nanomap_z2.png",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/bandastation/cyberiad/Cyberiad-2.png",
+              "fullUrl": "maps/bandastation/cyberiad-2.webp",
               "pipenetUrl": ""
             }
           ]
@@ -486,7 +486,7 @@
               "z": 1,
               "name": "Station Deck",
               "previewUrl": "maps/bandastation/Delta Station_nanomap_z1.png",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/tgstation/deltastation/DeltaStation2-1.png",
+              "fullUrl": "maps/bandastation/deltastation-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -530,21 +530,21 @@
               "z": 1,
               "name": "Caves",
               "previewUrl": "maps/bandastation/Ice Box Station_nanomap_z1.png",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/tgstation/icebox/IceBoxStation-1.png",
+              "fullUrl": "maps/bandastation/icebox-1.webp",
               "pipenetUrl": ""
             },
             {
               "z": 2,
               "name": "Underground",
               "previewUrl": "maps/bandastation/Ice Box Station_nanomap_z2.png",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/tgstation/icebox/IceBoxStation-2.png",
+              "fullUrl": "maps/bandastation/icebox-2.webp",
               "pipenetUrl": ""
             },
             {
               "z": 3,
               "name": "Surface",
               "previewUrl": "maps/bandastation/Ice Box Station_nanomap_z3.png",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/tgstation/icebox/IceBoxStation-3.png",
+              "fullUrl": "maps/bandastation/icebox-3.webp",
               "pipenetUrl": ""
             }
           ]
@@ -566,7 +566,7 @@
               "z": 1,
               "name": "Station Deck",
               "previewUrl": "maps/bandastation/KiloStation_nanomap_z1.png",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/tgstation/kilostation/KiloStation-1.png",
+              "fullUrl": "maps/bandastation/kilostation-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -588,7 +588,7 @@
               "z": 1,
               "name": "Station Deck",
               "previewUrl": "maps/bandastation/MetaStation_nanomap_z1.png",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/tgstation/metastation/MetaStation-1.png",
+              "fullUrl": "maps/bandastation/metastation-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -646,14 +646,14 @@
               "z": 1,
               "name": "Lower Deck",
               "previewUrl": "maps/bandastation/NebulaStation_nanomap_z1.png",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/tgstation/nebulastation/NebulaStation-1.png",
+              "fullUrl": "maps/bandastation/nebulastation-1.webp",
               "pipenetUrl": ""
             },
             {
               "z": 2,
               "name": "Upper Deck",
               "previewUrl": "maps/bandastation/NebulaStation_nanomap_z2.png",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/tgstation/nebulastation/NebulaStation-2.png",
+              "fullUrl": "maps/bandastation/nebulastation-2.webp",
               "pipenetUrl": ""
             }
           ]
@@ -719,14 +719,14 @@
               "z": 1,
               "name": "Lower Deck",
               "previewUrl": "maps/bandastation/Tramstation_nanomap_z1.png",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/tgstation/tram/tramstation-1.png",
+              "fullUrl": "maps/bandastation/tramstation-1.webp",
               "pipenetUrl": ""
             },
             {
               "z": 2,
               "name": "Upper Deck",
               "previewUrl": "maps/bandastation/Tramstation_nanomap_z2.png",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/tgstation/tram/tramstation-2.png",
+              "fullUrl": "maps/bandastation/tramstation-2.webp",
               "pipenetUrl": ""
             }
           ]
@@ -748,14 +748,14 @@
               "z": 1,
               "name": "Lower Deck",
               "previewUrl": "maps/bandastation/Wawastation_nanomap_z1.png",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/tgstation/wawastation/wawastation-1.png",
+              "fullUrl": "maps/bandastation/wawastation-1.webp",
               "pipenetUrl": ""
             },
             {
               "z": 2,
               "name": "Upper Deck",
               "previewUrl": "maps/bandastation/Wawastation_nanomap_z2.png",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/tgstation/wawastation/wawastation-2.png",
+              "fullUrl": "maps/bandastation/wawastation-2.webp",
               "pipenetUrl": ""
             }
           ]
@@ -805,7 +805,7 @@
               "z": 1,
               "name": "Deck 1 (Lower)",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/almayer/USS_Almayer-1.png",
+              "fullUrl": "maps/bandatroopers/almayer-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/almayer/USS_Almayer-1-pipe.png"
             }
           ]
@@ -847,7 +847,7 @@
               "z": 1,
               "name": "Surface",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1.png",
+              "fullUrl": "maps/bandatroopers/bigredv2-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1-pipe.png"
             }
           ]
@@ -1057,7 +1057,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/corsat-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -1120,7 +1120,7 @@
               "z": 1,
               "name": "Surface",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/trijent/Desert_Dam-1.png",
+              "fullUrl": "maps/bandatroopers/desert_dam-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/trijent/Desert_Dam-1-pipe.png"
             }
           ]
@@ -1582,7 +1582,7 @@
               "z": 1,
               "name": "Ground Colony",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv624/LV624-1.png",
+              "fullUrl": "maps/bandatroopers/lv624-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv624/LV624-1-pipe.png"
             }
           ]

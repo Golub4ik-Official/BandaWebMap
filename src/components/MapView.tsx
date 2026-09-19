@@ -294,30 +294,34 @@ export const MapView: React.FC<MapViewProps> = ({
 
     const layerInfo = currentMap.layers?.find(l => l.z === currentZ) || currentMap.layers?.[0];
     const previewUrl = layerInfo?.previewUrl ? `${import.meta.env.BASE_URL}${layerInfo.previewUrl}` : '';
-    const fullUrl = layerInfo?.fullUrl || '';
+    let rawFullUrl = layerInfo?.fullUrl || '';
+    if (rawFullUrl && !rawFullUrl.startsWith('http')) {
+      rawFullUrl = `${import.meta.env.BASE_URL}${rawFullUrl}`;
+    }
+    const fullUrl = rawFullUrl;
     const pipenetUrl = layerInfo?.pipenetUrl || '';
 
-    // Step 1: Show fast preview or lightweight placeholder
-    let initialSource = previewUrl;
-    if (!initialSource) {
-      initialSource = getPlaceholderSvg(currentMap, currentZ);
-    }
+    // If we have a local WebP render, it's instant Full-HD! Use it directly.
+    const isLocalWebp = rawFullUrl.endsWith('.webp');
+    const initialSource = isLocalWebp 
+      ? fullUrl 
+      : (previewUrl || fullUrl || getPlaceholderSvg(currentMap, currentZ));
 
     if (baseOverlayRef.current) {
       baseOverlayRef.current.remove();
       baseOverlayRef.current = null;
     }
 
-    const previewOverlay = L.imageOverlay(initialSource, bounds, {
+    const overlay = L.imageOverlay(initialSource, bounds, {
       interactive: false,
-      opacity: 0.95
+      opacity: 1.0
     }).addTo(map);
-    baseOverlayRef.current = previewOverlay;
+    baseOverlayRef.current = overlay;
 
-    // Step 2: Asynchronously load high-res image if available
+    // Step 2: Asynchronously load high-res image only if we used a low-res preview
     let isCancelled = false;
 
-    if (fullUrl) {
+    if (fullUrl && !isLocalWebp && initialSource !== fullUrl) {
       setIsLoadingFullRes(true);
       const highResImg = new Image();
       highResImg.src = fullUrl;
