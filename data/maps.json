@@ -1,0 +1,2894 @@
+{
+  "generatedAt": "2026-09-19T21:26:28.892Z",
+  "totalMaps": 105,
+  "servers": {
+    "bandamarines": {
+      "id": "bandamarines",
+      "name": "BandaMarines",
+      "shortName": "BM",
+      "color": "#22c55e",
+      "accentColor": "#15803d",
+      "icon": "fa-shield-alt",
+      "description": "Колониальные Морпехи США (USCM) против Ксеноморфов",
+      "maps": [
+        {
+          "id": "almayer",
+          "server": "bandamarines",
+          "name": "USS Almayer",
+          "category": "Ship",
+          "mapFile": "USS_Almayer.dmm",
+          "mapPath": "map_files/USS_Almayer",
+          "width": 300,
+          "height": 101,
+          "zLevels": 4,
+          "webmapUrl": "Almayer",
+          "traits": [
+            {
+              "Marine Main Ship": true,
+              "Up": 1
+            },
+            {
+              "Marine Main Ship": true,
+              "Up": 1,
+              "Down": -1
+            },
+            {
+              "Marine Main Ship": true,
+              "Up": 1,
+              "Down": -1
+            },
+            {
+              "Marine Main Ship": true,
+              "Down": -1
+            }
+          ],
+          "announceText": "",
+          "gamemodes": [],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Lower Deck",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/almayer/USS_Almayer-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/almayer/USS_Almayer-1-pipe.png"
+            },
+            {
+              "z": 2,
+              "name": "Deck 2",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/almayer/USS_Almayer-2.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/almayer/USS_Almayer-2-pipe.png"
+            },
+            {
+              "z": 3,
+              "name": "Deck 3",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/almayer/USS_Almayer-3.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/almayer/USS_Almayer-3-pipe.png"
+            },
+            {
+              "z": 4,
+              "name": "Upper Deck",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/almayer/USS_Almayer-4.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/almayer/USS_Almayer-4-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "bigredv2",
+          "server": "bandamarines",
+          "name": "Solaris Ridge",
+          "category": "Ground",
+          "mapFile": "BigRed.dmm",
+          "mapPath": "map_files/BigRed",
+          "width": 225,
+          "height": 215,
+          "zLevels": 1,
+          "webmapUrl": "Solaris",
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "announceText": "Вейланд-Ютани потеряла связь с одним из своих биологических хранилищ, \"Солярис Ридж\", на планете LV-1413. ###SHIPNAME### получил запрос от Вейланд-Ютани на расследование обстоятельств потери связи.",
+          "gamemodes": [
+            "Distress Signal",
+            "Hunter Games",
+            "Hive Wars",
+            "Faction Clash",
+            "Infection"
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Surface",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "chinook",
+          "server": "bandamarines",
+          "name": "Chinook 91 GSO",
+          "category": "Ground",
+          "mapFile": "Chinook.dmm",
+          "mapPath": "templates/",
+          "width": 171,
+          "height": 125,
+          "zLevels": 1,
+          "webmapUrl": null,
+          "traits": [
+            {
+              "Station": true,
+              "Admin": true
+            }
+          ],
+          "announceText": "",
+          "gamemodes": [],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "corsat",
+          "server": "bandamarines",
+          "name": "CORSAT",
+          "category": "Ground",
+          "mapFile": "Corsat.dmm",
+          "mapPath": "map_files/CORSAT",
+          "width": 252,
+          "height": 243,
+          "zLevels": 1,
+          "webmapUrl": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "announceText": "С орбитальной исследовательской станции передовых технологий корпорации Вейланд-Ютани (КОИСПТ) поступил автоматический сигнал бедствия. Для расследования сложившейся ситуации был отправлен ###SHIPNAME###.",
+          "gamemodes": [
+            "Distress Signal",
+            "Hunter Games",
+            "Hive Wars",
+            "Faction Clash",
+            "Infection"
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "desert_dam",
+          "server": "bandamarines",
+          "name": "Trijent Dam",
+          "category": "Ground",
+          "mapFile": "Desert_Dam.dmm",
+          "mapPath": "map_files/DesertDam",
+          "width": 245,
+          "height": 232,
+          "zLevels": 1,
+          "webmapUrl": "Trijent",
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "announceText": "Мы потеряли связь с внесолнечной колонией Вейланд-Ютани, \"Дамба Триджент\", на планете \"Райджин\". ###SHIPNAME### был отправлен на помощь.",
+          "gamemodes": [
+            "Distress Signal",
+            "Hunter Games",
+            "Hive Wars",
+            "Faction Clash",
+            "Infection"
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Surface",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/trijent/Desert_Dam-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/trijent/Desert_Dam-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "fiorina_sciannex",
+          "server": "bandamarines",
+          "name": "Fiorina Science Annex",
+          "category": "Ground",
+          "mapFile": "Fiorina_SciAnnex.dmm",
+          "mapPath": "map_files/FOP_v3_Sciannex",
+          "width": 255,
+          "height": 210,
+          "zLevels": 1,
+          "webmapUrl": "Fiorina",
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "announceText": "Получен автоматический сигнал бедствия из тюрьмы с повышенным уровнем безопасности \"Орбитальная исправительная колония Фиорина\". Для расследования сложившейся ситуации, с ###SHIPNAME### в ближайшее время будет отправлена оперативная группа реагирования.",
+          "gamemodes": [
+            "Distress Signal",
+            "Hunter Games",
+            "Hive Wars",
+            "Faction Clash",
+            "Infection"
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Science Annex",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/fiorina/Fiorina_SciAnnex-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/fiorina/Fiorina_SciAnnex-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "ice_colony_v2",
+          "server": "bandamarines",
+          "name": "Ice Colony",
+          "category": "Ground",
+          "mapFile": "Ice_Colony_v2.dmm",
+          "mapPath": "map_files/Ice_Colony_v2",
+          "width": 220,
+          "height": 280,
+          "zLevels": 1,
+          "webmapUrl": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "announceText": "Получен автоматический сигнал бедствия с археологического объекта \"Снежный шар Шивы\" на пограничной планете льда \"Ифрит\". Для расследования сложившейся ситуации, с ###SHIPNAME### в ближайшее время будет отправлена оперативная группа реагирования.",
+          "gamemodes": [
+            "Distress Signal",
+            "Hunter Games",
+            "Hive Wars",
+            "Faction Clash",
+            "Infection"
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "kutjevo",
+          "server": "bandamarines",
+          "name": "Kutjevo Refinery",
+          "category": "Ground",
+          "mapFile": "Kutjevo.dmm",
+          "mapPath": "map_files/Kutjevo",
+          "width": 240,
+          "height": 165,
+          "zLevels": 1,
+          "webmapUrl": "Kutjevo",
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "announceText": "Получен автоматический сигнал бедствия из колонии Вейланд-Ютани - нефтеперерабатывающего комплекса Кутжево, известного своими ботаническими исследованиями, экспортом, обработкой и рафинированием сырья. Для расследования сложившейся ситуации был отправлен ###SHIPNAME###.",
+          "gamemodes": [
+            "Distress Signal",
+            "Hunter Games",
+            "Hive Wars",
+            "Faction Clash",
+            "Infection"
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Refinery",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/kutjevo/Kutjevo-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/kutjevo/Kutjevo-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "lv522_chances_claim",
+          "server": "bandamarines",
+          "name": "LV-522 Chance's Claim",
+          "category": "Ground",
+          "mapFile": "LV522_Chances_Claim.dmm",
+          "mapPath": "map_files/LV522_Chances_Claim",
+          "width": 193,
+          "height": 204,
+          "zLevels": 1,
+          "webmapUrl": "LV552",
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "announceText": "Пан-Пан. Говорит командир ККС \"Ганьют\", разведки КМП. В настоящее время мы находимся на планете LV-522 в непосредственной близости от \"Земли Шанса\". Мы не можем связаться с \"Ганьютом\". Наши корабли не могут сейчас отправиться для расследования ситуации, поэтому мы запрашиваем помощь у всех близлежащих кораблей; это сообщение будет повторяться каждые 24 часа.",
+          "gamemodes": [
+            "Distress Signal",
+            "Hunter Games",
+            "Hive Wars",
+            "Faction Clash",
+            "Infection"
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Ground",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "lv624",
+          "server": "bandamarines",
+          "name": "LV-624",
+          "category": "Ground",
+          "mapFile": "LV624.dmm",
+          "mapPath": "map_files/LV624",
+          "width": 175,
+          "height": 226,
+          "zLevels": 1,
+          "webmapUrl": "LV624",
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "announceText": "Получен автоматический сигнал бедствия с археологического объекта \"Лазарь Лэндинг\" на пограничной планете LV-624. Для расследования сложившейся ситуации, с ###SHIPNAME### в ближайшее время будет отправлена оперативная группа реагирования.",
+          "gamemodes": [
+            "Distress Signal",
+            "Hunter Games",
+            "Hive Wars",
+            "Faction Clash",
+            "Infection"
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Ground",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv624/LV624-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv624/LV624-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "lv759_hybrisa_prospera",
+          "server": "bandamarines",
+          "name": "LV-759 Hybrisa Prospera",
+          "category": "Ground",
+          "mapFile": "LV759_Hybrisa_Prospera.dmm",
+          "mapPath": "map_files/LV759_Hybrisa_Prospera",
+          "width": 225,
+          "height": 250,
+          "zLevels": 1,
+          "webmapUrl": "LV759",
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "announceText": "Получен автоматический сигнал бедствия из колонии Вейланд-Ютани, \"Гибриса Проспера\" - огромного, похожего на город поселения, известного своими несметными богатствами, обширной добычей полезных ископаемых и процветающей торговлей. Будучи недавно полностью выкупленной у ИТМ, эта бывшая колония теперь является ключевым активом для Вейланд-Ютани, с разросшимся городским центром, в котором проживают тысячи жителей, и множеством небольших внешних колоний под её контролем. Для расследования сложившейся ситуации был отправлен ###SHIPNAME###.",
+          "gamemodes": [
+            "Distress Signal",
+            "Hunter Games",
+            "Hive Wars",
+            "Faction Clash",
+            "Infection"
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Colony",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv759/LV759_Hybrisa_Prospera-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv759/LV759_Hybrisa_Prospera-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "new_varadero",
+          "server": "bandamarines",
+          "name": "New Varadero",
+          "category": "Ground",
+          "mapFile": "New_Varadero.dmm",
+          "mapPath": "map_files/New_Varadero",
+          "width": 220,
+          "height": 180,
+          "zLevels": 1,
+          "webmapUrl": "NewVaradero",
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "announceText": "Получен автоматический сигнал бедствия с аванпоста ОА \"Нью-Варадеро\". Для расследования сложившейся ситуации, с ###SHIPNAME### в ближайшее время будет отправлена оперативная группа реагирования.\nНазначение: Островная исследовательская и горнодобывающая станция.\n\nНаселение: 47 человек.\nТекущая температура: 20°C внутри, 36°C снаружи.\nКомандир аванпоста: Представитель ОА Стив Хайфиш.\nТелекоммуникационный массив: Требуется ремонт.\n\nДополнительная информация на данный момент отсутствует.",
+          "gamemodes": [
+            "Distress Signal",
+            "Hunter Games",
+            "Hive Wars",
+            "Faction Clash",
+            "Infection"
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Surface",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/newvaradero/New_Varadero-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/newvaradero/New_Varadero-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "prison_station_fop",
+          "server": "bandamarines",
+          "name": "Fiorina Cellblocks",
+          "category": "Ground",
+          "mapFile": "Prison_Station_FOP.dmm",
+          "mapPath": "map_files/FOP_v2_Cellblocks",
+          "width": 255,
+          "height": 210,
+          "zLevels": 1,
+          "webmapUrl": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "announceText": "Получен автоматический сигнал бедствия из тюрьмы с повышенным уровнем безопасности \"Орбитальная исправительная колония Фиорина\". Для расследования сложившейся ситуации, с ###SHIPNAME### в ближайшее время будет отправлена оперативная группа реагирования.",
+          "gamemodes": [
+            "Distress Signal",
+            "Hunter Games",
+            "Hive Wars",
+            "Faction Clash",
+            "Infection"
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "runtime",
+          "server": "bandamarines",
+          "name": "USS Runtime",
+          "category": "Ship",
+          "mapFile": "USS_Runtime.dmm",
+          "mapPath": "map_files/USS_Runtime",
+          "width": 26,
+          "height": 17,
+          "zLevels": 2,
+          "webmapUrl": null,
+          "traits": [
+            {
+              "Marine Main Ship": true,
+              "Up": 1
+            },
+            {
+              "Marine Main Ship": true,
+              "Down": -1
+            }
+          ],
+          "announceText": "",
+          "gamemodes": [],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Z-Level 1",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            },
+            {
+              "z": 2,
+              "name": "Z-Level 2",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "shivas_snowball",
+          "server": "bandamarines",
+          "name": "Shivas Snowball",
+          "category": "Ground",
+          "mapFile": "Shivas_Snowball.dmm",
+          "mapPath": "map_files/Ice_Colony_v3",
+          "width": 220,
+          "height": 160,
+          "zLevels": 1,
+          "webmapUrl": "Shivas",
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "announceText": "Получен автоматический сигнал бедствия с археологического объекта \"Снежный шар Шивы\" на пограничной планете льда \"Ифрит\". Для расследования сложившейся ситуации, с ###SHIPNAME### в ближайшее время будет отправлена оперативная группа реагирования.",
+          "gamemodes": [
+            "Distress Signal",
+            "Hunter Games",
+            "Hive Wars",
+            "Faction Clash",
+            "Infection"
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Ice Surface",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/shivas/Shivas_Snowball-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/shivas/Shivas_Snowball-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "sorokyne_strata",
+          "server": "bandamarines",
+          "name": "Sorokyne Strata",
+          "category": "Ground",
+          "mapFile": "Sorokyne_Strata.dmm",
+          "mapPath": "map_files/Sorokyne_Strata",
+          "width": 256,
+          "height": 173,
+          "zLevels": 1,
+          "webmapUrl": "Sorokyne",
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "announceText": "Получен автоматический сигнал бедствия из шахтерской колонии на пограничной планете LV-976, \"Аванпост Сорокин\". Для расследования сложившейся ситуации, с ###SHIPNAME### в ближайшее время будет отправлена оперативная группа реагирования.",
+          "gamemodes": [
+            "Distress Signal",
+            "Hunter Games",
+            "Hive Wars",
+            "Faction Clash",
+            "Infection"
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Strata",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/sorokyne/Sorokyne_Strata-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/sorokyne/Sorokyne_Strata-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "ssv_rostock",
+          "server": "bandamarines",
+          "name": "SSV Rostock",
+          "category": "Ship",
+          "mapFile": "SSV_Rostock.dmm",
+          "mapPath": "templates/",
+          "width": 180,
+          "height": 180,
+          "zLevels": 1,
+          "webmapUrl": null,
+          "traits": [
+            {
+              "Station": true,
+              "Admin": true,
+              "Marine Main Ship": true
+            }
+          ],
+          "announceText": "",
+          "gamemodes": [],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "whiskey_outpost_v2",
+          "server": "bandamarines",
+          "name": "Whiskey Outpost",
+          "category": "Ground",
+          "mapFile": "Whiskey_Outpost_v2.dmm",
+          "mapPath": "map_files/Whiskey_Outpost_v2",
+          "width": 130,
+          "height": 200,
+          "zLevels": 1,
+          "webmapUrl": "WhiskeyOutpost",
+          "traits": [],
+          "announceText": "",
+          "gamemodes": [
+            "Whiskey Outpost"
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Outpost",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/whiskey/Whiskey_Outpost_v2-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/whiskey/Whiskey_Outpost_v2-1-pipe.png"
+            }
+          ]
+        }
+      ]
+    },
+    "bandastation": {
+      "id": "bandastation",
+      "name": "BandaStation",
+      "shortName": "BS",
+      "color": "#38bdf8",
+      "accentColor": "#0284c7",
+      "icon": "fa-satellite",
+      "description": "Классическая космическая станция NanoTrasen",
+      "maps": [
+        {
+          "id": "cyberiad",
+          "server": "bandastation",
+          "name": "Cyberiad",
+          "fluffName": "ИСН Кибериада",
+          "category": "Station",
+          "mapFile": "Cyberiad.dmm",
+          "mapPath": "map_files/Cyberiad",
+          "width": 255,
+          "height": 255,
+          "zLevels": 2,
+          "mainFloor": 2,
+          "shuttles": {
+            "cargo": "cargo_box",
+            "ferry": "ferry_fancy",
+            "whiteship": "whiteship_delta",
+            "emergency": "emergency_delta"
+          },
+          "layers": [
+            {
+              "z": 1,
+              "name": "Main Deck",
+              "imageUrl": "assets/maps/bandastation/Cyberiad_nanomap_z1.png",
+              "pipenetUrl": ""
+            },
+            {
+              "z": 2,
+              "name": "Upper Deck",
+              "imageUrl": "assets/maps/bandastation/Cyberiad_nanomap_z2.png",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "deltastation",
+          "server": "bandastation",
+          "name": "Delta Station",
+          "fluffName": "ИСН Керберос",
+          "category": "Station",
+          "mapFile": "DeltaStation2.dmm",
+          "mapPath": "map_files/Deltastation",
+          "width": 255,
+          "height": 255,
+          "zLevels": 1,
+          "mainFloor": 1,
+          "shuttles": {
+            "emergency": "emergency_delta",
+            "ferry": "ferry_fancy",
+            "cargo": "cargo_delta",
+            "whiteship": "whiteship_delta"
+          },
+          "layers": [
+            {
+              "z": 1,
+              "name": "Station Deck",
+              "imageUrl": "assets/maps/bandastation/Delta Station_nanomap_z1.png",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "gateway_test",
+          "server": "bandastation",
+          "name": "Gateway Test",
+          "fluffName": "Gateway Test",
+          "category": "Station",
+          "mapFile": "gateway_test.dmm",
+          "mapPath": "map_files/debug",
+          "width": 10,
+          "height": 10,
+          "zLevels": 1,
+          "mainFloor": 1,
+          "shuttles": {},
+          "layers": [
+            {
+              "z": 1,
+              "name": "Main Deck",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "icebox",
+          "server": "bandastation",
+          "name": "Ice Box Station",
+          "fluffName": "Ice Box Station",
+          "category": "Station",
+          "mapFile": "IceBoxStation.dmm",
+          "mapPath": "map_files/IceBoxStation",
+          "width": 255,
+          "height": 255,
+          "zLevels": 3,
+          "mainFloor": 3,
+          "shuttles": {
+            "cargo": "cargo_box",
+            "ferry": "ferry_fancy",
+            "whiteship": "whiteship_box",
+            "emergency": "emergency_box"
+          },
+          "layers": [
+            {
+              "z": 1,
+              "name": "Caves",
+              "imageUrl": "assets/maps/bandastation/Ice Box Station_nanomap_z1.png",
+              "pipenetUrl": ""
+            },
+            {
+              "z": 2,
+              "name": "Underground",
+              "imageUrl": "assets/maps/bandastation/Ice Box Station_nanomap_z2.png",
+              "pipenetUrl": ""
+            },
+            {
+              "z": 3,
+              "name": "Surface",
+              "imageUrl": "assets/maps/bandastation/Ice Box Station_nanomap_z3.png",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "kilostation",
+          "server": "bandastation",
+          "name": "Kilo Station",
+          "fluffName": "Kilo Station",
+          "category": "Station",
+          "mapFile": "KiloStation.dmm",
+          "mapPath": "map_files/KiloStation",
+          "width": 255,
+          "height": 255,
+          "zLevels": 1,
+          "mainFloor": 1,
+          "shuttles": {
+            "emergency": "emergency_kilo",
+            "ferry": "ferry_kilo",
+            "cargo": "cargo_kilo",
+            "whiteship": "whiteship_kilo"
+          },
+          "layers": [
+            {
+              "z": 1,
+              "name": "Station Deck",
+              "imageUrl": "assets/maps/bandastation/KiloStation_nanomap_z1.png",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "metastation",
+          "server": "bandastation",
+          "name": "MetaStation",
+          "fluffName": "ИСН Цереброн",
+          "category": "Station",
+          "mapFile": "MetaStation.dmm",
+          "mapPath": "map_files/MetaStation",
+          "width": 255,
+          "height": 255,
+          "zLevels": 1,
+          "mainFloor": 1,
+          "shuttles": {
+            "cargo": "cargo_box",
+            "ferry": "ferry_fancy",
+            "whiteship": "whiteship_meta",
+            "emergency": "emergency_meta"
+          },
+          "layers": [
+            {
+              "z": 1,
+              "name": "Station Deck",
+              "imageUrl": "assets/maps/bandastation/MetaStation_nanomap_z1.png",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "multiz_debug",
+          "server": "bandastation",
+          "name": "MultiZ Debug",
+          "fluffName": "MultiZ Debug",
+          "category": "Station",
+          "mapFile": "multiz.dmm",
+          "mapPath": "map_files/debug",
+          "width": 52,
+          "height": 52,
+          "zLevels": 3,
+          "mainFloor": 1,
+          "shuttles": {},
+          "layers": [
+            {
+              "z": 1,
+              "name": "Deck 1",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            },
+            {
+              "z": 2,
+              "name": "Deck 2",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            },
+            {
+              "z": 3,
+              "name": "Deck 3",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "nebulastation",
+          "server": "bandastation",
+          "name": "NebulaStation",
+          "fluffName": "NebulaStation",
+          "category": "Station",
+          "mapFile": "NebulaStation.dmm",
+          "mapPath": "map_files/NebulaStation",
+          "width": 255,
+          "height": 255,
+          "zLevels": 2,
+          "mainFloor": 2,
+          "shuttles": {
+            "cargo": "cargo_nebula",
+            "ferry": "ferry_nebula",
+            "whiteship": "whiteship_tram",
+            "emergency": "emergency_nebula"
+          },
+          "layers": [
+            {
+              "z": 1,
+              "name": "Lower Deck",
+              "imageUrl": "assets/maps/bandastation/NebulaStation_nanomap_z1.png",
+              "pipenetUrl": ""
+            },
+            {
+              "z": 2,
+              "name": "Upper Deck",
+              "imageUrl": "assets/maps/bandastation/NebulaStation_nanomap_z2.png",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "runtimestation",
+          "server": "bandastation",
+          "name": "Runtime Station",
+          "fluffName": "Runtime Station",
+          "category": "Station",
+          "mapFile": "runtimestation.dmm",
+          "mapPath": "map_files/debug",
+          "width": 90,
+          "height": 90,
+          "zLevels": 1,
+          "mainFloor": 1,
+          "shuttles": {
+            "cargo": "cargo_delta"
+          },
+          "layers": [
+            {
+              "z": 1,
+              "name": "Main Deck",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "runtimestation_minimal",
+          "server": "bandastation",
+          "name": "Minimal Runtime Station",
+          "fluffName": "Minimal Runtime Station",
+          "category": "Station",
+          "mapFile": "runtimestation_minimal.dmm",
+          "mapPath": "map_files/debug",
+          "width": 34,
+          "height": 34,
+          "zLevels": 1,
+          "mainFloor": 1,
+          "shuttles": {},
+          "layers": [
+            {
+              "z": 1,
+              "name": "Main Deck",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "tramstation",
+          "server": "bandastation",
+          "name": "Tramstation",
+          "fluffName": "Tramstation",
+          "category": "Station",
+          "mapFile": "tramstation.dmm",
+          "mapPath": "map_files/tramstation",
+          "width": 255,
+          "height": 255,
+          "zLevels": 2,
+          "mainFloor": 2,
+          "shuttles": {
+            "cargo": "cargo_box",
+            "ferry": "ferry_fancy",
+            "whiteship": "whiteship_tram",
+            "emergency": "emergency_tram"
+          },
+          "layers": [
+            {
+              "z": 1,
+              "name": "Lower Deck",
+              "imageUrl": "assets/maps/bandastation/Tramstation_nanomap_z1.png",
+              "pipenetUrl": ""
+            },
+            {
+              "z": 2,
+              "name": "Upper Deck",
+              "imageUrl": "assets/maps/bandastation/Tramstation_nanomap_z2.png",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "wawastation",
+          "server": "bandastation",
+          "name": "Wawastation",
+          "fluffName": "Wawastation",
+          "category": "Station",
+          "mapFile": "wawastation.dmm",
+          "mapPath": "map_files/wawastation",
+          "width": 255,
+          "height": 255,
+          "zLevels": 2,
+          "mainFloor": 1,
+          "shuttles": {
+            "cargo": "cargo_box",
+            "ferry": "ferry_fancy",
+            "whiteship": "whiteship_meta",
+            "emergency": "emergency_wawa"
+          },
+          "layers": [
+            {
+              "z": 1,
+              "name": "Lower Deck",
+              "imageUrl": "assets/maps/bandastation/Wawastation_nanomap_z1.png",
+              "pipenetUrl": ""
+            },
+            {
+              "z": 2,
+              "name": "Upper Deck",
+              "imageUrl": "assets/maps/bandastation/Wawastation_nanomap_z2.png",
+              "pipenetUrl": ""
+            }
+          ]
+        }
+      ]
+    },
+    "bandatroopers": {
+      "id": "bandatroopers",
+      "name": "BandaTroopers",
+      "shortName": "BT",
+      "color": "#f97316",
+      "accentColor": "#c2410c",
+      "icon": "fa-crosshairs",
+      "description": "Звёздный Десант, Halo и военные конфликты",
+      "maps": [
+        {
+          "id": "686_regretful_flame",
+          "server": "bandatroopers",
+          "name": "686 Regretful Flame",
+          "category": "Ground",
+          "mapFile": "686_regretful_flame.dmm",
+          "mapPath": "map_files/686_regretful_flame",
+          "width": 250,
+          "height": 250,
+          "zLevels": 1,
+          "webmapUrl": "LV552",
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Ground",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "almayer",
+          "server": "bandatroopers",
+          "name": "USS Almayer",
+          "category": "Ship",
+          "mapFile": "USS_Almayer.dmm",
+          "mapPath": "map_files/USS_Almayer",
+          "width": 300,
+          "height": 201,
+          "zLevels": 1,
+          "webmapUrl": "Almayer",
+          "platoon": "/datum/squad/marine/alpha",
+          "traits": [
+            {
+              "Marine Main Ship": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Lower Deck",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/almayer/USS_Almayer-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/almayer/USS_Almayer-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "arctic_valley",
+          "server": "bandatroopers",
+          "name": "Arctic Valley",
+          "category": "Ground",
+          "mapFile": "arctic_valley.dmm",
+          "mapPath": "map_files/arctic_valley",
+          "width": 250,
+          "height": 250,
+          "zLevels": 1,
+          "webmapUrl": "ArcticValley",
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "bigredv2",
+          "server": "bandatroopers",
+          "name": "Solaris Ridge",
+          "category": "Ground",
+          "mapFile": "BigRed.dmm",
+          "mapPath": "map_files/BigRed",
+          "width": 225,
+          "height": 215,
+          "zLevels": 1,
+          "webmapUrl": "Solaris",
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Surface",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "binhai_supply_station",
+          "server": "bandatroopers",
+          "name": "Binhai Supply Station",
+          "category": "Ground",
+          "mapFile": "binhai_supply_station.dmm",
+          "mapPath": "map_files/binhai_supply_station",
+          "width": 325,
+          "height": 240,
+          "zLevels": 1,
+          "webmapUrl": "Solaris",
+          "platoon": null,
+          "traits": [],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Surface",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "bmg290_otogi_egress_point",
+          "server": "bandatroopers",
+          "name": "BMG-290 Otogi Egress Point",
+          "category": "Ground",
+          "mapFile": "BMG290_Otogi_Egress_Point.dmm",
+          "mapPath": "map_files/BMG290_Otogi_Egress_Point",
+          "width": 260,
+          "height": 300,
+          "zLevels": 1,
+          "webmapUrl": "NewVaradero",
+          "platoon": null,
+          "traits": [],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Surface",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/newvaradero/New_Varadero-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/newvaradero/New_Varadero-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "bosenmori_basho",
+          "server": "bandatroopers",
+          "name": "Bosenmori Basho",
+          "category": "Ground",
+          "mapFile": "Bosenmori Basho.dmm",
+          "mapPath": "map_files/Bosenmori_Basho",
+          "width": 385,
+          "height": 226,
+          "zLevels": 1,
+          "webmapUrl": "LV624",
+          "platoon": null,
+          "traits": [],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Ground",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv624/LV624-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv624/LV624-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "calliope_desert_bus",
+          "server": "bandatroopers",
+          "name": "Calliope Desert Bus",
+          "category": "Ground",
+          "mapFile": "Calliope_Desert_Bus.dmm",
+          "mapPath": "map_files/Calliope_Desert_Bus",
+          "width": 100,
+          "height": 975,
+          "zLevels": 1,
+          "webmapUrl": "Solaris",
+          "platoon": null,
+          "traits": [],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Surface",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "calliope_highway",
+          "server": "bandatroopers",
+          "name": "Calliope Highway",
+          "category": "Ground",
+          "mapFile": "Calliope_Highway.dmm",
+          "mapPath": "map_files/Calliope_Highway",
+          "width": 170,
+          "height": 250,
+          "zLevels": 1,
+          "webmapUrl": "Solaris",
+          "platoon": null,
+          "traits": [],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Surface",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "canyon_32b",
+          "server": "bandatroopers",
+          "name": "Canyon 32B",
+          "category": "Ground",
+          "mapFile": "Canyon_32B.dmm",
+          "mapPath": "map_files/Canyon_32B",
+          "width": 300,
+          "height": 500,
+          "zLevels": 1,
+          "webmapUrl": null,
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "chapaev",
+          "server": "bandatroopers",
+          "name": "SSV Chapaev",
+          "category": "Ship",
+          "mapFile": "chapaev.dmm",
+          "mapPath": "map_files/chapaev",
+          "width": 150,
+          "height": 150,
+          "zLevels": 1,
+          "webmapUrl": "GoldenArrow",
+          "platoon": "/datum/squad/marine/upp",
+          "traits": [
+            {
+              "Marine Main Ship": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "chapaev_movie",
+          "server": "bandatroopers",
+          "name": "SSV Chapaev (Movie)",
+          "category": "Ship",
+          "mapFile": "chapaev_movie.dmm",
+          "mapPath": "map_files/chapaev_movie",
+          "width": 150,
+          "height": 150,
+          "zLevels": 1,
+          "webmapUrl": "GoldenArrow",
+          "platoon": "/datum/squad/marine/upp/movie",
+          "traits": [
+            {
+              "Marine Main Ship": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "chinook",
+          "server": "bandatroopers",
+          "name": "Chinook 91 GSO",
+          "category": "Ground",
+          "mapFile": "Chinook.dmm",
+          "mapPath": "templates/",
+          "width": 171,
+          "height": 125,
+          "zLevels": 1,
+          "webmapUrl": null,
+          "platoon": null,
+          "traits": [
+            {
+              "Station": true,
+              "Admin": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "corsat",
+          "server": "bandatroopers",
+          "name": "CORSAT",
+          "category": "Ground",
+          "mapFile": "Corsat.dmm",
+          "mapPath": "map_files/CORSAT",
+          "width": 252,
+          "height": 243,
+          "zLevels": 1,
+          "webmapUrl": null,
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "derelict_almayer",
+          "server": "bandatroopers",
+          "name": "Derelict Almayer",
+          "category": "Ground",
+          "mapFile": "derelict_almayer.dmm",
+          "mapPath": "map_files/derelict_almayer",
+          "width": 260,
+          "height": 200,
+          "zLevels": 1,
+          "webmapUrl": "Almayer",
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Lower Deck",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/almayer/USS_Almayer-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/almayer/USS_Almayer-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "derelict_almayer_infested",
+          "server": "bandatroopers",
+          "name": "Infested Almayer",
+          "category": "Ground",
+          "mapFile": "derelict_almayer_infested.dmm",
+          "mapPath": "map_files/derelict_almayer_infested",
+          "width": 300,
+          "height": 201,
+          "zLevels": 1,
+          "webmapUrl": "Almayer",
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Lower Deck",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/almayer/USS_Almayer-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/almayer/USS_Almayer-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "desert_dam",
+          "server": "bandatroopers",
+          "name": "Trijent Dam",
+          "category": "Ground",
+          "mapFile": "Desert_Dam.dmm",
+          "mapPath": "map_files/DesertDam",
+          "width": 245,
+          "height": 232,
+          "zLevels": 1,
+          "webmapUrl": "Trijent",
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Surface",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/trijent/Desert_Dam-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/trijent/Desert_Dam-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "featureless_space",
+          "server": "bandatroopers",
+          "name": "Featureless Space",
+          "category": "Ground",
+          "mapFile": "Featureless_Space.dmm",
+          "mapPath": "map_files/Featureless_Space",
+          "width": 250,
+          "height": 250,
+          "zLevels": 1,
+          "webmapUrl": null,
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "fiorina_sciannex",
+          "server": "bandatroopers",
+          "name": "Fiorina Science Annex",
+          "category": "Ground",
+          "mapFile": "Fiorina_SciAnnex.dmm",
+          "mapPath": "map_files/FOP_v3_Sciannex",
+          "width": 255,
+          "height": 210,
+          "zLevels": 1,
+          "webmapUrl": "Fiorina",
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Science Annex",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/fiorina/Fiorina_SciAnnex-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/fiorina/Fiorina_SciAnnex-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "firefly",
+          "server": "bandatroopers",
+          "name": "USCSS Firefly",
+          "category": "Ship",
+          "mapFile": "firefly.dmm",
+          "mapPath": "map_files/firefly",
+          "width": 150,
+          "height": 150,
+          "zLevels": 1,
+          "webmapUrl": "GoldenArrow",
+          "platoon": "/datum/squad/marine/pmc",
+          "traits": [
+            {
+              "Marine Main Ship": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "golden_arrow",
+          "server": "bandatroopers",
+          "name": "USS Golden Arrow",
+          "category": "Ship",
+          "mapFile": "golden_arrow.dmm",
+          "mapPath": "map_files/golden_arrow",
+          "width": 150,
+          "height": 175,
+          "zLevels": 1,
+          "webmapUrl": "GoldenArrow",
+          "platoon": "/datum/squad/marine/alpha",
+          "traits": [
+            {
+              "Marine Main Ship": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "golden_arrow_classic",
+          "server": "bandatroopers",
+          "name": "USS Golden Arrow (Classic)",
+          "category": "Ship",
+          "mapFile": "golden_arrow_classic.dmm",
+          "mapPath": "map_files/golden_arrow_classic",
+          "width": 150,
+          "height": 150,
+          "zLevels": 1,
+          "webmapUrl": "GoldenArrow",
+          "platoon": "/datum/squad/marine/alpha",
+          "traits": [
+            {
+              "Marine Main Ship": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "golden_arrow_dog_war",
+          "server": "bandatroopers",
+          "name": "USS Golden Arrow (Dog War)",
+          "category": "Ship",
+          "mapFile": "golden_arrow_dog_war.dmm",
+          "mapPath": "map_files/golden_arrow_dog_war",
+          "width": 150,
+          "height": 150,
+          "zLevels": 1,
+          "webmapUrl": "GoldenArrow",
+          "platoon": "/datum/squad/marine/alpha",
+          "traits": [
+            {
+              "Marine Main Ship": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "golden_arrow_movie",
+          "server": "bandatroopers",
+          "name": "USS Golden Arrow (Movie)",
+          "category": "Ship",
+          "mapFile": "golden_arrow_movie.dmm",
+          "mapPath": "map_files/golden_arrow_movie",
+          "width": 150,
+          "height": 175,
+          "zLevels": 1,
+          "webmapUrl": "GoldenArrow",
+          "platoon": "/datum/squad/marine/movie",
+          "traits": [
+            {
+              "Marine Main Ship": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "halo_new_irvine",
+          "server": "bandatroopers",
+          "name": "New Irvine",
+          "category": "Ground",
+          "mapFile": "halo_new_irvine.dmm",
+          "mapPath": "map_files/halo_new_irvine",
+          "width": 250,
+          "height": 250,
+          "zLevels": 1,
+          "webmapUrl": "LV552",
+          "platoon": null,
+          "traits": [],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Ground",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "halo_new_irvine_covenant",
+          "server": "bandatroopers",
+          "name": "New Irvine (Covenant)",
+          "category": "Ground",
+          "mapFile": "halo_new_irvine_covenant.dmm",
+          "mapPath": "map_files/halo_new_irvine_covenant",
+          "width": 750,
+          "height": 500,
+          "zLevels": 1,
+          "webmapUrl": "LV552",
+          "platoon": null,
+          "traits": [],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Ground",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "hms_brynhild",
+          "server": "bandatroopers",
+          "name": "HMS Brynhild",
+          "category": "Ship",
+          "mapFile": "HMS_Brynhild.dmm",
+          "mapPath": "map_files/HMS_Brynhild",
+          "width": 140,
+          "height": 140,
+          "zLevels": 1,
+          "webmapUrl": "GoldenArrow",
+          "platoon": "/datum/squad/marine/rmc",
+          "traits": [
+            {
+              "Marine Main Ship": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "ice_colony_v1",
+          "server": "bandatroopers",
+          "name": "Ice Colony Classic",
+          "category": "Ground",
+          "mapFile": "Ice_Colony_v1.dmm",
+          "mapPath": "map_files/Ice_Colony_v1",
+          "width": 245,
+          "height": 234,
+          "zLevels": 1,
+          "webmapUrl": null,
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "ice_colony_v2",
+          "server": "bandatroopers",
+          "name": "Ice Colony v2",
+          "category": "Ground",
+          "mapFile": "Ice_Colony_v2.dmm",
+          "mapPath": "map_files/Ice_Colony_v2",
+          "width": 220,
+          "height": 280,
+          "zLevels": 1,
+          "webmapUrl": null,
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "jungle_delta",
+          "server": "bandatroopers",
+          "name": "Jungle Delta",
+          "category": "Ground",
+          "mapFile": "jungle_delta.dmm",
+          "mapPath": "map_files/jungle_delta",
+          "width": 250,
+          "height": 250,
+          "zLevels": 1,
+          "webmapUrl": "JungleDelta",
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "kleschers_research_site",
+          "server": "bandatroopers",
+          "name": "Kleschers Research Site",
+          "category": "Ground",
+          "mapFile": "BigBlue.dmm",
+          "mapPath": "map_files/kleschers_research_site",
+          "width": 225,
+          "height": 216,
+          "zLevels": 1,
+          "webmapUrl": "Solaris",
+          "platoon": null,
+          "traits": [],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Surface",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "kutjevo",
+          "server": "bandatroopers",
+          "name": "Kutjevo Refinery",
+          "category": "Ground",
+          "mapFile": "Kutjevo.dmm",
+          "mapPath": "map_files/Kutjevo",
+          "width": 240,
+          "height": 165,
+          "zLevels": 1,
+          "webmapUrl": "Kutjevo",
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Refinery",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/kutjevo/Kutjevo-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/kutjevo/Kutjevo-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "laituri",
+          "server": "bandatroopers",
+          "name": "SSV Laituri",
+          "category": "Ship",
+          "mapFile": "laituri.dmm",
+          "mapPath": "map_files/laituri",
+          "width": 150,
+          "height": 150,
+          "zLevels": 1,
+          "webmapUrl": "GoldenArrow",
+          "platoon": "/datum/squad/marine/upp/forecon",
+          "traits": [
+            {
+              "Marine Main Ship": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "lv295_blacksite",
+          "server": "bandatroopers",
+          "name": "LV295 Blacksite",
+          "category": "Ground",
+          "mapFile": "LV295_Blacksite.dmm",
+          "mapPath": "map_files/LV295_Blacksite",
+          "width": 200,
+          "height": 100,
+          "zLevels": 1,
+          "webmapUrl": "LV552",
+          "platoon": null,
+          "traits": [],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Ground",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "lv295_featureless_arctic",
+          "server": "bandatroopers",
+          "name": "LV-295 Featureless Arctic",
+          "category": "Ground",
+          "mapFile": "LV295_Featureless_Arctic.dmm",
+          "mapPath": "map_files/LV295_Featureless_Arctic",
+          "width": 250,
+          "height": 250,
+          "zLevels": 1,
+          "webmapUrl": null,
+          "platoon": null,
+          "traits": [],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "lv522_chances_claim",
+          "server": "bandatroopers",
+          "name": "LV-522 Chance's Claim",
+          "category": "Ground",
+          "mapFile": "LV522_Chances_Claim.dmm",
+          "mapPath": "map_files/LV522_Chances_Claim",
+          "width": 193,
+          "height": 225,
+          "zLevels": 1,
+          "webmapUrl": "LV552",
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Ground",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "lv522_chances_claim_forecon",
+          "server": "bandatroopers",
+          "name": "LV-522 Chance's Claim Forecon",
+          "category": "Ground",
+          "mapFile": "LV522_Chances_Claim_FORECON.dmm",
+          "mapPath": "map_files/LV522_Chances_Claim_FORECON",
+          "width": 193,
+          "height": 225,
+          "zLevels": 1,
+          "webmapUrl": "LV552",
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Ground",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "lv522_featureless_barrens",
+          "server": "bandatroopers",
+          "name": "LV-522 Featureless Barrens",
+          "category": "Ground",
+          "mapFile": "LV522_Featureless_Barrens.dmm",
+          "mapPath": "map_files/LV522_Featureless_Barrens",
+          "width": 250,
+          "height": 250,
+          "zLevels": 1,
+          "webmapUrl": null,
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "lv624",
+          "server": "bandatroopers",
+          "name": "LV-624",
+          "category": "Ground",
+          "mapFile": "LV624.dmm",
+          "mapPath": "map_files/LV624",
+          "width": 175,
+          "height": 226,
+          "zLevels": 1,
+          "webmapUrl": "LV624",
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Ground",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv624/LV624-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv624/LV624-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "lv624_repaired",
+          "server": "bandatroopers",
+          "name": "LV-624 Repaired",
+          "category": "Ground",
+          "mapFile": "LV624_repaired.dmm",
+          "mapPath": "map_files/LV624_Fixed",
+          "width": 175,
+          "height": 222,
+          "zLevels": 1,
+          "webmapUrl": "LV624",
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Ground",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv624/LV624-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv624/LV624-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "lv671",
+          "server": "bandatroopers",
+          "name": "LV-671 Ark Borealis",
+          "category": "Ground",
+          "mapFile": "lv671.dmm",
+          "mapPath": "map_files/lv671",
+          "width": 330,
+          "height": 455,
+          "zLevels": 1,
+          "webmapUrl": "LV671",
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "lv759_hybrisa_prospera",
+          "server": "bandatroopers",
+          "name": "LV-759 Hybrisa Prospera",
+          "category": "Ground",
+          "mapFile": "LV759_Hybrisa_Prospera.dmm",
+          "mapPath": "map_files/LV759_Hybrisa_Prospera",
+          "width": 225,
+          "height": 250,
+          "zLevels": 1,
+          "webmapUrl": "LV759",
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Colony",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv759/LV759_Hybrisa_Prospera-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv759/LV759_Hybrisa_Prospera-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "lv759_hybrisa_prospera_repaired",
+          "server": "bandatroopers",
+          "name": "LV-759 Hybrisa Prospera Repaired",
+          "category": "Ground",
+          "mapFile": "LV759_Hybrisa_Prospera_repaired.dmm",
+          "mapPath": "map_files/LV759_Hybrisa_Prospera_Fixed",
+          "width": 225,
+          "height": 250,
+          "zLevels": 1,
+          "webmapUrl": "LV759",
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Colony",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv759/LV759_Hybrisa_Prospera-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv759/LV759_Hybrisa_Prospera-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "lv818_featureless_desert",
+          "server": "bandatroopers",
+          "name": "LV-818 Featureless Desert",
+          "category": "Ground",
+          "mapFile": "LV818_Featureless_Desert.dmm",
+          "mapPath": "map_files/LV818_Featureless_Desert",
+          "width": 250,
+          "height": 250,
+          "zLevels": 1,
+          "webmapUrl": null,
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "lv818_featureless_jungle",
+          "server": "bandatroopers",
+          "name": "LV818 Featureless Jungle",
+          "category": "Ground",
+          "mapFile": "LV818_Featureless_Jungle.dmm",
+          "mapPath": "map_files/LV818_Featureless_Jungle",
+          "width": 250,
+          "height": 250,
+          "zLevels": 1,
+          "webmapUrl": null,
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "mackay_station",
+          "server": "bandatroopers",
+          "name": "Mackay Station",
+          "category": "Ground",
+          "mapFile": "Mackay_Station.dmm",
+          "mapPath": "map_files/Mackay_Station",
+          "width": 545,
+          "height": 315,
+          "zLevels": 1,
+          "webmapUrl": "MackayStation",
+          "platoon": null,
+          "traits": [],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "mackay_station_shipmap",
+          "server": "bandatroopers",
+          "name": "Mackay Station (Shipmap)",
+          "category": "Ship",
+          "mapFile": "Mackay_Station_Shipmap.dmm",
+          "mapPath": "map_files/Mackay_Station_Shipmap",
+          "width": 545,
+          "height": 315,
+          "zLevels": 1,
+          "webmapUrl": "MackayStation",
+          "platoon": "/datum/squad/marine/halo/unsc/alpha",
+          "traits": [
+            {
+              "Marine Main Ship": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "new_varadero",
+          "server": "bandatroopers",
+          "name": "New Varadero",
+          "category": "Ground",
+          "mapFile": "New_Varadero.dmm",
+          "mapPath": "map_files/New_Varadero",
+          "width": 220,
+          "height": 180,
+          "zLevels": 1,
+          "webmapUrl": "NewVaradero",
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Surface",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/newvaradero/New_Varadero-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/newvaradero/New_Varadero-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "new_varadero_repaired",
+          "server": "bandatroopers",
+          "name": "New Varadero Repaired",
+          "category": "Ground",
+          "mapFile": "New_Varadero_Repaired.dmm",
+          "mapPath": "map_files/New_Varadero_Fixed",
+          "width": 220,
+          "height": 180,
+          "zLevels": 1,
+          "webmapUrl": "NewVaradero",
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Surface",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/newvaradero/New_Varadero-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/newvaradero/New_Varadero-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "oil_depot",
+          "server": "bandatroopers",
+          "name": "Oil Depot 276",
+          "category": "Ground",
+          "mapFile": "oil_depot.dmm",
+          "mapPath": "map_files/oil_depot",
+          "width": 400,
+          "height": 300,
+          "zLevels": 1,
+          "webmapUrl": "OilDepot",
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "oni_digsite_451",
+          "server": "bandatroopers",
+          "name": "ONI Digsite 451",
+          "category": "Ground",
+          "mapFile": "oni_digsite_451.dmm",
+          "mapPath": "map_files/ONI_Digsite_451",
+          "width": 275,
+          "height": 245,
+          "zLevels": 1,
+          "webmapUrl": "ONIDigsite451",
+          "platoon": null,
+          "traits": [],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "oni_shield_base",
+          "server": "bandatroopers",
+          "name": "ONI Shieldbase",
+          "category": "Ground",
+          "mapFile": "oni_shield_base.dmm",
+          "mapPath": "map_files/oni_shield_base",
+          "width": 250,
+          "height": 250,
+          "zLevels": 1,
+          "webmapUrl": "LV552",
+          "platoon": null,
+          "traits": [],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Ground",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "oread_garrison",
+          "server": "bandatroopers",
+          "name": "OBW - Oread Garrison",
+          "category": "Ground",
+          "mapFile": "oread_garrison.dmm",
+          "mapPath": "map_files/Oread_Garrison",
+          "width": 220,
+          "height": 160,
+          "zLevels": 1,
+          "webmapUrl": null,
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "prison_station_fop",
+          "server": "bandatroopers",
+          "name": "Fiorina Cellblocks",
+          "category": "Ground",
+          "mapFile": "Prison_Station_FOP.dmm",
+          "mapPath": "map_files/FOP_v2_Cellblocks",
+          "width": 255,
+          "height": 210,
+          "zLevels": 1,
+          "webmapUrl": null,
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "prospector_canyon",
+          "server": "bandatroopers",
+          "name": "Prospector Canyon",
+          "category": "Ground",
+          "mapFile": "prospector_canyon.dmm",
+          "mapPath": "map_files/prospector_canyon",
+          "width": 250,
+          "height": 250,
+          "zLevels": 1,
+          "webmapUrl": "Solaris",
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Surface",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "redemption_valley",
+          "server": "bandatroopers",
+          "name": "Redemption Valley",
+          "category": "Ground",
+          "mapFile": "redemption_valley.dmm",
+          "mapPath": "map_files/redemption_valley",
+          "width": 400,
+          "height": 250,
+          "zLevels": 1,
+          "webmapUrl": "NewVaradero",
+          "platoon": null,
+          "traits": [],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Surface",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/newvaradero/New_Varadero-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/newvaradero/New_Varadero-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "rover",
+          "server": "bandatroopers",
+          "name": "USS Rover",
+          "category": "Ship",
+          "mapFile": "rover.dmm",
+          "mapPath": "map_files/rover",
+          "width": 100,
+          "height": 100,
+          "zLevels": 1,
+          "webmapUrl": "GoldenArrow",
+          "platoon": "/datum/squad/marine/forecon",
+          "traits": [
+            {
+              "Marine Main Ship": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "rover_tethered",
+          "server": "bandatroopers",
+          "name": "USS Rover Tethered",
+          "category": "Ship",
+          "mapFile": "rover_tethered.dmm",
+          "mapPath": "map_files/rover_tethered",
+          "width": 160,
+          "height": 280,
+          "zLevels": 1,
+          "webmapUrl": "GoldenArrow",
+          "platoon": "/datum/squad/marine/forecon",
+          "traits": [
+            {
+              "Marine Main Ship": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "runtime",
+          "server": "bandatroopers",
+          "name": "USS Runtime",
+          "category": "Ground",
+          "mapFile": "USS_Runtime.dmm",
+          "mapPath": "map_files/USS_Runtime",
+          "width": 16,
+          "height": 16,
+          "zLevels": 1,
+          "webmapUrl": null,
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "runtime_multiz",
+          "server": "bandatroopers",
+          "name": "USS Runtime",
+          "category": "Ground",
+          "mapFile": "USS_Runtime_multiz.dmm",
+          "mapPath": "map_files/USS_Runtime_multiz",
+          "width": 16,
+          "height": 16,
+          "zLevels": 2,
+          "webmapUrl": null,
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            },
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Z-Level 1",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            },
+            {
+              "z": 2,
+              "name": "Z-Level 2",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "shivas_snowball",
+          "server": "bandatroopers",
+          "name": "Shivas Snowball",
+          "category": "Ground",
+          "mapFile": "Shivas_Snowball.dmm",
+          "mapPath": "map_files/Ice_Colony_v3",
+          "width": 220,
+          "height": 160,
+          "zLevels": 1,
+          "webmapUrl": "Shivas",
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Ice Surface",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/shivas/Shivas_Snowball-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/shivas/Shivas_Snowball-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "si391_sekhmet_swamp",
+          "server": "bandatroopers",
+          "name": "SI-391 Sekhmet Swamp",
+          "category": "Ground",
+          "mapFile": "SI391_Sekhmet_Swamp.dmm",
+          "mapPath": "map_files/SI391_Sekhmet_Swamp",
+          "width": 407,
+          "height": 160,
+          "zLevels": 1,
+          "webmapUrl": "LV624",
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Ground",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv624/LV624-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv624/LV624-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "sorokyne_strata",
+          "server": "bandatroopers",
+          "name": "Sorokyne Strata",
+          "category": "Ground",
+          "mapFile": "Sorokyne_Strata.dmm",
+          "mapPath": "map_files/Sorokyne_Strata",
+          "width": 256,
+          "height": 193,
+          "zLevels": 1,
+          "webmapUrl": "Sorokyne",
+          "platoon": null,
+          "traits": [
+            {
+              "Ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Strata",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/sorokyne/Sorokyne_Strata-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/sorokyne/Sorokyne_Strata-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "taipei_station",
+          "server": "bandatroopers",
+          "name": "Taipei Way-Station",
+          "category": "Ground",
+          "mapFile": "taipei_station.dmm",
+          "mapPath": "map_files/taipei_station",
+          "width": 200,
+          "height": 200,
+          "zLevels": 1,
+          "webmapUrl": null,
+          "platoon": null,
+          "traits": [
+            {
+              "ground": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "traxus_gamma_zone",
+          "server": "bandatroopers",
+          "name": "Gamma Sector",
+          "category": "Ground",
+          "mapFile": "traxus_gamma_zone.dmm",
+          "mapPath": "map_files/traxus_gamma_zone",
+          "width": 360,
+          "height": 210,
+          "zLevels": 1,
+          "webmapUrl": "Solaris",
+          "platoon": null,
+          "traits": [],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Surface",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "unsc_dark_was_the_night",
+          "server": "bandatroopers",
+          "name": "UNSC Dark Was The Night",
+          "category": "Ship",
+          "mapFile": "unsc_dark_was_the_night.dmm",
+          "mapPath": "map_files/unsc_dark_was_the_night",
+          "width": 150,
+          "height": 150,
+          "zLevels": 1,
+          "webmapUrl": "DarkWasTheNight",
+          "platoon": "/datum/squad/marine/halo/unsc/alpha",
+          "traits": [
+            {
+              "Marine Main Ship": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "unsc_dark_was_the_night_odst",
+          "server": "bandatroopers",
+          "name": "UNSC Dark Was The Night (ODSTBay)",
+          "category": "Ship",
+          "mapFile": "unsc_dark_was_the_night_odst.dmm",
+          "mapPath": "map_files/unsc_dark_was_the_night_odst",
+          "width": 75,
+          "height": 150,
+          "zLevels": 1,
+          "webmapUrl": "DarkWasTheNight",
+          "platoon": "/datum/squad/marine/halo/odst/alpha",
+          "traits": [
+            {
+              "Marine Main Ship": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "unsc_stalwart_frigate",
+          "server": "bandatroopers",
+          "name": "UNSC Stalwart Frigate",
+          "category": "Ship",
+          "mapFile": "UNSC_Stalwart_Frigate.dmm",
+          "mapPath": "map_files/UNSC_Stalwart_Frigate",
+          "width": 192,
+          "height": 192,
+          "zLevels": 1,
+          "webmapUrl": null,
+          "platoon": "/datum/squad/marine/halo/unsc/alpha",
+          "traits": [
+            {
+              "Marine Main Ship": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "upp_bunker",
+          "server": "bandatroopers",
+          "name": "UPP Bunker",
+          "category": "Ship",
+          "mapFile": "upp_bunker.dmm",
+          "mapPath": "map_files/upp_bunker",
+          "width": 70,
+          "height": 90,
+          "zLevels": 1,
+          "webmapUrl": "GoldenArrow",
+          "platoon": "/datum/squad/marine/upp",
+          "traits": [
+            {
+              "Marine Main Ship": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "uscm_blue_ridge",
+          "server": "bandatroopers",
+          "name": "USS Blue Ridge",
+          "category": "Ship",
+          "mapFile": "USCM_Blue_Ridge.dmm",
+          "mapPath": "map_files/USCM_Blue_Ridge",
+          "width": 150,
+          "height": 175,
+          "zLevels": 1,
+          "webmapUrl": "GoldenArrow",
+          "platoon": "/datum/squad/marine/alpha",
+          "traits": [
+            {
+              "Marine Main Ship": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "uscm_bunker",
+          "server": "bandatroopers",
+          "name": "USCM Bunker",
+          "category": "Ship",
+          "mapFile": "uscm_bunker.dmm",
+          "mapPath": "map_files/uscm_bunker",
+          "width": 70,
+          "height": 80,
+          "zLevels": 1,
+          "webmapUrl": "GoldenArrow",
+          "platoon": "/datum/squad/marine/alpha",
+          "traits": [
+            {
+              "Marine Main Ship": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "uscss_obsidian_falk",
+          "server": "bandatroopers",
+          "name": "USCSS Obsidian Falk",
+          "category": "Ship",
+          "mapFile": "USCSS_Obsidian_Falk.dmm",
+          "mapPath": "map_files/USCSS_Obsidian_Falk",
+          "width": 150,
+          "height": 160,
+          "zLevels": 1,
+          "webmapUrl": "GoldenArrow",
+          "platoon": "/datum/squad/marine/pmc",
+          "traits": [
+            {
+              "Marine Main Ship": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "uscss_onyx_karain",
+          "server": "bandatroopers",
+          "name": "USCSS Onyx Karain",
+          "category": "Ship",
+          "mapFile": "USCSS_Onyx_Karain.dmm",
+          "mapPath": "map_files/USCSS_Onyx_Karain",
+          "width": 150,
+          "height": 160,
+          "zLevels": 1,
+          "webmapUrl": "GoldenArrow",
+          "platoon": "/datum/squad/marine/pmc/small",
+          "traits": [
+            {
+              "Marine Main Ship": true
+            }
+          ],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Base Map",
+              "imageUrl": "",
+              "pipenetUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "valorous_chant",
+          "server": "bandatroopers",
+          "name": "SDV Valorous Chant",
+          "category": "Ground",
+          "mapFile": "valorous_chant.dmm",
+          "mapPath": "map_files/valorous_chant",
+          "width": 250,
+          "height": 250,
+          "zLevels": 1,
+          "webmapUrl": "LV552",
+          "platoon": null,
+          "traits": [],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Ground",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1-pipe.png"
+            }
+          ]
+        },
+        {
+          "id": "whiskey_outpost_v2",
+          "server": "bandatroopers",
+          "name": "Whiskey Outpost",
+          "category": "Ground",
+          "mapFile": "Whiskey_Outpost_v2.dmm",
+          "mapPath": "map_files/Whiskey_Outpost_v2",
+          "width": 130,
+          "height": 200,
+          "zLevels": 1,
+          "webmapUrl": "WhiskeyOutpost",
+          "platoon": null,
+          "traits": [],
+          "layers": [
+            {
+              "z": 1,
+              "name": "Outpost",
+              "imageUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/whiskey/Whiskey_Outpost_v2-1.png",
+              "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/whiskey/Whiskey_Outpost_v2-1-pipe.png"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

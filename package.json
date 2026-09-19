@@ -1,0 +1,23 @@
+{
+  "name": "banda-ss13-webmap",
+  "version": "1.0.0",
+  "description": "Interactive Leaflet WebMap viewer for Banda SS13 servers (BandaMarines, BandaStation, BandaTroopers)",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx -y serve . -p 3000",
+    "sync:local": "node scripts/sync-maps.js",
+    "sync:remote": "node scripts/sync-github.js",
+    "test": "node -e \"const m = require('./data/maps.json'); console.log('Maps verified:', m.totalMaps);\""
+  },
+  "keywords": [
+    "ss13",
+    "space-station-13",
+    "webmap",
+    "leaflet",
+    "bandamarines",
+    "bandastation",
+    "bandatroopers"
+  ],
+  "author": "Banda SS13 Community & Golub4ik",
+  "license": "MIT"
+}
