@@ -284,15 +284,15 @@ export const MapView: React.FC<MapViewProps> = ({
         [p1.latlng.lat, p1.latlng.lng],
         [p2.latlng.lat, p2.latlng.lng]
       ], {
-        color: '#f43f5e',
-        weight: 3,
-        dashArray: '6, 6'
+        color: '#00ff41',
+        weight: 2.5,
+        dashArray: '5, 5'
       }).addTo(map);
 
       const midLat = (p1.latlng.lat + p2.latlng.lat) / 2;
       const midLng = (p1.latlng.lng + p2.latlng.lng) / 2;
 
-      line.bindTooltip(`${dist} тайлов (ΔX: ${dx}, ΔY: ${dy})`, {
+      line.bindTooltip(`[ ДИСТАНЦИЯ: ${dist} ТАЙЛОВ | ΔX:${dx} ΔY:${dy} ]`, {
         permanent: true,
         className: 'ruler-tooltip'
       }).openTooltip([midLat, midLng]);
@@ -545,14 +545,14 @@ export const MapView: React.FC<MapViewProps> = ({
   }, [getBounds, ss13ToLeaflet, setPin, onResetViewReady, onGoToCoordsReady]);
 
   return (
-    <div className="relative w-full h-full bg-[#04070e] overflow-hidden select-none">
+    <div className="relative w-full h-full bg-[#010803] overflow-hidden select-none font-mono">
       <div ref={mapContainerRef} className="w-full h-full outline-none" />
 
-      {/* Subtle Progressive Loading Spinner in top-right */}
+      {/* Subtle Progressive Loading Tactical Banner */}
       {isLoadingFullRes && (
-        <div className="absolute top-20 right-6 z-[1000] flex items-center gap-2 px-3 py-1.5 rounded-full bg-slate-900/80 backdrop-blur-md border border-sky-500/30 text-xs text-sky-400 shadow-xl transition-all animate-pulse">
-          <span className="w-2 h-2 rounded-full bg-sky-400 animate-ping" />
-          <span>Загрузка Full-HD объектов...</span>
+        <div className="absolute top-16 right-4 z-[1000] flex items-center gap-2 px-3 py-1.5 rounded-sm bg-[#011406]/95 border-2 border-[#00ff41] text-xs font-mono font-bold text-[#00ff41] shadow-[0_0_15px_rgba(0,255,65,0.4)] animate-pulse select-none">
+          <span className="w-2 h-2 rounded-full bg-[#00ff41] animate-ping" />
+          <span>[ LINKING FULL-HD SATELLITE FEED... ]</span>
         </div>
       )}
     </div>

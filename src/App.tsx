@@ -169,8 +169,12 @@ export const App: React.FC = () => {
   const currentMapsList = manifest ? manifest.servers[currentServer]?.maps || [] : [];
 
   return (
-    <div className="relative w-screen h-screen overflow-hidden bg-[#060911] text-white font-sans">
-      {/* Minimal Floating Top Bar */}
+    <div className="relative w-screen h-screen overflow-hidden bg-[#010803] text-[#00ff41] font-mono select-none">
+      {/* Authentic CRT Scanline and Vignette Effects */}
+      <div className="crt-overlay" />
+      <div className="crt-vignette" />
+
+      {/* Colonial Marines Tactical Top Bar */}
       <FloatingHeader
         currentServer={currentServer}
         currentMap={currentMap}
@@ -207,14 +211,14 @@ export const App: React.FC = () => {
         onGoToCoordsReady={fn => (goToCoordsFnRef.current = fn)}
       />
 
-      {/* Minimal Bottom Corner HUD */}
+      {/* Tactical Bottom Corner HUD */}
       <CoordHUD
         coords={activeCoords}
         onResetView={() => resetViewFnRef.current?.()}
         onGoToCoords={(x, y) => goToCoordsFnRef.current?.(x, y)}
       />
 
-      {/* Command Palette Map Search Modal */}
+      {/* Late Join / Weyland-Yutani Map Search Modal */}
       <MapSearchModal
         isOpen={isSearchOpen}
         onClose={() => setIsSearchOpen(false)}
@@ -223,10 +227,11 @@ export const App: React.FC = () => {
         onSelectMap={handleSelectMap}
       />
 
-      {/* Minimal Toast Notification */}
+      {/* Weyland-Yutani Terminal Toast Notification */}
       {toastMessage && (
-        <div className="fixed top-20 left-1/2 -translate-x-1/2 z-[3000] px-4 py-2 rounded-xl bg-slate-950/90 backdrop-blur-xl border border-white/10 text-white text-xs font-medium shadow-2xl animate-in fade-in slide-in-from-top-2 duration-200">
-          {toastMessage}
+        <div className="fixed top-16 left-1/2 -translate-x-1/2 z-[3000] px-4 py-2 rounded-sm bg-[#011406]/95 border-2 border-[#00ff41] text-[#00ff41] text-xs font-mono font-bold shadow-[0_0_20px_rgba(0,255,65,0.6)] animate-in fade-in slide-in-from-top-2 duration-150 flex items-center gap-2">
+          <span className="text-[#00ff41] animate-ping text-[10px]">●</span>
+          <span>[ {toastMessage.toUpperCase()} ]</span>
         </div>
       )}
     </div>

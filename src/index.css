@@ -4,14 +4,102 @@
 
 @layer base {
   body {
-    @apply bg-[#060911] text-slate-100 overflow-hidden select-none;
-    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+    @apply bg-[#010803] text-[#00ff41] font-mono overflow-hidden select-none;
   }
 }
 
-/* Leaflet SS13 Canvas & Space Tuning */
+/* CRT Scanlines Overlay Texture */
+.crt-overlay {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 9999;
+  background: linear-gradient(
+    rgba(18, 16, 16, 0) 50%, 
+    rgba(0, 0, 0, 0.32) 50%
+  ), linear-gradient(
+    90deg,
+    rgba(0, 255, 65, 0.02),
+    rgba(0, 0, 0, 0.05),
+    rgba(0, 255, 65, 0.02)
+  );
+  background-size: 100% 3px, 6px 100%;
+  opacity: 0.85;
+}
+
+/* CRT Radial Vignette */
+.crt-vignette {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 9998;
+  background: radial-gradient(circle at center, transparent 65%, rgba(0, 10, 3, 0.75) 100%);
+}
+
+/* Phosphor Glow Utilities */
+.cm-glow {
+  box-shadow: 0 0 15px rgba(0, 255, 65, 0.4), inset 0 0 10px rgba(0, 255, 65, 0.15);
+}
+
+.cm-glow-lg {
+  box-shadow: 0 0 30px rgba(0, 255, 65, 0.5), inset 0 0 20px rgba(0, 255, 65, 0.2);
+}
+
+.cm-glow-sm {
+  box-shadow: 0 0 8px rgba(0, 255, 65, 0.35);
+}
+
+.cm-text-glow {
+  text-shadow: 0 0 8px rgba(0, 255, 65, 0.8), 0 0 16px rgba(0, 255, 65, 0.4);
+}
+
+/* CM Terminal Panel */
+.cm-panel {
+  background-color: rgba(2, 14, 5, 0.94);
+  border: 2px solid #00ff41;
+  box-shadow: 0 0 20px rgba(0, 255, 65, 0.35), inset 0 0 15px rgba(0, 255, 65, 0.08);
+}
+
+/* Late Join Style Solid Button (Green with Black Text) */
+.cm-btn-solid {
+  background-color: #00e639;
+  color: #000000;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  border: 1px solid #00ff41;
+  box-shadow: 0 0 8px rgba(0, 230, 57, 0.4);
+  transition: all 0.15s ease-in-out;
+}
+
+.cm-btn-solid:hover {
+  background-color: #05ff46;
+  box-shadow: 0 0 16px rgba(0, 255, 65, 0.8);
+  transform: translateY(-1px);
+}
+
+.cm-btn-solid:active {
+  transform: translateY(0);
+  background-color: #00b32c;
+}
+
+/* CM Terminal Outline Button */
+.cm-btn-outline {
+  background-color: rgba(0, 30, 10, 0.4);
+  color: #00ff41;
+  border: 1.5px solid #00ff41;
+  font-weight: 600;
+  transition: all 0.15s ease;
+}
+
+.cm-btn-outline:hover {
+  background-color: #00e639;
+  color: #000000;
+  box-shadow: 0 0 14px rgba(0, 255, 65, 0.7);
+}
+
+/* Leaflet SS13 Canvas */
 .leaflet-container {
-  background: #060911 !important;
+  background: #010803 !important;
   outline: none;
 }
 
@@ -22,8 +110,8 @@
 
 /* SS13 Grid Tiles */
 .ss13-grid-tile {
-  border-right: 1px solid rgba(255, 255, 255, 0.08);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  border-right: 1px solid rgba(0, 255, 65, 0.15);
+  border-bottom: 1px solid rgba(0, 255, 65, 0.15);
 }
 
 /* SS13 Map Pin Marker */
@@ -37,62 +125,68 @@
   width: 14px;
   height: 14px;
   border-radius: 50%;
-  background: #38bdf8;
-  box-shadow: 0 0 12px #38bdf8;
-  animation: pinPulse 1.5s infinite;
+  background: #00ff41;
+  box-shadow: 0 0 14px #00ff41;
+  animation: pinPulseGreen 1.5s infinite;
 }
 
-@keyframes pinPulse {
-  0% { transform: scale(0.9); opacity: 1; box-shadow: 0 0 0 0 rgba(56, 189, 248, 0.7); }
-  70% { transform: scale(1.3); opacity: 0.8; box-shadow: 0 0 0 12px rgba(56, 189, 248, 0); }
-  100% { transform: scale(0.9); opacity: 1; box-shadow: 0 0 0 0 rgba(56, 189, 248, 0); }
+@keyframes pinPulseGreen {
+  0% { transform: scale(0.9); opacity: 1; box-shadow: 0 0 0 0 rgba(0, 255, 65, 0.8); }
+  70% { transform: scale(1.3); opacity: 0.8; box-shadow: 0 0 0 12px rgba(0, 255, 65, 0); }
+  100% { transform: scale(0.9); opacity: 1; box-shadow: 0 0 0 0 rgba(0, 255, 65, 0); }
 }
 
 .pin-label {
   position: absolute;
-  top: -24px;
-  background: rgba(10, 15, 26, 0.9);
-  border: 1px solid rgba(56, 189, 248, 0.6);
-  color: #fff;
-  font-family: monospace;
-  font-size: 10px;
-  padding: 2px 6px;
-  border-radius: 4px;
+  top: -26px;
+  background: rgba(1, 14, 4, 0.95);
+  border: 1.5px solid #00ff41;
+  color: #00ff41;
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 2px 8px;
+  border-radius: 2px;
   white-space: nowrap;
+  box-shadow: 0 0 10px rgba(0, 255, 65, 0.4);
 }
 
 /* Ruler Tooltip */
 .ruler-tooltip {
-  background: rgba(15, 23, 42, 0.95) !important;
-  border: 1px solid #f43f5e !important;
-  color: #fff !important;
-  font-family: monospace !important;
-  font-size: 11px !important;
-  border-radius: 6px !important;
-  padding: 3px 8px !important;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5) !important;
+  background: rgba(2, 18, 5, 0.95) !important;
+  border: 1.5px solid #00ff41 !important;
+  color: #00ff41 !important;
+  font-family: 'Share Tech Mono', monospace !important;
+  font-size: 12px !important;
+  font-weight: bold !important;
+  border-radius: 3px !important;
+  padding: 4px 10px !important;
+  box-shadow: 0 0 14px rgba(0, 255, 65, 0.5) !important;
 }
 
-/* Custom Scrollbar for Command Palette */
+/* Custom Scrollbar for Terminal */
 ::-webkit-scrollbar {
-  width: 6px;
-  height: 6px;
+  width: 8px;
+  height: 8px;
 }
 
 ::-webkit-scrollbar-track {
-  background: transparent;
+  background: rgba(1, 15, 4, 0.95);
+  border-left: 1px solid rgba(0, 255, 65, 0.2);
 }
 
 ::-webkit-scrollbar-thumb {
-  background: rgba(255, 255, 255, 0.15);
-  border-radius: 3px;
+  background: #00cc33;
+  border: 1px solid #00ff41;
+  box-shadow: 0 0 6px rgba(0, 255, 65, 0.4);
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: rgba(255, 255, 255, 0.25);
+  background: #05ff46;
+  box-shadow: 0 0 10px rgba(0, 255, 65, 0.8);
 }
 
-/* Map Locations & Area Badges */
+/* Map Locations & Area Badges - CM Phosphor Green */
 .map-location-marker {
   display: flex;
   align-items: center;
@@ -110,47 +204,52 @@
 .location-badge {
   display: inline-flex;
   align-items: center;
-  gap: 4px;
+  gap: 5px;
   white-space: nowrap;
-  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
-  font-weight: 600;
-  border-radius: 6px;
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.6);
+  font-family: 'Share Tech Mono', monospace;
+  font-weight: 700;
+  border-radius: 3px;
   user-select: none;
   pointer-events: auto;
+  letter-spacing: 0.04em;
+  transition: all 0.15s ease;
 }
 
+/* Major Locations (e.g. Central Caves, Nexus, Medbay) */
 .location-badge-major {
   font-size: 13px;
   padding: 4px 10px;
-  background: rgba(14, 165, 233, 0.25);
-  border: 1.5px solid rgba(56, 189, 248, 0.85);
-  color: #f0f9ff;
-  letter-spacing: 0.05em;
-  text-shadow: 0 0 10px rgba(56, 189, 248, 0.8);
+  background: rgba(2, 22, 7, 0.92);
+  border: 2px solid #00ff41;
+  color: #00ff41;
+  box-shadow: 0 0 14px rgba(0, 255, 65, 0.6), inset 0 0 8px rgba(0, 255, 65, 0.15);
+  text-shadow: 0 0 6px rgba(0, 255, 65, 0.8);
 }
 
+/* Landmarks (e.g. Sand Temple, LZ 1, Comms Relay) - Solid Green Late Join look */
 .location-badge-landmark {
-  font-size: 12px;
-  padding: 3px 8px;
-  background: rgba(245, 158, 11, 0.25);
-  border: 1.5px solid rgba(251, 191, 36, 0.9);
-  color: #fffbeb;
-  text-shadow: 0 0 8px rgba(245, 158, 11, 0.8);
+  font-size: 13px;
+  padding: 4px 10px;
+  background: #00e639;
+  border: 1.5px solid #00ff41;
+  color: #000000;
+  box-shadow: 0 0 16px rgba(0, 255, 65, 0.8);
 }
 
+/* Rooms and specific compartments */
 .location-badge-room {
   font-size: 11px;
-  padding: 2px 6px;
-  background: rgba(30, 41, 59, 0.85);
-  border: 1px solid rgba(148, 163, 184, 0.45);
-  color: #e2e8f0;
+  padding: 2px 7px;
+  background: rgba(1, 14, 4, 0.9);
+  border: 1px solid rgba(0, 255, 65, 0.6);
+  color: #66ff8f;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.7);
 }
 
 .location-badge:hover {
-  box-shadow: 0 0 20px rgba(56, 189, 248, 0.5);
-  border-color: #38bdf8;
+  box-shadow: 0 0 22px rgba(0, 255, 65, 0.9);
+  border-color: #05ff46;
+  transform: translateY(-1px);
 }
+
 

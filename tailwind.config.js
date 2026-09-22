@@ -7,28 +7,41 @@ export default {
   theme: {
     extend: {
       colors: {
-        background: '#060911',
-        surface: 'rgba(12, 18, 30, 0.85)',
-        card: 'rgba(16, 24, 39, 0.75)',
+        background: '#010803',
+        surface: 'rgba(2, 16, 6, 0.92)',
+        card: 'rgba(3, 24, 9, 0.85)',
+        cm: {
+          bg: '#010803',
+          dark: '#020d04',
+          panel: 'rgba(2, 16, 6, 0.94)',
+          green: '#00ff41',
+          bright: '#05ff46',
+          btn: '#00e639',
+          hover: '#00cc33',
+          border: '#00ff41',
+          dim: '#009926',
+          muted: '#005917',
+          black: '#000000',
+        },
         marines: {
-          light: '#4ade80',
-          DEFAULT: '#22c55e',
-          dark: '#15803d'
+          light: '#05ff46',
+          DEFAULT: '#00ff41',
+          dark: '#009926'
         },
         station: {
           light: '#38bdf8',
-          DEFAULT: '#0284c7',
-          dark: '#0369a1'
+          DEFAULT: '#00ff41',
+          dark: '#009926'
         },
         troopers: {
           light: '#fb923c',
-          DEFAULT: '#f97316',
-          dark: '#c2410c'
+          DEFAULT: '#00ff41',
+          dark: '#009926'
         }
       },
       fontFamily: {
-        mono: ['"JetBrains Mono"', 'monospace'],
-        sans: ['Inter', '-apple-system', 'BlinkMacSystemFont', 'sans-serif']
+        mono: ['"Share Tech Mono"', '"JetBrains Mono"', 'monospace'],
+        sans: ['"Share Tech Mono"', 'Inter', '-apple-system', 'sans-serif']
       }
     },
   },
