@@ -101,7 +101,7 @@ async function main() {
   // 6. Create commit
   console.log('Creating commit...');
   const commitRes = ghApi(`/repos/${OWNER}/${REPO}/git/commits`, 'POST', {
-    message: 'feat: add Full-HD WebP offline renders and update maps manifest',
+    message: 'feat: pre-render all maps to Full-HD WebP across all servers and update maps manifest',
     tree: newTreeRes.sha,
     parents: [parentCommitSha]
   });

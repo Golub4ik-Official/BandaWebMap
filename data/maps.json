@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T22:14:32.162Z",
+  "generatedAt": "2026-09-22T20:06:21Z",
   "totalMaps": 105,
   "servers": {
     "bandamarines": {
@@ -90,7 +90,7 @@
               "z": 1,
               "name": "Main Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandamarines/chinook-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -178,7 +178,7 @@
               "z": 1,
               "name": "Main Deck",
               "previewUrl": "maps/bandamarines/ice_colony-1.png",
-              "fullUrl": "",
+              "fullUrl": "maps/bandamarines/ice_colony_v2-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -222,7 +222,7 @@
               "z": 1,
               "name": "Ground",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1.png",
+              "fullUrl": "maps/bandamarines/lv522_chances_claim-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1-pipe.png"
             }
           ]
@@ -266,7 +266,7 @@
               "z": 1,
               "name": "Colony",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv759/LV759_Hybrisa_Prospera-1.png",
+              "fullUrl": "maps/bandamarines/lv759_hybrisa_prospera-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv759/LV759_Hybrisa_Prospera-1-pipe.png"
             }
           ]
@@ -288,7 +288,7 @@
               "z": 1,
               "name": "Surface",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/newvaradero/New_Varadero-1.png",
+              "fullUrl": "maps/bandamarines/new_varadero-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/newvaradero/New_Varadero-1-pipe.png"
             }
           ]
@@ -310,7 +310,7 @@
               "z": 1,
               "name": "Main Deck",
               "previewUrl": "maps/bandamarines/fiorina_cellblocks-1.png",
-              "fullUrl": "",
+              "fullUrl": "maps/bandamarines/prison_station_fop-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -332,14 +332,14 @@
               "z": 1,
               "name": "Deck 1",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandamarines/runtime-1.webp",
               "pipenetUrl": ""
             },
             {
               "z": 2,
               "name": "Deck 2",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandamarines/runtime-2.webp",
               "pipenetUrl": ""
             }
           ]
@@ -361,7 +361,7 @@
               "z": 1,
               "name": "Ice Surface",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/shivas/Shivas_Snowball-1.png",
+              "fullUrl": "maps/bandamarines/shivas_snowball-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/shivas/Shivas_Snowball-1-pipe.png"
             }
           ]
@@ -405,7 +405,7 @@
               "z": 1,
               "name": "Main Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandamarines/ssv_rostock-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -508,7 +508,7 @@
               "z": 1,
               "name": "Station Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandastation/gateway_test-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -610,21 +610,21 @@
               "z": 1,
               "name": "Deck 1",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandastation/multiz_debug-1.webp",
               "pipenetUrl": ""
             },
             {
               "z": 2,
               "name": "Deck 2",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandastation/multiz_debug-2.webp",
               "pipenetUrl": ""
             },
             {
               "z": 3,
               "name": "Deck 3",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandastation/multiz_debug-3.webp",
               "pipenetUrl": ""
             }
           ]
@@ -675,7 +675,7 @@
               "z": 1,
               "name": "Station Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandastation/runtimestation-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -697,7 +697,7 @@
               "z": 1,
               "name": "Station Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandastation/runtimestation_minimal-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -784,7 +784,7 @@
               "z": 1,
               "name": "Ground",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1.png",
+              "fullUrl": "maps/bandatroopers/686_regretful_flame-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1-pipe.png"
             }
           ]
@@ -826,7 +826,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/arctic_valley-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -868,7 +868,7 @@
               "z": 1,
               "name": "Surface",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1.png",
+              "fullUrl": "maps/bandatroopers/binhai_supply_station-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1-pipe.png"
             }
           ]
@@ -889,7 +889,7 @@
               "z": 1,
               "name": "Surface",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/newvaradero/New_Varadero-1.png",
+              "fullUrl": "maps/bandatroopers/bmg290_otogi_egress_point-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/newvaradero/New_Varadero-1-pipe.png"
             }
           ]
@@ -910,7 +910,7 @@
               "z": 1,
               "name": "Ground Colony",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv624/LV624-1.png",
+              "fullUrl": "maps/bandatroopers/bosenmori_basho-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv624/LV624-1-pipe.png"
             }
           ]
@@ -931,7 +931,7 @@
               "z": 1,
               "name": "Surface",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1.png",
+              "fullUrl": "maps/bandatroopers/calliope_desert_bus-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1-pipe.png"
             }
           ]
@@ -952,7 +952,7 @@
               "z": 1,
               "name": "Surface",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1.png",
+              "fullUrl": "maps/bandatroopers/calliope_highway-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1-pipe.png"
             }
           ]
@@ -973,7 +973,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/canyon_32b-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -994,7 +994,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/chapaev-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -1015,7 +1015,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/chapaev_movie-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -1036,7 +1036,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/chinook-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -1078,7 +1078,7 @@
               "z": 1,
               "name": "Deck 1 (Lower)",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/almayer/USS_Almayer-1.png",
+              "fullUrl": "maps/bandatroopers/derelict_almayer-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/almayer/USS_Almayer-1-pipe.png"
             }
           ]
@@ -1099,7 +1099,7 @@
               "z": 1,
               "name": "Deck 1 (Lower)",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/almayer/USS_Almayer-1.png",
+              "fullUrl": "maps/bandatroopers/derelict_almayer_infested-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/almayer/USS_Almayer-1-pipe.png"
             }
           ]
@@ -1141,7 +1141,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/featureless_space-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -1162,7 +1162,7 @@
               "z": 1,
               "name": "Science Annex",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/fiorina/Fiorina_SciAnnex-1.png",
+              "fullUrl": "maps/bandatroopers/fiorina_sciannex-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/fiorina/Fiorina_SciAnnex-1-pipe.png"
             }
           ]
@@ -1183,7 +1183,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/firefly-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -1204,7 +1204,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/golden_arrow-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -1225,7 +1225,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/golden_arrow_classic-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -1246,7 +1246,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/golden_arrow_dog_war-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -1267,7 +1267,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/golden_arrow_movie-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -1288,7 +1288,7 @@
               "z": 1,
               "name": "Ground",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1.png",
+              "fullUrl": "maps/bandatroopers/halo_new_irvine-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1-pipe.png"
             }
           ]
@@ -1309,7 +1309,7 @@
               "z": 1,
               "name": "Ground",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1.png",
+              "fullUrl": "maps/bandatroopers/halo_new_irvine_covenant-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1-pipe.png"
             }
           ]
@@ -1330,7 +1330,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/hms_brynhild-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -1351,7 +1351,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/ice_colony_v1-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -1372,7 +1372,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/ice_colony_v2-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -1393,7 +1393,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/jungle_delta-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -1414,7 +1414,7 @@
               "z": 1,
               "name": "Surface",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1.png",
+              "fullUrl": "maps/bandatroopers/kleschers_research_site-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1-pipe.png"
             }
           ]
@@ -1435,7 +1435,7 @@
               "z": 1,
               "name": "Refinery",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/kutjevo/Kutjevo-1.png",
+              "fullUrl": "maps/bandatroopers/kutjevo-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/kutjevo/Kutjevo-1-pipe.png"
             }
           ]
@@ -1456,7 +1456,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/laituri-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -1477,7 +1477,7 @@
               "z": 1,
               "name": "Ground",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1.png",
+              "fullUrl": "maps/bandatroopers/lv295_blacksite-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1-pipe.png"
             }
           ]
@@ -1498,7 +1498,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/lv295_featureless_arctic-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -1519,7 +1519,7 @@
               "z": 1,
               "name": "Ground",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1.png",
+              "fullUrl": "maps/bandatroopers/lv522_chances_claim-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1-pipe.png"
             }
           ]
@@ -1540,7 +1540,7 @@
               "z": 1,
               "name": "Ground",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1.png",
+              "fullUrl": "maps/bandatroopers/lv522_chances_claim_forecon-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1-pipe.png"
             }
           ]
@@ -1561,7 +1561,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/lv522_featureless_barrens-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -1603,7 +1603,7 @@
               "z": 1,
               "name": "Ground Colony",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv624/LV624-1.png",
+              "fullUrl": "maps/bandatroopers/lv624_repaired-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv624/LV624-1-pipe.png"
             }
           ]
@@ -1624,7 +1624,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/lv671-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -1645,7 +1645,7 @@
               "z": 1,
               "name": "Colony",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv759/LV759_Hybrisa_Prospera-1.png",
+              "fullUrl": "maps/bandatroopers/lv759_hybrisa_prospera-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv759/LV759_Hybrisa_Prospera-1-pipe.png"
             }
           ]
@@ -1666,7 +1666,7 @@
               "z": 1,
               "name": "Colony",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv759/LV759_Hybrisa_Prospera-1.png",
+              "fullUrl": "maps/bandatroopers/lv759_hybrisa_prospera_repaired-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv759/LV759_Hybrisa_Prospera-1-pipe.png"
             }
           ]
@@ -1687,7 +1687,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/lv818_featureless_desert-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -1708,7 +1708,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/lv818_featureless_jungle-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -1729,7 +1729,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/mackay_station-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -1750,7 +1750,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/mackay_station_shipmap-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -1771,7 +1771,7 @@
               "z": 1,
               "name": "Surface",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/newvaradero/New_Varadero-1.png",
+              "fullUrl": "maps/bandatroopers/new_varadero-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/newvaradero/New_Varadero-1-pipe.png"
             }
           ]
@@ -1792,7 +1792,7 @@
               "z": 1,
               "name": "Surface",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/newvaradero/New_Varadero-1.png",
+              "fullUrl": "maps/bandatroopers/new_varadero_repaired-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/newvaradero/New_Varadero-1-pipe.png"
             }
           ]
@@ -1813,7 +1813,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/oil_depot-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -1834,7 +1834,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/oni_digsite_451-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -1855,7 +1855,7 @@
               "z": 1,
               "name": "Ground",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1.png",
+              "fullUrl": "maps/bandatroopers/oni_shield_base-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1-pipe.png"
             }
           ]
@@ -1876,7 +1876,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/oread_garrison-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -1897,7 +1897,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/prison_station_fop-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -1918,7 +1918,7 @@
               "z": 1,
               "name": "Surface",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1.png",
+              "fullUrl": "maps/bandatroopers/prospector_canyon-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1-pipe.png"
             }
           ]
@@ -1939,7 +1939,7 @@
               "z": 1,
               "name": "Surface",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/newvaradero/New_Varadero-1.png",
+              "fullUrl": "maps/bandatroopers/redemption_valley-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/newvaradero/New_Varadero-1-pipe.png"
             }
           ]
@@ -1960,7 +1960,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/rover-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -1981,7 +1981,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/rover_tethered-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -2002,7 +2002,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/runtime-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -2023,14 +2023,14 @@
               "z": 1,
               "name": "Deck 1",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/runtime_multiz-1.webp",
               "pipenetUrl": ""
             },
             {
               "z": 2,
               "name": "Deck 2",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/runtime_multiz-2.webp",
               "pipenetUrl": ""
             }
           ]
@@ -2051,7 +2051,7 @@
               "z": 1,
               "name": "Ice Surface",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/shivas/Shivas_Snowball-1.png",
+              "fullUrl": "maps/bandatroopers/shivas_snowball-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/shivas/Shivas_Snowball-1-pipe.png"
             }
           ]
@@ -2072,7 +2072,7 @@
               "z": 1,
               "name": "Ground Colony",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv624/LV624-1.png",
+              "fullUrl": "maps/bandatroopers/si391_sekhmet_swamp-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv624/LV624-1-pipe.png"
             }
           ]
@@ -2093,7 +2093,7 @@
               "z": 1,
               "name": "Strata",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/sorokyne/Sorokyne_Strata-1.png",
+              "fullUrl": "maps/bandatroopers/sorokyne_strata-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/sorokyne/Sorokyne_Strata-1-pipe.png"
             }
           ]
@@ -2114,7 +2114,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/taipei_station-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -2135,7 +2135,7 @@
               "z": 1,
               "name": "Surface",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1.png",
+              "fullUrl": "maps/bandatroopers/traxus_gamma_zone-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1-pipe.png"
             }
           ]
@@ -2156,7 +2156,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/unsc_dark_was_the_night-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -2177,7 +2177,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/unsc_dark_was_the_night_odst-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -2198,7 +2198,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/unsc_stalwart_frigate-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -2219,7 +2219,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/upp_bunker-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -2240,7 +2240,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/uscm_blue_ridge-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -2261,7 +2261,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/uscm_bunker-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -2282,7 +2282,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/uscss_obsidian_falk-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -2303,7 +2303,7 @@
               "z": 1,
               "name": "Operational Deck",
               "previewUrl": "",
-              "fullUrl": "",
+              "fullUrl": "maps/bandatroopers/uscss_onyx_karain-1.webp",
               "pipenetUrl": ""
             }
           ]
@@ -2324,7 +2324,7 @@
               "z": 1,
               "name": "Ground",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1.png",
+              "fullUrl": "maps/bandatroopers/valorous_chant-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1-pipe.png"
             }
           ]
@@ -2345,7 +2345,7 @@
               "z": 1,
               "name": "Outpost",
               "previewUrl": "",
-              "fullUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/whiskey/Whiskey_Outpost_v2-1.png",
+              "fullUrl": "maps/bandatroopers/whiskey_outpost_v2-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/whiskey/Whiskey_Outpost_v2-1-pipe.png"
             }
           ]
