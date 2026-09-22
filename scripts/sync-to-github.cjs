@@ -75,6 +75,22 @@ async function main() {
 
     process.stdout.write(`[${i + 1}/${toUpload.length}] (${mb} MB) ${item.filePath}... `);
 
+    // Check if blob already exists on GitHub
+    let alreadyExists = false;
+    try {
+      const checkRes = ghApi(`/repos/${OWNER}/${REPO}/git/blobs/${item.sha}`);
+      if (checkRes && checkRes.sha) {
+        alreadyExists = true;
+      }
+    } catch (e) {
+      alreadyExists = false;
+    }
+
+    if (alreadyExists) {
+      console.log(`OK (Already on GitHub)`);
+      continue;
+    }
+
     const buf = fs.readFileSync(absPath);
     const blobRes = ghApi(`/repos/${OWNER}/${REPO}/git/blobs`, 'POST', {
       content: buf.toString('base64'),
@@ -91,12 +107,27 @@ async function main() {
     }
   }
 
-  // 5. Create new tree
-  console.log('Creating new git tree on GitHub...');
+  // 5. Create new tree using base_tree
+  console.log('Creating new git tree on GitHub with base_tree...');
+  const parentCommitRes = ghApi(`/repos/${OWNER}/${REPO}/git/commits/${parentCommitSha}`);
+  const baseTreeSha = parentCommitRes.tree.sha;
+
+  const modifiedTreeEntries = toUpload.map(item => {
+    const found = treeItems.find(t => t.path === item.filePath);
+    return {
+      path: item.filePath,
+      mode: found ? found.mode : '100644',
+      type: 'blob',
+      sha: found ? found.sha : item.sha
+    };
+  });
+
   const newTreeRes = ghApi(`/repos/${OWNER}/${REPO}/git/trees`, 'POST', {
-    tree: treeItems
+    base_tree: baseTreeSha,
+    tree: modifiedTreeEntries
   });
   console.log('New tree SHA:', newTreeRes.sha);
+
 
   // 6. Create commit
   console.log('Creating commit...');
