@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState, useCallback } from 'react';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
-import { GameMap, MapLocation } from '../types';
+import { GameMap, MapLocation, RoundOffset } from '../types';
 
 interface MapViewProps {
   currentMap: GameMap | null;
@@ -9,7 +9,9 @@ interface MapViewProps {
   showGrid: boolean;
   showPipenet: boolean;
   showLocations: boolean;
+  roundOffset: RoundOffset | null;
   rulerActive: boolean;
+  locations?: MapLocation[];
   targetCoords?: { x: number; y: number } | null;
   onCoordChange: (coords: { x: number; y: number; z: number } | null) => void;
   onTileClick: (coords: { x: number; y: number; z: number }) => void;
@@ -23,7 +25,9 @@ export const MapView: React.FC<MapViewProps> = ({
   showGrid,
   showPipenet,
   showLocations,
+  roundOffset,
   rulerActive,
+  locations: propLocations,
   targetCoords,
   onCoordChange,
   onTileClick,
@@ -45,7 +49,8 @@ export const MapView: React.FC<MapViewProps> = ({
   const locationsLayerRef = useRef<L.LayerGroup | null>(null);
 
   const [isLoadingFullRes, setIsLoadingFullRes] = useState<boolean>(false);
-  const [locations, setLocations] = useState<MapLocation[]>([]);
+  const [internalLocations, setInternalLocations] = useState<MapLocation[]>([]);
+  const locations = propLocations || internalLocations;
 
 
   // Math conversions
@@ -246,16 +251,17 @@ export const MapView: React.FC<MapViewProps> = ({
     }
 
     const { lat, lng } = ss13ToLeaflet(x, y);
+    const obLabel = roundOffset ? ` | ОБ:${x + roundOffset.x},${y + roundOffset.y}` : '';
 
     const pinIcon = L.divIcon({
       className: 'ss13-pin-marker',
-      html: `<div class="pin-pulse"></div><div class="pin-label">X:${x} Y:${y}</div>`,
+      html: `<div class="pin-pulse"></div><div class="pin-label">X:${x} Y:${y}${obLabel}</div>`,
       iconSize: [24, 24],
       iconAnchor: [12, 12]
     });
 
     pinMarkerRef.current = L.marker([lat, lng], { icon: pinIcon }).addTo(map);
-  }, [ss13ToLeaflet]);
+  }, [ss13ToLeaflet, roundOffset]);
 
   const handleRulerClick = useCallback((x: number, y: number) => {
     const map = mapInstanceRef.current;
@@ -414,10 +420,11 @@ export const MapView: React.FC<MapViewProps> = ({
     };
   }, [currentMap, currentZ, showPipenet, showGrid, getBounds, getPlaceholderSvg]);
 
-  // Load location points for current map
+  // Load location points for current map if not provided via props
   useEffect(() => {
+    if (propLocations) return;
     if (!currentMap) {
-      setLocations([]);
+      setInternalLocations([]);
       return;
     }
 
@@ -428,12 +435,12 @@ export const MapView: React.FC<MapViewProps> = ({
         return [];
       })
       .then((data: MapLocation[]) => {
-        setLocations(Array.isArray(data) ? data : []);
+        setInternalLocations(Array.isArray(data) ? data : []);
       })
       .catch(() => {
-        setLocations([]);
+        setInternalLocations([]);
       });
-  }, [currentMap?.server, currentMap?.id]);
+  }, [currentMap?.server, currentMap?.id, propLocations]);
 
   // Render interactive locations layer with smart multi-tier LOD and screen-space collision detection
   useEffect(() => {
@@ -568,13 +575,16 @@ export const MapView: React.FC<MapViewProps> = ({
         // Record bounding box
         placedBoxes.push(candidateBox);
 
+        const obInfo = roundOffset ? ` | ОБ: X:${loc.x + roundOffset.x} Y:${loc.y + roundOffset.y}` : '';
+        const fullTitle = `${loc.name} (GRID: X:${loc.x} Y:${loc.y}${obInfo})`;
+
         let iconHtml = '';
         if (loc.category === 'landmark') {
-          iconHtml = `<div class="location-badge location-badge-landmark" title="${loc.name} (X:${loc.x} Y:${loc.y})"><span>📍</span><span>${loc.name}</span></div>`;
+          iconHtml = `<div class="location-badge location-badge-landmark" title="${fullTitle}"><span>📍</span><span>${loc.name}</span></div>`;
         } else if (loc.category === 'major') {
-          iconHtml = `<div class="location-badge location-badge-major" title="${loc.name} (X:${loc.x} Y:${loc.y})"><span>${loc.name}</span></div>`;
+          iconHtml = `<div class="location-badge location-badge-major" title="${fullTitle}"><span>${loc.name}</span></div>`;
         } else {
-          iconHtml = `<div class="location-badge location-badge-room" title="${loc.name} (X:${loc.x} Y:${loc.y})"><span>${loc.name}</span></div>`;
+          iconHtml = `<div class="location-badge location-badge-room" title="${fullTitle}"><span>${loc.name}</span></div>`;
         }
 
         const customIcon = L.divIcon({
@@ -616,7 +626,7 @@ export const MapView: React.FC<MapViewProps> = ({
       map.off('moveend', scheduleUpdate);
       layerGroup.clearLayers();
     };
-  }, [showLocations, currentZ, locations, currentMap, ss13ToLeaflet, setPin, onTileClick]);
+  }, [showLocations, currentZ, locations, currentMap, ss13ToLeaflet, setPin, onTileClick, roundOffset]);
 
   // Initial bounds fit or target coords
 

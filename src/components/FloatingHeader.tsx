@@ -10,9 +10,10 @@ import {
   Layers, 
   GitCommitHorizontal,
   Check,
-  MapPin
+  MapPin,
+  Target
 } from 'lucide-react';
-import { GameMap } from '../types';
+import { GameMap, RoundOffset } from '../types';
 
 interface FloatingHeaderProps {
   currentServer: 'bandamarines' | 'bandastation' | 'bandatroopers';
@@ -21,6 +22,7 @@ interface FloatingHeaderProps {
   showGrid: boolean;
   showPipenet: boolean;
   showLocations: boolean;
+  roundOffset: RoundOffset | null;
   rulerActive: boolean;
   onServerChange: (server: 'bandamarines' | 'bandastation' | 'bandatroopers') => void;
   onOpenMapSearch: () => void;
@@ -28,6 +30,7 @@ interface FloatingHeaderProps {
   onToggleGrid: () => void;
   onTogglePipenet: () => void;
   onToggleLocations: () => void;
+  onOpenCalibration: () => void;
   onToggleRuler: () => void;
   onCopyLink: () => void;
   isCopied: boolean;
@@ -43,6 +46,7 @@ export const FloatingHeader: React.FC<FloatingHeaderProps> = ({
   showGrid,
   showPipenet,
   showLocations,
+  roundOffset,
   rulerActive,
   onServerChange,
   onOpenMapSearch,
@@ -50,6 +54,7 @@ export const FloatingHeader: React.FC<FloatingHeaderProps> = ({
   onToggleGrid,
   onTogglePipenet,
   onToggleLocations,
+  onOpenCalibration,
   onToggleRuler,
   onCopyLink,
   isCopied,
@@ -161,6 +166,19 @@ export const FloatingHeader: React.FC<FloatingHeaderProps> = ({
           title="Названия секторов и зон (L)"
         >
           <MapPin className="w-4 h-4" />
+        </button>
+
+        {/* Tactical Calibration (OB & Mortar) */}
+        <button
+          onClick={onOpenCalibration}
+          className={`p-1.5 rounded-sm border transition-all ${
+            roundOffset 
+              ? 'bg-[#00e639] text-black border-[#00ff41] shadow-[0_0_12px_rgba(0,255,65,0.8)] font-bold' 
+              : 'border-[#00ff41]/30 text-[#00aa2b] hover:text-[#00ff41] hover:border-[#00ff41] bg-[#011406]'
+          }`}
+          title={roundOffset ? `Калибровка ОБ активна (ΔX:${roundOffset.x >= 0 ? `+${roundOffset.x}` : roundOffset.x}, ΔY:${roundOffset.y >= 0 ? `+${roundOffset.y}` : roundOffset.y}) [C]` : "Калибровка координат раунда для ОБ (C)"}
+        >
+          <Target className="w-4 h-4" />
         </button>
 
         {/* Toggle Pipenet */}

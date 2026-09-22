@@ -3,7 +3,8 @@ import { MapView } from './components/MapView';
 import { FloatingHeader } from './components/FloatingHeader';
 import { MapSearchModal } from './components/MapSearchModal';
 import { CoordHUD } from './components/CoordHUD';
-import { GameMap, MapsManifest } from './types';
+import { CalibrationModal } from './components/CalibrationModal';
+import { GameMap, MapsManifest, MapLocation, RoundOffset } from './types';
 
 export const App: React.FC = () => {
   const [manifest, setManifest] = useState<MapsManifest | null>(null);
@@ -15,6 +16,16 @@ export const App: React.FC = () => {
   const [showPipenet, setShowPipenet] = useState<boolean>(false);
   const [showLocations, setShowLocations] = useState<boolean>(true);
   const [rulerActive, setRulerActive] = useState<boolean>(false);
+
+  const [roundOffset, setRoundOffset] = useState<RoundOffset | null>(() => {
+    try {
+      const saved = localStorage.getItem('banda_ob_offset');
+      if (saved) return JSON.parse(saved);
+    } catch {}
+    return null;
+  });
+  const [isCalibrationOpen, setIsCalibrationOpen] = useState<boolean>(false);
+  const [locations, setLocations] = useState<MapLocation[]>([]);
 
   const [isSearchOpen, setIsSearchOpen] = useState<boolean>(false);
   const [isCopied, setIsCopied] = useState<boolean>(false);
@@ -41,6 +52,35 @@ export const App: React.FC = () => {
       });
   }, []);
 
+  // Load locations for current map
+  useEffect(() => {
+    if (!currentMap) {
+      setLocations([]);
+      return;
+    }
+
+    const locUrl = `${import.meta.env.BASE_URL}data/locations/${currentMap.server}/${currentMap.id}.json`;
+    fetch(locUrl)
+      .then(res => res.ok ? res.json() : [])
+      .then((data: MapLocation[]) => {
+        setLocations(Array.isArray(data) ? data : []);
+      })
+      .catch(() => setLocations([]));
+  }, [currentMap?.server, currentMap?.id]);
+
+  const handleSaveOffset = (offset: RoundOffset | null) => {
+    setRoundOffset(offset);
+    if (offset) {
+      localStorage.setItem('banda_ob_offset', JSON.stringify(offset));
+      const dx = offset.x >= 0 ? `+${offset.x}` : offset.x;
+      const dy = offset.y >= 0 ? `+${offset.y}` : offset.y;
+      showToast(`Калибровка ОБ активна (ΔX: ${dx}, ΔY: ${dy})`);
+    } else {
+      localStorage.removeItem('banda_ob_offset');
+      showToast('Калибровка ОБ сброшена');
+    }
+  };
+
   // Keyboard shortcuts
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
@@ -52,7 +92,7 @@ export const App: React.FC = () => {
       }
 
       // Ignore single key shortcuts if input is focused
-      if (document.activeElement?.tagName === 'INPUT' || document.activeElement?.tagName === 'TEXTAREA') {
+      if (document.activeElement?.tagName === 'INPUT' || document.activeElement?.tagName === 'TEXTAREA' || document.activeElement?.tagName === 'SELECT') {
         return;
       }
 
@@ -60,6 +100,8 @@ export const App: React.FC = () => {
         setShowLocations(prev => !prev);
       } else if (e.key.toLowerCase() === 'g' && !e.ctrlKey && !e.metaKey) {
         setShowGrid(prev => !prev);
+      } else if (e.key.toLowerCase() === 'c' && !e.ctrlKey && !e.metaKey) {
+        setIsCalibrationOpen(prev => !prev);
       }
     };
     window.addEventListener('keydown', handleKeyDown);
@@ -182,6 +224,7 @@ export const App: React.FC = () => {
         showGrid={showGrid}
         showPipenet={showPipenet}
         showLocations={showLocations}
+        roundOffset={roundOffset}
         rulerActive={rulerActive}
         onServerChange={handleServerChange}
         onOpenMapSearch={() => setIsSearchOpen(true)}
@@ -189,6 +232,7 @@ export const App: React.FC = () => {
         onToggleGrid={() => setShowGrid(!showGrid)}
         onTogglePipenet={() => setShowPipenet(!showPipenet)}
         onToggleLocations={() => setShowLocations(prev => !prev)}
+        onOpenCalibration={() => setIsCalibrationOpen(true)}
         onToggleRuler={() => setRulerActive(!rulerActive)}
         onCopyLink={handleCopyLink}
         isCopied={isCopied}
@@ -203,6 +247,8 @@ export const App: React.FC = () => {
         showGrid={showGrid}
         showPipenet={showPipenet}
         showLocations={showLocations}
+        roundOffset={roundOffset}
+        locations={locations}
         rulerActive={rulerActive}
         targetCoords={targetCoords}
         onCoordChange={setActiveCoords}
@@ -214,8 +260,11 @@ export const App: React.FC = () => {
       {/* Tactical Bottom Corner HUD */}
       <CoordHUD
         coords={activeCoords}
+        roundOffset={roundOffset}
         onResetView={() => resetViewFnRef.current?.()}
         onGoToCoords={(x, y) => goToCoordsFnRef.current?.(x, y)}
+        onOpenCalibration={() => setIsCalibrationOpen(true)}
+        onCopyNotice={showToast}
       />
 
       {/* Late Join / Weyland-Yutani Map Search Modal */}
@@ -225,6 +274,16 @@ export const App: React.FC = () => {
         maps={currentMapsList}
         currentMapId={currentMap?.id || ''}
         onSelectMap={handleSelectMap}
+      />
+
+      {/* Round Tactical OB & Mortar Calibration Modal */}
+      <CalibrationModal
+        isOpen={isCalibrationOpen}
+        onClose={() => setIsCalibrationOpen(false)}
+        currentMap={currentMap}
+        locations={locations}
+        currentOffset={roundOffset}
+        onSaveOffset={handleSaveOffset}
       />
 
       {/* Weyland-Yutani Terminal Toast Notification */}

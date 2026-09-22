@@ -17,6 +17,11 @@ export interface MapLocation {
   category: 'landmark' | 'major' | 'room';
 }
 
+export interface RoundOffset {
+  x: number;
+  y: number;
+}
+
 export interface GameMap {
   id: string;
   server: 'bandamarines' | 'bandastation' | 'bandatroopers';
