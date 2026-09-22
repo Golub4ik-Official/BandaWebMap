@@ -435,7 +435,7 @@ export const MapView: React.FC<MapViewProps> = ({
       });
   }, [currentMap?.server, currentMap?.id]);
 
-  // Render interactive locations layer with zoom-adaptive LOD
+  // Render interactive locations layer with smart multi-tier LOD and screen-space collision detection
   useEffect(() => {
     const map = mapInstanceRef.current;
     if (!map) return;
@@ -453,21 +453,120 @@ export const MapView: React.FC<MapViewProps> = ({
     const updateVisibleMarkers = () => {
       layerGroup.clearLayers();
       const zoom = map.getZoom();
+      const mapSize = map.getSize();
+      const viewportPad = 120; // Allow smooth entrance of markers near viewport borders
 
       const zLocations = locations.filter(l => l.z === currentZ);
+      if (zLocations.length === 0) return;
 
-      zLocations.forEach(loc => {
-        // Zoom-level Level of Detail (LOD)
-        // Zoom <= -0.5: show only landmarks and major areas (Western Caves, Sand Temple, LZ)
-        if (zoom <= -0.5 && loc.category === 'room') {
-          return;
+      // 1. Strict Multi-tier Level of Detail (LOD)
+      const candidates = zLocations.filter(loc => {
+        // Zoom <= 1.0 (Full Overview): Only top strategic landmarks and giant sectors
+        if (zoom <= 1.0) {
+          if (loc.category === 'landmark') return true;
+          if (loc.category === 'major' && loc.tileCount >= 400) return true;
+          return false;
         }
-        // Zoom < 1.0: show landmarks, major, and larger rooms (>= 25 tiles)
-        if (zoom < 1.0 && loc.category === 'room' && loc.tileCount < 25) {
-          return;
+        // Zoom <= 2.2 (District Overview): Landmarks, major sectors, and large complexes
+        if (zoom <= 2.2) {
+          if (loc.category === 'landmark') return true;
+          if (loc.category === 'major' && loc.tileCount >= 80) return true;
+          if (loc.category === 'room' && loc.tileCount >= 90) return true;
+          return false;
         }
+        // Zoom <= 3.2 (Sector Overview): Landmarks, all major sectors, and medium rooms
+        if (zoom <= 3.2) {
+          if (loc.category !== 'room') return true;
+          return loc.tileCount >= 25;
+        }
+        // Zoom > 3.2 (Close Inspection): Show all rooms down to small compartments
+        return true;
+      });
 
+      // 2. Sort candidates by priority: Landmarks first, then Major, then Rooms (largest tileCount first)
+      candidates.sort((a, b) => {
+        const getRank = (loc: MapLocation) => {
+          if (loc.category === 'landmark') return 1000000;
+          if (loc.category === 'major') return 100000;
+          return 10000;
+        };
+        const rankDiff = getRank(b) - getRank(a);
+        if (rankDiff !== 0) return rankDiff;
+        return b.tileCount - a.tileCount;
+      });
+
+      // 3. Screen-space Collision Detection (Anti-overlap Bounding Box)
+      interface ScreenBox {
+        left: number;
+        right: number;
+        top: number;
+        bottom: number;
+      }
+      const placedBoxes: ScreenBox[] = [];
+
+      candidates.forEach(loc => {
         const { lat, lng } = ss13ToLeaflet(loc.x, loc.y);
+        const pt = map.latLngToContainerPoint([lat, lng]);
+
+        // Discard markers that are far outside current screen viewport
+        if (
+          pt.x < -viewportPad ||
+          pt.x > mapSize.x + viewportPad ||
+          pt.y < -viewportPad ||
+          pt.y > mapSize.y + viewportPad
+        ) {
+          return;
+        }
+
+        // Calculate accurate badge dimensions for Share Tech Mono
+        let badgeW = 0;
+        let badgeH = 26;
+        if (loc.category === 'landmark') {
+          badgeW = Math.round(loc.name.length * 8.2 + 36);
+          badgeH = 28;
+        } else if (loc.category === 'major') {
+          badgeW = Math.round(loc.name.length * 8.0 + 24);
+          badgeH = 26;
+        } else {
+          badgeW = Math.round(loc.name.length * 7.2 + 16);
+          badgeH = 22;
+        }
+
+        // Spacing gap between badges in pixels to avoid visual crowding
+        const gapX = 10;
+        const gapY = 8;
+        const halfW = badgeW / 2 + gapX / 2;
+        const halfH = badgeH / 2 + gapY / 2;
+
+        const candidateBox: ScreenBox = {
+          left: pt.x - halfW,
+          right: pt.x + halfW,
+          top: pt.y - halfH,
+          bottom: pt.y + halfH
+        };
+
+        // Check intersection with all previously placed higher-priority boxes
+        let collides = false;
+        for (const placed of placedBoxes) {
+          const overlaps = !(
+            candidateBox.right < placed.left ||
+            candidateBox.left > placed.right ||
+            candidateBox.bottom < placed.top ||
+            candidateBox.top > placed.bottom
+          );
+          if (overlaps) {
+            collides = true;
+            break;
+          }
+        }
+
+        // Skip marker if it collides with another marker on screen
+        if (collides) {
+          return;
+        }
+
+        // Record bounding box
+        placedBoxes.push(candidateBox);
 
         let iconHtml = '';
         if (loc.category === 'landmark') {
@@ -481,8 +580,8 @@ export const MapView: React.FC<MapViewProps> = ({
         const customIcon = L.divIcon({
           className: 'map-location-marker',
           html: iconHtml,
-          iconSize: undefined,
-          iconAnchor: [0, 0]
+          iconSize: [badgeW, badgeH],
+          iconAnchor: [badgeW / 2, badgeH / 2]
         });
 
         const marker = L.marker([lat, lng], {
@@ -501,11 +600,20 @@ export const MapView: React.FC<MapViewProps> = ({
       });
     };
 
+    let animFrameId: number | null = null;
+    const scheduleUpdate = () => {
+      if (animFrameId !== null) cancelAnimationFrame(animFrameId);
+      animFrameId = requestAnimationFrame(updateVisibleMarkers);
+    };
+
     updateVisibleMarkers();
-    map.on('zoomend', updateVisibleMarkers);
+    map.on('zoomend', scheduleUpdate);
+    map.on('moveend', scheduleUpdate);
 
     return () => {
-      map.off('zoomend', updateVisibleMarkers);
+      if (animFrameId !== null) cancelAnimationFrame(animFrameId);
+      map.off('zoomend', scheduleUpdate);
+      map.off('moveend', scheduleUpdate);
       layerGroup.clearLayers();
     };
   }, [showLocations, currentZ, locations, currentMap, ss13ToLeaflet, setPin, onTileClick]);
