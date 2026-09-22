@@ -1,0 +1,182 @@
+[
+  {
+    "id": "/area/station/engineering/storage",
+    "name": "Engineering Storage",
+    "z": 3,
+    "x": 27,
+    "y": 26,
+    "tileCount": 975,
+    "bounds": [
+      11,
+      11,
+      42,
+      42
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/station/hallway/secondary/service",
+    "name": "Service Hallway",
+    "z": 2,
+    "x": 27,
+    "y": 26,
+    "tileCount": 742,
+    "bounds": [
+      13,
+      13,
+      40,
+      40
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/station/hallway/secondary/entry",
+    "name": "Arrival Shuttle Hallway",
+    "z": 1,
+    "x": 38,
+    "y": 31,
+    "tileCount": 48,
+    "bounds": [
+      35,
+      28,
+      42,
+      34
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/engineering/atmos",
+    "name": "Atmospherics",
+    "z": 1,
+    "x": 16,
+    "y": 37,
+    "tileCount": 47,
+    "bounds": [
+      13,
+      34,
+      19,
+      40
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/command/bridge",
+    "name": "Bridge",
+    "z": 1,
+    "x": 23,
+    "y": 32,
+    "tileCount": 45,
+    "bounds": [
+      19,
+      30,
+      27,
+      34
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/maintenance/department/bridge",
+    "name": "Bridge Maintenance",
+    "z": 1,
+    "x": 26,
+    "y": 25,
+    "tileCount": 220,
+    "bounds": [
+      11,
+      11,
+      42,
+      42
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/maintenance/department/bridge",
+    "name": "Bridge Maintenance",
+    "z": 2,
+    "x": 27,
+    "y": 26,
+    "tileCount": 226,
+    "bounds": [
+      11,
+      11,
+      42,
+      42
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/hallway/primary/central",
+    "name": "Central Primary Hallway",
+    "z": 1,
+    "x": 24,
+    "y": 30,
+    "tileCount": 119,
+    "bounds": [
+      13,
+      27,
+      34,
+      34
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/construction",
+    "name": "Construction Area",
+    "z": 1,
+    "x": 19,
+    "y": 20,
+    "tileCount": 182,
+    "bounds": [
+      13,
+      13,
+      25,
+      26
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/engineering/main",
+    "name": "Engineering",
+    "z": 1,
+    "x": 28,
+    "y": 37,
+    "tileCount": 33,
+    "bounds": [
+      25,
+      34,
+      30,
+      40
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/engineering/gravity_generator",
+    "name": "Gravity Generator Room",
+    "z": 1,
+    "x": 35,
+    "y": 37,
+    "tileCount": 64,
+    "bounds": [
+      31,
+      34,
+      40,
+      40
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/commons/storage/primary",
+    "name": "Primary Tool Storage",
+    "z": 1,
+    "x": 33,
+    "y": 20,
+    "tileCount": 216,
+    "bounds": [
+      26,
+      13,
+      40,
+      27
+    ],
+    "category": "room"
+  }
+]

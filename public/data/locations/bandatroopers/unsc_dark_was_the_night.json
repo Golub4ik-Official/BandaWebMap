@@ -1,0 +1,302 @@
+[
+  {
+    "id": "/area/dark_was_the_night",
+    "name": "dark_was_the_night",
+    "z": 1,
+    "x": 35,
+    "y": 79,
+    "tileCount": 7732,
+    "bounds": [
+      1,
+      1,
+      92,
+      150
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/dark_was_the_night/hangar",
+    "name": "Ангар",
+    "z": 1,
+    "x": 120,
+    "y": 59,
+    "tileCount": 4769,
+    "bounds": [
+      85,
+      11,
+      149,
+      119
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/dark_was_the_night/motor_pool/heavy",
+    "name": "Ангар бронетехники",
+    "z": 1,
+    "x": 74,
+    "y": 22,
+    "tileCount": 1749,
+    "bounds": [
+      50,
+      4,
+      102,
+      43
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/dark_was_the_night/upper_hallway",
+    "name": "Верхний коридор",
+    "z": 1,
+    "x": 71,
+    "y": 104,
+    "tileCount": 644,
+    "bounds": [
+      56,
+      82,
+      92,
+      140
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/dark_was_the_night/lower_hallway",
+    "name": "Нижний коридор",
+    "z": 1,
+    "x": 70,
+    "y": 52,
+    "tileCount": 499,
+    "bounds": [
+      50,
+      43,
+      84,
+      61
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/dark_was_the_night/armory",
+    "name": "Оружейная",
+    "z": 1,
+    "x": 75,
+    "y": 127,
+    "tileCount": 427,
+    "bounds": [
+      61,
+      117,
+      88,
+      141
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/dark_was_the_night/supply",
+    "name": "Склад снабжения",
+    "z": 1,
+    "x": 40,
+    "y": 50,
+    "tileCount": 503,
+    "bounds": [
+      31,
+      31,
+      49,
+      67
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/dark_was_the_night/medical",
+    "name": "Аварийный медотсек",
+    "z": 1,
+    "x": 71,
+    "y": 68,
+    "tileCount": 318,
+    "bounds": [
+      58,
+      61,
+      81,
+      79
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/dark_was_the_night/motor_pool",
+    "name": "Ангар техники",
+    "z": 1,
+    "x": 54,
+    "y": 46,
+    "tileCount": 202,
+    "bounds": [
+      47,
+      40,
+      61,
+      53
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/dark_was_the_night/briefing",
+    "name": "Зал брифинга",
+    "z": 1,
+    "x": 70,
+    "y": 112,
+    "tileCount": 221,
+    "bounds": [
+      61,
+      106,
+      79,
+      118
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/dark_was_the_night/engineering",
+    "name": "Инженерный отсек",
+    "z": 1,
+    "x": 50,
+    "y": 87,
+    "tileCount": 77,
+    "bounds": [
+      44,
+      76,
+      67,
+      121
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/dark_was_the_night/cryo_hall",
+    "name": "Коридор криоотсека",
+    "z": 1,
+    "x": 36,
+    "y": 110,
+    "tileCount": 183,
+    "bounds": [
+      24,
+      105,
+      44,
+      121
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/dark_was_the_night/cryo_bay/one",
+    "name": "Криоотсек 1",
+    "z": 1,
+    "x": 34,
+    "y": 93,
+    "tileCount": 302,
+    "bounds": [
+      27,
+      83,
+      41,
+      104
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/dark_was_the_night/cryo_bay/two",
+    "name": "Криоотсек 2",
+    "z": 1,
+    "x": 34,
+    "y": 123,
+    "tileCount": 302,
+    "bounds": [
+      27,
+      112,
+      41,
+      133
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/dark_was_the_night/dorms",
+    "name": "Кубрики",
+    "z": 1,
+    "x": 68,
+    "y": 95,
+    "tileCount": 170,
+    "bounds": [
+      62,
+      86,
+      73,
+      103
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/dark_was_the_night/kitchen",
+    "name": "Кухня",
+    "z": 1,
+    "x": 46,
+    "y": 98,
+    "tileCount": 88,
+    "bounds": [
+      40,
+      93,
+      55,
+      101
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/dark_was_the_night/kitchen/freezer",
+    "name": "Морозильник",
+    "z": 1,
+    "x": 52,
+    "y": 94,
+    "tileCount": 42,
+    "bounds": [
+      49,
+      92,
+      55,
+      97
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/dark_was_the_night/lower_cargo",
+    "name": "Нижние грузовые отсеки",
+    "z": 1,
+    "x": 35,
+    "y": 49,
+    "tileCount": 99,
+    "bounds": [
+      31,
+      44,
+      39,
+      54
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/dark_was_the_night/bathroom",
+    "name": "Санузел",
+    "z": 1,
+    "x": 76,
+    "y": 96,
+    "tileCount": 63,
+    "bounds": [
+      73,
+      90,
+      78,
+      101
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/dark_was_the_night/canteen",
+    "name": "Столовая",
+    "z": 1,
+    "x": 50,
+    "y": 111,
+    "tileCount": 269,
+    "bounds": [
+      40,
+      101,
+      57,
+      121
+    ],
+    "category": "room"
+  }
+]

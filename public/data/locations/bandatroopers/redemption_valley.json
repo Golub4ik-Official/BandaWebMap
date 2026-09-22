@@ -1,0 +1,737 @@
+[
+  {
+    "id": "/area/redemptionvalley/valleyroof/cliffcomms",
+    "name": "Clifftop - T-Comms",
+    "z": 1,
+    "x": 186,
+    "y": 211,
+    "tileCount": 30,
+    "bounds": [
+      184,
+      209,
+      189,
+      213
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/outpost/armory",
+    "name": "Military Base - Armory",
+    "z": 1,
+    "x": 130,
+    "y": 242,
+    "tileCount": 61,
+    "bounds": [
+      127,
+      237,
+      135,
+      245
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/outpost/barracks",
+    "name": "Military Base - Barracks",
+    "z": 1,
+    "x": 144,
+    "y": 241,
+    "tileCount": 80,
+    "bounds": [
+      136,
+      237,
+      149,
+      246
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/outpost/brief",
+    "name": "Military Base - Briefing Hall",
+    "z": 1,
+    "x": 130,
+    "y": 223,
+    "tileCount": 70,
+    "bounds": [
+      126,
+      220,
+      135,
+      226
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/outpost/bunkeast",
+    "name": "Military Base - Bunkers East",
+    "z": 1,
+    "x": 118,
+    "y": 210,
+    "tileCount": 78,
+    "bounds": [
+      112,
+      204,
+      126,
+      221
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/outpost/bunkwest",
+    "name": "Military Base - Bunkers West",
+    "z": 1,
+    "x": 102,
+    "y": 213,
+    "tileCount": 52,
+    "bounds": [
+      98,
+      206,
+      107,
+      221
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/outpost/canteen",
+    "name": "Military Base - Canteen",
+    "z": 1,
+    "x": 141,
+    "y": 245,
+    "tileCount": 51,
+    "bounds": [
+      137,
+      242,
+      145,
+      247
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/outpost/cavestruct",
+    "name": "Military Base - Cave Structures",
+    "z": 1,
+    "x": 104,
+    "y": 237,
+    "tileCount": 133,
+    "bounds": [
+      95,
+      226,
+      112,
+      242
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/shuttles/drop2",
+    "name": "Military Base - Clifftop Landing Pad",
+    "z": 1,
+    "x": 190,
+    "y": 237,
+    "tileCount": 209,
+    "bounds": [
+      185,
+      228,
+      195,
+      246
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/outpost/elevlow",
+    "name": "Military Base - Elevator Lower",
+    "z": 1,
+    "x": 149,
+    "y": 218,
+    "tileCount": 132,
+    "bounds": [
+      125,
+      211,
+      159,
+      224
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/outpost/elevup",
+    "name": "Military Base - Elevator Upper",
+    "z": 1,
+    "x": 165,
+    "y": 240,
+    "tileCount": 201,
+    "bounds": [
+      154,
+      232,
+      177,
+      248
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/outpost/engi",
+    "name": "Military Base - Engineering",
+    "z": 1,
+    "x": 160,
+    "y": 215,
+    "tileCount": 97,
+    "bounds": [
+      156,
+      208,
+      163,
+      224
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/outpost/entry",
+    "name": "Military Base - Entryway",
+    "z": 1,
+    "x": 121,
+    "y": 233,
+    "tileCount": 112,
+    "bounds": [
+      118,
+      225,
+      125,
+      242
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/outpost/flight",
+    "name": "Military Base - Flight Control",
+    "z": 1,
+    "x": 175,
+    "y": 243,
+    "tileCount": 68,
+    "bounds": [
+      171,
+      237,
+      177,
+      248
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/outpost/halls",
+    "name": "Military Base - Hallways",
+    "z": 1,
+    "x": 137,
+    "y": 227,
+    "tileCount": 274,
+    "bounds": [
+      125,
+      212,
+      146,
+      241
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/outpost/cells",
+    "name": "Military Base - Holding Cells",
+    "z": 1,
+    "x": 138,
+    "y": 216,
+    "tileCount": 56,
+    "bounds": [
+      135,
+      213,
+      142,
+      219
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/outpost/medical",
+    "name": "Military Base - Medical",
+    "z": 1,
+    "x": 138,
+    "y": 234,
+    "tileCount": 69,
+    "bounds": [
+      135,
+      230,
+      142,
+      239
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/outpost/ops",
+    "name": "Military Base - Operations Room",
+    "z": 1,
+    "x": 166,
+    "y": 232,
+    "tileCount": 95,
+    "bounds": [
+      161,
+      228,
+      172,
+      237
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/outpost/toilet",
+    "name": "Military Base - Toilets",
+    "z": 1,
+    "x": 147,
+    "y": 231,
+    "tileCount": 60,
+    "bounds": [
+      141,
+      225,
+      149,
+      236
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/oob/buttons",
+    "name": "Out of Bounds",
+    "z": 1,
+    "x": 114,
+    "y": 175,
+    "tileCount": 6,
+    "bounds": [
+      5,
+      8,
+      242,
+      230
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/valleyroof/cafe",
+    "name": "Redemption Valley - Cafe",
+    "z": 1,
+    "x": 111,
+    "y": 48,
+    "tileCount": 210,
+    "bounds": [
+      104,
+      40,
+      119,
+      55
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/caverns/bunker",
+    "name": "Redemption Valley - Caves Bunker",
+    "z": 1,
+    "x": 90,
+    "y": 232,
+    "tileCount": 2875,
+    "bounds": [
+      31,
+      200,
+      164,
+      249
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/caverns/entry",
+    "name": "Redemption Valley - Caves Central",
+    "z": 1,
+    "x": 125,
+    "y": 159,
+    "tileCount": 2666,
+    "bounds": [
+      61,
+      106,
+      184,
+      191
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/caverns/lake",
+    "name": "Redemption Valley - Caves Lake",
+    "z": 1,
+    "x": 181,
+    "y": 55,
+    "tileCount": 14654,
+    "bounds": [
+      2,
+      2,
+      247,
+      227
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/caverns/west",
+    "name": "Redemption Valley - Caves Lower",
+    "z": 1,
+    "x": 333,
+    "y": 114,
+    "tileCount": 18379,
+    "bounds": [
+      260,
+      2,
+      399,
+      201
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/caverns/north",
+    "name": "Redemption Valley - Caves Upper",
+    "z": 1,
+    "x": 322,
+    "y": 221,
+    "tileCount": 7312,
+    "bounds": [
+      260,
+      181,
+      399,
+      249
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/caverns/east",
+    "name": "Redemption Valley - Caves Valley",
+    "z": 1,
+    "x": 41,
+    "y": 149,
+    "tileCount": 9550,
+    "bounds": [
+      2,
+      19,
+      247,
+      249
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/valley/cliff",
+    "name": "Redemption Valley - Clifftop",
+    "z": 1,
+    "x": 183,
+    "y": 225,
+    "tileCount": 1276,
+    "bounds": [
+      152,
+      203,
+      202,
+      249
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/valleyroof/company",
+    "name": "Redemption Valley - Company Housing",
+    "z": 1,
+    "x": 144,
+    "y": 93,
+    "tileCount": 200,
+    "bounds": [
+      137,
+      86,
+      152,
+      101
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/valleyroof/engi",
+    "name": "Redemption Valley - Engineering",
+    "z": 1,
+    "x": 126,
+    "y": 55,
+    "tileCount": 165,
+    "bounds": [
+      122,
+      45,
+      131,
+      67
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/valleyroof/housefive",
+    "name": "Redemption Valley - House Five",
+    "z": 1,
+    "x": 144,
+    "y": 139,
+    "tileCount": 164,
+    "bounds": [
+      133,
+      132,
+      157,
+      143
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/valleyroof/housefour",
+    "name": "Redemption Valley - House Four",
+    "z": 1,
+    "x": 143,
+    "y": 114,
+    "tileCount": 164,
+    "bounds": [
+      120,
+      100,
+      166,
+      128
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/valleyroof/houseone",
+    "name": "Redemption Valley - House One",
+    "z": 1,
+    "x": 18,
+    "y": 36,
+    "tileCount": 80,
+    "bounds": [
+      14,
+      32,
+      23,
+      39
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/valleyroof/housesix",
+    "name": "Redemption Valley - House Six",
+    "z": 1,
+    "x": 178,
+    "y": 120,
+    "tileCount": 80,
+    "bounds": [
+      174,
+      115,
+      181,
+      124
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/valleyroof/housethree",
+    "name": "Redemption Valley - House Three",
+    "z": 1,
+    "x": 42,
+    "y": 64,
+    "tileCount": 80,
+    "bounds": [
+      37,
+      61,
+      46,
+      68
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/valleyroof/housetwo",
+    "name": "Redemption Valley - House Two",
+    "z": 1,
+    "x": 50,
+    "y": 26,
+    "tileCount": 80,
+    "bounds": [
+      46,
+      21,
+      53,
+      30
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/valleyroof/hydro",
+    "name": "Redemption Valley - Hydroponics",
+    "z": 1,
+    "x": 208,
+    "y": 144,
+    "tileCount": 284,
+    "bounds": [
+      187,
+      131,
+      224,
+      153
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/valleyroof/laundro",
+    "name": "Redemption Valley - Laundromat",
+    "z": 1,
+    "x": 112,
+    "y": 58,
+    "tileCount": 40,
+    "bounds": [
+      108,
+      56,
+      115,
+      60
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/valleyroof/medical",
+    "name": "Redemption Valley - Medical",
+    "z": 1,
+    "x": 86,
+    "y": 76,
+    "tileCount": 167,
+    "bounds": [
+      79,
+      70,
+      94,
+      81
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/valleyroof/storage",
+    "name": "Redemption Valley - Pod Storage",
+    "z": 1,
+    "x": 73,
+    "y": 81,
+    "tileCount": 252,
+    "bounds": [
+      57,
+      28,
+      87,
+      117
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/valleyroof/security",
+    "name": "Redemption Valley - Security Office",
+    "z": 1,
+    "x": 63,
+    "y": 65,
+    "tileCount": 252,
+    "bounds": [
+      51,
+      56,
+      76,
+      76
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/valleyroof/admin",
+    "name": "Redemption Valley - Site Administration",
+    "z": 1,
+    "x": 109,
+    "y": 35,
+    "tileCount": 170,
+    "bounds": [
+      100,
+      30,
+      119,
+      41
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/valleyroof/server",
+    "name": "Redemption Valley - Site Server Room",
+    "z": 1,
+    "x": 116,
+    "y": 38,
+    "tileCount": 28,
+    "bounds": [
+      114,
+      36,
+      119,
+      40
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/valleyroof/store",
+    "name": "Redemption Valley - Store",
+    "z": 1,
+    "x": 38,
+    "y": 44,
+    "tileCount": 252,
+    "bounds": [
+      26,
+      33,
+      49,
+      53
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/shuttles/drop1",
+    "name": "Redemption Valley - Supply Pad",
+    "z": 1,
+    "x": 88,
+    "y": 36,
+    "tileCount": 305,
+    "bounds": [
+      80,
+      25,
+      95,
+      47
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/valley/checkpoint",
+    "name": "Redemption Valley Checkpoint",
+    "z": 1,
+    "x": 119,
+    "y": 201,
+    "tileCount": 1290,
+    "bounds": [
+      84,
+      179,
+      150,
+      221
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/valley/proper",
+    "name": "Redemption Valley Main Road",
+    "z": 1,
+    "x": 144,
+    "y": 118,
+    "tileCount": 17804,
+    "bounds": [
+      2,
+      7,
+      247,
+      244
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/valley/Westbound",
+    "name": "Redemption Valley Westbound",
+    "z": 1,
+    "x": 61,
+    "y": 166,
+    "tileCount": 5468,
+    "bounds": [
+      2,
+      81,
+      114,
+      235
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/redemptionvalley/caverns/ruin",
+    "name": "Valley Ruins",
+    "z": 1,
+    "x": 327,
+    "y": 32,
+    "tileCount": 6721,
+    "bounds": [
+      260,
+      2,
+      387,
+      77
+    ],
+    "category": "major"
+  }
+]

@@ -1,0 +1,947 @@
+[
+  {
+    "id": "/area/bosenmori/mountain/temple_under",
+    "name": "Ruins Internal",
+    "z": 1,
+    "x": 265,
+    "y": 126,
+    "tileCount": 2040,
+    "bounds": [
+      232,
+      111,
+      306,
+      143
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/bosenmori/mountain/temple_ruins",
+    "name": "Ruins Perimeter",
+    "z": 1,
+    "x": 149,
+    "y": 146,
+    "tileCount": 1050,
+    "bounds": [
+      127,
+      134,
+      174,
+      160
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/bosenmori/mountain/temple_proper",
+    "name": "Temple Proper",
+    "z": 1,
+    "x": 151,
+    "y": 124,
+    "tileCount": 956,
+    "bounds": [
+      128,
+      112,
+      174,
+      135
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/bosenmori/mountain/unknown_level_temple",
+    "name": "Unknown",
+    "z": 1,
+    "x": 309,
+    "y": 199,
+    "tileCount": 8541,
+    "bounds": [
+      219,
+      164,
+      384,
+      225
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/bosenmori/mountain/abandoned_dome_under",
+    "name": "Abandoned Dome",
+    "z": 1,
+    "x": 227,
+    "y": 98,
+    "tileCount": 2906,
+    "bounds": [
+      219,
+      6,
+      244,
+      181
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/mountain/abandoned",
+    "name": "Abandoned Sector",
+    "z": 1,
+    "x": 26,
+    "y": 194,
+    "tileCount": 2617,
+    "bounds": [
+      2,
+      6,
+      60,
+      225
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/shuttles/drop1",
+    "name": "Bosenmori Basho - Cargo Landing",
+    "z": 1,
+    "x": 152,
+    "y": 35,
+    "tileCount": 1079,
+    "bounds": [
+      134,
+      14,
+      165,
+      57
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/shuttles/drop2",
+    "name": "Bosenmori Basho - Corporate Landing",
+    "z": 1,
+    "x": 37,
+    "y": 42,
+    "tileCount": 1088,
+    "bounds": [
+      23,
+      21,
+      54,
+      64
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/shuttles/drop3",
+    "name": "Bosenmori Basho - Mountain Landing",
+    "z": 1,
+    "x": 154,
+    "y": 206,
+    "tileCount": 472,
+    "bounds": [
+      143,
+      193,
+      164,
+      219
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/outside/river",
+    "name": "Bosenmori River",
+    "z": 1,
+    "x": 66,
+    "y": 95,
+    "tileCount": 2032,
+    "bounds": [
+      2,
+      33,
+      174,
+      128
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/interior_heavy/Mai_sewer",
+    "name": "Bosenmori Sewage System",
+    "z": 1,
+    "x": 305,
+    "y": 57,
+    "tileCount": 1782,
+    "bounds": [
+      273,
+      31,
+      338,
+      77
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/interior_glass/cargo",
+    "name": "Cargo Department",
+    "z": 1,
+    "x": 143,
+    "y": 60,
+    "tileCount": 531,
+    "bounds": [
+      129,
+      40,
+      157,
+      76
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/interior_heavy/Mai_cargo",
+    "name": "Cargo Lower-Level",
+    "z": 1,
+    "x": 361,
+    "y": 68,
+    "tileCount": 1382,
+    "bounds": [
+      334,
+      49,
+      384,
+      83
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/mountain/river",
+    "name": "Cavern River",
+    "z": 1,
+    "x": 91,
+    "y": 198,
+    "tileCount": 1123,
+    "bounds": [
+      68,
+      129,
+      112,
+      225
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/interior_regular/operations",
+    "name": "Colony Operation Center",
+    "z": 1,
+    "x": 127,
+    "y": 46,
+    "tileCount": 142,
+    "bounds": [
+      122,
+      39,
+      132,
+      54
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/outside/east_barrens",
+    "name": "East Barrens",
+    "z": 1,
+    "x": 154,
+    "y": 90,
+    "tileCount": 1483,
+    "bounds": [
+      130,
+      66,
+      174,
+      115
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/interior_heavy/Mai_engineering",
+    "name": "Engineering Lower-Level",
+    "z": 1,
+    "x": 316,
+    "y": 13,
+    "tileCount": 940,
+    "bounds": [
+      294,
+      2,
+      335,
+      33
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/mountain/field_post",
+    "name": "Field Research Site",
+    "z": 1,
+    "x": 110,
+    "y": 167,
+    "tileCount": 2525,
+    "bounds": [
+      93,
+      123,
+      134,
+      225
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/outside/filtration",
+    "name": "Filtration Sector",
+    "z": 1,
+    "x": 114,
+    "y": 120,
+    "tileCount": 471,
+    "bounds": [
+      102,
+      100,
+      128,
+      132
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/interior_heavy/Mai_food",
+    "name": "Food Processing Lower-Level",
+    "z": 1,
+    "x": 324,
+    "y": 82,
+    "tileCount": 678,
+    "bounds": [
+      310,
+      60,
+      341,
+      96
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/interior_glass/living",
+    "name": "Living Sector",
+    "z": 1,
+    "x": 59,
+    "y": 60,
+    "tileCount": 369,
+    "bounds": [
+      49,
+      50,
+      69,
+      70
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/interior_heavy/Mai_hall",
+    "name": "Maintenance Segment",
+    "z": 1,
+    "x": 296,
+    "y": 37,
+    "tileCount": 1679,
+    "bounds": [
+      248,
+      2,
+      385,
+      62
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/mountain/mining",
+    "name": "Mining Sector",
+    "z": 1,
+    "x": 32,
+    "y": 149,
+    "tileCount": 3674,
+    "bounds": [
+      2,
+      116,
+      68,
+      186
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/mountain/clearing",
+    "name": "Mountain Clearing",
+    "z": 1,
+    "x": 147,
+    "y": 192,
+    "tileCount": 3161,
+    "bounds": [
+      109,
+      152,
+      174,
+      225
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/interior_heavy/Mai_nexus",
+    "name": "Nexus Lower-Level",
+    "z": 1,
+    "x": 344,
+    "y": 34,
+    "tileCount": 532,
+    "bounds": [
+      320,
+      18,
+      361,
+      49
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/interior_glass/nexus",
+    "name": "Nexus Main Hall",
+    "z": 1,
+    "x": 118,
+    "y": 36,
+    "tileCount": 487,
+    "bounds": [
+      99,
+      18,
+      137,
+      54
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/outside/north_barrens",
+    "name": "North Barrens",
+    "z": 1,
+    "x": 69,
+    "y": 97,
+    "tileCount": 2462,
+    "bounds": [
+      30,
+      63,
+      130,
+      128
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/outside/north_area",
+    "name": "North Sector",
+    "z": 1,
+    "x": 100,
+    "y": 77,
+    "tileCount": 1265,
+    "bounds": [
+      60,
+      50,
+      135,
+      106
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/mountain/pilgrim",
+    "name": "Pilgrim Path",
+    "z": 1,
+    "x": 72,
+    "y": 172,
+    "tileCount": 2748,
+    "bounds": [
+      48,
+      125,
+      91,
+      225
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/interior_heavy/Mai_research",
+    "name": "Research Lower-Level",
+    "z": 1,
+    "x": 303,
+    "y": 72,
+    "tileCount": 363,
+    "bounds": [
+      291,
+      61,
+      313,
+      81
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/interior_heavy/Mai_secure_arm",
+    "name": "Secure Armory Lower-Level",
+    "z": 1,
+    "x": 269,
+    "y": 13,
+    "tileCount": 427,
+    "bounds": [
+      260,
+      2,
+      278,
+      24
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/interior_glass/shipment",
+    "name": "Shipment Department",
+    "z": 1,
+    "x": 132,
+    "y": 15,
+    "tileCount": 405,
+    "bounds": [
+      123,
+      1,
+      142,
+      33
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/interior_heavy/Mai_shipment",
+    "name": "Shipment Lower-Level",
+    "z": 1,
+    "x": 348,
+    "y": 11,
+    "tileCount": 503,
+    "bounds": [
+      336,
+      1,
+      361,
+      31
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/outside/east_area",
+    "name": "Southeast Sector",
+    "z": 1,
+    "x": 164,
+    "y": 30,
+    "tileCount": 930,
+    "bounds": [
+      134,
+      6,
+      175,
+      65
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/outside/south_area",
+    "name": "Southwest Sector",
+    "z": 1,
+    "x": 85,
+    "y": 12,
+    "tileCount": 1416,
+    "bounds": [
+      42,
+      1,
+      127,
+      29
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/interior_heavy/Mai_tree",
+    "name": "Terranium Lower-Level",
+    "z": 1,
+    "x": 309,
+    "y": 35,
+    "tileCount": 351,
+    "bounds": [
+      299,
+      24,
+      319,
+      45
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/mountain/first_level_caves",
+    "name": "Underground Cave Network",
+    "z": 1,
+    "x": 282,
+    "y": 160,
+    "tileCount": 2638,
+    "bounds": [
+      237,
+      140,
+      319,
+      182
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/interior_heavy/Mai_caves",
+    "name": "Underground Local Cave Network",
+    "z": 1,
+    "x": 362,
+    "y": 22,
+    "tileCount": 1098,
+    "bounds": [
+      292,
+      2,
+      384,
+      40
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/mountain/unknown_level_caves",
+    "name": "Unknown",
+    "z": 1,
+    "x": 343,
+    "y": 128,
+    "tileCount": 5411,
+    "bounds": [
+      284,
+      98,
+      384,
+      163
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/outside/west_barrens",
+    "name": "West Barrens",
+    "z": 1,
+    "x": 15,
+    "y": 55,
+    "tileCount": 2166,
+    "bounds": [
+      2,
+      1,
+      41,
+      117
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/outside/west_area",
+    "name": "West Sector",
+    "z": 1,
+    "x": 78,
+    "y": 45,
+    "tileCount": 888,
+    "bounds": [
+      55,
+      19,
+      102,
+      65
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/interior_glass/corporate",
+    "name": "Weyland-Yutani Corporate Dome",
+    "z": 1,
+    "x": 59,
+    "y": 34,
+    "tileCount": 369,
+    "bounds": [
+      49,
+      24,
+      69,
+      44
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/oob",
+    "name": "oob",
+    "z": 1,
+    "x": 90,
+    "y": 105,
+    "tileCount": 862,
+    "bounds": [
+      1,
+      1,
+      175,
+      226
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bosenmori/interior_regular/security_armory",
+    "name": "Armory",
+    "z": 1,
+    "x": 103,
+    "y": 30,
+    "tileCount": 34,
+    "bounds": [
+      100,
+      27,
+      105,
+      32
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bosenmori/interior_heavy/Mai_armory",
+    "name": "Armory Lower-Level",
+    "z": 1,
+    "x": 333,
+    "y": 29,
+    "tileCount": 121,
+    "bounds": [
+      325,
+      22,
+      340,
+      32
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bosenmori/interior_glass/fitness",
+    "name": "Bosenmori Extreme Physical Rehabilitation Department",
+    "z": 1,
+    "x": 97,
+    "y": 68,
+    "tileCount": 254,
+    "bounds": [
+      88,
+      61,
+      106,
+      76
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bosenmori/outside/cargo",
+    "name": "Construction Site",
+    "z": 1,
+    "x": 127,
+    "y": 68,
+    "tileCount": 307,
+    "bounds": [
+      116,
+      61,
+      142,
+      76
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bosenmori/outside/Mai_cargo_under",
+    "name": "Construction Site",
+    "z": 1,
+    "x": 350,
+    "y": 69,
+    "tileCount": 34,
+    "bounds": [
+      347,
+      66,
+      352,
+      71
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bosenmori/interior_heavy/Mai_corpo",
+    "name": "Corporate Lower-Level",
+    "z": 1,
+    "x": 282,
+    "y": 41,
+    "tileCount": 172,
+    "bounds": [
+      275,
+      24,
+      290,
+      49
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bosenmori/interior_heavy/Mai_ops",
+    "name": "Emergency Operations Lower-Level",
+    "z": 1,
+    "x": 356,
+    "y": 45,
+    "tileCount": 150,
+    "bounds": [
+      349,
+      40,
+      364,
+      52
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bosenmori/interior_regular/engineering",
+    "name": "Engineering Department",
+    "z": 1,
+    "x": 85,
+    "y": 11,
+    "tileCount": 239,
+    "bounds": [
+      74,
+      5,
+      94,
+      19
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bosenmori/interior_glass/filtration",
+    "name": "Filtration Department",
+    "z": 1,
+    "x": 122,
+    "y": 114,
+    "tileCount": 136,
+    "bounds": [
+      115,
+      110,
+      129,
+      119
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bosenmori/interior_glass/food_processing",
+    "name": "Food Processing Department",
+    "z": 1,
+    "x": 93,
+    "y": 89,
+    "tileCount": 235,
+    "bounds": [
+      85,
+      82,
+      101,
+      97
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bosenmori/interior_glass/offices",
+    "name": "Human Resources Department",
+    "z": 1,
+    "x": 89,
+    "y": 52,
+    "tileCount": 117,
+    "bounds": [
+      84,
+      47,
+      94,
+      57
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bosenmori/interior_regular/kitchen",
+    "name": "Kitchen Department",
+    "z": 1,
+    "x": 125,
+    "y": 26,
+    "tileCount": 96,
+    "bounds": [
+      122,
+      18,
+      128,
+      33
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bosenmori/interior_glass/hospital",
+    "name": "Medical Department",
+    "z": 1,
+    "x": 78,
+    "y": 89,
+    "tileCount": 216,
+    "bounds": [
+      71,
+      82,
+      86,
+      97
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bosenmori/interior_regular/research",
+    "name": "Research Department",
+    "z": 1,
+    "x": 80,
+    "y": 68,
+    "tileCount": 214,
+    "bounds": [
+      73,
+      61,
+      87,
+      76
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bosenmori/interior_heavy/secured_armory",
+    "name": "Secured Armory",
+    "z": 1,
+    "x": 37,
+    "y": 16,
+    "tileCount": 207,
+    "bounds": [
+      30,
+      3,
+      44,
+      23
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bosenmori/interior_regular/security",
+    "name": "Security Department",
+    "z": 1,
+    "x": 109,
+    "y": 26,
+    "tileCount": 127,
+    "bounds": [
+      102,
+      18,
+      114,
+      32
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bosenmori/interior_regular/store",
+    "name": "Store Department",
+    "z": 1,
+    "x": 108,
+    "y": 46,
+    "tileCount": 161,
+    "bounds": [
+      100,
+      40,
+      114,
+      54
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bosenmori/interior_regular/telecommunication",
+    "name": "Telecommunication Department",
+    "z": 1,
+    "x": 68,
+    "y": 12,
+    "tileCount": 183,
+    "bounds": [
+      61,
+      5,
+      75,
+      19
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bosenmori/interior_glass/tree",
+    "name": "Terrarium",
+    "z": 1,
+    "x": 89,
+    "y": 36,
+    "tileCount": 253,
+    "bounds": [
+      80,
+      29,
+      99,
+      43
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bosenmori/interior_glass/Mai_tree_under",
+    "name": "Terrarium",
+    "z": 1,
+    "x": 310,
+    "y": 36,
+    "tileCount": 43,
+    "bounds": [
+      305,
+      34,
+      315,
+      38
+    ],
+    "category": "room"
+  }
+]

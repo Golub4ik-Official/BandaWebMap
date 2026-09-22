@@ -91,3 +91,66 @@
 ::-webkit-scrollbar-thumb:hover {
   background: rgba(255, 255, 255, 0.25);
 }
+
+/* Map Locations & Area Badges */
+.map-location-marker {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: auto;
+  cursor: pointer;
+  transition: transform 0.15s ease, z-index 0.15s ease;
+}
+
+.map-location-marker:hover {
+  transform: scale(1.1);
+  z-index: 9999 !important;
+}
+
+.location-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  white-space: nowrap;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  font-weight: 600;
+  border-radius: 6px;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.6);
+  user-select: none;
+  pointer-events: auto;
+}
+
+.location-badge-major {
+  font-size: 13px;
+  padding: 4px 10px;
+  background: rgba(14, 165, 233, 0.25);
+  border: 1.5px solid rgba(56, 189, 248, 0.85);
+  color: #f0f9ff;
+  letter-spacing: 0.05em;
+  text-shadow: 0 0 10px rgba(56, 189, 248, 0.8);
+}
+
+.location-badge-landmark {
+  font-size: 12px;
+  padding: 3px 8px;
+  background: rgba(245, 158, 11, 0.25);
+  border: 1.5px solid rgba(251, 191, 36, 0.9);
+  color: #fffbeb;
+  text-shadow: 0 0 8px rgba(245, 158, 11, 0.8);
+}
+
+.location-badge-room {
+  font-size: 11px;
+  padding: 2px 6px;
+  background: rgba(30, 41, 59, 0.85);
+  border: 1px solid rgba(148, 163, 184, 0.45);
+  color: #e2e8f0;
+}
+
+.location-badge:hover {
+  box-shadow: 0 0 20px rgba(56, 189, 248, 0.5);
+  border-color: #38bdf8;
+}
+

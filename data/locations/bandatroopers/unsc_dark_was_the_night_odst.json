@@ -1,0 +1,242 @@
+[
+  {
+    "id": "/area/dark_was_the_night/upper_hallway",
+    "name": "Верхний коридор",
+    "z": 1,
+    "x": 36,
+    "y": 108,
+    "tileCount": 715,
+    "bounds": [
+      8,
+      77,
+      64,
+      136
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/dark_was_the_night/lower_hallway",
+    "name": "Нижний коридор",
+    "z": 1,
+    "x": 42,
+    "y": 53,
+    "tileCount": 556,
+    "bounds": [
+      31,
+      40,
+      61,
+      73
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/dark_was_the_night/ready_bay",
+    "name": "Отсек готовности",
+    "z": 1,
+    "x": 36,
+    "y": 30,
+    "tileCount": 391,
+    "bounds": [
+      23,
+      13,
+      45,
+      40
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/dark_was_the_night/pod_bay",
+    "name": "Отсек капсул",
+    "z": 1,
+    "x": 58,
+    "y": 24,
+    "tileCount": 419,
+    "bounds": [
+      45,
+      17,
+      72,
+      31
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/golden_arrow/cargo_shuttle/lower",
+    "name": "Cargo Elevator Lower Level",
+    "z": 1,
+    "x": 44,
+    "y": 63,
+    "tileCount": 84,
+    "bounds": [
+      39,
+      59,
+      48,
+      67
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/golden_arrow/cargo_shuttle/upper",
+    "name": "Cargo Elevator Upper Level",
+    "z": 1,
+    "x": 44,
+    "y": 103,
+    "tileCount": 84,
+    "bounds": [
+      39,
+      99,
+      48,
+      107
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/dark_was_the_night",
+    "name": "dark_was_the_night",
+    "z": 1,
+    "x": 53,
+    "y": 140,
+    "tileCount": 90,
+    "bounds": [
+      49,
+      136,
+      57,
+      145
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/dark_was_the_night/medical",
+    "name": "Аварийный медотсек",
+    "z": 1,
+    "x": 44,
+    "y": 87,
+    "tileCount": 61,
+    "bounds": [
+      40,
+      84,
+      49,
+      90
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/dark_was_the_night/briefing/one",
+    "name": "Зал брифинга 1",
+    "z": 1,
+    "x": 42,
+    "y": 128,
+    "tileCount": 59,
+    "bounds": [
+      38,
+      125,
+      46,
+      131
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/dark_was_the_night/briefing/two",
+    "name": "Зал брифинга 2",
+    "z": 1,
+    "x": 42,
+    "y": 119,
+    "tileCount": 59,
+    "bounds": [
+      38,
+      116,
+      46,
+      122
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/dark_was_the_night/engineering",
+    "name": "Инженерный отсек",
+    "z": 1,
+    "x": 66,
+    "y": 124,
+    "tileCount": 134,
+    "bounds": [
+      60,
+      115,
+      70,
+      132
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/dark_was_the_night/cryo_hall",
+    "name": "Коридор криоотсека",
+    "z": 1,
+    "x": 22,
+    "y": 120,
+    "tileCount": 86,
+    "bounds": [
+      16,
+      116,
+      28,
+      125
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/dark_was_the_night/cryo_bay",
+    "name": "Криоотсек",
+    "z": 1,
+    "x": 20,
+    "y": 131,
+    "tileCount": 204,
+    "bounds": [
+      12,
+      123,
+      27,
+      140
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/dark_was_the_night/dorms",
+    "name": "Кубрики",
+    "z": 1,
+    "x": 27,
+    "y": 97,
+    "tileCount": 196,
+    "bounds": [
+      21,
+      88,
+      33,
+      106
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/dark_was_the_night/armory",
+    "name": "Оружейная",
+    "z": 1,
+    "x": 48,
+    "y": 95,
+    "tileCount": 186,
+    "bounds": [
+      39,
+      88,
+      57,
+      101
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/dark_was_the_night/canteen",
+    "name": "Столовая",
+    "z": 1,
+    "x": 21,
+    "y": 110,
+    "tileCount": 189,
+    "bounds": [
+      14,
+      96,
+      29,
+      117
+    ],
+    "category": "room"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "/area/desert_dam/building/administration/control_room",
+    "name": "Control Room",
+    "z": 1,
+    "x": 25,
+    "y": 261,
+    "tileCount": 1083,
+    "bounds": [
+      12,
+      240,
+      42,
+      282
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/interior/dam_interior/engine_room",
+    "name": "Engine Room",
+    "z": 1,
+    "x": 115,
+    "y": 239,
+    "tileCount": 432,
+    "bounds": [
+      82,
+      230,
+      134,
+      249
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kutjevo/exterior/scrubland",
+    "name": "Kutjevo - Scrubland",
+    "z": 1,
+    "x": 202,
+    "y": 150,
+    "tileCount": 96497,
+    "bounds": [
+      4,
+      2,
+      399,
+      299
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/exterior/rock",
+    "name": "Rock",
+    "z": 1,
+    "x": 208,
+    "y": 138,
+    "tileCount": 19554,
+    "bounds": [
+      2,
+      2,
+      399,
+      299
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/building/substation/northwest",
+    "name": "Command Substation",
+    "z": 1,
+    "x": 34,
+    "y": 281,
+    "tileCount": 103,
+    "bounds": [
+      28,
+      275,
+      39,
+      285
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/dam_interior/atmos_storage",
+    "name": "Engineering Atmospheric Storage",
+    "z": 1,
+    "x": 96,
+    "y": 256,
+    "tileCount": 60,
+    "bounds": [
+      92,
+      253,
+      101,
+      258
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/dam_interior/control_room",
+    "name": "Engineering Control Room",
+    "z": 1,
+    "x": 96,
+    "y": 248,
+    "tileCount": 90,
+    "bounds": [
+      92,
+      244,
+      101,
+      252
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/dam_interior/smes_main",
+    "name": "Engineering Main Substation",
+    "z": 1,
+    "x": 109,
+    "y": 246,
+    "tileCount": 86,
+    "bounds": [
+      105,
+      242,
+      114,
+      250
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/water_treatment_one/control_room",
+    "name": "Water Treatment One Control Room",
+    "z": 1,
+    "x": 87,
+    "y": 236,
+    "tileCount": 71,
+    "bounds": [
+      85,
+      230,
+      90,
+      241
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/water_treatment_one/purification",
+    "name": "Water Treatment One Purification",
+    "z": 1,
+    "x": 102,
+    "y": 235,
+    "tileCount": 277,
+    "bounds": [
+      91,
+      230,
+      114,
+      241
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/water_treatment_two/floodgate_control",
+    "name": "Water Treatment Two Floodgate Control",
+    "z": 1,
+    "x": 138,
+    "y": 248,
+    "tileCount": 45,
+    "bounds": [
+      134,
+      246,
+      142,
+      250
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/water_treatment_two/purification",
+    "name": "Water Treatment Two Purification",
+    "z": 1,
+    "x": 144,
+    "y": 237,
+    "tileCount": 305,
+    "bounds": [
+      134,
+      230,
+      153,
+      245
+    ],
+    "category": "room"
+  }
+]

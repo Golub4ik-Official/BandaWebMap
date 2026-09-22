@@ -1,0 +1,152 @@
+[
+  {
+    "id": "/area/golden_arrow/briefing",
+    "name": "Assembly Room",
+    "z": 1,
+    "x": 38,
+    "y": 36,
+    "tileCount": 411,
+    "bounds": [
+      17,
+      23,
+      54,
+      56
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/golden_arrow/engineering",
+    "name": "Engineering",
+    "z": 1,
+    "x": 100,
+    "y": 107,
+    "tileCount": 384,
+    "bounds": [
+      28,
+      3,
+      125,
+      145
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/golden_arrow/hangar",
+    "name": "Hangar",
+    "z": 1,
+    "x": 35,
+    "y": 83,
+    "tileCount": 995,
+    "bounds": [
+      17,
+      69,
+      53,
+      100
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/golden_arrow/platoon_commander_rooms",
+    "name": "Platoon Commander's Rooms",
+    "z": 1,
+    "x": 124,
+    "y": 130,
+    "tileCount": 423,
+    "bounds": [
+      22,
+      47,
+      150,
+      150
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/golden_arrow/canteen",
+    "name": "Canteen",
+    "z": 1,
+    "x": 35,
+    "y": 38,
+    "tileCount": 97,
+    "bounds": [
+      31,
+      33,
+      39,
+      43
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/golden_arrow/cryo_cells",
+    "name": "Cryo Cells",
+    "z": 1,
+    "x": 35,
+    "y": 19,
+    "tileCount": 320,
+    "bounds": [
+      16,
+      10,
+      54,
+      30
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/golden_arrow/dorms",
+    "name": "Dorms",
+    "z": 1,
+    "x": 21,
+    "y": 35,
+    "tileCount": 194,
+    "bounds": [
+      12,
+      27,
+      28,
+      42
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/golden_arrow/medical",
+    "name": "Medical",
+    "z": 1,
+    "x": 43,
+    "y": 63,
+    "tileCount": 124,
+    "bounds": [
+      38,
+      57,
+      52,
+      69
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/golden_arrow/platoon_sergeant",
+    "name": "Platoon Sergeant Office",
+    "z": 1,
+    "x": 23,
+    "y": 44,
+    "tileCount": 81,
+    "bounds": [
+      15,
+      41,
+      28,
+      48
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/golden_arrow/prep_hallway",
+    "name": "Prep Hallway",
+    "z": 1,
+    "x": 29,
+    "y": 61,
+    "tileCount": 278,
+    "bounds": [
+      18,
+      53,
+      37,
+      69
+    ],
+    "category": "room"
+  }
+]

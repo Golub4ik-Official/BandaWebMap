@@ -1,0 +1,182 @@
+[
+  {
+    "id": "/area/firefly/hangar",
+    "name": "Hangar",
+    "z": 1,
+    "x": 39,
+    "y": 80,
+    "tileCount": 857,
+    "bounds": [
+      25,
+      64,
+      52,
+      98
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/firefly/briefing",
+    "name": "Briefing",
+    "z": 1,
+    "x": 45,
+    "y": 100,
+    "tileCount": 91,
+    "bounds": [
+      39,
+      97,
+      50,
+      104
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/firefly/cafeteria",
+    "name": "Cafeteria",
+    "z": 1,
+    "x": 57,
+    "y": 91,
+    "tileCount": 129,
+    "bounds": [
+      52,
+      84,
+      61,
+      98
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/firefly/cryo_cell",
+    "name": "Cryo Cell",
+    "z": 1,
+    "x": 74,
+    "y": 92,
+    "tileCount": 240,
+    "bounds": [
+      61,
+      86,
+      88,
+      97
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/firefly/engineer",
+    "name": "Engineering",
+    "z": 1,
+    "x": 68,
+    "y": 100,
+    "tileCount": 102,
+    "bounds": [
+      52,
+      86,
+      126,
+      106
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/firefly/medical",
+    "name": "Medical",
+    "z": 1,
+    "x": 57,
+    "y": 78,
+    "tileCount": 96,
+    "bounds": [
+      53,
+      73,
+      62,
+      83
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/firefly/co",
+    "name": "OVERWATCH Center",
+    "z": 1,
+    "x": 36,
+    "y": 103,
+    "tileCount": 55,
+    "bounds": [
+      33,
+      99,
+      39,
+      107
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/firefly/squad_omega",
+    "name": "Omega Squad Prep",
+    "z": 1,
+    "x": 67,
+    "y": 82,
+    "tileCount": 100,
+    "bounds": [
+      62,
+      78,
+      73,
+      87
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/firefly/ptsgt",
+    "name": "Operational Leaders' Room",
+    "z": 1,
+    "x": 31,
+    "y": 97,
+    "tileCount": 28,
+    "bounds": [
+      29,
+      95,
+      33,
+      100
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/firefly/supply",
+    "name": "Supply",
+    "z": 1,
+    "x": 68,
+    "y": 108,
+    "tileCount": 152,
+    "bounds": [
+      60,
+      102,
+      75,
+      113
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/firefly/squad_theta",
+    "name": "Theta Squad Prep",
+    "z": 1,
+    "x": 68,
+    "y": 97,
+    "tileCount": 74,
+    "bounds": [
+      62,
+      85,
+      74,
+      102
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/firefly",
+    "name": "firefly",
+    "z": 1,
+    "x": 54,
+    "y": 99,
+    "tileCount": 19,
+    "bounds": [
+      38,
+      94,
+      69,
+      105
+    ],
+    "category": "room"
+  }
+]

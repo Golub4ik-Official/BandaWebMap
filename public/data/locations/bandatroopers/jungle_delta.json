@@ -1,0 +1,17 @@
+[
+  {
+    "id": "/area/lv624/ground/jungle/central_jungle",
+    "name": "Central Jungle",
+    "z": 1,
+    "x": 125,
+    "y": 126,
+    "tileCount": 61494,
+    "bounds": [
+      2,
+      2,
+      249,
+      249
+    ],
+    "category": "major"
+  }
+]

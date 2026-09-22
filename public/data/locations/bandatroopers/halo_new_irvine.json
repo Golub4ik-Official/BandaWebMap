@@ -1,0 +1,422 @@
+[
+  {
+    "id": "/area/new_irvine/beach/power",
+    "name": "New Irvine - Beach - Power Relay",
+    "z": 1,
+    "x": 148,
+    "y": 134,
+    "tileCount": 61,
+    "bounds": [
+      145,
+      130,
+      151,
+      138
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/new_irvine/sector_two/indoor/powernetrelay",
+    "name": "New Irvine - Sector Two - Power Network Relay",
+    "z": 1,
+    "x": 50,
+    "y": 119,
+    "tileCount": 106,
+    "bounds": [
+      41,
+      117,
+      62,
+      124
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/new_irvine/beach",
+    "name": "New Irvine - Beach",
+    "z": 1,
+    "x": 154,
+    "y": 106,
+    "tileCount": 9184,
+    "bounds": [
+      88,
+      20,
+      225,
+      202
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/new_irvine/sector_five/bridge",
+    "name": "New Irvine - Sector Five - Bridge",
+    "z": 1,
+    "x": 199,
+    "y": 12,
+    "tileCount": 1540,
+    "bounds": [
+      137,
+      1,
+      250,
+      32
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/new_irvine/sector_five/indoor/bridge_interier",
+    "name": "New Irvine - Sector Five - Bridge Internals",
+    "z": 1,
+    "x": 99,
+    "y": 11,
+    "tileCount": 1484,
+    "bounds": [
+      65,
+      1,
+      137,
+      26
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/new_irvine/sector_four/indoor/port",
+    "name": "New Irvine - Sector Four - New Irvine Port",
+    "z": 1,
+    "x": 124,
+    "y": 165,
+    "tileCount": 2661,
+    "bounds": [
+      84,
+      132,
+      169,
+      193
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/new_irvine/sector_four/indoor/port_prefabs",
+    "name": "New Irvine - Sector Four - New Irvine Port Prefabs",
+    "z": 1,
+    "x": 146,
+    "y": 217,
+    "tileCount": 355,
+    "bounds": [
+      118,
+      201,
+      174,
+      227
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/new_irvine/sector_four",
+    "name": "New Irvine - Sector Four - Outdoors",
+    "z": 1,
+    "x": 143,
+    "y": 185,
+    "tileCount": 3291,
+    "bounds": [
+      91,
+      137,
+      187,
+      228
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/new_irvine/sector_one/indoor/apartments",
+    "name": "New Irvine - Sector One - Apartments",
+    "z": 1,
+    "x": 37,
+    "y": 104,
+    "tileCount": 752,
+    "bounds": [
+      18,
+      93,
+      62,
+      116
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/new_irvine/sector_one/indoor/corpauth",
+    "name": "New Irvine - Sector One - Corporate Shipping Authority",
+    "z": 1,
+    "x": 44,
+    "y": 34,
+    "tileCount": 1351,
+    "bounds": [
+      18,
+      20,
+      73,
+      53
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/new_irvine/sector_one/indoor/nipd",
+    "name": "New Irvine - Sector One - New Irvine Police Department",
+    "z": 1,
+    "x": 52,
+    "y": 77,
+    "tileCount": 826,
+    "bounds": [
+      29,
+      65,
+      73,
+      93
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/new_irvine/sector_one",
+    "name": "New Irvine - Sector One - Outdoors",
+    "z": 1,
+    "x": 61,
+    "y": 73,
+    "tileCount": 4287,
+    "bounds": [
+      2,
+      19,
+      135,
+      117
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/new_irvine/sector_one/indoor/portauth",
+    "name": "New Irvine - Sector One - Port Shipping Authority",
+    "z": 1,
+    "x": 101,
+    "y": 97,
+    "tileCount": 682,
+    "bounds": [
+      85,
+      66,
+      130,
+      111
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/new_irvine/sector_three/indoor/american_merchant",
+    "name": "New Irvine - Sector Three - American Merchant Express Corporate Office",
+    "z": 1,
+    "x": 32,
+    "y": 216,
+    "tileCount": 596,
+    "bounds": [
+      17,
+      197,
+      60,
+      226
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/new_irvine/sector_three/indoor/brvk",
+    "name": "New Irvine - Sector Three - BRVK Corporate Office",
+    "z": 1,
+    "x": 84,
+    "y": 201,
+    "tileCount": 735,
+    "bounds": [
+      51,
+      193,
+      110,
+      211
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/new_irvine/sector_three",
+    "name": "New Irvine - Sector Three - Outdoors",
+    "z": 1,
+    "x": 69,
+    "y": 212,
+    "tileCount": 1942,
+    "bounds": [
+      16,
+      183,
+      124,
+      228
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/new_irvine/sector_two/indoor/apartment",
+    "name": "New Irvine - Sector Two - Central Apartment Complex",
+    "z": 1,
+    "x": 54,
+    "y": 153,
+    "tileCount": 1033,
+    "bounds": [
+      30,
+      132,
+      72,
+      172
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/new_irvine/sector_two",
+    "name": "New Irvine - Sector Two - Outdoors",
+    "z": 1,
+    "x": 70,
+    "y": 143,
+    "tileCount": 3701,
+    "bounds": [
+      17,
+      116,
+      141,
+      191
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/new_irvine/sector_two/indoor/shops",
+    "name": "New Irvine - Sector Two - Shops & Corporate Office",
+    "z": 1,
+    "x": 71,
+    "y": 179,
+    "tileCount": 628,
+    "bounds": [
+      41,
+      152,
+      89,
+      190
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/new_irvine/sector_two/indoor/swapartment",
+    "name": "New Irvine - Sector Two - Southwest Apartment Complex",
+    "z": 1,
+    "x": 24,
+    "y": 140,
+    "tileCount": 388,
+    "bounds": [
+      19,
+      122,
+      37,
+      161
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/new_irvine/water",
+    "name": "New Irvine - Water",
+    "z": 1,
+    "x": 206,
+    "y": 112,
+    "tileCount": 14164,
+    "bounds": [
+      112,
+      1,
+      250,
+      250
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/new_irvine",
+    "name": "New Irvine OOB",
+    "z": 1,
+    "x": 94,
+    "y": 156,
+    "tileCount": 11768,
+    "bounds": [
+      1,
+      1,
+      250,
+      250
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/new_irvine/sector_one/indoor",
+    "name": "New Irvine - Sector One - Indoors",
+    "z": 1,
+    "x": 25,
+    "y": 75,
+    "tileCount": 208,
+    "bounds": [
+      6,
+      62,
+      82,
+      106
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/new_irvine/sector_three/indoor/arch_angel",
+    "name": "New Irvine - Sector Three - Arch Angel Designs Corporate Office",
+    "z": 1,
+    "x": 101,
+    "y": 222,
+    "tileCount": 222,
+    "bounds": [
+      86,
+      216,
+      111,
+      226
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/new_irvine/sector_three/indoor",
+    "name": "New Irvine - Sector Three - Indoors",
+    "z": 1,
+    "x": 17,
+    "y": 200,
+    "tileCount": 135,
+    "bounds": [
+      6,
+      195,
+      43,
+      205
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/new_irvine/sector_two/indoor/burger",
+    "name": "New Irvine - Sector Two - Calums Burger Joint",
+    "z": 1,
+    "x": 61,
+    "y": 171,
+    "tileCount": 89,
+    "bounds": [
+      52,
+      169,
+      70,
+      173
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/new_irvine/sector_two/indoor",
+    "name": "New Irvine - Sector Two - Indoors",
+    "z": 1,
+    "x": 76,
+    "y": 162,
+    "tileCount": 36,
+    "bounds": [
+      73,
+      159,
+      78,
+      164
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/new_irvine/sector_two/indoor/nwapartment",
+    "name": "New Irvine - Sector Two - Northwest Apartment Complex",
+    "z": 1,
+    "x": 24,
+    "y": 179,
+    "tileCount": 274,
+    "bounds": [
+      18,
+      163,
+      33,
+      190
+    ],
+    "category": "room"
+  }
+]

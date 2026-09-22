@@ -1,0 +1,497 @@
+[
+  {
+    "id": "/area/calliope/exterior_buildings/north_buildings",
+    "name": "Calliope Highway Building",
+    "z": 1,
+    "x": 112,
+    "y": 197,
+    "tileCount": 70,
+    "bounds": [
+      108,
+      192,
+      118,
+      201
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/calliope/highway/checkpoint",
+    "name": "Calliope Highway Checkpoint",
+    "z": 1,
+    "x": 86,
+    "y": 134,
+    "tileCount": 1832,
+    "bounds": [
+      47,
+      109,
+      122,
+      157
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/calliope/highway/northbound",
+    "name": "Calliope Highway Northbound",
+    "z": 1,
+    "x": 75,
+    "y": 204,
+    "tileCount": 6965,
+    "bounds": [
+      8,
+      144,
+      122,
+      248
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/calliope/highway/southbound",
+    "name": "Calliope Highway Southbound",
+    "z": 1,
+    "x": 74,
+    "y": 63,
+    "tileCount": 9042,
+    "bounds": [
+      8,
+      2,
+      131,
+      118
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/calliope/bunker_exterior_buildings/complex",
+    "name": "Complex",
+    "z": 1,
+    "x": 61,
+    "y": 136,
+    "tileCount": 166,
+    "bounds": [
+      52,
+      128,
+      70,
+      144
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/calliope/exterior_buildings/ghost_town",
+    "name": "Ghost Town",
+    "z": 1,
+    "x": 99,
+    "y": 34,
+    "tileCount": 1119,
+    "bounds": [
+      81,
+      1,
+      122,
+      65
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/calliope/oob/gate",
+    "name": "Highway Entry",
+    "z": 1,
+    "x": 64,
+    "y": 157,
+    "tileCount": 455,
+    "bounds": [
+      1,
+      1,
+      130,
+      250
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/calliope/bunker/north_section",
+    "name": "Maintenance Hallway",
+    "z": 1,
+    "x": 151,
+    "y": 166,
+    "tileCount": 1972,
+    "bounds": [
+      131,
+      135,
+      170,
+      192
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/calliope/bunker/south_section",
+    "name": "Maintenance Hallway",
+    "z": 1,
+    "x": 149,
+    "y": 115,
+    "tileCount": 725,
+    "bounds": [
+      133,
+      100,
+      166,
+      127
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/calliope/bunker_exterior_buildings/east_checkpoint",
+    "name": "Northbound Checkpoint",
+    "z": 1,
+    "x": 92,
+    "y": 130,
+    "tileCount": 28,
+    "bounds": [
+      90,
+      127,
+      94,
+      132
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/calliope/bunker_exterior_buildings/west_checkpoint",
+    "name": "Southbound Checkpoint",
+    "z": 1,
+    "x": 71,
+    "y": 132,
+    "tileCount": 34,
+    "bounds": [
+      68,
+      130,
+      73,
+      135
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/calliope/bunker/cargo_under",
+    "name": "Sterling Cargo Storage",
+    "z": 1,
+    "x": 147,
+    "y": 132,
+    "tileCount": 512,
+    "bounds": [
+      125,
+      126,
+      170,
+      141
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/calliope/oob/mountain",
+    "name": "oob",
+    "z": 1,
+    "x": 51,
+    "y": 133,
+    "tileCount": 9746,
+    "bounds": [
+      1,
+      1,
+      131,
+      250
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/calliope/bunker/armory",
+    "name": "Armory",
+    "z": 1,
+    "x": 13,
+    "y": 136,
+    "tileCount": 72,
+    "bounds": [
+      10,
+      130,
+      19,
+      141
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/calliope/bunker/barracks",
+    "name": "Barracks",
+    "z": 1,
+    "x": 5,
+    "y": 109,
+    "tileCount": 266,
+    "bounds": [
+      1,
+      95,
+      10,
+      123
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/calliope/shuttles/drop2",
+    "name": "Calliope Highway - Northern Approach",
+    "z": 1,
+    "x": 75,
+    "y": 233,
+    "tileCount": 271,
+    "bounds": [
+      67,
+      222,
+      82,
+      244
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/calliope/shuttles/drop3",
+    "name": "Calliope Highway - Southern Approach",
+    "z": 1,
+    "x": 23,
+    "y": 27,
+    "tileCount": 290,
+    "bounds": [
+      15,
+      15,
+      31,
+      38
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/calliope/bunker/cargo_area",
+    "name": "Cargo",
+    "z": 1,
+    "x": 33,
+    "y": 126,
+    "tileCount": 131,
+    "bounds": [
+      27,
+      119,
+      38,
+      134
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/calliope/bunker/engineering",
+    "name": "Engineering",
+    "z": 1,
+    "x": 18,
+    "y": 141,
+    "tileCount": 62,
+    "bounds": [
+      14,
+      136,
+      21,
+      151
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/calliope/bunker/fuel_depot",
+    "name": "Fuel Depot",
+    "z": 1,
+    "x": 56,
+    "y": 166,
+    "tileCount": 260,
+    "bounds": [
+      43,
+      159,
+      67,
+      175
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/calliope/bunker/engineering_under",
+    "name": "Generator Station",
+    "z": 1,
+    "x": 144,
+    "y": 148,
+    "tileCount": 130,
+    "bounds": [
+      139,
+      142,
+      149,
+      156
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/calliope/bunker/holding",
+    "name": "Holding Cell",
+    "z": 1,
+    "x": 23,
+    "y": 131,
+    "tileCount": 82,
+    "bounds": [
+      19,
+      126,
+      26,
+      136
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/calliope/bunker/hospital",
+    "name": "Hospital",
+    "z": 1,
+    "x": 23,
+    "y": 111,
+    "tileCount": 279,
+    "bounds": [
+      11,
+      102,
+      35,
+      122
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/calliope/bunker/command",
+    "name": "Operations Center",
+    "z": 1,
+    "x": 6,
+    "y": 133,
+    "tileCount": 114,
+    "bounds": [
+      2,
+      126,
+      10,
+      141
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/calliope/oob_o/playground",
+    "name": "Out of Bounds Fun",
+    "z": 1,
+    "x": 38,
+    "y": 148,
+    "tileCount": 44,
+    "bounds": [
+      33,
+      144,
+      41,
+      154
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/calliope/bunker/pillbox",
+    "name": "Pillbox",
+    "z": 1,
+    "x": 50,
+    "y": 126,
+    "tileCount": 38,
+    "bounds": [
+      49,
+      117,
+      52,
+      133
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/calliope/bunker/abandoned_section",
+    "name": "Research Labs",
+    "z": 1,
+    "x": 36,
+    "y": 108,
+    "tileCount": 216,
+    "bounds": [
+      27,
+      100,
+      48,
+      114
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/calliope/bunker/cafeteria",
+    "name": "Sterling Cafe",
+    "z": 1,
+    "x": 14,
+    "y": 116,
+    "tileCount": 118,
+    "bounds": [
+      10,
+      110,
+      21,
+      123
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/calliope/bunker/entry_checkpoint",
+    "name": "Sterling Entry Checkpoint",
+    "z": 1,
+    "x": 90,
+    "y": 107,
+    "tileCount": 225,
+    "bounds": [
+      30,
+      92,
+      163,
+      127
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/calliope/bunker/hallway",
+    "name": "Sterling Main Hall",
+    "z": 1,
+    "x": 15,
+    "y": 125,
+    "tileCount": 142,
+    "bounds": [
+      2,
+      115,
+      27,
+      135
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/calliope/shuttles/drop1",
+    "name": "Sterling Outpost - Checkpoint Landing",
+    "z": 1,
+    "x": 106,
+    "y": 134,
+    "tileCount": 281,
+    "bounds": [
+      100,
+      121,
+      111,
+      147
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/calliope/bunker/sterlingtransfer",
+    "name": "Sterling Transfers",
+    "z": 1,
+    "x": 47,
+    "y": 129,
+    "tileCount": 262,
+    "bounds": [
+      38,
+      118,
+      58,
+      141
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/calliope/bunker/closet",
+    "name": "Supply Closet",
+    "z": 1,
+    "x": 30,
+    "y": 133,
+    "tileCount": 39,
+    "bounds": [
+      27,
+      131,
+      33,
+      136
+    ],
+    "category": "room"
+  }
+]

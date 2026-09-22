@@ -1,0 +1,347 @@
+[
+  {
+    "id": "/area/taipei/hangar/landingzone",
+    "name": "Landing Zone One",
+    "z": 1,
+    "x": 170,
+    "y": 130,
+    "tileCount": 231,
+    "bounds": [
+      165,
+      120,
+      175,
+      140
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/taipei/hangar",
+    "name": "Access Hangar",
+    "z": 1,
+    "x": 169,
+    "y": 97,
+    "tileCount": 1835,
+    "bounds": [
+      158,
+      45,
+      182,
+      151
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/taipei/underground",
+    "name": "Asteroid",
+    "z": 1,
+    "x": 94,
+    "y": 120,
+    "tileCount": 7159,
+    "bounds": [
+      15,
+      37,
+      179,
+      183
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/taipei/cargo",
+    "name": "Cargo Access",
+    "z": 1,
+    "x": 124,
+    "y": 128,
+    "tileCount": 459,
+    "bounds": [
+      114,
+      113,
+      134,
+      157
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/taipei/cmb",
+    "name": "Colonial Marshall Bureau",
+    "z": 1,
+    "x": 26,
+    "y": 97,
+    "tileCount": 431,
+    "bounds": [
+      14,
+      86,
+      38,
+      108
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/taipei/atrium",
+    "name": "Main Atrium",
+    "z": 1,
+    "x": 85,
+    "y": 97,
+    "tileCount": 2332,
+    "bounds": [
+      35,
+      81,
+      157,
+      113
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/taipei/theatre",
+    "name": "Movie Star",
+    "z": 1,
+    "x": 85,
+    "y": 74,
+    "tileCount": 411,
+    "bounds": [
+      71,
+      66,
+      97,
+      85
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/taipei/maints/north",
+    "name": "Northern Maintenance Tunnels",
+    "z": 1,
+    "x": 102,
+    "y": 127,
+    "tileCount": 1733,
+    "bounds": [
+      18,
+      100,
+      157,
+      144
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/taipei/reactor/chamber",
+    "name": "Reactor Chamber",
+    "z": 1,
+    "x": 66,
+    "y": 166,
+    "tileCount": 628,
+    "bounds": [
+      53,
+      154,
+      80,
+      180
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/taipei/atrium/restaurant",
+    "name": "Sal's Noodles",
+    "z": 1,
+    "x": 80,
+    "y": 121,
+    "tileCount": 398,
+    "bounds": [
+      69,
+      109,
+      89,
+      131
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/taipei/atrium/hotel",
+    "name": "Short Stay Room and Board",
+    "z": 1,
+    "x": 120,
+    "y": 76,
+    "tileCount": 493,
+    "bounds": [
+      107,
+      65,
+      134,
+      88
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/taipei/maints/south",
+    "name": "Southern Maintenance Tunnels",
+    "z": 1,
+    "x": 102,
+    "y": 69,
+    "tileCount": 1794,
+    "bounds": [
+      18,
+      54,
+      157,
+      94
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/taipei/club",
+    "name": "Velvet Tassle",
+    "z": 1,
+    "x": 98,
+    "y": 121,
+    "tileCount": 368,
+    "bounds": [
+      91,
+      109,
+      107,
+      135
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/taipei/elevator/arrivals",
+    "name": "Arrivals Elevator",
+    "z": 1,
+    "x": 142,
+    "y": 99,
+    "tileCount": 276,
+    "bounds": [
+      137,
+      31,
+      146,
+      168
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/taipei/hangar/cargoshuttle",
+    "name": "Cargo Skiff",
+    "z": 1,
+    "x": 170,
+    "y": 66,
+    "tileCount": 145,
+    "bounds": [
+      166,
+      58,
+      174,
+      74
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/taipei/atrium/medbay",
+    "name": "Clinic",
+    "z": 1,
+    "x": 40,
+    "y": 78,
+    "tileCount": 183,
+    "bounds": [
+      34,
+      69,
+      45,
+      86
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/taipei/atrium/store",
+    "name": "Conveniance-Mart",
+    "z": 1,
+    "x": 78,
+    "y": 82,
+    "tileCount": 105,
+    "bounds": [
+      71,
+      79,
+      85,
+      85
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/taipei/elevator/departures",
+    "name": "Departures Elevator",
+    "z": 1,
+    "x": 50,
+    "y": 97,
+    "tileCount": 276,
+    "bounds": [
+      46,
+      62,
+      55,
+      132
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/taipei/atrium/laundry",
+    "name": "Laundromat",
+    "z": 1,
+    "x": 110,
+    "y": 112,
+    "tileCount": 100,
+    "bounds": [
+      104,
+      107,
+      116,
+      117
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/taipei/atrium/bookstore",
+    "name": "Lots'o'Books",
+    "z": 1,
+    "x": 72,
+    "y": 112,
+    "tileCount": 64,
+    "bounds": [
+      69,
+      109,
+      76,
+      116
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/taipei/atrium/offices",
+    "name": "Management Office",
+    "z": 1,
+    "x": 40,
+    "y": 116,
+    "tileCount": 183,
+    "bounds": [
+      34,
+      108,
+      45,
+      125
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/taipei/reactor",
+    "name": "Reactor Control Room",
+    "z": 1,
+    "x": 70,
+    "y": 157,
+    "tileCount": 315,
+    "bounds": [
+      52,
+      143,
+      89,
+      181
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/taipei/telecomms",
+    "name": "Telecommunications",
+    "z": 1,
+    "x": 170,
+    "y": 98,
+    "tileCount": 164,
+    "bounds": [
+      165,
+      90,
+      174,
+      106
+    ],
+    "category": "room"
+  }
+]

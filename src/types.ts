@@ -6,6 +6,17 @@ export interface MapLayer {
   pipenetUrl?: string;
 }
 
+export interface MapLocation {
+  id: string;
+  name: string;
+  z: number;
+  x: number;
+  y: number;
+  tileCount: number;
+  bounds?: [number, number, number, number];
+  category: 'landmark' | 'major' | 'room';
+}
+
 export interface GameMap {
   id: string;
   server: 'bandamarines' | 'bandastation' | 'bandatroopers';
@@ -20,8 +31,11 @@ export interface GameMap {
   mainFloor?: number;
   webmapUrl?: string | null;
   announceText?: string;
+  hasLocations?: boolean;
+  locationCount?: number;
   layers: MapLayer[];
 }
+
 
 export interface ServerConfig {
   id: 'bandamarines' | 'bandastation' | 'bandatroopers';

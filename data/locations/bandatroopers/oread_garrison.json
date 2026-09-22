@@ -1,0 +1,257 @@
+[
+  {
+    "id": "/area/Oread_Garrison/outside/jungle/landing_zone",
+    "name": "Landing Zone",
+    "z": 1,
+    "x": 144,
+    "y": 39,
+    "tileCount": 305,
+    "bounds": [
+      138,
+      26,
+      150,
+      50
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/Oread_Garrison/outside/jungle/clearing",
+    "name": "Clearing",
+    "z": 1,
+    "x": 116,
+    "y": 91,
+    "tileCount": 7513,
+    "bounds": [
+      1,
+      1,
+      220,
+      156
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/Oread_Garrison/outside/jungle",
+    "name": "Garrison Interior",
+    "z": 1,
+    "x": 110,
+    "y": 72,
+    "tileCount": 23083,
+    "bounds": [
+      1,
+      1,
+      220,
+      160
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/Oread_Garrison/inside",
+    "name": "Inside",
+    "z": 1,
+    "x": 110,
+    "y": 110,
+    "tileCount": 1754,
+    "bounds": [
+      78,
+      78,
+      142,
+      142
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/Oread_Garrison/outside/jungle/river",
+    "name": "River",
+    "z": 1,
+    "x": 37,
+    "y": 131,
+    "tileCount": 611,
+    "bounds": [
+      1,
+      108,
+      62,
+      160
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/Oread_Garrison/inside/dorms",
+    "name": "Barracks",
+    "z": 1,
+    "x": 104,
+    "y": 126,
+    "tileCount": 291,
+    "bounds": [
+      93,
+      115,
+      112,
+      134
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/Oread_Garrison/inside/command",
+    "name": "Command",
+    "z": 1,
+    "x": 128,
+    "y": 101,
+    "tileCount": 171,
+    "bounds": [
+      119,
+      93,
+      134,
+      107
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/Oread_Garrison/inside/bunker1",
+    "name": "Eastern Guardhouse",
+    "z": 1,
+    "x": 191,
+    "y": 101,
+    "tileCount": 144,
+    "bounds": [
+      184,
+      96,
+      199,
+      106
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/Oread_Garrison/inside/garage",
+    "name": "Garage",
+    "z": 1,
+    "x": 91,
+    "y": 107,
+    "tileCount": 248,
+    "bounds": [
+      86,
+      92,
+      99,
+      120
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/Oread_Garrison/inside/entry",
+    "name": "Main Entry",
+    "z": 1,
+    "x": 110,
+    "y": 89,
+    "tileCount": 45,
+    "bounds": [
+      108,
+      85,
+      112,
+      93
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/Oread_Garrison/inside/engineering",
+    "name": "Maintenance Room",
+    "z": 1,
+    "x": 114,
+    "y": 101,
+    "tileCount": 233,
+    "bounds": [
+      86,
+      85,
+      134,
+      130
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/Oread_Garrison/inside/medical",
+    "name": "Medbay",
+    "z": 1,
+    "x": 97,
+    "y": 91,
+    "tileCount": 125,
+    "bounds": [
+      90,
+      86,
+      105,
+      96
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/Oread_Garrison/inside/messhall",
+    "name": "Messhall",
+    "z": 1,
+    "x": 119,
+    "y": 128,
+    "tileCount": 186,
+    "bounds": [
+      112,
+      121,
+      128,
+      134
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/Oread_Garrison/inside/requisitions",
+    "name": "Requisitions",
+    "z": 1,
+    "x": 126,
+    "y": 114,
+    "tileCount": 193,
+    "bounds": [
+      116,
+      107,
+      134,
+      120
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/Oread_Garrison/inside/bunker3",
+    "name": "Southern Guardhouse",
+    "z": 1,
+    "x": 152,
+    "y": 22,
+    "tileCount": 57,
+    "bounds": [
+      134,
+      16,
+      155,
+      25
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/Oread_Garrison/inside/flag",
+    "name": "The Flag",
+    "z": 1,
+    "x": 110,
+    "y": 107,
+    "tileCount": 96,
+    "bounds": [
+      105,
+      101,
+      115,
+      113
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/Oread_Garrison/inside/bunker2",
+    "name": "Western Guardhouse",
+    "z": 1,
+    "x": 35,
+    "y": 108,
+    "tileCount": 144,
+    "bounds": [
+      30,
+      100,
+      40,
+      115
+    ],
+    "category": "room"
+  }
+]

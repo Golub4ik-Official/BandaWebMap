@@ -1,0 +1,437 @@
+[
+  {
+    "id": "/area/oni_digsite/sub_level_9/snow",
+    "name": "Snow",
+    "z": 1,
+    "x": 177,
+    "y": 137,
+    "tileCount": 12654,
+    "bounds": [
+      110,
+      65,
+      248,
+      215
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/oni_digsite/sub_level_2/cavern",
+    "name": "Sub Level 2 Cavern",
+    "z": 1,
+    "x": 50,
+    "y": 131,
+    "tileCount": 6472,
+    "bounds": [
+      3,
+      81,
+      91,
+      189
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/oni_digsite/sub_level_2/south/checkpoint_alpha",
+    "name": "Sub Level 2 Checkpoint Alpha",
+    "z": 1,
+    "x": 67,
+    "y": 63,
+    "tileCount": 808,
+    "bounds": [
+      50,
+      44,
+      87,
+      82
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/oni_digsite/sub_level_2/north/checkpoint_charlie",
+    "name": "Sub Level 2 Checkpoint Charlie",
+    "z": 1,
+    "x": 46,
+    "y": 181,
+    "tileCount": 782,
+    "bounds": [
+      30,
+      167,
+      61,
+      194
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/oni_digsite/sub_level_2/north",
+    "name": "Sub Level 2 North",
+    "z": 1,
+    "x": 52,
+    "y": 220,
+    "tileCount": 735,
+    "bounds": [
+      8,
+      181,
+      82,
+      243
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/oni_digsite/sub_level_2/north/garage",
+    "name": "Sub Level 2 North Garage",
+    "z": 1,
+    "x": 47,
+    "y": 208,
+    "tileCount": 543,
+    "bounds": [
+      32,
+      194,
+      57,
+      224
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/oni_digsite/sub_level_2/north/offices",
+    "name": "Sub Level 2 North Offices",
+    "z": 1,
+    "x": 59,
+    "y": 230,
+    "tileCount": 901,
+    "bounds": [
+      36,
+      215,
+      79,
+      243
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/oni_digsite/sub_level_2/north/reception",
+    "name": "Sub Level 2 North Reception",
+    "z": 1,
+    "x": 29,
+    "y": 222,
+    "tileCount": 463,
+    "bounds": [
+      16,
+      212,
+      42,
+      235
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/oni_digsite/sub_level_2/north/security",
+    "name": "Sub Level 2 North Security",
+    "z": 1,
+    "x": 20,
+    "y": 199,
+    "tileCount": 812,
+    "bounds": [
+      8,
+      181,
+      37,
+      228
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/oni_digsite/sub_level_2/south/hangar",
+    "name": "Sub Level 2 South Hangar",
+    "z": 1,
+    "x": 37,
+    "y": 33,
+    "tileCount": 1953,
+    "bounds": [
+      3,
+      11,
+      75,
+      56
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/oni_digsite/sub_level_9/command",
+    "name": "Sub Level 9 Command",
+    "z": 1,
+    "x": 179,
+    "y": 142,
+    "tileCount": 518,
+    "bounds": [
+      166,
+      130,
+      192,
+      153
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/oni_digsite/sub_level_9/dormitory",
+    "name": "Sub Level 9 Dormitory",
+    "z": 1,
+    "x": 220,
+    "y": 94,
+    "tileCount": 724,
+    "bounds": [
+      202,
+      80,
+      238,
+      109
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/oni_digsite/sub_level_9/research",
+    "name": "Sub Level 9 Research",
+    "z": 1,
+    "x": 107,
+    "y": 114,
+    "tileCount": 1070,
+    "bounds": [
+      93,
+      91,
+      130,
+      140
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/oni_digsite/sub_level_9/small_buildings",
+    "name": "Sub Level 9 Small Buildings",
+    "z": 1,
+    "x": 181,
+    "y": 157,
+    "tileCount": 368,
+    "bounds": [
+      130,
+      79,
+      225,
+      192
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/oni_digsite/sub_level_9/south",
+    "name": "Sub Level 9 South",
+    "z": 1,
+    "x": 192,
+    "y": 37,
+    "tileCount": 1025,
+    "bounds": [
+      176,
+      5,
+      211,
+      70
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/oni_digsite/sub_level_9/storage",
+    "name": "Sub Level 9 Warehouse",
+    "z": 1,
+    "x": 215,
+    "y": 176,
+    "tileCount": 355,
+    "bounds": [
+      205,
+      163,
+      222,
+      189
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/oni_digsite/elevator/digsite_elevator/exit",
+    "name": "Elevator Call",
+    "z": 1,
+    "x": 202,
+    "y": 8,
+    "tileCount": 48,
+    "bounds": [
+      199,
+      6,
+      206,
+      11
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/oni_digsite/sub_level_2/south",
+    "name": "South",
+    "z": 1,
+    "x": 50,
+    "y": 13,
+    "tileCount": 247,
+    "bounds": [
+      43,
+      3,
+      57,
+      24
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/oni_digsite/sub_level_2/south/checkpoint_bravo",
+    "name": "Sub Level 2 Checkpoint Bravo",
+    "z": 1,
+    "x": 47,
+    "y": 108,
+    "tileCount": 118,
+    "bounds": [
+      40,
+      103,
+      53,
+      112
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/oni_digsite/sub_level_2/north/checkpoint_delta",
+    "name": "Sub Level 2 Checkpoint Delta",
+    "z": 1,
+    "x": 69,
+    "y": 205,
+    "tileCount": 340,
+    "bounds": [
+      56,
+      191,
+      80,
+      218
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/oni_digsite/sub_level_2/north/power",
+    "name": "Sub Level 2 North Power",
+    "z": 1,
+    "x": 17,
+    "y": 237,
+    "tileCount": 207,
+    "bounds": [
+      8,
+      229,
+      37,
+      243
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/oni_digsite/sub_level_2/north/research",
+    "name": "Sub Level 2 North Research",
+    "z": 1,
+    "x": 76,
+    "y": 194,
+    "tileCount": 166,
+    "bounds": [
+      69,
+      186,
+      82,
+      202
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/oni_digsite/sub_level_2/south/commons",
+    "name": "Sub Level 2 South Commons",
+    "z": 1,
+    "x": 74,
+    "y": 27,
+    "tileCount": 191,
+    "bounds": [
+      66,
+      20,
+      81,
+      35
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/oni_digsite/sub_level_2/south/watchpoint_delta",
+    "name": "Sub Level 2 Watchpoint Delta",
+    "z": 1,
+    "x": 35,
+    "y": 137,
+    "tileCount": 151,
+    "bounds": [
+      29,
+      131,
+      42,
+      145
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/oni_digsite/sub_level_9/garage",
+    "name": "Sub Level 9 Garage",
+    "z": 1,
+    "x": 161,
+    "y": 84,
+    "tileCount": 243,
+    "bounds": [
+      155,
+      71,
+      171,
+      93
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/oni_digsite/sub_level_9/power",
+    "name": "Sub Level 9 Power Grid",
+    "z": 1,
+    "x": 201,
+    "y": 199,
+    "tileCount": 236,
+    "bounds": [
+      189,
+      193,
+      211,
+      206
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/oni_digsite/sub_level_9/sauna",
+    "name": "Sub Level 9 Sauna",
+    "z": 1,
+    "x": 225,
+    "y": 126,
+    "tileCount": 90,
+    "bounds": [
+      221,
+      120,
+      229,
+      131
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/oni_digsite/sub_level_9/tcomms",
+    "name": "Sub Level 9 Telecommunications",
+    "z": 1,
+    "x": 154,
+    "y": 199,
+    "tileCount": 315,
+    "bounds": [
+      145,
+      188,
+      163,
+      208
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/oni_digsite/elevator/digsite_elevator/entry",
+    "name": "Sub-Level 9",
+    "z": 1,
+    "x": 66,
+    "y": 188,
+    "tileCount": 48,
+    "bounds": [
+      63,
+      185,
+      70,
+      190
+    ],
+    "category": "room"
+  }
+]

@@ -1,0 +1,287 @@
+[
+  {
+    "id": "/area/station/hallway/secondary/entry",
+    "name": "Arrival Shuttle Hallway",
+    "z": 1,
+    "x": 24,
+    "y": 59,
+    "tileCount": 481,
+    "bounds": [
+      11,
+      44,
+      36,
+      74
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/station/maintenance/aft",
+    "name": "Aft Maintenance",
+    "z": 1,
+    "x": 48,
+    "y": 48,
+    "tileCount": 22,
+    "bounds": [
+      42,
+      47,
+      53,
+      48
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/engineering/atmos",
+    "name": "Atmospherics",
+    "z": 1,
+    "x": 39,
+    "y": 74,
+    "tileCount": 56,
+    "bounds": [
+      36,
+      71,
+      42,
+      78
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/cargo/bitrunning/den",
+    "name": "Bitrunning Den",
+    "z": 1,
+    "x": 9,
+    "y": 68,
+    "tileCount": 30,
+    "bounds": [
+      7,
+      65,
+      11,
+      70
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/command/bridge",
+    "name": "Bridge",
+    "z": 1,
+    "x": 46,
+    "y": 68,
+    "tileCount": 45,
+    "bounds": [
+      42,
+      66,
+      50,
+      70
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/security/brig",
+    "name": "Brig",
+    "z": 1,
+    "x": 34,
+    "y": 73,
+    "tileCount": 44,
+    "bounds": [
+      32,
+      68,
+      35,
+      78
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/cargo/storage",
+    "name": "Cargo Bay",
+    "z": 1,
+    "x": 67,
+    "y": 55,
+    "tileCount": 73,
+    "bounds": [
+      64,
+      49,
+      70,
+      61
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/hallway/primary/central",
+    "name": "Central Primary Hallway",
+    "z": 1,
+    "x": 46,
+    "y": 64,
+    "tileCount": 58,
+    "bounds": [
+      36,
+      63,
+      57,
+      65
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/medical/chemistry",
+    "name": "Chemistry",
+    "z": 1,
+    "x": 54,
+    "y": 67,
+    "tileCount": 36,
+    "bounds": [
+      50,
+      65,
+      57,
+      69
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/construction",
+    "name": "Construction Area",
+    "z": 1,
+    "x": 42,
+    "y": 55,
+    "tileCount": 181,
+    "bounds": [
+      36,
+      49,
+      48,
+      62
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/hallway/secondary/exit/departure_lounge",
+    "name": "Departure Lounge",
+    "z": 1,
+    "x": 60,
+    "y": 46,
+    "tileCount": 74,
+    "bounds": [
+      53,
+      44,
+      67,
+      48
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/engineering/main",
+    "name": "Engineering",
+    "z": 1,
+    "x": 51,
+    "y": 74,
+    "tileCount": 44,
+    "bounds": [
+      48,
+      70,
+      53,
+      78
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/science/explab",
+    "name": "Experimentation Lab",
+    "z": 1,
+    "x": 39,
+    "y": 46,
+    "tileCount": 30,
+    "bounds": [
+      36,
+      44,
+      42,
+      48
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/engineering/gravity_generator",
+    "name": "Gravity Generator Room",
+    "z": 1,
+    "x": 69,
+    "y": 73,
+    "tileCount": 179,
+    "bounds": [
+      54,
+      70,
+      84,
+      78
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/service/hydroponics",
+    "name": "Hydroponics",
+    "z": 1,
+    "x": 9,
+    "y": 54,
+    "tileCount": 30,
+    "bounds": [
+      7,
+      52,
+      11,
+      57
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/medical/medbay",
+    "name": "Medbay",
+    "z": 1,
+    "x": 63,
+    "y": 66,
+    "tileCount": 93,
+    "bounds": [
+      58,
+      62,
+      68,
+      70
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/cargo/miningoffice",
+    "name": "Mining Office",
+    "z": 1,
+    "x": 15,
+    "y": 74,
+    "tileCount": 105,
+    "bounds": [
+      11,
+      68,
+      19,
+      79
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/commons/storage/primary",
+    "name": "Primary Tool Storage",
+    "z": 1,
+    "x": 56,
+    "y": 55,
+    "tileCount": 204,
+    "bounds": [
+      49,
+      49,
+      63,
+      62
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/science",
+    "name": "Science Division",
+    "z": 1,
+    "x": 38,
+    "y": 68,
+    "tileCount": 30,
+    "bounds": [
+      36,
+      66,
+      41,
+      70
+    ],
+    "category": "room"
+  }
+]

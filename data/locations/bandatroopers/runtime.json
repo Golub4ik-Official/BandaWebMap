@@ -1,0 +1,17 @@
+[
+  {
+    "id": "/area/event",
+    "name": "Open grounds (event P)",
+    "z": 1,
+    "x": 9,
+    "y": 8,
+    "tileCount": 255,
+    "bounds": [
+      1,
+      1,
+      16,
+      16
+    ],
+    "category": "room"
+  }
+]

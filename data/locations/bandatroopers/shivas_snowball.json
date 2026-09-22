@@ -1,0 +1,557 @@
+[
+  {
+    "id": "/area/shiva/interior/lz2_habs",
+    "name": "Shiva's Snowball - Argentinian Research Headquarters",
+    "z": 1,
+    "x": 7,
+    "y": 136,
+    "tileCount": 308,
+    "bounds": [
+      2,
+      122,
+      13,
+      149
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/shiva/interior/telecomm/lz1_biceps",
+    "name": "Shiva's Snowball - Fort Biceps Communications Relay",
+    "z": 1,
+    "x": 124,
+    "y": 13,
+    "tileCount": 58,
+    "bounds": [
+      119,
+      10,
+      128,
+      15
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/shiva/exterior/lz2_fortress",
+    "name": "Shiva's Snowball - Landing Bulwark",
+    "z": 1,
+    "x": 26,
+    "y": 135,
+    "tileCount": 1254,
+    "bounds": [
+      8,
+      112,
+      40,
+      157
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/shiva/exterior/lz1_valley",
+    "name": "Shiva's Snowball - Landing Valley",
+    "z": 1,
+    "x": 25,
+    "y": 30,
+    "tileCount": 848,
+    "bounds": [
+      7,
+      14,
+      40,
+      47
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/shiva/exterior/cp_lz2",
+    "name": "Shiva's Snowball - North Colony Grounds",
+    "z": 1,
+    "x": 68,
+    "y": 118,
+    "tileCount": 3949,
+    "bounds": [
+      15,
+      69,
+      107,
+      157
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/shiva/exterior/telecomm/lz1_north",
+    "name": "Shiva's Snowball - North LZ1 Communications Relay",
+    "z": 1,
+    "x": 27,
+    "y": 58,
+    "tileCount": 16,
+    "bounds": [
+      25,
+      56,
+      28,
+      60
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/shiva/exterior/telecomm/lz2_northeast",
+    "name": "Shiva's Snowball - North-East LZ2 Communications Relay",
+    "z": 1,
+    "x": 64,
+    "y": 126,
+    "tileCount": 12,
+    "bounds": [
+      62,
+      125,
+      65,
+      127
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/shiva/interior/caves/s_lz2",
+    "name": "Shiva's Snowball - South LZ2 Caves",
+    "z": 1,
+    "x": 19,
+    "y": 100,
+    "tileCount": 604,
+    "bounds": [
+      3,
+      86,
+      42,
+      122
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/shiva/exterior/telecomm/lz2_southeast",
+    "name": "Shiva's Snowball - South-East LZ2 Communications Relay",
+    "z": 1,
+    "x": 50,
+    "y": 104,
+    "tileCount": 12,
+    "bounds": [
+      49,
+      103,
+      52,
+      105
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/shiva/interior/aerodrome",
+    "name": "Shiva's Snowball - Aerodrome",
+    "z": 1,
+    "x": 71,
+    "y": 51,
+    "tileCount": 1025,
+    "bounds": [
+      37,
+      35,
+      168,
+      68
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/shiva/interior/bar",
+    "name": "Shiva's Snowball - Anti-Freeze Bar",
+    "z": 1,
+    "x": 114,
+    "y": 54,
+    "tileCount": 690,
+    "bounds": [
+      93,
+      45,
+      137,
+      66
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/shiva/exterior/junkyard/cp_bar",
+    "name": "Shiva's Snowball - Bar Grounds",
+    "z": 1,
+    "x": 140,
+    "y": 69,
+    "tileCount": 882,
+    "bounds": [
+      114,
+      55,
+      168,
+      85
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/shiva/interior/warehouse",
+    "name": "Shiva's Snowball - Blue Warehouse",
+    "z": 1,
+    "x": 57,
+    "y": 20,
+    "tileCount": 409,
+    "bounds": [
+      40,
+      13,
+      71,
+      28
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/shiva/interior/warehouse/caves",
+    "name": "Shiva's Snowball - Blue Warehouse Ice Cave",
+    "z": 1,
+    "x": 72,
+    "y": 13,
+    "tileCount": 693,
+    "bounds": [
+      26,
+      4,
+      184,
+      26
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/shiva/interior/garage",
+    "name": "Shiva's Snowball - Cargo Tug Repair Station",
+    "z": 1,
+    "x": 151,
+    "y": 83,
+    "tileCount": 431,
+    "bounds": [
+      132,
+      77,
+      169,
+      89
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/shiva/interior/caves/cp_camp",
+    "name": "Shiva's Snowball - Cave Camp",
+    "z": 1,
+    "x": 49,
+    "y": 70,
+    "tileCount": 2463,
+    "bounds": [
+      7,
+      43,
+      186,
+      94
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/shiva/exterior/cp_colony_grounds",
+    "name": "Shiva's Snowball - Colony Grounds",
+    "z": 1,
+    "x": 154,
+    "y": 107,
+    "tileCount": 1969,
+    "bounds": [
+      122,
+      86,
+      204,
+      129
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/shiva/interior/colony/medseceng",
+    "name": "Shiva's Snowball - Colony MegaStruct(TM) Med-Sec-Eng Segment",
+    "z": 1,
+    "x": 183,
+    "y": 141,
+    "tileCount": 2624,
+    "bounds": [
+      149,
+      114,
+      220,
+      160
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/shiva/interior/colony/deck",
+    "name": "Shiva's Snowball - Colony MegaStruct(TM) Open Deck",
+    "z": 1,
+    "x": 158,
+    "y": 124,
+    "tileCount": 208,
+    "bounds": [
+      122,
+      115,
+      200,
+      129
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/shiva/interior/caves/right_spiders",
+    "name": "Shiva's Snowball - Forgotten Passage",
+    "z": 1,
+    "x": 192,
+    "y": 95,
+    "tileCount": 602,
+    "bounds": [
+      170,
+      64,
+      214,
+      113
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/shiva/exterior/junkyard/fortbiceps",
+    "name": "Shiva's Snowball - Fort Biceps",
+    "z": 1,
+    "x": 130,
+    "y": 19,
+    "tileCount": 141,
+    "bounds": [
+      122,
+      10,
+      136,
+      26
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/shiva/exterior/junkyard",
+    "name": "Shiva's Snowball - Junkyard",
+    "z": 1,
+    "x": 97,
+    "y": 35,
+    "tileCount": 2269,
+    "bounds": [
+      41,
+      11,
+      137,
+      68
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/shiva/interior/colony/n_admin",
+    "name": "Shiva's Snowball - MegaStruct(TM) Administration",
+    "z": 1,
+    "x": 109,
+    "y": 115,
+    "tileCount": 528,
+    "bounds": [
+      90,
+      105,
+      124,
+      125
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/shiva/interior/colony/botany",
+    "name": "Shiva's Snowball - MegaStruct(TM) Botanical Dorms",
+    "z": 1,
+    "x": 107,
+    "y": 96,
+    "tileCount": 717,
+    "bounds": [
+      90,
+      86,
+      125,
+      108
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/shiva/interior/colony/s_admin",
+    "name": "Shiva's Snowball - MegaStruct(TM) Crisis Center",
+    "z": 1,
+    "x": 109,
+    "y": 77,
+    "tileCount": 502,
+    "bounds": [
+      91,
+      67,
+      125,
+      85
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/shiva/interior/colony/central",
+    "name": "Shiva's Snowball - MegaStruct(TM) Residential Life",
+    "z": 1,
+    "x": 125,
+    "y": 144,
+    "tileCount": 1570,
+    "bounds": [
+      101,
+      125,
+      149,
+      160
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/shiva/interior/oob",
+    "name": "Shiva's Snowball - Out Of Bounds",
+    "z": 1,
+    "x": 88,
+    "y": 58,
+    "tileCount": 4455,
+    "bounds": [
+      1,
+      1,
+      220,
+      160
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/shiva/exterior/cp_s_research",
+    "name": "Shiva's Snowball - Research Hab Exterior",
+    "z": 1,
+    "x": 152,
+    "y": 36,
+    "tileCount": 610,
+    "bounds": [
+      138,
+      17,
+      174,
+      57
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/shiva/interior/colony/research_hab",
+    "name": "Shiva's Snowball - Research Hab Interior",
+    "z": 1,
+    "x": 190,
+    "y": 34,
+    "tileCount": 2308,
+    "bounds": [
+      67,
+      3,
+      219,
+      57
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/shiva/interior/caves/medseceng_caves",
+    "name": "Shiva's Snowball - South Med-Sec-Eng Complex Caves",
+    "z": 1,
+    "x": 213,
+    "y": 124,
+    "tileCount": 259,
+    "bounds": [
+      205,
+      106,
+      219,
+      140
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/shiva/interior/caves/research_caves",
+    "name": "Shiva's Snowball - South Research Hab Caves",
+    "z": 1,
+    "x": 166,
+    "y": 17,
+    "tileCount": 1015,
+    "bounds": [
+      137,
+      3,
+      197,
+      30
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/shiva/exterior/valley",
+    "name": "Shiva's Snowball - Storage Bunker Valley",
+    "z": 1,
+    "x": 188,
+    "y": 73,
+    "tileCount": 1376,
+    "bounds": [
+      164,
+      48,
+      214,
+      103
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/shiva/interior/valley_huts",
+    "name": "Shiva's Snowball - Valley Bunker 1",
+    "z": 1,
+    "x": 193,
+    "y": 67,
+    "tileCount": 33,
+    "bounds": [
+      190,
+      64,
+      195,
+      69
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/shiva/interior/valley_huts/no2",
+    "name": "Shiva's Snowball - Valley Bunker 2",
+    "z": 1,
+    "x": 184,
+    "y": 74,
+    "tileCount": 44,
+    "bounds": [
+      182,
+      71,
+      187,
+      78
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/shiva/interior/valley_huts/disposals",
+    "name": "Shiva's Snowball - Valley Disposals",
+    "z": 1,
+    "x": 198,
+    "y": 91,
+    "tileCount": 79,
+    "bounds": [
+      194,
+      87,
+      202,
+      95
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/shiva/interior/aux_power",
+    "name": "Shiva's Snowball - Auxiliary Generator Station",
+    "z": 1,
+    "x": 58,
+    "y": 151,
+    "tileCount": 163,
+    "bounds": [
+      50,
+      144,
+      66,
+      156
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/shiva/interior/oob/dev_room",
+    "name": "Shiva's Snowball - Secret Room",
+    "z": 1,
+    "x": 149,
+    "y": 56,
+    "tileCount": 72,
+    "bounds": [
+      5,
+      9,
+      218,
+      79
+    ],
+    "category": "room"
+  }
+]

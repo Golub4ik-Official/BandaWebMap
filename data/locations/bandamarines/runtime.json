@@ -1,0 +1,32 @@
+[
+  {
+    "id": "/area/event",
+    "name": "Open grounds (event P)",
+    "z": 1,
+    "x": 14,
+    "y": 9,
+    "tileCount": 427,
+    "bounds": [
+      1,
+      1,
+      26,
+      17
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/event/dynamic",
+    "name": "Open grounds (event PD)",
+    "z": 2,
+    "x": 11,
+    "y": 8,
+    "tileCount": 351,
+    "bounds": [
+      1,
+      1,
+      22,
+      16
+    ],
+    "category": "major"
+  }
+]

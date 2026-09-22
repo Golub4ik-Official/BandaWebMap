@@ -1,0 +1,17 @@
+[
+  {
+    "id": "/area/lv522/oob",
+    "name": "LV522 - Out Of Bounds",
+    "z": 1,
+    "x": 2,
+    "y": 2,
+    "tileCount": 5,
+    "bounds": [
+      1,
+      1,
+      3,
+      3
+    ],
+    "category": "room"
+  }
+]

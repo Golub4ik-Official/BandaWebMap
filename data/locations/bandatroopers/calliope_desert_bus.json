@@ -1,0 +1,227 @@
+[
+  {
+    "id": "/area/calliope_route/shuttles/drop2",
+    "name": "Calliope Highway - Tunnel Opening",
+    "z": 1,
+    "x": 48,
+    "y": 585,
+    "tileCount": 1458,
+    "bounds": [
+      33,
+      561,
+      63,
+      609
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/calliope_route/tunnel/caves",
+    "name": "Highway Cavern System",
+    "z": 1,
+    "x": 85,
+    "y": 844,
+    "tileCount": 2034,
+    "bounds": [
+      65,
+      806,
+      100,
+      877
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/calliope_route/highway/far_south",
+    "name": "Highway Far South Roadway",
+    "z": 1,
+    "x": 50,
+    "y": 121,
+    "tileCount": 22930,
+    "bounds": [
+      1,
+      1,
+      100,
+      241
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/calliope_route/exterior_buildings/gateways",
+    "name": "Highway Gateways",
+    "z": 1,
+    "x": 47,
+    "y": 296,
+    "tileCount": 507,
+    "bounds": [
+      1,
+      1,
+      98,
+      940
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/calliope_route/highway/exchange",
+    "name": "Highway Interchange",
+    "z": 1,
+    "x": 52,
+    "y": 299,
+    "tileCount": 12211,
+    "bounds": [
+      1,
+      236,
+      100,
+      366
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/calliope_route/highway/north",
+    "name": "Highway North Roadway",
+    "z": 1,
+    "x": 47,
+    "y": 824,
+    "tileCount": 27065,
+    "bounds": [
+      1,
+      679,
+      100,
+      975
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/calliope_route/highway/close_south",
+    "name": "Highway South Roadway",
+    "z": 1,
+    "x": 49,
+    "y": 426,
+    "tileCount": 12854,
+    "bounds": [
+      1,
+      354,
+      100,
+      492
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/calliope_route/exterior_buildings/buildings",
+    "name": "Highway Structure",
+    "z": 1,
+    "x": 57,
+    "y": 737,
+    "tileCount": 190,
+    "bounds": [
+      23,
+      457,
+      85,
+      934
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/calliope_route/shuttles/drop1",
+    "name": "New Arkansas - Perimeter Gates",
+    "z": 1,
+    "x": 72,
+    "y": 954,
+    "tileCount": 372,
+    "bounds": [
+      64,
+      943,
+      80,
+      966
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/calliope_route/tunnel/tunnel_n",
+    "name": "North Tunnel Segment",
+    "z": 1,
+    "x": 45,
+    "y": 645,
+    "tileCount": 1473,
+    "bounds": [
+      35,
+      609,
+      56,
+      681
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/calliope_route/tunnel/tunnel_s",
+    "name": "South Tunnel Segment",
+    "z": 1,
+    "x": 46,
+    "y": 525,
+    "tileCount": 1328,
+    "bounds": [
+      37,
+      489,
+      57,
+      561
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/calliope_route/tunnel/generator_maints",
+    "name": "Tunnel Maintenance Power Segment",
+    "z": 1,
+    "x": 66,
+    "y": 519,
+    "tileCount": 1291,
+    "bounds": [
+      55,
+      491,
+      79,
+      555
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/calliope_route/tunnel/maintenance_hall",
+    "name": "Tunnel Maintenance Segment",
+    "z": 1,
+    "x": 81,
+    "y": 584,
+    "tileCount": 2072,
+    "bounds": [
+      54,
+      524,
+      91,
+      633
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/calliope_route/shuttles/drop3",
+    "name": "Calliope Highway - Far South Opening",
+    "z": 1,
+    "x": 63,
+    "y": 37,
+    "tileCount": 242,
+    "bounds": [
+      58,
+      27,
+      70,
+      48
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/calliope_route/shuttles/drop4",
+    "name": "Calliope Highway - Far South Opening - SECONDARY",
+    "z": 1,
+    "x": 78,
+    "y": 25,
+    "tileCount": 302,
+    "bounds": [
+      71,
+      12,
+      85,
+      38
+    ],
+    "category": "room"
+  }
+]

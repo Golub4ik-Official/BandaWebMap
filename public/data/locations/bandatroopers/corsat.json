@@ -1,0 +1,1832 @@
+[
+  {
+    "id": "/area/corsat/gamma/biodome",
+    "name": "Biodome Gamma",
+    "z": 1,
+    "x": 42,
+    "y": 122,
+    "tileCount": 3575,
+    "bounds": [
+      1,
+      85,
+      77,
+      162
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/omega/biodome",
+    "name": "Biodome Omega",
+    "z": 1,
+    "x": 22,
+    "y": 23,
+    "tileCount": 1082,
+    "bounds": [
+      5,
+      3,
+      42,
+      42
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/sigma/biodome",
+    "name": "Biodome Sigma",
+    "z": 1,
+    "x": 167,
+    "y": 125,
+    "tileCount": 3331,
+    "bounds": [
+      130,
+      85,
+      205,
+      163
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/theta/biodome",
+    "name": "Biodome Theta",
+    "z": 1,
+    "x": 121,
+    "y": 58,
+    "tileCount": 3613,
+    "bounds": [
+      81,
+      18,
+      158,
+      94
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/gamma/residential/west",
+    "name": "CORSAT Academy",
+    "z": 1,
+    "x": 43,
+    "y": 189,
+    "tileCount": 812,
+    "bounds": [
+      23,
+      177,
+      71,
+      203
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/gamma/administration",
+    "name": "CORSAT Administration Center",
+    "z": 1,
+    "x": 104,
+    "y": 113,
+    "tileCount": 474,
+    "bounds": [
+      90,
+      103,
+      117,
+      121
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/gamma/cargo",
+    "name": "Gamma Cargo",
+    "z": 1,
+    "x": 119,
+    "y": 184,
+    "tileCount": 351,
+    "bounds": [
+      105,
+      174,
+      133,
+      190
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/gamma/airlock/control",
+    "name": "Gamma Dome Control Module",
+    "z": 1,
+    "x": 71,
+    "y": 125,
+    "tileCount": 351,
+    "bounds": [
+      58,
+      113,
+      80,
+      137
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/gamma/engineering",
+    "name": "Gamma Engineering",
+    "z": 1,
+    "x": 116,
+    "y": 161,
+    "tileCount": 365,
+    "bounds": [
+      105,
+      152,
+      130,
+      173
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/gamma/foyer",
+    "name": "Gamma Foyer",
+    "z": 1,
+    "x": 95,
+    "y": 193,
+    "tileCount": 366,
+    "bounds": [
+      76,
+      180,
+      115,
+      200
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/gamma/residential/east",
+    "name": "Gamma North Residential",
+    "z": 1,
+    "x": 58,
+    "y": 220,
+    "tileCount": 1008,
+    "bounds": [
+      43,
+      198,
+      72,
+      240
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/gamma/biodome/complex",
+    "name": "Gamma Research Complex",
+    "z": 1,
+    "x": 19,
+    "y": 129,
+    "tileCount": 416,
+    "bounds": [
+      7,
+      119,
+      34,
+      138
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/gamma/residential",
+    "name": "Gamma Residential Hallway",
+    "z": 1,
+    "x": 50,
+    "y": 194,
+    "tileCount": 886,
+    "bounds": [
+      23,
+      168,
+      76,
+      231
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/gamma/hallwaysouth",
+    "name": "Gamma Sector South Hallways",
+    "z": 1,
+    "x": 104,
+    "y": 131,
+    "tileCount": 1518,
+    "bounds": [
+      74,
+      98,
+      134,
+      179
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/gamma/hangar",
+    "name": "Landing Bay Gamma",
+    "z": 1,
+    "x": 119,
+    "y": 214,
+    "tileCount": 797,
+    "bounds": [
+      108,
+      196,
+      132,
+      231
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/omega/hangar",
+    "name": "Landing Bay Omega",
+    "z": 1,
+    "x": 74,
+    "y": 19,
+    "tileCount": 600,
+    "bounds": [
+      63,
+      1,
+      86,
+      37
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/sigma/hangar",
+    "name": "Landing Bay Sigma",
+    "z": 1,
+    "x": 235,
+    "y": 141,
+    "tileCount": 745,
+    "bounds": [
+      222,
+      116,
+      252,
+      158
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/omega/checkpoint",
+    "name": "Omega Access Checkpoint",
+    "z": 1,
+    "x": 80,
+    "y": 88,
+    "tileCount": 404,
+    "bounds": [
+      69,
+      70,
+      92,
+      100
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/omega/offices",
+    "name": "Omega Offices",
+    "z": 1,
+    "x": 18,
+    "y": 76,
+    "tileCount": 479,
+    "bounds": [
+      5,
+      68,
+      32,
+      86
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/omega/complex",
+    "name": "Omega Research Complex",
+    "z": 1,
+    "x": 46,
+    "y": 46,
+    "tileCount": 675,
+    "bounds": [
+      27,
+      25,
+      60,
+      58
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/omega/hallways",
+    "name": "Omega Sector Hallways",
+    "z": 1,
+    "x": 53,
+    "y": 59,
+    "tileCount": 899,
+    "bounds": [
+      16,
+      20,
+      76,
+      88
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/gamma/residential/researcher",
+    "name": "Researcher Quarters",
+    "z": 1,
+    "x": 14,
+    "y": 184,
+    "tileCount": 754,
+    "bounds": [
+      3,
+      162,
+      22,
+      209
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/sigma/biodome/gunrange",
+    "name": "Sigma Biodome Firing Range",
+    "z": 1,
+    "x": 180,
+    "y": 136,
+    "tileCount": 534,
+    "bounds": [
+      164,
+      127,
+      196,
+      148
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/sigma/cargo",
+    "name": "Sigma Cargo",
+    "z": 1,
+    "x": 240,
+    "y": 107,
+    "tileCount": 361,
+    "bounds": [
+      230,
+      98,
+      251,
+      115
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/sigma/airlock/control",
+    "name": "Sigma Dome Control Module",
+    "z": 1,
+    "x": 136,
+    "y": 122,
+    "tileCount": 351,
+    "bounds": [
+      127,
+      110,
+      149,
+      134
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/gamma/sigmaremote",
+    "name": "Sigma Remote Complex",
+    "z": 1,
+    "x": 24,
+    "y": 218,
+    "tileCount": 633,
+    "bounds": [
+      9,
+      208,
+      38,
+      230
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/sigma/south/complex",
+    "name": "Sigma Research Complex",
+    "z": 1,
+    "x": 192,
+    "y": 60,
+    "tileCount": 651,
+    "bounds": [
+      172,
+      43,
+      204,
+      73
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/sigma/dorms",
+    "name": "Sigma Residential Module",
+    "z": 1,
+    "x": 224,
+    "y": 89,
+    "tileCount": 961,
+    "bounds": [
+      192,
+      76,
+      252,
+      99
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/sigma/south/robotics",
+    "name": "Sigma Robotics Laboratory",
+    "z": 1,
+    "x": 189,
+    "y": 30,
+    "tileCount": 550,
+    "bounds": [
+      171,
+      20,
+      210,
+      38
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/sigma/north",
+    "name": "Sigma Sector North Hallway",
+    "z": 1,
+    "x": 220,
+    "y": 112,
+    "tileCount": 417,
+    "bounds": [
+      200,
+      96,
+      241,
+      125
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/sigma/south",
+    "name": "Sigma Sector South Hallways",
+    "z": 1,
+    "x": 190,
+    "y": 61,
+    "tileCount": 896,
+    "bounds": [
+      164,
+      35,
+      213,
+      84
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/sigma/biodome/testgrounds",
+    "name": "Testgrounds",
+    "z": 1,
+    "x": 184,
+    "y": 109,
+    "tileCount": 456,
+    "bounds": [
+      174,
+      98,
+      195,
+      120
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/theta/airlock/control",
+    "name": "Theta Dome Control Module",
+    "z": 1,
+    "x": 118,
+    "y": 88,
+    "tileCount": 351,
+    "bounds": [
+      106,
+      75,
+      130,
+      97
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/theta/biodome/complex",
+    "name": "Theta Research Complex",
+    "z": 1,
+    "x": 116,
+    "y": 41,
+    "tileCount": 596,
+    "bounds": [
+      103,
+      26,
+      129,
+      54
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/inaccessible",
+    "name": "Unknown Location",
+    "z": 1,
+    "x": 94,
+    "y": 98,
+    "tileCount": 392,
+    "bounds": [
+      25,
+      49,
+      177,
+      172
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/corsat/gamma/rnr/arcade",
+    "name": "CORSAT Arcade",
+    "z": 1,
+    "x": 93,
+    "y": 188,
+    "tileCount": 67,
+    "bounds": [
+      89,
+      184,
+      97,
+      191
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/security/armory",
+    "name": "CORSAT Armory",
+    "z": 1,
+    "x": 80,
+    "y": 217,
+    "tileCount": 35,
+    "bounds": [
+      77,
+      215,
+      83,
+      219
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/engineering/atmos",
+    "name": "CORSAT Atmospherics",
+    "z": 1,
+    "x": 134,
+    "y": 162,
+    "tileCount": 135,
+    "bounds": [
+      130,
+      152,
+      139,
+      172
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/rnr/bar",
+    "name": "CORSAT Bar",
+    "z": 1,
+    "x": 81,
+    "y": 187,
+    "tileCount": 132,
+    "bounds": [
+      75,
+      181,
+      89,
+      191
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/canteen",
+    "name": "CORSAT Canteen",
+    "z": 1,
+    "x": 90,
+    "y": 157,
+    "tileCount": 152,
+    "bounds": [
+      84,
+      152,
+      97,
+      162
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/medbay/chemistry",
+    "name": "CORSAT Chemistry",
+    "z": 1,
+    "x": 106,
+    "y": 128,
+    "tileCount": 54,
+    "bounds": [
+      102,
+      126,
+      110,
+      131
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/hangar/flightcontrol",
+    "name": "CORSAT Flight Control Center",
+    "z": 1,
+    "x": 84,
+    "y": 225,
+    "tileCount": 287,
+    "bounds": [
+      72,
+      219,
+      96,
+      231
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/freezer",
+    "name": "CORSAT Food Storage",
+    "z": 1,
+    "x": 90,
+    "y": 172,
+    "tileCount": 87,
+    "bounds": [
+      85,
+      163,
+      96,
+      180
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/engineering/core",
+    "name": "CORSAT Generator Core",
+    "z": 1,
+    "x": 120,
+    "y": 172,
+    "tileCount": 140,
+    "bounds": [
+      114,
+      167,
+      127,
+      176
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/hydroponics",
+    "name": "CORSAT Hydroponics",
+    "z": 1,
+    "x": 94,
+    "y": 174,
+    "tileCount": 80,
+    "bounds": [
+      91,
+      168,
+      97,
+      180
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/kitchen",
+    "name": "CORSAT Kitchen",
+    "z": 1,
+    "x": 88,
+    "y": 167,
+    "tileCount": 66,
+    "bounds": [
+      84,
+      163,
+      91,
+      171
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/rnr/library",
+    "name": "CORSAT Library",
+    "z": 1,
+    "x": 75,
+    "y": 159,
+    "tileCount": 189,
+    "bounds": [
+      69,
+      150,
+      80,
+      166
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/medbay",
+    "name": "CORSAT Medbay",
+    "z": 1,
+    "x": 106,
+    "y": 139,
+    "tileCount": 324,
+    "bounds": [
+      90,
+      132,
+      124,
+      147
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/medbay/lobby",
+    "name": "CORSAT Medbay Lobby",
+    "z": 1,
+    "x": 116,
+    "y": 135,
+    "tileCount": 156,
+    "bounds": [
+      110,
+      126,
+      124,
+      141
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/sigma/hangar/monorail/railcart",
+    "name": "CORSAT Monorail",
+    "z": 1,
+    "x": 231,
+    "y": 166,
+    "tileCount": 75,
+    "bounds": [
+      224,
+      164,
+      238,
+      168
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/sigma/hangar/monorail/railcart_transit",
+    "name": "CORSAT Monorail transit",
+    "z": 1,
+    "x": 167,
+    "y": 169,
+    "tileCount": 75,
+    "bounds": [
+      160,
+      167,
+      174,
+      171
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/medbay/morgue",
+    "name": "CORSAT Morgue",
+    "z": 1,
+    "x": 92,
+    "y": 143,
+    "tileCount": 165,
+    "bounds": [
+      84,
+      136,
+      103,
+      147
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/rnr",
+    "name": "CORSAT R&R",
+    "z": 1,
+    "x": 78,
+    "y": 172,
+    "tileCount": 280,
+    "bounds": [
+      60,
+      152,
+      97,
+      184
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/hangar/monorail/railcart",
+    "name": "CORSAT Railcart",
+    "z": 1,
+    "x": 119,
+    "y": 239,
+    "tileCount": 75,
+    "bounds": [
+      112,
+      237,
+      126,
+      241
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/sigma/southeast/generator",
+    "name": "CORSAT Secondary Generators",
+    "z": 1,
+    "x": 234,
+    "y": 72,
+    "tileCount": 169,
+    "bounds": [
+      228,
+      64,
+      244,
+      81
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/security/cells",
+    "name": "CORSAT Security Cells",
+    "z": 1,
+    "x": 88,
+    "y": 215,
+    "tileCount": 72,
+    "bounds": [
+      84,
+      211,
+      91,
+      219
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/security",
+    "name": "CORSAT Security Hub",
+    "z": 1,
+    "x": 83,
+    "y": 207,
+    "tileCount": 178,
+    "bounds": [
+      77,
+      201,
+      91,
+      214
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/medbay/surgery",
+    "name": "CORSAT Surgery",
+    "z": 1,
+    "x": 95,
+    "y": 129,
+    "tileCount": 73,
+    "bounds": [
+      90,
+      126,
+      101,
+      132
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/sigma/southeast/telecomm",
+    "name": "CORSAT Telecommunications",
+    "z": 1,
+    "x": 238,
+    "y": 64,
+    "tileCount": 61,
+    "bounds": [
+      234,
+      59,
+      240,
+      70
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/hangar_storage/research/shuttle",
+    "name": "Corporate Shuttle",
+    "z": 1,
+    "x": 74,
+    "y": 16,
+    "tileCount": 209,
+    "bounds": [
+      69,
+      6,
+      79,
+      26
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/hangar/arrivals",
+    "name": "Gamma Arrivals",
+    "z": 1,
+    "x": 100,
+    "y": 223,
+    "tileCount": 289,
+    "bounds": [
+      96,
+      208,
+      107,
+      243
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/cargo/lobby",
+    "name": "Gamma Cargo Lobby",
+    "z": 1,
+    "x": 108,
+    "y": 179,
+    "tileCount": 29,
+    "bounds": [
+      105,
+      177,
+      110,
+      181
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/cargo/disposal",
+    "name": "Gamma Disposals",
+    "z": 1,
+    "x": 130,
+    "y": 176,
+    "tileCount": 66,
+    "bounds": [
+      128,
+      167,
+      133,
+      182
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/airlock/north",
+    "name": "Gamma Dome North Airlock",
+    "z": 1,
+    "x": 36,
+    "y": 165,
+    "tileCount": 71,
+    "bounds": [
+      30,
+      163,
+      42,
+      168
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/airlock/south",
+    "name": "Gamma Dome South Airlock",
+    "z": 1,
+    "x": 36,
+    "y": 81,
+    "tileCount": 65,
+    "bounds": [
+      32,
+      78,
+      42,
+      84
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/engineering/lobby",
+    "name": "Gamma Engineering Lobby",
+    "z": 1,
+    "x": 108,
+    "y": 161,
+    "tileCount": 29,
+    "bounds": [
+      105,
+      159,
+      110,
+      163
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/hangar/cargo",
+    "name": "Gamma Hangar Cargo Checkpoint",
+    "z": 1,
+    "x": 124,
+    "y": 194,
+    "tileCount": 128,
+    "bounds": [
+      116,
+      191,
+      131,
+      198
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/hangar/checkpoint",
+    "name": "Gamma Hangar Checkpoint",
+    "z": 1,
+    "x": 101,
+    "y": 202,
+    "tileCount": 157,
+    "bounds": [
+      92,
+      196,
+      107,
+      207
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/hangar/office",
+    "name": "Gamma Hangar Office",
+    "z": 1,
+    "x": 105,
+    "y": 224,
+    "tileCount": 59,
+    "bounds": [
+      103,
+      220,
+      108,
+      229
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/hangar/security",
+    "name": "Gamma Hangar Security",
+    "z": 1,
+    "x": 94,
+    "y": 213,
+    "tileCount": 65,
+    "bounds": [
+      92,
+      207,
+      96,
+      219
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/residential/laundry",
+    "name": "Gamma Laundry",
+    "z": 1,
+    "x": 65,
+    "y": 163,
+    "tileCount": 43,
+    "bounds": [
+      62,
+      160,
+      68,
+      166
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/residential/lavatory",
+    "name": "Gamma Lavatory",
+    "z": 1,
+    "x": 54,
+    "y": 169,
+    "tileCount": 99,
+    "bounds": [
+      49,
+      165,
+      59,
+      173
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/hangar/monorail/control",
+    "name": "Gamma Monorail Control",
+    "z": 1,
+    "x": 106,
+    "y": 239,
+    "tileCount": 62,
+    "bounds": [
+      103,
+      236,
+      110,
+      243
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/hangar/monorail",
+    "name": "Gamma Monorail Station",
+    "z": 1,
+    "x": 116,
+    "y": 235,
+    "tileCount": 174,
+    "bounds": [
+      103,
+      230,
+      128,
+      243
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/airlock/north/id",
+    "name": "Gamma North ID Checkpoint",
+    "z": 1,
+    "x": 46,
+    "y": 166,
+    "tileCount": 36,
+    "bounds": [
+      43,
+      163,
+      48,
+      168
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/residential/maint",
+    "name": "Gamma Residential Maintenance",
+    "z": 1,
+    "x": 27,
+    "y": 170,
+    "tileCount": 93,
+    "bounds": [
+      22,
+      166,
+      32,
+      174
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/residential/showers",
+    "name": "Gamma Showers",
+    "z": 1,
+    "x": 72,
+    "y": 175,
+    "tileCount": 150,
+    "bounds": [
+      66,
+      170,
+      80,
+      182
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/airlock/south/id",
+    "name": "Gamma South ID Checkpoint",
+    "z": 1,
+    "x": 47,
+    "y": 81,
+    "tileCount": 63,
+    "bounds": [
+      43,
+      78,
+      51,
+      84
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/biodome/toxins",
+    "name": "Gamma Toxins Wing",
+    "z": 1,
+    "x": 26,
+    "y": 115,
+    "tileCount": 289,
+    "bounds": [
+      13,
+      105,
+      34,
+      127
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/biodome/virology",
+    "name": "Gamma Virology Wing",
+    "z": 1,
+    "x": 25,
+    "y": 148,
+    "tileCount": 299,
+    "bounds": [
+      13,
+      139,
+      34,
+      157
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/omega/cargo",
+    "name": "Omega Cargo",
+    "z": 1,
+    "x": 64,
+    "y": 77,
+    "tileCount": 211,
+    "bounds": [
+      59,
+      68,
+      69,
+      88
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/omega/control",
+    "name": "Omega Dome Control Module",
+    "z": 1,
+    "x": 38,
+    "y": 22,
+    "tileCount": 186,
+    "bounds": [
+      29,
+      15,
+      44,
+      30
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/omega/airlocknorth",
+    "name": "Omega Dome North Airlock",
+    "z": 1,
+    "x": 20,
+    "y": 50,
+    "tileCount": 146,
+    "bounds": [
+      12,
+      43,
+      27,
+      55
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/omega/hangar/office",
+    "name": "Omega Hangar Office",
+    "z": 1,
+    "x": 58,
+    "y": 6,
+    "tileCount": 70,
+    "bounds": [
+      53,
+      3,
+      62,
+      9
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/omega/hangar/security",
+    "name": "Omega Hangar Security",
+    "z": 1,
+    "x": 57,
+    "y": 19,
+    "tileCount": 256,
+    "bounds": [
+      48,
+      9,
+      63,
+      35
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/omega/maint",
+    "name": "Omega Maintenance",
+    "z": 1,
+    "x": 71,
+    "y": 43,
+    "tileCount": 164,
+    "bounds": [
+      65,
+      35,
+      77,
+      49
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/omega/airlocknorth/id",
+    "name": "Omega North ID Checkpoint",
+    "z": 1,
+    "x": 16,
+    "y": 58,
+    "tileCount": 67,
+    "bounds": [
+      12,
+      55,
+      20,
+      62
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/omega/containment",
+    "name": "Omega Research Containment",
+    "z": 1,
+    "x": 32,
+    "y": 59,
+    "tileCount": 36,
+    "bounds": [
+      30,
+      55,
+      33,
+      63
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/omega/security",
+    "name": "Omega Security Hub",
+    "z": 1,
+    "x": 57,
+    "y": 69,
+    "tileCount": 275,
+    "bounds": [
+      47,
+      54,
+      71,
+      84
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/residential/lounge",
+    "name": "Researcher Lounge",
+    "z": 1,
+    "x": 6,
+    "y": 191,
+    "tileCount": 135,
+    "bounds": [
+      1,
+      185,
+      11,
+      197
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/sigma/hangar/arrivals",
+    "name": "Sigma Arrivals",
+    "z": 1,
+    "x": 216,
+    "y": 147,
+    "tileCount": 215,
+    "bounds": [
+      209,
+      139,
+      221,
+      157
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/sigma/biodome/scrapyard",
+    "name": "Sigma Biodome Scrapyard",
+    "z": 1,
+    "x": 150,
+    "y": 105,
+    "tileCount": 260,
+    "bounds": [
+      141,
+      99,
+      160,
+      111
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/sigma/cafe",
+    "name": "Sigma Cafe",
+    "z": 1,
+    "x": 219,
+    "y": 102,
+    "tileCount": 117,
+    "bounds": [
+      213,
+      98,
+      225,
+      106
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/sigma/southeast/datalab",
+    "name": "Sigma Data Laboratory",
+    "z": 1,
+    "x": 227,
+    "y": 58,
+    "tileCount": 166,
+    "bounds": [
+      220,
+      53,
+      234,
+      64
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/sigma/southeast/datamaint",
+    "name": "Sigma Data Maintenance",
+    "z": 1,
+    "x": 217,
+    "y": 59,
+    "tileCount": 37,
+    "bounds": [
+      214,
+      56,
+      219,
+      62
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/sigma/southeast/dataoffice",
+    "name": "Sigma Data Office",
+    "z": 1,
+    "x": 219,
+    "y": 73,
+    "tileCount": 92,
+    "bounds": [
+      214,
+      69,
+      223,
+      78
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/sigma/airlock/east",
+    "name": "Sigma Dome East Airlock",
+    "z": 1,
+    "x": 210,
+    "y": 120,
+    "tileCount": 78,
+    "bounds": [
+      206,
+      116,
+      215,
+      125
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/sigma/airlock/south",
+    "name": "Sigma Dome South Airlock",
+    "z": 1,
+    "x": 161,
+    "y": 79,
+    "tileCount": 144,
+    "bounds": [
+      154,
+      70,
+      168,
+      84
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/sigma/airlock/east/id",
+    "name": "Sigma East ID Checkpoint",
+    "z": 1,
+    "x": 210,
+    "y": 128,
+    "tileCount": 45,
+    "bounds": [
+      206,
+      126,
+      214,
+      130
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/sigma/south/engineering",
+    "name": "Sigma Engineering",
+    "z": 1,
+    "x": 163,
+    "y": 30,
+    "tileCount": 292,
+    "bounds": [
+      154,
+      21,
+      172,
+      41
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/sigma/hangar/checkpoint",
+    "name": "Sigma Hangar Checkpoint",
+    "z": 1,
+    "x": 221,
+    "y": 133,
+    "tileCount": 158,
+    "bounds": [
+      209,
+      126,
+      252,
+      138
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/sigma/hangar/id",
+    "name": "Sigma Hangar ID Checkpoint",
+    "z": 1,
+    "x": 228,
+    "y": 123,
+    "tileCount": 119,
+    "bounds": [
+      220,
+      120,
+      236,
+      126
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/sigma/hangar/office",
+    "name": "Sigma Hangar Office",
+    "z": 1,
+    "x": 245,
+    "y": 151,
+    "tileCount": 103,
+    "bounds": [
+      241,
+      145,
+      249,
+      156
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/sigma/hangar/security",
+    "name": "Sigma Hangar Security",
+    "z": 1,
+    "x": 244,
+    "y": 127,
+    "tileCount": 230,
+    "bounds": [
+      237,
+      116,
+      250,
+      138
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/sigma/laundry",
+    "name": "Sigma Laundry",
+    "z": 1,
+    "x": 211,
+    "y": 113,
+    "tileCount": 39,
+    "bounds": [
+      207,
+      111,
+      214,
+      115
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/sigma/lavatory",
+    "name": "Sigma Lavatory",
+    "z": 1,
+    "x": 209,
+    "y": 102,
+    "tileCount": 55,
+    "bounds": [
+      206,
+      98,
+      212,
+      106
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/sigma/hangar/monorail/control",
+    "name": "Sigma Monorail Control",
+    "z": 1,
+    "x": 245,
+    "y": 166,
+    "tileCount": 74,
+    "bounds": [
+      240,
+      163,
+      250,
+      169
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/sigma/hangar/monorail",
+    "name": "Sigma Monorail Station",
+    "z": 1,
+    "x": 232,
+    "y": 161,
+    "tileCount": 253,
+    "bounds": [
+      214,
+      157,
+      250,
+      170
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/sigma/south/offices",
+    "name": "Sigma Offices",
+    "z": 1,
+    "x": 167,
+    "y": 45,
+    "tileCount": 157,
+    "bounds": [
+      162,
+      38,
+      172,
+      52
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/gamma/sigmaremote/teleporter",
+    "name": "Sigma Remote Teleporter",
+    "z": 1,
+    "x": 23,
+    "y": 223,
+    "tileCount": 25,
+    "bounds": [
+      21,
+      221,
+      25,
+      225
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/sigma/southeast",
+    "name": "Sigma Sector Southeast Hallways",
+    "z": 1,
+    "x": 219,
+    "y": 67,
+    "tileCount": 120,
+    "bounds": [
+      210,
+      62,
+      227,
+      75
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/sigma/checkpoint",
+    "name": "Sigma Security Checkpoint",
+    "z": 1,
+    "x": 228,
+    "y": 90,
+    "tileCount": 48,
+    "bounds": [
+      225,
+      87,
+      230,
+      94
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/sigma/south/security",
+    "name": "Sigma Security Hub",
+    "z": 1,
+    "x": 180,
+    "y": 53,
+    "tileCount": 229,
+    "bounds": [
+      172,
+      43,
+      187,
+      63
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/sigma/airlock/south/id",
+    "name": "Sigma South ID Checkpoint",
+    "z": 1,
+    "x": 172,
+    "y": 81,
+    "tileCount": 42,
+    "bounds": [
+      169,
+      78,
+      174,
+      84
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/sigma/south/complex/teleporter",
+    "name": "Sigma Teleporter",
+    "z": 1,
+    "x": 198,
+    "y": 63,
+    "tileCount": 25,
+    "bounds": [
+      196,
+      61,
+      200,
+      65
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/theta/airlock/east",
+    "name": "Theta Dome East Airlock",
+    "z": 1,
+    "x": 163,
+    "y": 62,
+    "tileCount": 92,
+    "bounds": [
+      159,
+      56,
+      167,
+      69
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/theta/airlock/west",
+    "name": "Theta Dome West Airlock",
+    "z": 1,
+    "x": 78,
+    "y": 54,
+    "tileCount": 53,
+    "bounds": [
+      76,
+      49,
+      80,
+      59
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/theta/biodome/hydroeast",
+    "name": "Theta East Hydroponics Wing",
+    "z": 1,
+    "x": 138,
+    "y": 46,
+    "tileCount": 177,
+    "bounds": [
+      130,
+      39,
+      146,
+      53
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/theta/airlock/east/id",
+    "name": "Theta East ID Checkpoint",
+    "z": 1,
+    "x": 162,
+    "y": 53,
+    "tileCount": 35,
+    "bounds": [
+      159,
+      51,
+      167,
+      55
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/theta/biodome/hydrowest",
+    "name": "Theta West Hydroponics Wing",
+    "z": 1,
+    "x": 96,
+    "y": 46,
+    "tileCount": 177,
+    "bounds": [
+      88,
+      39,
+      104,
+      53
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/theta/airlock/west/id",
+    "name": "Theta West ID Checkpoint",
+    "z": 1,
+    "x": 78,
+    "y": 64,
+    "tileCount": 44,
+    "bounds": [
+      76,
+      60,
+      80,
+      69
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/corsat/emergency_access",
+    "name": "Unknown Area",
+    "z": 1,
+    "x": 95,
+    "y": 93,
+    "tileCount": 227,
+    "bounds": [
+      16,
+      31,
+      160,
+      160
+    ],
+    "category": "room"
+  }
+]

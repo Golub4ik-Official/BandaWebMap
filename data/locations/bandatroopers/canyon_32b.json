@@ -1,0 +1,362 @@
+[
+  {
+    "id": "/area/canyon32B/exterior/south/bar",
+    "name": "Canyon 32B - Bar Parking Lot",
+    "z": 1,
+    "x": 80,
+    "y": 134,
+    "tileCount": 125,
+    "bounds": [
+      75,
+      129,
+      87,
+      139
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/canyon32B/exterior/north",
+    "name": "Canyon 32B - Northern Canyon",
+    "z": 1,
+    "x": 150,
+    "y": 420,
+    "tileCount": 13438,
+    "bounds": [
+      48,
+      350,
+      280,
+      500
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/canyon32B/exterior/south",
+    "name": "Canyon 32B - Southern Canyon",
+    "z": 1,
+    "x": 116,
+    "y": 158,
+    "tileCount": 35956,
+    "bounds": [
+      2,
+      1,
+      291,
+      320
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/canyon32B/OOB",
+    "name": "Canyon 32B - Under The Ice",
+    "z": 1,
+    "x": 162,
+    "y": 259,
+    "tileCount": 97911,
+    "bounds": [
+      1,
+      1,
+      300,
+      500
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/canyon32B/exterior/checkpoint",
+    "name": "Checkpoint Four - Surface",
+    "z": 1,
+    "x": 250,
+    "y": 335,
+    "tileCount": 1694,
+    "bounds": [
+      217,
+      321,
+      284,
+      349
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/canyon32B/interior/bar",
+    "name": "Bar",
+    "z": 1,
+    "x": 70,
+    "y": 134,
+    "tileCount": 104,
+    "bounds": [
+      65,
+      129,
+      74,
+      139
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/canyon32B/interior/bunker/armory",
+    "name": "Checkpoint Four - Armory",
+    "z": 1,
+    "x": 183,
+    "y": 339,
+    "tileCount": 35,
+    "bounds": [
+      181,
+      336,
+      185,
+      342
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/canyon32B/interior/bunker/bathroom",
+    "name": "Checkpoint Four - Bathroom",
+    "z": 1,
+    "x": 188,
+    "y": 338,
+    "tileCount": 16,
+    "bounds": [
+      186,
+      336,
+      189,
+      339
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/canyon32B/interior/overhang",
+    "name": "Checkpoint Four - Bunker Entrance",
+    "z": 1,
+    "x": 216,
+    "y": 334,
+    "tileCount": 22,
+    "bounds": [
+      213,
+      333,
+      219,
+      336
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/canyon32B/interior/bunker/bunks",
+    "name": "Checkpoint Four - Bunks",
+    "z": 1,
+    "x": 182,
+    "y": 329,
+    "tileCount": 53,
+    "bounds": [
+      180,
+      325,
+      185,
+      333
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/canyon32B/interior/bunker/detainment",
+    "name": "Checkpoint Four - Detainment Cells",
+    "z": 1,
+    "x": 193,
+    "y": 339,
+    "tileCount": 49,
+    "bounds": [
+      190,
+      336,
+      196,
+      342
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/canyon32B/interior/bunker/engineering/power",
+    "name": "Checkpoint Four - Generators",
+    "z": 1,
+    "x": 16,
+    "y": 355,
+    "tileCount": 64,
+    "bounds": [
+      12,
+      351,
+      19,
+      359
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/canyon32B/interior/bunker/hallway",
+    "name": "Checkpoint Four - Main Hallway",
+    "z": 1,
+    "x": 179,
+    "y": 337,
+    "tileCount": 80,
+    "bounds": [
+      172,
+      334,
+      195,
+      345
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/canyon32B/interior/bunker/engineering",
+    "name": "Checkpoint Four - Maintenance",
+    "z": 1,
+    "x": 174,
+    "y": 349,
+    "tileCount": 38,
+    "bounds": [
+      171,
+      346,
+      176,
+      352
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/canyon32B/interior/bunker/medbay",
+    "name": "Checkpoint Four - Medical Bay",
+    "z": 1,
+    "x": 188,
+    "y": 330,
+    "tileCount": 42,
+    "bounds": [
+      186,
+      327,
+      191,
+      333
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/canyon32B/interior/bunker/mess",
+    "name": "Checkpoint Four - Mess Hall",
+    "z": 1,
+    "x": 175,
+    "y": 329,
+    "tileCount": 75,
+    "bounds": [
+      171,
+      325,
+      179,
+      333
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/canyon32B/interior/bunker/overwatch",
+    "name": "Checkpoint Four - Overwatch Office",
+    "z": 1,
+    "x": 178,
+    "y": 340,
+    "tileCount": 48,
+    "bounds": [
+      175,
+      336,
+      180,
+      343
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/canyon32B/interior/gatehouse/pillbox_alpha",
+    "name": "Checkpoint Four - Pillbox Alpha",
+    "z": 1,
+    "x": 224,
+    "y": 339,
+    "tileCount": 18,
+    "bounds": [
+      222,
+      337,
+      225,
+      341
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/canyon32B/interior/gatehouse/pillbox_bravo",
+    "name": "Checkpoint Four - Pillbox Bravo",
+    "z": 1,
+    "x": 224,
+    "y": 330,
+    "tileCount": 18,
+    "bounds": [
+      222,
+      328,
+      225,
+      332
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/canyon32B/interior/gatehouse/southern",
+    "name": "Checkpoint Four - Southern Gatehouse",
+    "z": 1,
+    "x": 246,
+    "y": 325,
+    "tileCount": 20,
+    "bounds": [
+      244,
+      323,
+      247,
+      327
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/canyon32B/interior/bunker/storage",
+    "name": "Checkpoint Four - Storage Closet",
+    "z": 1,
+    "x": 194,
+    "y": 330,
+    "tileCount": 40,
+    "bounds": [
+      192,
+      326,
+      196,
+      333
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/canyon32B/interior/bunker/unloading",
+    "name": "Checkpoint Four - Unloading Bay",
+    "z": 1,
+    "x": 200,
+    "y": 334,
+    "tileCount": 58,
+    "bounds": [
+      196,
+      330,
+      203,
+      337
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/canyon32B/interior/bunker/entrance",
+    "name": "Entrance",
+    "z": 1,
+    "x": 208,
+    "y": 336,
+    "tileCount": 75,
+    "bounds": [
+      204,
+      332,
+      213,
+      340
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/canyon32B/interior/gatehouse/northern",
+    "name": "Northern",
+    "z": 1,
+    "x": 252,
+    "y": 345,
+    "tileCount": 20,
+    "bounds": [
+      251,
+      343,
+      254,
+      347
+    ],
+    "category": "room"
+  }
+]

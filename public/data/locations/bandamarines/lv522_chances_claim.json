@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "/area/lv522/landing_zone_2/ceiling",
+    "name": "Chance's Claim - Dropship Normandy Landing Zone",
+    "z": 1,
+    "x": 146,
+    "y": 34,
+    "tileCount": 228,
+    "bounds": [
+      128,
+      29,
+      164,
+      42
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/lv522/landing_zone_1",
+    "name": "Chance's Claim - Landing Zone One",
+    "z": 1,
+    "x": 21,
+    "y": 35,
+    "tileCount": 844,
+    "bounds": [
+      3,
+      8,
+      147,
+      52
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/lv522/landing_zone_1/ceiling",
+    "name": "Chance's Claim - Landing Zone One Tunnels",
+    "z": 1,
+    "x": 36,
+    "y": 38,
+    "tileCount": 233,
+    "bounds": [
+      14,
+      21,
+      45,
+      56
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/lv522/landing_zone_1/tunnel/far",
+    "name": "Chance's Claim - Landing Zone One Tunnels",
+    "z": 1,
+    "x": 62,
+    "y": 7,
+    "tileCount": 272,
+    "bounds": [
+      45,
+      3,
+      85,
+      16
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/lv522/landing_zone_2",
+    "name": "Chance's Claim - Landing Zone Two",
+    "z": 1,
+    "x": 154,
+    "y": 19,
+    "tileCount": 835,
+    "bounds": [
+      128,
+      4,
+      175,
+      37
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/lv522/indoors/lone_buildings/outdoor_bot",
+    "name": "East LZ1 - Outdoor T-Comms",
+    "z": 1,
+    "x": 60,
+    "y": 24,
+    "tileCount": 128,
+    "bounds": [
+      54,
+      20,
+      67,
+      29
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/lv522/indoors/a_block/admin",
+    "name": "A-Block - Colony Operations Centre",
+    "z": 1,
+    "x": 144,
+    "y": 114,
+    "tileCount": 592,
+    "bounds": [
+      130,
+      104,
+      161,
+      129
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv522/indoors/a_block/dorms",
+    "name": "A-Block - Western Dorms And Offices",
+    "z": 1,
+    "x": 51,
+    "y": 100,
+    "tileCount": 1174,
+    "bounds": [
+      32,
+      80,
+      69,
+      120
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv522/atmos/cargo_intake",
+    "name": "Atmospheric Processor - Cargo Intake",
+    "z": 1,
+    "x": 60,
+    "y": 163,
+    "tileCount": 636,
+    "bounds": [
+      25,
+      151,
+      92,
+      177
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv522/atmos/east_reactor",
+    "name": "Atmospheric Processor - Eastern Reactor",
+    "z": 1,
+    "x": 124,
+    "y": 186,
+    "tileCount": 899,
+    "bounds": [
+      105,
+      171,
+      143,
+      201
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv522/atmos/north_command_centre",
+    "name": "Atmospheric Processor - North Command Centre Checkpoint",
+    "z": 1,
+    "x": 65,
+    "y": 186,
+    "tileCount": 366,
+    "bounds": [
+      50,
+      177,
+      84,
+      196
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv522/atmos/way_in_command_centre",
+    "name": "Atmospheric Processor - North Corpo Reactor Entrance",
+    "z": 1,
+    "x": 91,
+    "y": 136,
+    "tileCount": 364,
+    "bounds": [
+      80,
+      124,
+      102,
+      149
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv522/atmos/east_reactor/south",
+    "name": "Atmospheric Processor - Outer East Reactor - south",
+    "z": 1,
+    "x": 113,
+    "y": 156,
+    "tileCount": 1045,
+    "bounds": [
+      87,
+      136,
+      141,
+      175
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv522/atmos/east_reactor/west",
+    "name": "Atmospheric Processor - Outer East Reactor - west",
+    "z": 1,
+    "x": 96,
+    "y": 186,
+    "tileCount": 368,
+    "bounds": [
+      80,
+      175,
+      112,
+      199
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv522/atmos/west_reactor",
+    "name": "Atmospheric Processor - Western Reactor",
+    "z": 1,
+    "x": 39,
+    "y": 184,
+    "tileCount": 524,
+    "bounds": [
+      27,
+      168,
+      51,
+      199
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv522/indoors/b_block/hydro",
+    "name": "B-Block - Hydroponics",
+    "z": 1,
+    "x": 71,
+    "y": 59,
+    "tileCount": 358,
+    "bounds": [
+      58,
+      46,
+      80,
+      72
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv522/indoors/b_block/bridge",
+    "name": "B-Block - Hydroponics Bridge Network",
+    "z": 1,
+    "x": 82,
+    "y": 30,
+    "tileCount": 548,
+    "bounds": [
+      67,
+      8,
+      108,
+      45
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv522/indoors/c_block/cargo",
+    "name": "C-Block - Cargo",
+    "z": 1,
+    "x": 101,
+    "y": 59,
+    "tileCount": 1024,
+    "bounds": [
+      85,
+      42,
+      120,
+      84
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv522/indoors/c_block/casino",
+    "name": "C-Block - Casino",
+    "z": 1,
+    "x": 123,
+    "y": 69,
+    "tileCount": 415,
+    "bounds": [
+      108,
+      60,
+      137,
+      76
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv522/indoors/c_block/garage",
+    "name": "C-Block - Garage",
+    "z": 1,
+    "x": 158,
+    "y": 68,
+    "tileCount": 351,
+    "bounds": [
+      151,
+      56,
+      165,
+      79
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv522/indoors/c_block/mining",
+    "name": "C-Block - Mining",
+    "z": 1,
+    "x": 110,
+    "y": 15,
+    "tileCount": 995,
+    "bounds": [
+      85,
+      3,
+      141,
+      35
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv522/outdoors/colony_streets/east_central_street",
+    "name": "Central Streets - East",
+    "z": 1,
+    "x": 140,
+    "y": 82,
+    "tileCount": 900,
+    "bounds": [
+      106,
+      62,
+      173,
+      96
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv522/outdoors/colony_streets/central_streets",
+    "name": "Central Streets - West",
+    "z": 1,
+    "x": 62,
+    "y": 76,
+    "tileCount": 1254,
+    "bounds": [
+      17,
+      51,
+      99,
+      96
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv522/outdoors/colony_streets/containers",
+    "name": "Colony Streets - Container Yard",
+    "z": 1,
+    "x": 167,
+    "y": 151,
+    "tileCount": 790,
+    "bounds": [
+      144,
+      138,
+      187,
+      161
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv522/outdoors/colony_streets/north_street",
+    "name": "Colony Streets - North",
+    "z": 1,
+    "x": 75,
+    "y": 117,
+    "tileCount": 460,
+    "bounds": [
+      53,
+      103,
+      97,
+      133
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv522/outdoors/colony_streets/north_east_street",
+    "name": "Colony Streets - Northeast",
+    "z": 1,
+    "x": 159,
+    "y": 124,
+    "tileCount": 1368,
+    "bounds": [
+      106,
+      103,
+      191,
+      158
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv522/outdoors/colony_streets/north_west_street",
+    "name": "Colony Streets - Northwest",
+    "z": 1,
+    "x": 31,
+    "y": 115,
+    "tileCount": 721,
+    "bounds": [
+      18,
+      88,
+      46,
+      144
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv522/outdoors/colony_streets/south_street",
+    "name": "Colony Streets - South",
+    "z": 1,
+    "x": 87,
+    "y": 31,
+    "tileCount": 510,
+    "bounds": [
+      76,
+      11,
+      105,
+      50
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv522/outdoors/colony_streets/south_east_street",
+    "name": "Colony Streets - Southeast",
+    "z": 1,
+    "x": 140,
+    "y": 46,
+    "tileCount": 1088,
+    "bounds": [
+      106,
+      24,
+      172,
+      73
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv522/outdoors/colony_streets/south_west_street",
+    "name": "Colony Streets - Southwest",
+    "z": 1,
+    "x": 52,
+    "y": 38,
+    "tileCount": 1034,
+    "bounds": [
+      20,
+      9,
+      69,
+      61
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv522/outdoors/colony_streets/windbreaker/observation",
+    "name": "Colony Windbreakers - Observation",
+    "z": 1,
+    "x": 133,
+    "y": 140,
+    "tileCount": 135,
+    "bounds": [
+      123,
+      135,
+      144,
+      143
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv522/indoors/a_block/fitness",
+    "name": "Fitness",
+    "z": 1,
+    "x": 62,
+    "y": 133,
+    "tileCount": 484,
+    "bounds": [
+      45,
+      124,
+      77,
+      144
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv522/indoors/a_block/hallway",
+    "name": "Hallway",
+    "z": 1,
+    "x": 153,
+    "y": 98,
+    "tileCount": 356,
+    "bounds": [
+      131,
+      86,
+      172,
+      103
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv522/oob",
+    "name": "LV522 - Out Of Bounds",
+    "z": 1,
+    "x": 103,
+    "y": 122,
+    "tileCount": 11660,
+    "bounds": [
+      1,
+      1,
+      193,
+      204
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv522/outdoors/nw_rockies",
+    "name": "Northwest Colony - Rockies",
+    "z": 1,
+    "x": 35,
+    "y": 144,
+    "tileCount": 910,
+    "bounds": [
+      5,
+      124,
+      73,
+      156
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv522/indoors/a_block/security",
+    "name": "Security",
+    "z": 1,
+    "x": 100,
+    "y": 111,
+    "tileCount": 471,
+    "bounds": [
+      82,
+      103,
+      115,
+      120
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv522/landing_zone_1/tunnel",
+    "name": "Tunnel",
+    "z": 1,
+    "x": 30,
+    "y": 12,
+    "tileCount": 366,
+    "bounds": [
+      15,
+      5,
+      44,
+      20
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv522/indoors/a_block/corpo",
+    "name": "A-Block - Corporate Office",
+    "z": 1,
+    "x": 101,
+    "y": 133,
+    "tileCount": 57,
+    "bounds": [
+      96,
+      131,
+      108,
+      137
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv522/indoors/a_block/bridges/dorms_fitness",
+    "name": "A-Block - Corporate To Fitness Bridge",
+    "z": 1,
+    "x": 50,
+    "y": 124,
+    "tileCount": 42,
+    "bounds": [
+      47,
+      121,
+      52,
+      127
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv522/indoors/a_block/kitchen/glass",
+    "name": "A-Block - Executive Suite",
+    "z": 1,
+    "x": 92,
+    "y": 93,
+    "tileCount": 133,
+    "bounds": [
+      84,
+      89,
+      100,
+      96
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv522/indoors/a_block/dorms/glass",
+    "name": "A-Block - Fitness Centre",
+    "z": 1,
+    "x": 52,
+    "y": 101,
+    "tileCount": 169,
+    "bounds": [
+      37,
+      89,
+      67,
+      111
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv522/indoors/a_block/bridges/garden_bridge",
+    "name": "A-Block - Garden Bridge",
+    "z": 1,
+    "x": 122,
+    "y": 107,
+    "tileCount": 54,
+    "bounds": [
+      120,
+      103,
+      125,
+      111
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv522/indoors/a_block/security/glass",
+    "name": "A-Block - Kitchen And Dining",
+    "z": 1,
+    "x": 93,
+    "y": 115,
+    "tileCount": 90,
+    "bounds": [
+      87,
+      112,
+      99,
+      119
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv522/indoors/a_block/hallway/damage",
+    "name": "A-Block - Medical",
+    "z": 1,
+    "x": 148,
+    "y": 100,
+    "tileCount": 4,
+    "bounds": [
+      147,
+      99,
+      149,
+      100
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv522/indoors/a_block/medical/glass",
+    "name": "A-Block - Security",
+    "z": 1,
+    "x": 142,
+    "y": 89,
+    "tileCount": 64,
+    "bounds": [
+      136,
+      87,
+      147,
+      92
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv522/indoors/a_block/bridges/corpo",
+    "name": "A-Block - Security To Corporate Bridge",
+    "z": 1,
+    "x": 111,
+    "y": 126,
+    "tileCount": 70,
+    "bounds": [
+      109,
+      119,
+      114,
+      132
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv522/indoors/a_block/bridges/op_centre",
+    "name": "A-Block - Security To Operations Centre Bridge",
+    "z": 1,
+    "x": 123,
+    "y": 107,
+    "tileCount": 186,
+    "bounds": [
+      115,
+      97,
+      130,
+      118
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv522/indoors/a_block/fitness/glass",
+    "name": "A-Block - South Operations Hallway",
+    "z": 1,
+    "x": 58,
+    "y": 141,
+    "tileCount": 121,
+    "bounds": [
+      46,
+      137,
+      71,
+      143
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv522/indoors/a_block/corpo/glass",
+    "name": "A-Block - West Operations Garden",
+    "z": 1,
+    "x": 103,
+    "y": 125,
+    "tileCount": 118,
+    "bounds": [
+      98,
+      120,
+      108,
+      130
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv522/indoors/a_block/bridges",
+    "name": "A-Block - Western Dorms To Security Bridge",
+    "z": 1,
+    "x": 76,
+    "y": 100,
+    "tileCount": 96,
+    "bounds": [
+      68,
+      97,
+      83,
+      102
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv522/atmos/command_centre",
+    "name": "Atmospheric Processor - Central Command",
+    "z": 1,
+    "x": 67,
+    "y": 172,
+    "tileCount": 239,
+    "bounds": [
+      47,
+      168,
+      86,
+      177
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv522/atmos/filt",
+    "name": "Atmospheric Processor - Filtration System",
+    "z": 1,
+    "x": 140,
+    "y": 153,
+    "tileCount": 65,
+    "bounds": [
+      136,
+      149,
+      143,
+      157
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv522/atmos/reactor_garage",
+    "name": "Atmospheric Processor - Garage",
+    "z": 1,
+    "x": 77,
+    "y": 147,
+    "tileCount": 307,
+    "bounds": [
+      63,
+      133,
+      85,
+      156
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv522/indoors/b_block/hydro/glass",
+    "name": "B-Block - Bar",
+    "z": 1,
+    "x": 74,
+    "y": 47,
+    "tileCount": 42,
+    "bounds": [
+      59,
+      36,
+      104,
+      59
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv522/indoors/b_block/bar",
+    "name": "Bar",
+    "z": 1,
+    "x": 51,
+    "y": 64,
+    "tileCount": 302,
+    "bounds": [
+      36,
+      58,
+      63,
+      72
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv522/indoors/c_block/bridge",
+    "name": "C-Block - Cargo To Garage Bridge",
+    "z": 1,
+    "x": 136,
+    "y": 58,
+    "tileCount": 166,
+    "bounds": [
+      120,
+      56,
+      150,
+      61
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv522/indoors/c_block/t_comm",
+    "name": "C-Block - West Garage T-comms",
+    "z": 1,
+    "x": 144,
+    "y": 70,
+    "tileCount": 123,
+    "bounds": [
+      140,
+      64,
+      150,
+      76
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv522/landing_zone_forecon/UD6_Tornado",
+    "name": "Chance's Claim - UD6 Tornado",
+    "z": 1,
+    "x": 176,
+    "y": 121,
+    "tileCount": 146,
+    "bounds": [
+      13,
+      113,
+      182,
+      145
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv522/landing_zone_forecon/UD6_Typhoon",
+    "name": "Chance's Claim - UD6 Typhoon",
+    "z": 1,
+    "x": 15,
+    "y": 138,
+    "tileCount": 143,
+    "bounds": [
+      10,
+      130,
+      20,
+      147
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv522/indoors/lone_buildings/chunk",
+    "name": "Chunk 'N Dump",
+    "z": 1,
+    "x": 80,
+    "y": 82,
+    "tileCount": 63,
+    "bounds": [
+      76,
+      79,
+      84,
+      85
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv522/indoors/a_block/kitchen/damage",
+    "name": "Damage",
+    "z": 1,
+    "x": 98,
+    "y": 99,
+    "tileCount": 26,
+    "bounds": [
+      95,
+      97,
+      100,
+      102
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv522/indoors/a_block/dorm_north",
+    "name": "Dorm North",
+    "z": 1,
+    "x": 150,
+    "y": 137,
+    "tileCount": 195,
+    "bounds": [
+      145,
+      128,
+      155,
+      146
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv522/indoors/lone_buildings/storage_blocks/east",
+    "name": "Eastern Outdoor Storage",
+    "z": 1,
+    "x": 130,
+    "y": 50,
+    "tileCount": 33,
+    "bounds": [
+      127,
+      48,
+      133,
+      52
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv522/indoors/lone_buildings/engineering",
+    "name": "Emergency Engineering",
+    "z": 1,
+    "x": 25,
+    "y": 70,
+    "tileCount": 199,
+    "bounds": [
+      18,
+      58,
+      31,
+      86
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv522/indoors/a_block/executive",
+    "name": "Executive",
+    "z": 1,
+    "x": 118,
+    "y": 126,
+    "tileCount": 104,
+    "bounds": [
+      114,
+      120,
+      122,
+      131
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv522/indoors/a_block/garden",
+    "name": "Garden",
+    "z": 1,
+    "x": 122,
+    "y": 107,
+    "tileCount": 88,
+    "bounds": [
+      115,
+      103,
+      130,
+      111
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv522/indoors/a_block/kitchen",
+    "name": "Kitchen",
+    "z": 1,
+    "x": 104,
+    "y": 95,
+    "tileCount": 332,
+    "bounds": [
+      84,
+      85,
+      116,
+      102
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv522/indoors/toilet",
+    "name": "LV522 - Outdoor Toilets",
+    "z": 1,
+    "x": 105,
+    "y": 79,
+    "tileCount": 44,
+    "bounds": [
+      39,
+      49,
+      148,
+      135
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv522/oob/w_y_vault",
+    "name": "LV522 - Weyland Secure Vault",
+    "z": 1,
+    "x": 117,
+    "y": 160,
+    "tileCount": 69,
+    "bounds": [
+      96,
+      138,
+      128,
+      172
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv522/indoors/a_block/medical",
+    "name": "Medical",
+    "z": 1,
+    "x": 144,
+    "y": 91,
+    "tileCount": 247,
+    "bounds": [
+      129,
+      86,
+      157,
+      96
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv522/indoors/lone_buildings/storage_blocks/north_west",
+    "name": "Northwestern Outdoor Storage",
+    "z": 1,
+    "x": 24,
+    "y": 100,
+    "tileCount": 68,
+    "bounds": [
+      21,
+      96,
+      28,
+      104
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv522/indoors/lone_buildings/storage_blocks/south",
+    "name": "Southern Outdoor Storage",
+    "z": 1,
+    "x": 86,
+    "y": 26,
+    "tileCount": 44,
+    "bounds": [
+      83,
+      24,
+      90,
+      29
+    ],
+    "category": "room"
+  }
+]

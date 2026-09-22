@@ -1,0 +1,857 @@
+[
+  {
+    "id": "/area/bmg290/relay/cargo",
+    "name": "Relay Cargo Area",
+    "z": 1,
+    "x": 53,
+    "y": 75,
+    "tileCount": 781,
+    "bounds": [
+      44,
+      49,
+      70,
+      101
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/bmg290/relay/exterior_storage",
+    "name": "Relay Cargo Stowage",
+    "z": 1,
+    "x": 9,
+    "y": 65,
+    "tileCount": 498,
+    "bounds": [
+      1,
+      51,
+      17,
+      84
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/bmg290/relay/dataserver",
+    "name": "Relay Data Room",
+    "z": 1,
+    "x": 38,
+    "y": 94,
+    "tileCount": 233,
+    "bounds": [
+      29,
+      88,
+      47,
+      101
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/bmg290/relay/hallway",
+    "name": "Relay Entry Section",
+    "z": 1,
+    "x": 20,
+    "y": 90,
+    "tileCount": 574,
+    "bounds": [
+      1,
+      79,
+      43,
+      100
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/bmg290/relay/engineering",
+    "name": "Relay Generator Room",
+    "z": 1,
+    "x": 74,
+    "y": 60,
+    "tileCount": 331,
+    "bounds": [
+      62,
+      53,
+      84,
+      69
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/bmg290/wilderness/relay_exterior",
+    "name": "Relay Inner Area",
+    "z": 1,
+    "x": 28,
+    "y": 62,
+    "tileCount": 933,
+    "bounds": [
+      1,
+      46,
+      43,
+      81
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/bmg290/relay/underground_shelter",
+    "name": "Relay Mass Evacuation Shelter",
+    "z": 1,
+    "x": 37,
+    "y": 109,
+    "tileCount": 1593,
+    "bounds": [
+      1,
+      82,
+      89,
+      122
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/bmg290/wilderness_roof/telecomms_station",
+    "name": "Relay Substation",
+    "z": 1,
+    "x": 98,
+    "y": 36,
+    "tileCount": 59,
+    "bounds": [
+      95,
+      32,
+      102,
+      39
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/bmg290/relay/synthetic",
+    "name": "Relay Synthetic Storage Bay",
+    "z": 1,
+    "x": 77,
+    "y": 88,
+    "tileCount": 746,
+    "bounds": [
+      57,
+      70,
+      89,
+      101
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/bmg290/relay/telecommunication",
+    "name": "Relay Telecommunication Center",
+    "z": 1,
+    "x": 66,
+    "y": 73,
+    "tileCount": 243,
+    "bounds": [
+      58,
+      65,
+      74,
+      80
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/bmg290/wilderness/archaeology",
+    "name": "Archaeology Site",
+    "z": 1,
+    "x": 15,
+    "y": 247,
+    "tileCount": 2561,
+    "bounds": [
+      1,
+      199,
+      38,
+      300
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/wilderness/farmland",
+    "name": "Farmland",
+    "z": 1,
+    "x": 80,
+    "y": 144,
+    "tileCount": 4748,
+    "bounds": [
+      32,
+      114,
+      136,
+      179
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/keppitz/interlude",
+    "name": "Keppitz Interlude Section",
+    "z": 1,
+    "x": 151,
+    "y": 181,
+    "tileCount": 534,
+    "bounds": [
+      128,
+      173,
+      172,
+      190
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/keppitz/acquisitions",
+    "name": "Keppitz Private Acquisitions Section",
+    "z": 1,
+    "x": 160,
+    "y": 197,
+    "tileCount": 384,
+    "bounds": [
+      146,
+      186,
+      170,
+      208
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/keppitz/hangar",
+    "name": "Keppitz Private Hangar",
+    "z": 1,
+    "x": 164,
+    "y": 156,
+    "tileCount": 412,
+    "bounds": [
+      153,
+      142,
+      175,
+      172
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/keppitz/test",
+    "name": "Keppitz Private Testing Chambers",
+    "z": 1,
+    "x": 177,
+    "y": 209,
+    "tileCount": 487,
+    "bounds": [
+      162,
+      197,
+      191,
+      219
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/keppitz/archives",
+    "name": "Keppitz Public Archives",
+    "z": 1,
+    "x": 129,
+    "y": 169,
+    "tileCount": 527,
+    "bounds": [
+      116,
+      156,
+      149,
+      179
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/keppitz/entry_pub",
+    "name": "Keppitz Public Entry Section",
+    "z": 1,
+    "x": 146,
+    "y": 147,
+    "tileCount": 373,
+    "bounds": [
+      133,
+      134,
+      158,
+      175
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/keppitz/command",
+    "name": "Keppitz Public Services Center",
+    "z": 1,
+    "x": 136,
+    "y": 154,
+    "tileCount": 485,
+    "bounds": [
+      120,
+      144,
+      149,
+      166
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/caverns/terranium",
+    "name": "Keppitz Research Grounds",
+    "z": 1,
+    "x": 202,
+    "y": 208,
+    "tileCount": 1986,
+    "bounds": [
+      173,
+      170,
+      231,
+      237
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/caverns/cave_west",
+    "name": "Murasaki Depths",
+    "z": 1,
+    "x": 58,
+    "y": 186,
+    "tileCount": 4719,
+    "bounds": [
+      1,
+      158,
+      133,
+      214
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/caverns/cave_east",
+    "name": "Murasaki Depths",
+    "z": 1,
+    "x": 201,
+    "y": 140,
+    "tileCount": 5018,
+    "bounds": [
+      165,
+      99,
+      238,
+      188
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/shuttles/drop1",
+    "name": "Otogi - Colony Logistics Hub",
+    "z": 1,
+    "x": 247,
+    "y": 22,
+    "tileCount": 231,
+    "bounds": [
+      242,
+      12,
+      252,
+      32
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/colony/bar",
+    "name": "Otogi Bar",
+    "z": 1,
+    "x": 192,
+    "y": 67,
+    "tileCount": 258,
+    "bounds": [
+      179,
+      62,
+      206,
+      72
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/wilderness/beach",
+    "name": "Otogi Beach",
+    "z": 1,
+    "x": 76,
+    "y": 18,
+    "tileCount": 5268,
+    "bounds": [
+      1,
+      1,
+      157,
+      54
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/colony/diner",
+    "name": "Otogi Diner",
+    "z": 1,
+    "x": 211,
+    "y": 74,
+    "tileCount": 275,
+    "bounds": [
+      199,
+      64,
+      221,
+      86
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/colony/engineering",
+    "name": "Otogi Engineering",
+    "z": 1,
+    "x": 236,
+    "y": 81,
+    "tileCount": 300,
+    "bounds": [
+      225,
+      73,
+      251,
+      93
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/caverns/filtration",
+    "name": "Otogi Filtration Tunnel",
+    "z": 1,
+    "x": 246,
+    "y": 155,
+    "tileCount": 3209,
+    "bounds": [
+      229,
+      97,
+      260,
+      208
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/colony/flightdeck",
+    "name": "Otogi Flight Control",
+    "z": 1,
+    "x": 252,
+    "y": 41,
+    "tileCount": 143,
+    "bounds": [
+      243,
+      37,
+      260,
+      45
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/colony/hospital",
+    "name": "Otogi Hospital",
+    "z": 1,
+    "x": 188,
+    "y": 42,
+    "tileCount": 84,
+    "bounds": [
+      182,
+      39,
+      205,
+      45
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/wilderness/colony_exterior",
+    "name": "Otogi Inner Area",
+    "z": 1,
+    "x": 211,
+    "y": 55,
+    "tileCount": 4180,
+    "bounds": [
+      165,
+      1,
+      260,
+      103
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/colony/hangar",
+    "name": "Otogi Logistics Hangars",
+    "z": 1,
+    "x": 247,
+    "y": 19,
+    "tileCount": 775,
+    "bounds": [
+      231,
+      1,
+      260,
+      45
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/colony/logistics",
+    "name": "Otogi Logistics Services",
+    "z": 1,
+    "x": 231,
+    "y": 34,
+    "tileCount": 195,
+    "bounds": [
+      223,
+      25,
+      237,
+      43
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/colony/logistics_hub",
+    "name": "Otogi Logistics Warehouse",
+    "z": 1,
+    "x": 249,
+    "y": 54,
+    "tileCount": 408,
+    "bounds": [
+      238,
+      46,
+      260,
+      65
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/colony/motorpool",
+    "name": "Otogi Motor Pool",
+    "z": 1,
+    "x": 227,
+    "y": 56,
+    "tileCount": 184,
+    "bounds": [
+      221,
+      48,
+      233,
+      63
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/colony/complex",
+    "name": "Otogi Multi-Complex Hub",
+    "z": 1,
+    "x": 202,
+    "y": 36,
+    "tileCount": 824,
+    "bounds": [
+      183,
+      18,
+      214,
+      54
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/colony/admin",
+    "name": "Otogi Operations & Public Services",
+    "z": 1,
+    "x": 188,
+    "y": 24,
+    "tileCount": 147,
+    "bounds": [
+      182,
+      18,
+      207,
+      40
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/wilderness/outskirts",
+    "name": "Otogi Outskirts",
+    "z": 1,
+    "x": 140,
+    "y": 74,
+    "tileCount": 5537,
+    "bounds": [
+      85,
+      1,
+      215,
+      129
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/wilderness/road",
+    "name": "Otogi Roadside",
+    "z": 1,
+    "x": 113,
+    "y": 67,
+    "tileCount": 3985,
+    "bounds": [
+      1,
+      18,
+      168,
+      141
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/colony/security",
+    "name": "Otogi Security",
+    "z": 1,
+    "x": 188,
+    "y": 51,
+    "tileCount": 78,
+    "bounds": [
+      182,
+      40,
+      206,
+      54
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/colony/shed",
+    "name": "Otogi Shed",
+    "z": 1,
+    "x": 177,
+    "y": 52,
+    "tileCount": 114,
+    "bounds": [
+      171,
+      21,
+      185,
+      82
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/site/discovered",
+    "name": "Research Site",
+    "z": 1,
+    "x": 120,
+    "y": 263,
+    "tileCount": 6010,
+    "bounds": [
+      74,
+      207,
+      186,
+      300
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/caverns/site_caves",
+    "name": "Site Depths",
+    "z": 1,
+    "x": 52,
+    "y": 254,
+    "tileCount": 4273,
+    "bounds": [
+      26,
+      206,
+      84,
+      300
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/wilderness/site",
+    "name": "Site Perimeter",
+    "z": 1,
+    "x": 142,
+    "y": 221,
+    "tileCount": 1653,
+    "bounds": [
+      114,
+      204,
+      173,
+      236
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/wilderness_roof/storage_house",
+    "name": "Storage House",
+    "z": 1,
+    "x": 16,
+    "y": 140,
+    "tileCount": 1085,
+    "bounds": [
+      1,
+      123,
+      31,
+      157
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/site/undiscovered",
+    "name": "Unknown Area",
+    "z": 1,
+    "x": 203,
+    "y": 260,
+    "tileCount": 8390,
+    "bounds": [
+      75,
+      207,
+      260,
+      300
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bmg290/wilderness_roof/beach_house",
+    "name": "Beach Housing",
+    "z": 1,
+    "x": 123,
+    "y": 39,
+    "tileCount": 153,
+    "bounds": [
+      109,
+      33,
+      137,
+      44
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bmg290/wilderness_roof/checkpoint",
+    "name": "Checkpoint",
+    "z": 1,
+    "x": 39,
+    "y": 151,
+    "tileCount": 89,
+    "bounds": [
+      31,
+      45,
+      49,
+      216
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bmg290/wilderness_roof/farm_house",
+    "name": "Farm House",
+    "z": 1,
+    "x": 91,
+    "y": 145,
+    "tileCount": 245,
+    "bounds": [
+      57,
+      122,
+      119,
+      160
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bmg290/shuttles/drop3",
+    "name": "Keppitz - Private Hangar",
+    "z": 1,
+    "x": 164,
+    "y": 158,
+    "tileCount": 231,
+    "bounds": [
+      159,
+      148,
+      169,
+      168
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bmg290/keppitz/entry",
+    "name": "Keppitz Entry Section",
+    "z": 1,
+    "x": 141,
+    "y": 197,
+    "tileCount": 234,
+    "bounds": [
+      132,
+      190,
+      152,
+      204
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bmg290/keppitz/research",
+    "name": "Keppitz Private Laboratory",
+    "z": 1,
+    "x": 180,
+    "y": 187,
+    "tileCount": 335,
+    "bounds": [
+      171,
+      179,
+      189,
+      196
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bmg290/keppitz/security",
+    "name": "Keppitz Private Security Section",
+    "z": 1,
+    "x": 145,
+    "y": 189,
+    "tileCount": 75,
+    "bounds": [
+      138,
+      187,
+      152,
+      191
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bmg290/shuttles/drop2",
+    "name": "Otogi - Outskirts",
+    "z": 1,
+    "x": 113,
+    "y": 92,
+    "tileCount": 248,
+    "bounds": [
+      107,
+      81,
+      119,
+      103
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bmg290/oob/button_stuff",
+    "name": "Outside Area of Operations",
+    "z": 1,
+    "x": 33,
+    "y": 70,
+    "tileCount": 117,
+    "bounds": [
+      1,
+      51,
+      45,
+      84
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bmg290/oob/plg",
+    "name": "Perimeter Lockdown Gate",
+    "z": 1,
+    "x": 128,
+    "y": 154,
+    "tileCount": 127,
+    "bounds": [
+      28,
+      97,
+      222,
+      207
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bmg290/shuttles/drop4",
+    "name": "Site Landing",
+    "z": 1,
+    "x": 13,
+    "y": 266,
+    "tileCount": 292,
+    "bounds": [
+      6,
+      255,
+      20,
+      276
+    ],
+    "category": "room"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "/area/golden_arrow/cryo_cells",
+    "name": "Cryo Cells",
+    "z": 1,
+    "x": 27,
+    "y": 60,
+    "tileCount": 1114,
+    "bounds": [
+      6,
+      42,
+      50,
+      75
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/golden_arrow/dorms",
+    "name": "Dorms",
+    "z": 1,
+    "x": 47,
+    "y": 30,
+    "tileCount": 496,
+    "bounds": [
+      40,
+      12,
+      56,
+      49
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/golden_arrow/hangar",
+    "name": "Hangar",
+    "z": 1,
+    "x": 92,
+    "y": 73,
+    "tileCount": 2764,
+    "bounds": [
+      66,
+      19,
+      125,
+      155
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/golden_arrow/lower_cargo",
+    "name": "Lower Cargo Bays",
+    "z": 1,
+    "x": 88,
+    "y": 143,
+    "tileCount": 768,
+    "bounds": [
+      76,
+      126,
+      104,
+      160
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/golden_arrow/medical",
+    "name": "Medical",
+    "z": 1,
+    "x": 62,
+    "y": 58,
+    "tileCount": 452,
+    "bounds": [
+      54,
+      45,
+      75,
+      72
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/golden_arrow/motor_pool",
+    "name": "Motor Pool",
+    "z": 1,
+    "x": 127,
+    "y": 132,
+    "tileCount": 755,
+    "bounds": [
+      104,
+      120,
+      143,
+      153
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/golden_arrow/platoonarmory",
+    "name": "Platoon Armory",
+    "z": 1,
+    "x": 67,
+    "y": 89,
+    "tileCount": 519,
+    "bounds": [
+      59,
+      73,
+      76,
+      105
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/golden_arrow/platoon_commander_rooms",
+    "name": "Platoon Commander's Rooms",
+    "z": 1,
+    "x": 57,
+    "y": 119,
+    "tileCount": 474,
+    "bounds": [
+      42,
+      105,
+      73,
+      135
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/golden_arrow/platoonprep",
+    "name": "Platoon Prep",
+    "z": 1,
+    "x": 53,
+    "y": 93,
+    "tileCount": 449,
+    "bounds": [
+      45,
+      61,
+      58,
+      113
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/golden_arrow/supply",
+    "name": "Supply",
+    "z": 1,
+    "x": 28,
+    "y": 93,
+    "tileCount": 1349,
+    "bounds": [
+      5,
+      75,
+      50,
+      111
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/golden_arrow/cargo_shuttle/lower",
+    "name": "Cargo Elevator Lower Level",
+    "z": 1,
+    "x": 88,
+    "y": 164,
+    "tileCount": 80,
+    "bounds": [
+      83,
+      161,
+      92,
+      168
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/golden_arrow/cargo_shuttle/upper",
+    "name": "Cargo Elevator Upper Level",
+    "z": 1,
+    "x": 32,
+    "y": 112,
+    "tileCount": 80,
+    "bounds": [
+      27,
+      108,
+      36,
+      115
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/golden_arrow/engineering",
+    "name": "Engineering",
+    "z": 1,
+    "x": 108,
+    "y": 145,
+    "tileCount": 299,
+    "bounds": [
+      98,
+      128,
+      136,
+      163
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/golden_arrow/ai_interface",
+    "name": "Human AI Interface",
+    "z": 1,
+    "x": 106,
+    "y": 165,
+    "tileCount": 76,
+    "bounds": [
+      102,
+      161,
+      110,
+      170
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/golden_arrow/prep_hallway",
+    "name": "Prep Hallway",
+    "z": 1,
+    "x": 50,
+    "y": 53,
+    "tileCount": 88,
+    "bounds": [
+      47,
+      45,
+      53,
+      60
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/golden_arrow/shared_office",
+    "name": "Shared Office",
+    "z": 1,
+    "x": 48,
+    "y": 62,
+    "tileCount": 25,
+    "bounds": [
+      46,
+      60,
+      50,
+      64
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/golden_arrow/supplydrop",
+    "name": "Supply Drop Bay",
+    "z": 1,
+    "x": 110,
+    "y": 152,
+    "tileCount": 37,
+    "bounds": [
+      107,
+      149,
+      112,
+      155
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/golden_arrow/synthcloset",
+    "name": "Synthetic Storage Closet",
+    "z": 1,
+    "x": 101,
+    "y": 152,
+    "tileCount": 42,
+    "bounds": [
+      98,
+      150,
+      104,
+      155
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/golden_arrow/vehicle_shuttle/upper",
+    "name": "Vehicle Elevator One Upper",
+    "z": 1,
+    "x": 107,
+    "y": 52,
+    "tileCount": 63,
+    "bounds": [
+      103,
+      49,
+      111,
+      55
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/golden_arrow/vehicle_shuttle/two/upper",
+    "name": "Vehicle Elevator Two Upper",
+    "z": 1,
+    "x": 107,
+    "y": 42,
+    "tileCount": 63,
+    "bounds": [
+      103,
+      39,
+      111,
+      45
+    ],
+    "category": "room"
+  }
+]

@@ -1,13 +1,14 @@
 import React, { useEffect, useRef, useState, useCallback } from 'react';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
-import { GameMap } from '../types';
+import { GameMap, MapLocation } from '../types';
 
 interface MapViewProps {
   currentMap: GameMap | null;
   currentZ: number;
   showGrid: boolean;
   showPipenet: boolean;
+  showLocations: boolean;
   rulerActive: boolean;
   targetCoords?: { x: number; y: number } | null;
   onCoordChange: (coords: { x: number; y: number; z: number } | null) => void;
@@ -21,6 +22,7 @@ export const MapView: React.FC<MapViewProps> = ({
   currentZ,
   showGrid,
   showPipenet,
+  showLocations,
   rulerActive,
   targetCoords,
   onCoordChange,
@@ -28,6 +30,7 @@ export const MapView: React.FC<MapViewProps> = ({
   onResetViewReady,
   onGoToCoordsReady,
 }) => {
+
   const mapContainerRef = useRef<HTMLDivElement>(null);
   const mapInstanceRef = useRef<L.Map | null>(null);
 
@@ -39,8 +42,11 @@ export const MapView: React.FC<MapViewProps> = ({
 
   const rulerPointsRef = useRef<{ x: number; y: number; latlng: { lat: number; lng: number } }[]>([]);
   const rulerLineRef = useRef<L.Polyline | null>(null);
+  const locationsLayerRef = useRef<L.LayerGroup | null>(null);
 
   const [isLoadingFullRes, setIsLoadingFullRes] = useState<boolean>(false);
+  const [locations, setLocations] = useState<MapLocation[]>([]);
+
 
   // Math conversions
   const getBounds = useCallback((): L.LatLngBoundsExpression => {
@@ -408,7 +414,104 @@ export const MapView: React.FC<MapViewProps> = ({
     };
   }, [currentMap, currentZ, showPipenet, showGrid, getBounds, getPlaceholderSvg]);
 
+  // Load location points for current map
+  useEffect(() => {
+    if (!currentMap) {
+      setLocations([]);
+      return;
+    }
+
+    const locUrl = `${import.meta.env.BASE_URL}data/locations/${currentMap.server}/${currentMap.id}.json`;
+    fetch(locUrl)
+      .then(res => {
+        if (res.ok) return res.json();
+        return [];
+      })
+      .then((data: MapLocation[]) => {
+        setLocations(Array.isArray(data) ? data : []);
+      })
+      .catch(() => {
+        setLocations([]);
+      });
+  }, [currentMap?.server, currentMap?.id]);
+
+  // Render interactive locations layer with zoom-adaptive LOD
+  useEffect(() => {
+    const map = mapInstanceRef.current;
+    if (!map) return;
+
+    if (!locationsLayerRef.current) {
+      locationsLayerRef.current = L.layerGroup().addTo(map);
+    }
+    const layerGroup = locationsLayerRef.current;
+    layerGroup.clearLayers();
+
+    if (!showLocations || !currentMap || locations.length === 0) {
+      return;
+    }
+
+    const updateVisibleMarkers = () => {
+      layerGroup.clearLayers();
+      const zoom = map.getZoom();
+
+      const zLocations = locations.filter(l => l.z === currentZ);
+
+      zLocations.forEach(loc => {
+        // Zoom-level Level of Detail (LOD)
+        // Zoom <= -0.5: show only landmarks and major areas (Western Caves, Sand Temple, LZ)
+        if (zoom <= -0.5 && loc.category === 'room') {
+          return;
+        }
+        // Zoom < 1.0: show landmarks, major, and larger rooms (>= 25 tiles)
+        if (zoom < 1.0 && loc.category === 'room' && loc.tileCount < 25) {
+          return;
+        }
+
+        const { lat, lng } = ss13ToLeaflet(loc.x, loc.y);
+
+        let iconHtml = '';
+        if (loc.category === 'landmark') {
+          iconHtml = `<div class="location-badge location-badge-landmark" title="${loc.name} (X:${loc.x} Y:${loc.y})"><span>📍</span><span>${loc.name}</span></div>`;
+        } else if (loc.category === 'major') {
+          iconHtml = `<div class="location-badge location-badge-major" title="${loc.name} (X:${loc.x} Y:${loc.y})"><span>${loc.name}</span></div>`;
+        } else {
+          iconHtml = `<div class="location-badge location-badge-room" title="${loc.name} (X:${loc.x} Y:${loc.y})"><span>${loc.name}</span></div>`;
+        }
+
+        const customIcon = L.divIcon({
+          className: 'map-location-marker',
+          html: iconHtml,
+          iconSize: undefined,
+          iconAnchor: [0, 0]
+        });
+
+        const marker = L.marker([lat, lng], {
+          icon: customIcon,
+          interactive: true,
+          zIndexOffset: loc.category === 'landmark' ? 1000 : (loc.category === 'major' ? 500 : 100)
+        });
+
+        marker.on('click', (e) => {
+          L.DomEvent.stopPropagation(e);
+          setPin(loc.x, loc.y);
+          onTileClick({ x: loc.x, y: loc.y, z: currentZ });
+        });
+
+        layerGroup.addLayer(marker);
+      });
+    };
+
+    updateVisibleMarkers();
+    map.on('zoomend', updateVisibleMarkers);
+
+    return () => {
+      map.off('zoomend', updateVisibleMarkers);
+      layerGroup.clearLayers();
+    };
+  }, [showLocations, currentZ, locations, currentMap, ss13ToLeaflet, setPin, onTileClick]);
+
   // Initial bounds fit or target coords
+
   useEffect(() => {
     const map = mapInstanceRef.current;
     if (!map || !currentMap) return;

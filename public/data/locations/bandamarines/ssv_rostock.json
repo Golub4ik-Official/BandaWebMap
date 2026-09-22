@@ -1,0 +1,1067 @@
+[
+  {
+    "id": "/area/rostock/hangar/hangarbay",
+    "name": "Hangarbay",
+    "z": 1,
+    "x": 111,
+    "y": 134,
+    "tileCount": 1222,
+    "bounds": [
+      90,
+      119,
+      132,
+      149
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/rostock/lower_deck/m_hallway",
+    "name": "M Hallway",
+    "z": 1,
+    "x": 68,
+    "y": 41,
+    "tileCount": 447,
+    "bounds": [
+      30,
+      25,
+      98,
+      60
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/rostock/engineering/main_area",
+    "name": "Main Area",
+    "z": 1,
+    "x": 33,
+    "y": 129,
+    "tileCount": 492,
+    "bounds": [
+      9,
+      112,
+      43,
+      155
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/rostock/upperdeck_maint/p_a",
+    "name": "P A",
+    "z": 1,
+    "x": 56,
+    "y": 152,
+    "tileCount": 357,
+    "bounds": [
+      32,
+      143,
+      70,
+      158
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/rostock/command/cic",
+    "name": "SSV Rostock - Combat Information Centre",
+    "z": 1,
+    "x": 126,
+    "y": 45,
+    "tileCount": 353,
+    "bounds": [
+      113,
+      34,
+      134,
+      57
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/rostock/lifeboat",
+    "name": "SSV Rostock - Lifeboat Docking Port",
+    "z": 1,
+    "x": 153,
+    "y": 93,
+    "tileCount": 670,
+    "bounds": [
+      134,
+      81,
+      173,
+      105
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/rostock/lower_deck/engineering_lower_access",
+    "name": "SSV Rostock - Lower Deck Engineering Starboard Aft Accessway",
+    "z": 1,
+    "x": 16,
+    "y": 57,
+    "tileCount": 504,
+    "bounds": [
+      4,
+      22,
+      30,
+      102
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/rostock/req",
+    "name": "SSV Rostock - Requisitions",
+    "z": 1,
+    "x": 78,
+    "y": 32,
+    "tileCount": 468,
+    "bounds": [
+      65,
+      23,
+      91,
+      41
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/rostock/command/astronavigation",
+    "name": "Astronavigation",
+    "z": 1,
+    "x": 139,
+    "y": 43,
+    "tileCount": 117,
+    "bounds": [
+      134,
+      36,
+      143,
+      50
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/security/brig_accessway",
+    "name": "Brig Accessway",
+    "z": 1,
+    "x": 74,
+    "y": 126,
+    "tileCount": 52,
+    "bounds": [
+      73,
+      120,
+      76,
+      132
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/upper_deck/hallway",
+    "name": "Hallway",
+    "z": 1,
+    "x": 63,
+    "y": 135,
+    "tileCount": 328,
+    "bounds": [
+      41,
+      121,
+      89,
+      142
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/medical/lobby",
+    "name": "Lobby",
+    "z": 1,
+    "x": 82,
+    "y": 139,
+    "tileCount": 93,
+    "bounds": [
+      76,
+      136,
+      89,
+      142
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/lowerdeck_maint/p_a",
+    "name": "P A",
+    "z": 1,
+    "x": 54,
+    "y": 70,
+    "tileCount": 147,
+    "bounds": [
+      34,
+      65,
+      73,
+      73
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/ert_dock/port",
+    "name": "Port",
+    "z": 1,
+    "x": 75,
+    "y": 166,
+    "tileCount": 176,
+    "bounds": [
+      70,
+      158,
+      80,
+      173
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/lower_deck/starboard_umbilical",
+    "name": "Response Station Landing Pad 1",
+    "z": 1,
+    "x": 40,
+    "y": 17,
+    "tileCount": 76,
+    "bounds": [
+      36,
+      12,
+      43,
+      21
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/airoom",
+    "name": "SSV Rostock - AI Core",
+    "z": 1,
+    "x": 104,
+    "y": 61,
+    "tileCount": 160,
+    "bounds": [
+      94,
+      56,
+      113,
+      66
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/lower_deck/briefing",
+    "name": "SSV Rostock - Briefing Hall",
+    "z": 1,
+    "x": 42,
+    "y": 33,
+    "tileCount": 306,
+    "bounds": [
+      34,
+      25,
+      51,
+      41
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/security/brig_entryway",
+    "name": "SSV Rostock - Brig Observation Area",
+    "z": 1,
+    "x": 79,
+    "y": 126,
+    "tileCount": 60,
+    "bounds": [
+      77,
+      120,
+      81,
+      132
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/security/brig_office",
+    "name": "SSV Rostock - Brig Office",
+    "z": 1,
+    "x": 69,
+    "y": 124,
+    "tileCount": 105,
+    "bounds": [
+      66,
+      116,
+      72,
+      132
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/medical/chemistry",
+    "name": "SSV Rostock - Chemical Laboratory",
+    "z": 1,
+    "x": 91,
+    "y": 149,
+    "tileCount": 49,
+    "bounds": [
+      88,
+      146,
+      94,
+      152
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/command/armory",
+    "name": "SSV Rostock - Command Armory",
+    "z": 1,
+    "x": 115,
+    "y": 37,
+    "tileCount": 77,
+    "bounds": [
+      110,
+      33,
+      119,
+      41
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/command/dining",
+    "name": "SSV Rostock - Command Dining Hall",
+    "z": 1,
+    "x": 106,
+    "y": 50,
+    "tileCount": 66,
+    "bounds": [
+      104,
+      45,
+      109,
+      55
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/command/hallway",
+    "name": "SSV Rostock - Command Hallway",
+    "z": 1,
+    "x": 110,
+    "y": 40,
+    "tileCount": 165,
+    "bounds": [
+      97,
+      24,
+      118,
+      54
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/command/co",
+    "name": "SSV Rostock - Commanding Officer's Quarters",
+    "z": 1,
+    "x": 102,
+    "y": 38,
+    "tileCount": 69,
+    "bounds": [
+      97,
+      35,
+      106,
+      41
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/lower_deck/cryogenics",
+    "name": "SSV Rostock - Cryogenic Cells",
+    "z": 1,
+    "x": 45,
+    "y": 68,
+    "tileCount": 114,
+    "bounds": [
+      36,
+      65,
+      54,
+      70
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/medical/storage",
+    "name": "SSV Rostock - Deployment Storage",
+    "z": 1,
+    "x": 87,
+    "y": 144,
+    "tileCount": 23,
+    "bounds": [
+      85,
+      142,
+      89,
+      146
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/hangar/repairbay",
+    "name": "SSV Rostock - Dropship Repair Bay",
+    "z": 1,
+    "x": 136,
+    "y": 139,
+    "tileCount": 72,
+    "bounds": [
+      132,
+      135,
+      139,
+      143
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/security/execution_room",
+    "name": "SSV Rostock - Execution Room",
+    "z": 1,
+    "x": 80,
+    "y": 117,
+    "tileCount": 35,
+    "bounds": [
+      78,
+      115,
+      84,
+      120
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/security/execution_storage",
+    "name": "SSV Rostock - Execution Storage Room",
+    "z": 1,
+    "x": 86,
+    "y": 118,
+    "tileCount": 20,
+    "bounds": [
+      84,
+      116,
+      88,
+      119
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/lower_deck/bunk",
+    "name": "SSV Rostock - Extended Mission Bunks",
+    "z": 1,
+    "x": 60,
+    "y": 68,
+    "tileCount": 72,
+    "bounds": [
+      55,
+      65,
+      66,
+      70
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/lower_deck/ammunition_storage",
+    "name": "SSV Rostock - Heavy Ordinance Storage",
+    "z": 1,
+    "x": 66,
+    "y": 57,
+    "tileCount": 79,
+    "bounds": [
+      62,
+      53,
+      70,
+      61
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/security/headquarters_interrogation",
+    "name": "SSV Rostock - Interrogation Room",
+    "z": 1,
+    "x": 96,
+    "y": 55,
+    "tileCount": 20,
+    "bounds": [
+      94,
+      53,
+      97,
+      57
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/command/xo",
+    "name": "SSV Rostock - Kapitan's Quarter's",
+    "z": 1,
+    "x": 103,
+    "y": 32,
+    "tileCount": 39,
+    "bounds": [
+      99,
+      30,
+      106,
+      34
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/lower_deck/p_hallway",
+    "name": "SSV Rostock - Lower Deck Port Hallway",
+    "z": 1,
+    "x": 85,
+    "y": 62,
+    "tileCount": 97,
+    "bounds": [
+      73,
+      58,
+      98,
+      65
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/lower_deck/p_a_hallway",
+    "name": "SSV Rostock - Lower Deck Port-Aft Hallway",
+    "z": 1,
+    "x": 45,
+    "y": 61,
+    "tileCount": 251,
+    "bounds": [
+      29,
+      49,
+      72,
+      72
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/stair_clone",
+    "name": "SSV Rostock - Lower Deck Stairs",
+    "z": 1,
+    "x": 92,
+    "y": 77,
+    "tileCount": 286,
+    "bounds": [
+      57,
+      29,
+      143,
+      132
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/lower_deck/s_a_hallway",
+    "name": "SSV Rostock - Lower Deck Starboard-Aft Hallway",
+    "z": 1,
+    "x": 44,
+    "y": 24,
+    "tileCount": 332,
+    "bounds": [
+      29,
+      14,
+      64,
+      37
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/lowerdeck_maint/p_f",
+    "name": "SSV Rostock - Lower Port-Fore Maintenance",
+    "z": 1,
+    "x": 85,
+    "y": 67,
+    "tileCount": 104,
+    "bounds": [
+      77,
+      62,
+      93,
+      72
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/lowerdeck_maint/p_m",
+    "name": "SSV Rostock - Lower Port-Midship Maintenance",
+    "z": 1,
+    "x": 75,
+    "y": 57,
+    "tileCount": 91,
+    "bounds": [
+      61,
+      51,
+      90,
+      61
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/lowerdeck_maint/s_a",
+    "name": "SSV Rostock - Lower Starboard-Aft Maintenance",
+    "z": 1,
+    "x": 52,
+    "y": 16,
+    "tileCount": 124,
+    "bounds": [
+      31,
+      12,
+      61,
+      25
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/lowerdeck_maint/s_f",
+    "name": "SSV Rostock - Lower Starboard-Fore Maintenance",
+    "z": 1,
+    "x": 116,
+    "y": 27,
+    "tileCount": 138,
+    "bounds": [
+      101,
+      21,
+      133,
+      33
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/lowerdeck_maint/s_m",
+    "name": "SSV Rostock - Lower Starboard-Midship Maintenance",
+    "z": 1,
+    "x": 88,
+    "y": 24,
+    "tileCount": 130,
+    "bounds": [
+      65,
+      20,
+      100,
+      38
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/lower_deck/kitchen",
+    "name": "SSV Rostock - Meal Hall",
+    "z": 1,
+    "x": 58,
+    "y": 54,
+    "tileCount": 97,
+    "bounds": [
+      55,
+      45,
+      61,
+      61
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/medical/prep",
+    "name": "SSV Rostock - Medical Preperation Room",
+    "z": 1,
+    "x": 82,
+    "y": 48,
+    "tileCount": 76,
+    "bounds": [
+      77,
+      45,
+      87,
+      51
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/medical/morgue",
+    "name": "SSV Rostock - Morgue",
+    "z": 1,
+    "x": 82,
+    "y": 55,
+    "tileCount": 76,
+    "bounds": [
+      77,
+      51,
+      87,
+      58
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/medical/surgery",
+    "name": "SSV Rostock - Operating Theatre",
+    "z": 1,
+    "x": 81,
+    "y": 146,
+    "tileCount": 51,
+    "bounds": [
+      77,
+      143,
+      84,
+      149
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/hangar/pilotbunk",
+    "name": "SSV Rostock - Pilot Cryogenics",
+    "z": 1,
+    "x": 136,
+    "y": 130,
+    "tileCount": 80,
+    "bounds": [
+      132,
+      125,
+      139,
+      134
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/command/polcom",
+    "name": "SSV Rostock - Political Officer's Quarters",
+    "z": 1,
+    "x": 103,
+    "y": 27,
+    "tileCount": 34,
+    "bounds": [
+      100,
+      25,
+      106,
+      29
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/security/headquarters_armory",
+    "name": "SSV Rostock - Politsiya Armory",
+    "z": 1,
+    "x": 100,
+    "y": 47,
+    "tileCount": 30,
+    "bounds": [
+      98,
+      45,
+      103,
+      49
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/security/headquarters_bunk",
+    "name": "SSV Rostock - Politsiya Bunks",
+    "z": 1,
+    "x": 96,
+    "y": 47,
+    "tileCount": 20,
+    "bounds": [
+      94,
+      45,
+      97,
+      49
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/security/headquarters_storage",
+    "name": "SSV Rostock - Politsiya Equipment Storage",
+    "z": 1,
+    "x": 100,
+    "y": 55,
+    "tileCount": 30,
+    "bounds": [
+      98,
+      53,
+      103,
+      57
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/security/headquarters_lobby",
+    "name": "SSV Rostock - Politsiya HQ Lobby",
+    "z": 1,
+    "x": 93,
+    "y": 51,
+    "tileCount": 108,
+    "bounds": [
+      88,
+      45,
+      103,
+      57
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/engineering/port_aft_accessway",
+    "name": "SSV Rostock - Port Aft Accessway",
+    "z": 1,
+    "x": 32,
+    "y": 160,
+    "tileCount": 64,
+    "bounds": [
+      29,
+      156,
+      36,
+      163
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/railgun",
+    "name": "SSV Rostock - Port Railgun Control Room",
+    "z": 1,
+    "x": 72,
+    "y": 76,
+    "tileCount": 229,
+    "bounds": [
+      60,
+      66,
+      81,
+      82
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/security/brig_holding_area",
+    "name": "SSV Rostock - Prisoner Holding Area",
+    "z": 1,
+    "x": 86,
+    "y": 126,
+    "tileCount": 112,
+    "bounds": [
+      81,
+      120,
+      92,
+      132
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/engineering/reactor",
+    "name": "SSV Rostock - Reactor Core",
+    "z": 1,
+    "x": 46,
+    "y": 144,
+    "tileCount": 292,
+    "bounds": [
+      35,
+      136,
+      54,
+      152
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/medical/accessway",
+    "name": "SSV Rostock - Rear Corridor",
+    "z": 1,
+    "x": 83,
+    "y": 150,
+    "tileCount": 41,
+    "bounds": [
+      77,
+      147,
+      87,
+      152
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/command/so",
+    "name": "SSV Rostock - Staff Officer's Bunks",
+    "z": 1,
+    "x": 111,
+    "y": 29,
+    "tileCount": 34,
+    "bounds": [
+      110,
+      25,
+      113,
+      33
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/engineering/starboard_aft_accessway",
+    "name": "SSV Rostock - Starboard Aft Accessway",
+    "z": 1,
+    "x": 32,
+    "y": 108,
+    "tileCount": 64,
+    "bounds": [
+      29,
+      105,
+      36,
+      112
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/ert_dock/starboard",
+    "name": "SSV Rostock - Starboard Emergency Docking",
+    "z": 1,
+    "x": 46,
+    "y": 111,
+    "tileCount": 187,
+    "bounds": [
+      41,
+      103,
+      51,
+      119
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/railgun/starboard",
+    "name": "SSV Rostock - Starboard Railgun Control Room",
+    "z": 1,
+    "x": 71,
+    "y": 16,
+    "tileCount": 224,
+    "bounds": [
+      60,
+      10,
+      81,
+      25
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/lower_deck/prep",
+    "name": "SSV Rostock - Troop Preperation",
+    "z": 1,
+    "x": 42,
+    "y": 53,
+    "tileCount": 306,
+    "bounds": [
+      34,
+      45,
+      51,
+      61
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/lower_deck/bathroom",
+    "name": "SSV Rostock - Unisex Bathroom",
+    "z": 1,
+    "x": 66,
+    "y": 47,
+    "tileCount": 78,
+    "bounds": [
+      60,
+      45,
+      73,
+      50
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/engineering/lower_aft_corridor",
+    "name": "SSV Rostock - Upper Aft Entrance Corridor",
+    "z": 1,
+    "x": 16,
+    "y": 137,
+    "tileCount": 215,
+    "bounds": [
+      5,
+      130,
+      29,
+      155
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/upperdeck_maint/p_f",
+    "name": "SSV Rostock - Upper Port-Fore Maintenance",
+    "z": 1,
+    "x": 96,
+    "y": 153,
+    "tileCount": 187,
+    "bounds": [
+      80,
+      147,
+      112,
+      158
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/upperdeck_maint/p_m",
+    "name": "SSV Rostock - Upper Port-Midship Maintenance",
+    "z": 1,
+    "x": 74,
+    "y": 148,
+    "tileCount": 142,
+    "bounds": [
+      70,
+      137,
+      79,
+      157
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/upperdeck_maint/s_a",
+    "name": "SSV Rostock - Upper Starboard-Aft Maintenance",
+    "z": 1,
+    "x": 58,
+    "y": 116,
+    "tileCount": 158,
+    "bounds": [
+      44,
+      108,
+      67,
+      127
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/upperdeck_maint/s_f",
+    "name": "SSV Rostock - Upper Starboard-Fore Maintenance",
+    "z": 1,
+    "x": 97,
+    "y": 115,
+    "tileCount": 246,
+    "bounds": [
+      78,
+      109,
+      116,
+      121
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/upperdeck_maint/s_m",
+    "name": "SSV Rostock - Upper Starboard-Midship Maintenance",
+    "z": 1,
+    "x": 73,
+    "y": 114,
+    "tileCount": 72,
+    "bounds": [
+      68,
+      110,
+      77,
+      119
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/rostock/vehiclehangar",
+    "name": "SSV Rostock - Vehicle Hangar",
+    "z": 1,
+    "x": 49,
+    "y": 126,
+    "tileCount": 151,
+    "bounds": [
+      43,
+      121,
+      56,
+      132
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/supply/station/upp",
+    "name": "Supply Shuttle UPP",
+    "z": 1,
+    "x": 80,
+    "y": 35,
+    "tileCount": 25,
+    "bounds": [
+      78,
+      33,
+      82,
+      37
+    ],
+    "category": "room"
+  }
+]

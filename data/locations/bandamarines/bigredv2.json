@@ -1,0 +1,887 @@
+[
+  {
+    "id": "/area/bigredv2/outside/space_port_lz2",
+    "name": "Cargo Landing Pad",
+    "z": 1,
+    "x": 35,
+    "y": 95,
+    "tileCount": 860,
+    "bounds": [
+      20,
+      78,
+      48,
+      113
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/bigredv2/outside/telecomm/lz2_cave",
+    "name": "Central Grounds Communications Relay",
+    "z": 1,
+    "x": 84,
+    "y": 106,
+    "tileCount": 16,
+    "bounds": [
+      81,
+      104,
+      86,
+      107
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/bigredv2/outside/lz2_south_cas",
+    "name": "ETA Lockdown Caves Entrance",
+    "z": 1,
+    "x": 54,
+    "y": 65,
+    "tileCount": 340,
+    "bounds": [
+      45,
+      52,
+      64,
+      77
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/bigredv2/outside/telecomm",
+    "name": "LZ1 Communications Relay",
+    "z": 1,
+    "x": 11,
+    "y": 181,
+    "tileCount": 264,
+    "bounds": [
+      4,
+      170,
+      18,
+      190
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/bigredv2/outside/telecomm/n_cave",
+    "name": "North Cave Communications Relay",
+    "z": 1,
+    "x": 88,
+    "y": 192,
+    "tileCount": 64,
+    "bounds": [
+      85,
+      188,
+      92,
+      195
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/bigredv2/outside/lz1_north_cas",
+    "name": "Northern Caves Entrance",
+    "z": 1,
+    "x": 56,
+    "y": 205,
+    "tileCount": 176,
+    "bounds": [
+      40,
+      197,
+      72,
+      211
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/bigredv2/outside/lz2_west_cas",
+    "name": "Southwestern Caves Entrance",
+    "z": 1,
+    "x": 15,
+    "y": 90,
+    "tileCount": 117,
+    "bounds": [
+      11,
+      80,
+      19,
+      102
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/bigredv2/outside/lz1_telecomm_cas",
+    "name": "Virology Caves Entrance",
+    "z": 1,
+    "x": 12,
+    "y": 154,
+    "tileCount": 229,
+    "bounds": [
+      4,
+      142,
+      17,
+      169
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/bigredv2/outside/telecomm/warehouse",
+    "name": "Warehouse Communications Relay",
+    "z": 1,
+    "x": 42,
+    "y": 156,
+    "tileCount": 16,
+    "bounds": [
+      40,
+      154,
+      43,
+      157
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/bigredv2/outside/admin_building",
+    "name": "Administration",
+    "z": 1,
+    "x": 90,
+    "y": 125,
+    "tileCount": 703,
+    "bounds": [
+      76,
+      113,
+      104,
+      139
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/outside/c",
+    "name": "C",
+    "z": 1,
+    "x": 96,
+    "y": 121,
+    "tileCount": 1193,
+    "bounds": [
+      57,
+      100,
+      127,
+      148
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/outside/cargo",
+    "name": "Cargo",
+    "z": 1,
+    "x": 59,
+    "y": 111,
+    "tileCount": 687,
+    "bounds": [
+      41,
+      96,
+      71,
+      125
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/outside/nw/ceiling",
+    "name": "Central Colony Grounds",
+    "z": 1,
+    "x": 46,
+    "y": 152,
+    "tileCount": 150,
+    "bounds": [
+      38,
+      148,
+      54,
+      157
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/outside",
+    "name": "Colony Grounds",
+    "z": 1,
+    "x": 37,
+    "y": 130,
+    "tileCount": 52,
+    "bounds": [
+      35,
+      119,
+      40,
+      137
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/outside/dorms",
+    "name": "Dormitories",
+    "z": 1,
+    "x": 106,
+    "y": 152,
+    "tileCount": 466,
+    "bounds": [
+      94,
+      143,
+      118,
+      161
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/caves_east",
+    "name": "Eastern Caves",
+    "z": 1,
+    "x": 188,
+    "y": 98,
+    "tileCount": 1505,
+    "bounds": [
+      155,
+      70,
+      222,
+      125
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/outside/e",
+    "name": "Eastern Colony Grounds",
+    "z": 1,
+    "x": 147,
+    "y": 125,
+    "tileCount": 427,
+    "bounds": [
+      128,
+      114,
+      164,
+      139
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/outside/engineering",
+    "name": "Engineering Complex",
+    "z": 1,
+    "x": 71,
+    "y": 87,
+    "tileCount": 726,
+    "bounds": [
+      45,
+      77,
+      100,
+      96
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/caves/eta/living",
+    "name": "Eta Living Quarters",
+    "z": 1,
+    "x": 116,
+    "y": 21,
+    "tileCount": 393,
+    "bounds": [
+      105,
+      13,
+      128,
+      32
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/caves/eta/research",
+    "name": "Eta Research",
+    "z": 1,
+    "x": 116,
+    "y": 44,
+    "tileCount": 594,
+    "bounds": [
+      106,
+      30,
+      128,
+      59
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/caves/eta/storage",
+    "name": "Eta Storage",
+    "z": 1,
+    "x": 98,
+    "y": 50,
+    "tileCount": 275,
+    "bounds": [
+      91,
+      38,
+      105,
+      59
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/caves/eta/xenobiology",
+    "name": "Eta Xenobiology",
+    "z": 1,
+    "x": 98,
+    "y": 30,
+    "tileCount": 340,
+    "bounds": [
+      91,
+      19,
+      105,
+      42
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/outside/filtration_cave_cas",
+    "name": "Filtration Lockdown Caves Entrance",
+    "z": 1,
+    "x": 139,
+    "y": 80,
+    "tileCount": 626,
+    "bounds": [
+      112,
+      65,
+      155,
+      98
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/outside/filtration_plant",
+    "name": "Filtration Plant",
+    "z": 1,
+    "x": 114,
+    "y": 89,
+    "tileCount": 678,
+    "bounds": [
+      96,
+      79,
+      135,
+      99
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/outside/general_offices",
+    "name": "General Offices",
+    "z": 1,
+    "x": 131,
+    "y": 161,
+    "tileCount": 452,
+    "bounds": [
+      117,
+      151,
+      146,
+      168
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/outside/general_store",
+    "name": "General Store",
+    "z": 1,
+    "x": 55,
+    "y": 130,
+    "tileCount": 380,
+    "bounds": [
+      41,
+      123,
+      71,
+      136
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/outside/medical",
+    "name": "Hospital",
+    "z": 1,
+    "x": 71,
+    "y": 152,
+    "tileCount": 735,
+    "bounds": [
+      54,
+      140,
+      89,
+      165
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/caves/lambda/breakroom",
+    "name": "Lambda Breakroom",
+    "z": 1,
+    "x": 180,
+    "y": 158,
+    "tileCount": 278,
+    "bounds": [
+      166,
+      152,
+      199,
+      165
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/caves_lambda",
+    "name": "Lambda Lab Caves",
+    "z": 1,
+    "x": 187,
+    "y": 165,
+    "tileCount": 1479,
+    "bounds": [
+      148,
+      125,
+      221,
+      192
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/outside/lambda_cave_cas",
+    "name": "Lambda Lockdown Caves Entrance",
+    "z": 1,
+    "x": 168,
+    "y": 126,
+    "tileCount": 120,
+    "bounds": [
+      162,
+      121,
+      174,
+      132
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/caves/lambda/research",
+    "name": "Lambda Research",
+    "z": 1,
+    "x": 190,
+    "y": 143,
+    "tileCount": 435,
+    "bounds": [
+      173,
+      131,
+      203,
+      153
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/caves/lambda/xenobiology",
+    "name": "Lambda Xenobiology",
+    "z": 1,
+    "x": 181,
+    "y": 173,
+    "tileCount": 616,
+    "bounds": [
+      165,
+      160,
+      200,
+      184
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/outside/engineering/reactor",
+    "name": "Main Reactor",
+    "z": 1,
+    "x": 76,
+    "y": 71,
+    "tileCount": 368,
+    "bounds": [
+      65,
+      63,
+      87,
+      79
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/outside/marshal_office",
+    "name": "Marshal Offices",
+    "z": 1,
+    "x": 86,
+    "y": 176,
+    "tileCount": 980,
+    "bounds": [
+      54,
+      165,
+      112,
+      192
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/outside/ne",
+    "name": "Northeast Colony Grounds",
+    "z": 1,
+    "x": 145,
+    "y": 150,
+    "tileCount": 309,
+    "bounds": [
+      124,
+      135,
+      163,
+      166
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/caves_north",
+    "name": "Northern Caves",
+    "z": 1,
+    "x": 140,
+    "y": 181,
+    "tileCount": 250,
+    "bounds": [
+      131,
+      168,
+      150,
+      192
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/outside/n",
+    "name": "Northern Colony Grounds",
+    "z": 1,
+    "x": 104,
+    "y": 182,
+    "tileCount": 1141,
+    "bounds": [
+      63,
+      149,
+      132,
+      201
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/outside/nw",
+    "name": "Northwest Colony Grounds",
+    "z": 1,
+    "x": 46,
+    "y": 160,
+    "tileCount": 1037,
+    "bounds": [
+      24,
+      136,
+      69,
+      181
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/outside/office_complex",
+    "name": "Office Complex",
+    "z": 1,
+    "x": 126,
+    "y": 113,
+    "tileCount": 523,
+    "bounds": [
+      114,
+      100,
+      139,
+      125
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/outside/se",
+    "name": "Southeast Colony Grounds",
+    "z": 1,
+    "x": 146,
+    "y": 104,
+    "tileCount": 529,
+    "bounds": [
+      124,
+      86,
+      167,
+      113
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/caves_se",
+    "name": "Southeastern Caves",
+    "z": 1,
+    "x": 184,
+    "y": 46,
+    "tileCount": 1704,
+    "bounds": [
+      155,
+      15,
+      209,
+      77
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/outside/s",
+    "name": "Southern Colony Grounds",
+    "z": 1,
+    "x": 94,
+    "y": 86,
+    "tileCount": 416,
+    "bounds": [
+      72,
+      71,
+      112,
+      101
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/caves/mining",
+    "name": "Southwest Abandoned Mining Caves",
+    "z": 1,
+    "x": 38,
+    "y": 28,
+    "tileCount": 1943,
+    "bounds": [
+      8,
+      7,
+      78,
+      53
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/outside/sw",
+    "name": "Southwest Colony Grounds",
+    "z": 1,
+    "x": 54,
+    "y": 85,
+    "tileCount": 77,
+    "bounds": [
+      45,
+      77,
+      64,
+      95
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/caves_sw",
+    "name": "Southwestern Caves",
+    "z": 1,
+    "x": 37,
+    "y": 64,
+    "tileCount": 838,
+    "bounds": [
+      6,
+      46,
+      86,
+      109
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/outside/space_port",
+    "name": "Space Port",
+    "z": 1,
+    "x": 34,
+    "y": 192,
+    "tileCount": 1083,
+    "bounds": [
+      14,
+      178,
+      53,
+      207
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/caves",
+    "name": "Unknown Area",
+    "z": 1,
+    "x": 127,
+    "y": 112,
+    "tileCount": 14222,
+    "bounds": [
+      3,
+      5,
+      223,
+      213
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/caves/lambda/virology",
+    "name": "Virology",
+    "z": 1,
+    "x": 209,
+    "y": 136,
+    "tileCount": 191,
+    "bounds": [
+      201,
+      126,
+      214,
+      146
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/caves_virology",
+    "name": "Virology Caves",
+    "z": 1,
+    "x": 10,
+    "y": 126,
+    "tileCount": 237,
+    "bounds": [
+      4,
+      110,
+      17,
+      142
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/outside/virology",
+    "name": "Virology Lab",
+    "z": 1,
+    "x": 27,
+    "y": 131,
+    "tileCount": 519,
+    "bounds": [
+      16,
+      114,
+      35,
+      146
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/outside/w",
+    "name": "Western Colony Grounds",
+    "z": 1,
+    "x": 41,
+    "y": 118,
+    "tileCount": 166,
+    "bounds": [
+      35,
+      111,
+      48,
+      132
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/caves_research",
+    "name": "Wey-Yu Research Lab Caves",
+    "z": 1,
+    "x": 122,
+    "y": 29,
+    "tileCount": 1339,
+    "bounds": [
+      73,
+      6,
+      154,
+      64
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/bigredv2/outside/bar",
+    "name": "Bar",
+    "z": 1,
+    "x": 120,
+    "y": 139,
+    "tileCount": 268,
+    "bounds": [
+      112,
+      131,
+      127,
+      152
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bigredv2/outside/chapel",
+    "name": "Chapel",
+    "z": 1,
+    "x": 158,
+    "y": 118,
+    "tileCount": 155,
+    "bounds": [
+      150,
+      114,
+      167,
+      122
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bigredv2/outside/eta",
+    "name": "Eta",
+    "z": 1,
+    "x": 102,
+    "y": 65,
+    "tileCount": 331,
+    "bounds": [
+      88,
+      59,
+      116,
+      71
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bigred/ground/garage_workshop",
+    "name": "Garage Workshop",
+    "z": 1,
+    "x": 25,
+    "y": 169,
+    "tileCount": 203,
+    "bounds": [
+      18,
+      162,
+      34,
+      176
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bigredv2/outside/hydroponics",
+    "name": "Hydroponics",
+    "z": 1,
+    "x": 139,
+    "y": 140,
+    "tileCount": 345,
+    "bounds": [
+      128,
+      131,
+      148,
+      149
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bigredv2/outside/library",
+    "name": "Library",
+    "z": 1,
+    "x": 154,
+    "y": 140,
+    "tileCount": 177,
+    "bounds": [
+      149,
+      131,
+      159,
+      149
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/bigredv2/oob",
+    "name": "Oob",
+    "z": 1,
+    "x": 56,
+    "y": 39,
+    "tileCount": 52,
+    "bounds": [
+      53,
+      36,
+      60,
+      42
+    ],
+    "category": "room"
+  }
+]

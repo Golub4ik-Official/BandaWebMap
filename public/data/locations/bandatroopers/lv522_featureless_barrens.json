@@ -1,0 +1,17 @@
+[
+  {
+    "id": "/area/lv624/ground/barrens/central_barrens",
+    "name": "Central Barrens",
+    "z": 1,
+    "x": 125,
+    "y": 126,
+    "tileCount": 57851,
+    "bounds": [
+      1,
+      1,
+      250,
+      250
+    ],
+    "category": "major"
+  }
+]

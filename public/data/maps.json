@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T20:06:21Z",
+  "generatedAt": "2026-09-22T20:51:20Z",
   "totalMaps": 105,
   "servers": {
     "bandamarines": {
@@ -49,7 +49,9 @@
               "fullUrl": "maps/bandamarines/almayer-4.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/almayer/USS_Almayer-4-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 186
         },
         {
           "id": "bigredv2",
@@ -71,7 +73,9 @@
               "fullUrl": "maps/bandamarines/bigredv2-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 59
         },
         {
           "id": "chinook",
@@ -93,7 +97,9 @@
               "fullUrl": "maps/bandamarines/chinook-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 9
         },
         {
           "id": "corsat",
@@ -115,7 +121,9 @@
               "fullUrl": "maps/bandamarines/corsat-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 122
         },
         {
           "id": "desert_dam",
@@ -137,7 +145,9 @@
               "fullUrl": "maps/bandamarines/desert_dam-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/trijent/Desert_Dam-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 159
         },
         {
           "id": "fiorina_sciannex",
@@ -159,7 +169,9 @@
               "fullUrl": "maps/bandamarines/fiorina_sciannex-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/fiorina/Fiorina_SciAnnex-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 34
         },
         {
           "id": "ice_colony_v2",
@@ -181,7 +193,9 @@
               "fullUrl": "maps/bandamarines/ice_colony_v2-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 120
         },
         {
           "id": "kutjevo",
@@ -203,7 +217,9 @@
               "fullUrl": "maps/bandamarines/kutjevo-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/kutjevo/Kutjevo-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 48
         },
         {
           "id": "lv522_chances_claim",
@@ -225,7 +241,9 @@
               "fullUrl": "maps/bandamarines/lv522_chances_claim-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 72
         },
         {
           "id": "lv624",
@@ -247,7 +265,9 @@
               "fullUrl": "maps/bandamarines/lv624-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv624/LV624-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 73
         },
         {
           "id": "lv759_hybrisa_prospera",
@@ -269,7 +289,9 @@
               "fullUrl": "maps/bandamarines/lv759_hybrisa_prospera-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv759/LV759_Hybrisa_Prospera-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 229
         },
         {
           "id": "new_varadero",
@@ -291,7 +313,9 @@
               "fullUrl": "maps/bandamarines/new_varadero-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/newvaradero/New_Varadero-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 51
         },
         {
           "id": "prison_station_fop",
@@ -313,7 +337,9 @@
               "fullUrl": "maps/bandamarines/prison_station_fop-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 111
         },
         {
           "id": "runtime",
@@ -342,7 +368,9 @@
               "fullUrl": "maps/bandamarines/runtime-2.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 2
         },
         {
           "id": "shivas_snowball",
@@ -364,7 +392,9 @@
               "fullUrl": "maps/bandamarines/shivas_snowball-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/shivas/Shivas_Snowball-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 37
         },
         {
           "id": "sorokyne_strata",
@@ -386,7 +416,9 @@
               "fullUrl": "maps/bandamarines/sorokyne_strata-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/sorokyne/Sorokyne_Strata-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 86
         },
         {
           "id": "ssv_rostock",
@@ -408,7 +440,9 @@
               "fullUrl": "maps/bandamarines/ssv_rostock-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 71
         },
         {
           "id": "whiskey_outpost_v2",
@@ -430,7 +464,9 @@
               "fullUrl": "maps/bandamarines/whiskey_outpost_v2-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/whiskey/Whiskey_Outpost_v2-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 38
         }
       ]
     },
@@ -467,7 +503,9 @@
               "fullUrl": "maps/bandastation/cyberiad-2.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 216
         },
         {
           "id": "deltastation",
@@ -489,7 +527,9 @@
               "fullUrl": "maps/bandastation/deltastation-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 195
         },
         {
           "id": "gateway_test",
@@ -511,7 +551,9 @@
               "fullUrl": "maps/bandastation/gateway_test-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 1
         },
         {
           "id": "icebox",
@@ -547,7 +589,9 @@
               "fullUrl": "maps/bandastation/icebox-3.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 211
         },
         {
           "id": "kilostation",
@@ -569,7 +613,9 @@
               "fullUrl": "maps/bandastation/kilostation-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 163
         },
         {
           "id": "metastation",
@@ -591,7 +637,9 @@
               "fullUrl": "maps/bandastation/metastation-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 169
         },
         {
           "id": "multiz_debug",
@@ -627,7 +675,9 @@
               "fullUrl": "maps/bandastation/multiz_debug-3.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 12
         },
         {
           "id": "nebulastation",
@@ -656,7 +706,9 @@
               "fullUrl": "maps/bandastation/nebulastation-2.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 211
         },
         {
           "id": "runtimestation",
@@ -678,7 +730,9 @@
               "fullUrl": "maps/bandastation/runtimestation-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 19
         },
         {
           "id": "runtimestation_minimal",
@@ -700,7 +754,9 @@
               "fullUrl": "maps/bandastation/runtimestation_minimal-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": false,
+          "locationCount": 0
         },
         {
           "id": "tramstation",
@@ -729,7 +785,9 @@
               "fullUrl": "maps/bandastation/tramstation-2.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 180
         },
         {
           "id": "wawastation",
@@ -758,7 +816,9 @@
               "fullUrl": "maps/bandastation/wawastation-2.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 202
         }
       ]
     },
@@ -787,7 +847,9 @@
               "fullUrl": "maps/bandatroopers/686_regretful_flame-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 3
         },
         {
           "id": "almayer",
@@ -808,7 +870,9 @@
               "fullUrl": "maps/bandatroopers/almayer-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/almayer/USS_Almayer-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 148
         },
         {
           "id": "arctic_valley",
@@ -829,7 +893,9 @@
               "fullUrl": "maps/bandatroopers/arctic_valley-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 1
         },
         {
           "id": "bigredv2",
@@ -850,7 +916,9 @@
               "fullUrl": "maps/bandatroopers/bigredv2-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 58
         },
         {
           "id": "binhai_supply_station",
@@ -871,7 +939,9 @@
               "fullUrl": "maps/bandatroopers/binhai_supply_station-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 60
         },
         {
           "id": "bmg290_otogi_egress_point",
@@ -892,7 +962,9 @@
               "fullUrl": "maps/bandatroopers/bmg290_otogi_egress_point-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/newvaradero/New_Varadero-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 57
         },
         {
           "id": "bosenmori_basho",
@@ -913,7 +985,9 @@
               "fullUrl": "maps/bandatroopers/bosenmori_basho-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv624/LV624-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 63
         },
         {
           "id": "calliope_desert_bus",
@@ -934,7 +1008,9 @@
               "fullUrl": "maps/bandatroopers/calliope_desert_bus-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 15
         },
         {
           "id": "calliope_highway",
@@ -955,7 +1031,9 @@
               "fullUrl": "maps/bandatroopers/calliope_highway-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 33
         },
         {
           "id": "canyon_32b",
@@ -976,7 +1054,9 @@
               "fullUrl": "maps/bandatroopers/canyon_32b-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 24
         },
         {
           "id": "chapaev",
@@ -997,7 +1077,9 @@
               "fullUrl": "maps/bandatroopers/chapaev-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 10
         },
         {
           "id": "chapaev_movie",
@@ -1018,7 +1100,9 @@
               "fullUrl": "maps/bandatroopers/chapaev_movie-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 10
         },
         {
           "id": "chinook",
@@ -1039,7 +1123,9 @@
               "fullUrl": "maps/bandatroopers/chinook-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 10
         },
         {
           "id": "corsat",
@@ -1060,7 +1146,9 @@
               "fullUrl": "maps/bandatroopers/corsat-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 122
         },
         {
           "id": "derelict_almayer",
@@ -1081,7 +1169,9 @@
               "fullUrl": "maps/bandatroopers/derelict_almayer-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/almayer/USS_Almayer-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 117
         },
         {
           "id": "derelict_almayer_infested",
@@ -1102,7 +1192,9 @@
               "fullUrl": "maps/bandatroopers/derelict_almayer_infested-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/almayer/USS_Almayer-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 117
         },
         {
           "id": "desert_dam",
@@ -1123,7 +1215,9 @@
               "fullUrl": "maps/bandatroopers/desert_dam-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/trijent/Desert_Dam-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 158
         },
         {
           "id": "featureless_space",
@@ -1144,7 +1238,9 @@
               "fullUrl": "maps/bandatroopers/featureless_space-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 1
         },
         {
           "id": "fiorina_sciannex",
@@ -1165,7 +1261,9 @@
               "fullUrl": "maps/bandatroopers/fiorina_sciannex-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/fiorina/Fiorina_SciAnnex-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 28
         },
         {
           "id": "firefly",
@@ -1186,7 +1284,9 @@
               "fullUrl": "maps/bandatroopers/firefly-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 12
         },
         {
           "id": "golden_arrow",
@@ -1207,7 +1307,9 @@
               "fullUrl": "maps/bandatroopers/golden_arrow-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 21
         },
         {
           "id": "golden_arrow_classic",
@@ -1228,7 +1330,9 @@
               "fullUrl": "maps/bandatroopers/golden_arrow_classic-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 15
         },
         {
           "id": "golden_arrow_dog_war",
@@ -1249,7 +1353,9 @@
               "fullUrl": "maps/bandatroopers/golden_arrow_dog_war-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 15
         },
         {
           "id": "golden_arrow_movie",
@@ -1270,7 +1376,9 @@
               "fullUrl": "maps/bandatroopers/golden_arrow_movie-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 21
         },
         {
           "id": "halo_new_irvine",
@@ -1291,7 +1399,9 @@
               "fullUrl": "maps/bandatroopers/halo_new_irvine-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 28
         },
         {
           "id": "halo_new_irvine_covenant",
@@ -1312,7 +1422,9 @@
               "fullUrl": "maps/bandatroopers/halo_new_irvine_covenant-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 58
         },
         {
           "id": "hms_brynhild",
@@ -1333,7 +1445,9 @@
               "fullUrl": "maps/bandatroopers/hms_brynhild-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 23
         },
         {
           "id": "ice_colony_v1",
@@ -1354,7 +1468,9 @@
               "fullUrl": "maps/bandatroopers/ice_colony_v1-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 75
         },
         {
           "id": "ice_colony_v2",
@@ -1375,7 +1491,9 @@
               "fullUrl": "maps/bandatroopers/ice_colony_v2-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 120
         },
         {
           "id": "jungle_delta",
@@ -1396,7 +1514,9 @@
               "fullUrl": "maps/bandatroopers/jungle_delta-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 1
         },
         {
           "id": "kleschers_research_site",
@@ -1417,7 +1537,9 @@
               "fullUrl": "maps/bandatroopers/kleschers_research_site-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 54
         },
         {
           "id": "kutjevo",
@@ -1438,7 +1560,9 @@
               "fullUrl": "maps/bandatroopers/kutjevo-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/kutjevo/Kutjevo-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 44
         },
         {
           "id": "laituri",
@@ -1459,7 +1583,9 @@
               "fullUrl": "maps/bandatroopers/laituri-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 10
         },
         {
           "id": "lv295_blacksite",
@@ -1480,7 +1606,9 @@
               "fullUrl": "maps/bandatroopers/lv295_blacksite-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 11
         },
         {
           "id": "lv295_featureless_arctic",
@@ -1501,7 +1629,9 @@
               "fullUrl": "maps/bandatroopers/lv295_featureless_arctic-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 1
         },
         {
           "id": "lv522_chances_claim",
@@ -1522,7 +1652,9 @@
               "fullUrl": "maps/bandatroopers/lv522_chances_claim-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 74
         },
         {
           "id": "lv522_chances_claim_forecon",
@@ -1543,7 +1675,9 @@
               "fullUrl": "maps/bandatroopers/lv522_chances_claim_forecon-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 76
         },
         {
           "id": "lv522_featureless_barrens",
@@ -1564,7 +1698,9 @@
               "fullUrl": "maps/bandatroopers/lv522_featureless_barrens-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 1
         },
         {
           "id": "lv624",
@@ -1585,7 +1721,9 @@
               "fullUrl": "maps/bandatroopers/lv624-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv624/LV624-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 72
         },
         {
           "id": "lv624_repaired",
@@ -1606,7 +1744,9 @@
               "fullUrl": "maps/bandatroopers/lv624_repaired-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv624/LV624-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 72
         },
         {
           "id": "lv671",
@@ -1627,7 +1767,9 @@
               "fullUrl": "maps/bandatroopers/lv671-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 123
         },
         {
           "id": "lv759_hybrisa_prospera",
@@ -1648,7 +1790,9 @@
               "fullUrl": "maps/bandatroopers/lv759_hybrisa_prospera-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv759/LV759_Hybrisa_Prospera-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 229
         },
         {
           "id": "lv759_hybrisa_prospera_repaired",
@@ -1669,7 +1813,9 @@
               "fullUrl": "maps/bandatroopers/lv759_hybrisa_prospera_repaired-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv759/LV759_Hybrisa_Prospera-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 224
         },
         {
           "id": "lv818_featureless_desert",
@@ -1690,7 +1836,9 @@
               "fullUrl": "maps/bandatroopers/lv818_featureless_desert-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 1
         },
         {
           "id": "lv818_featureless_jungle",
@@ -1711,7 +1859,9 @@
               "fullUrl": "maps/bandatroopers/lv818_featureless_jungle-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 1
         },
         {
           "id": "mackay_station",
@@ -1732,7 +1882,9 @@
               "fullUrl": "maps/bandatroopers/mackay_station-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 26
         },
         {
           "id": "mackay_station_shipmap",
@@ -1753,7 +1905,9 @@
               "fullUrl": "maps/bandatroopers/mackay_station_shipmap-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 26
         },
         {
           "id": "new_varadero",
@@ -1774,7 +1928,9 @@
               "fullUrl": "maps/bandatroopers/new_varadero-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/newvaradero/New_Varadero-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 48
         },
         {
           "id": "new_varadero_repaired",
@@ -1795,7 +1951,9 @@
               "fullUrl": "maps/bandatroopers/new_varadero_repaired-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/newvaradero/New_Varadero-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 47
         },
         {
           "id": "oil_depot",
@@ -1816,7 +1974,9 @@
               "fullUrl": "maps/bandatroopers/oil_depot-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 12
         },
         {
           "id": "oni_digsite_451",
@@ -1837,7 +1997,9 @@
               "fullUrl": "maps/bandatroopers/oni_digsite_451-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 29
         },
         {
           "id": "oni_shield_base",
@@ -1858,7 +2020,9 @@
               "fullUrl": "maps/bandatroopers/oni_shield_base-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 6
         },
         {
           "id": "oread_garrison",
@@ -1879,7 +2043,9 @@
               "fullUrl": "maps/bandatroopers/oread_garrison-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 17
         },
         {
           "id": "prison_station_fop",
@@ -1900,7 +2066,9 @@
               "fullUrl": "maps/bandatroopers/prison_station_fop-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 111
         },
         {
           "id": "prospector_canyon",
@@ -1921,7 +2089,9 @@
               "fullUrl": "maps/bandatroopers/prospector_canyon-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 1
         },
         {
           "id": "redemption_valley",
@@ -1942,7 +2112,9 @@
               "fullUrl": "maps/bandatroopers/redemption_valley-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/newvaradero/New_Varadero-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 49
         },
         {
           "id": "rover",
@@ -1963,7 +2135,9 @@
               "fullUrl": "maps/bandatroopers/rover-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 15
         },
         {
           "id": "rover_tethered",
@@ -1984,7 +2158,9 @@
               "fullUrl": "maps/bandatroopers/rover_tethered-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 18
         },
         {
           "id": "runtime",
@@ -2005,7 +2181,9 @@
               "fullUrl": "maps/bandatroopers/runtime-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 1
         },
         {
           "id": "runtime_multiz",
@@ -2033,7 +2211,9 @@
               "fullUrl": "maps/bandatroopers/runtime_multiz-2.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 2
         },
         {
           "id": "shivas_snowball",
@@ -2054,7 +2234,9 @@
               "fullUrl": "maps/bandatroopers/shivas_snowball-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/shivas/Shivas_Snowball-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 37
         },
         {
           "id": "si391_sekhmet_swamp",
@@ -2075,7 +2257,9 @@
               "fullUrl": "maps/bandatroopers/si391_sekhmet_swamp-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv624/LV624-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 36
         },
         {
           "id": "sorokyne_strata",
@@ -2096,7 +2280,9 @@
               "fullUrl": "maps/bandatroopers/sorokyne_strata-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/sorokyne/Sorokyne_Strata-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 74
         },
         {
           "id": "taipei_station",
@@ -2117,7 +2303,9 @@
               "fullUrl": "maps/bandatroopers/taipei_station-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 23
         },
         {
           "id": "traxus_gamma_zone",
@@ -2138,7 +2326,9 @@
               "fullUrl": "maps/bandatroopers/traxus_gamma_zone-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/solaris/BigRed-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 82
         },
         {
           "id": "unsc_dark_was_the_night",
@@ -2159,7 +2349,9 @@
               "fullUrl": "maps/bandatroopers/unsc_dark_was_the_night-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 20
         },
         {
           "id": "unsc_dark_was_the_night_odst",
@@ -2180,7 +2372,9 @@
               "fullUrl": "maps/bandatroopers/unsc_dark_was_the_night_odst-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 16
         },
         {
           "id": "unsc_stalwart_frigate",
@@ -2201,7 +2395,9 @@
               "fullUrl": "maps/bandatroopers/unsc_stalwart_frigate-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 33
         },
         {
           "id": "upp_bunker",
@@ -2222,7 +2418,9 @@
               "fullUrl": "maps/bandatroopers/upp_bunker-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 11
         },
         {
           "id": "uscm_blue_ridge",
@@ -2243,7 +2441,9 @@
               "fullUrl": "maps/bandatroopers/uscm_blue_ridge-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 20
         },
         {
           "id": "uscm_bunker",
@@ -2264,7 +2464,9 @@
               "fullUrl": "maps/bandatroopers/uscm_bunker-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 13
         },
         {
           "id": "uscss_obsidian_falk",
@@ -2285,7 +2487,9 @@
               "fullUrl": "maps/bandatroopers/uscss_obsidian_falk-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 12
         },
         {
           "id": "uscss_onyx_karain",
@@ -2306,7 +2510,9 @@
               "fullUrl": "maps/bandatroopers/uscss_onyx_karain-1.webp",
               "pipenetUrl": ""
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 12
         },
         {
           "id": "valorous_chant",
@@ -2327,7 +2533,9 @@
               "fullUrl": "maps/bandatroopers/valorous_chant-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/lv522/LV522_Chances_Claim-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 11
         },
         {
           "id": "whiskey_outpost_v2",
@@ -2348,7 +2556,9 @@
               "fullUrl": "maps/bandatroopers/whiskey_outpost_v2-1.webp",
               "pipenetUrl": "https://mocha.affectedarc07.co.uk/webmap/cm/whiskey/Whiskey_Outpost_v2-1-pipe.png"
             }
-          ]
+          ],
+          "hasLocations": true,
+          "locationCount": 38
         }
       ]
     }

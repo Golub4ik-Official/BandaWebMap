@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "/area/lv624/lazarus/comms",
+    "name": "Communications Relay",
+    "z": 1,
+    "x": 75,
+    "y": 20,
+    "tileCount": 216,
+    "bounds": [
+      67,
+      13,
+      84,
+      27
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/lv624/ground/colony/telecomm/cargo",
+    "name": "Far North Storage Dome Communications Relay",
+    "z": 1,
+    "x": 160,
+    "y": 58,
+    "tileCount": 11,
+    "bounds": [
+      159,
+      57,
+      162,
+      59
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/lv624/lazarus/landing_zones/lz1",
+    "name": "LZ 1 (Landing Zone)",
+    "z": 1,
+    "x": 152,
+    "y": 35,
+    "tileCount": 1063,
+    "bounds": [
+      134,
+      13,
+      167,
+      62
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/lv624/lazarus/landing_zones/lz2",
+    "name": "Normandy Landing Zone",
+    "z": 1,
+    "x": 38,
+    "y": 44,
+    "tileCount": 851,
+    "bounds": [
+      24,
+      26,
+      57,
+      62
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/lv624/ground/caves/sand_temple",
+    "name": "Sand Temple",
+    "z": 1,
+    "x": 151,
+    "y": 124,
+    "tileCount": 972,
+    "bounds": [
+      127,
+      111,
+      174,
+      136
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/lv624/ground/colony/telecomm/sw_lz2",
+    "name": "South-West LZ2 Communications Relay",
+    "z": 1,
+    "x": 30,
+    "y": 60,
+    "tileCount": 12,
+    "bounds": [
+      29,
+      59,
+      32,
+      62
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/lv624/lazarus/quartstorage",
+    "name": "Cargo Bay",
+    "z": 1,
+    "x": 145,
+    "y": 57,
+    "tileCount": 394,
+    "bounds": [
+      132,
+      41,
+      159,
+      72
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/barrens/central_barrens",
+    "name": "Central Barrens",
+    "z": 1,
+    "x": 91,
+    "y": 113,
+    "tileCount": 690,
+    "bounds": [
+      77,
+      98,
+      108,
+      129
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/caves/central_caves",
+    "name": "Central Caves",
+    "z": 1,
+    "x": 99,
+    "y": 167,
+    "tileCount": 2248,
+    "bounds": [
+      61,
+      147,
+      134,
+      190
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/jungle/central_jungle",
+    "name": "Central Jungle",
+    "z": 1,
+    "x": 82,
+    "y": 45,
+    "tileCount": 252,
+    "bounds": [
+      74,
+      33,
+      91,
+      58
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/river/central_river",
+    "name": "Central River",
+    "z": 1,
+    "x": 103,
+    "y": 97,
+    "tileCount": 570,
+    "bounds": [
+      70,
+      90,
+      136,
+      102
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/barrens/containers",
+    "name": "Containers",
+    "z": 1,
+    "x": 114,
+    "y": 124,
+    "tileCount": 358,
+    "bounds": [
+      100,
+      117,
+      129,
+      130
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/barrens/east_barrens/ceiling",
+    "name": "Containers",
+    "z": 1,
+    "x": 123,
+    "y": 105,
+    "tileCount": 83,
+    "bounds": [
+      114,
+      103,
+      131,
+      107
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/barrens/east_barrens",
+    "name": "East Barrens",
+    "z": 1,
+    "x": 117,
+    "y": 111,
+    "tileCount": 314,
+    "bounds": [
+      103,
+      100,
+      131,
+      118
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/jungle/east_central_jungle",
+    "name": "East Central Jungle",
+    "z": 1,
+    "x": 105,
+    "y": 48,
+    "tileCount": 378,
+    "bounds": [
+      93,
+      16,
+      116,
+      67
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/jungle/east_jungle",
+    "name": "East Jungle",
+    "z": 1,
+    "x": 167,
+    "y": 58,
+    "tileCount": 575,
+    "bounds": [
+      150,
+      30,
+      174,
+      82
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/barrens/west_barrens/ceiling",
+    "name": "Eastern Barrens",
+    "z": 1,
+    "x": 59,
+    "y": 106,
+    "tileCount": 49,
+    "bounds": [
+      56,
+      103,
+      62,
+      109
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/caves/east_caves",
+    "name": "Eastern Caves",
+    "z": 1,
+    "x": 154,
+    "y": 168,
+    "tileCount": 1070,
+    "bounds": [
+      130,
+      151,
+      174,
+      180
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/jungle/west_jungle/ceiling",
+    "name": "Eastern Jungle",
+    "z": 1,
+    "x": 26,
+    "y": 64,
+    "tileCount": 35,
+    "bounds": [
+      23,
+      62,
+      29,
+      66
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/river/east_river",
+    "name": "Eastern River",
+    "z": 1,
+    "x": 156,
+    "y": 87,
+    "tileCount": 432,
+    "bounds": [
+      69,
+      74,
+      174,
+      102
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/lazarus/main_hall",
+    "name": "Nexus / Main Hall",
+    "z": 1,
+    "x": 120,
+    "y": 36,
+    "tileCount": 514,
+    "bounds": [
+      99,
+      16,
+      139,
+      56
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/caves/north_central_caves",
+    "name": "North Central Caves",
+    "z": 1,
+    "x": 90,
+    "y": 205,
+    "tileCount": 2926,
+    "bounds": [
+      54,
+      182,
+      125,
+      225
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/barrens/north_east_barrens",
+    "name": "North Eastern Barrens",
+    "z": 1,
+    "x": 118,
+    "y": 137,
+    "tileCount": 344,
+    "bounds": [
+      103,
+      131,
+      137,
+      147
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/caves/north_east_caves",
+    "name": "North Eastern Caves",
+    "z": 1,
+    "x": 150,
+    "y": 203,
+    "tileCount": 2164,
+    "bounds": [
+      126,
+      181,
+      174,
+      225
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/colony/north_nexus_road",
+    "name": "North Nexus Road",
+    "z": 1,
+    "x": 113,
+    "y": 66,
+    "tileCount": 162,
+    "bounds": [
+      97,
+      57,
+      123,
+      71
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/colony/north_tcomms_road",
+    "name": "North T-Comms Road",
+    "z": 1,
+    "x": 71,
+    "y": 43,
+    "tileCount": 266,
+    "bounds": [
+      62,
+      28,
+      79,
+      56
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/caves/north_west_caves",
+    "name": "North Western Caves",
+    "z": 1,
+    "x": 28,
+    "y": 200,
+    "tileCount": 2738,
+    "bounds": [
+      2,
+      174,
+      60,
+      225
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/jungle/north_east_jungle",
+    "name": "Northeast Jungle",
+    "z": 1,
+    "x": 129,
+    "y": 82,
+    "tileCount": 854,
+    "bounds": [
+      106,
+      67,
+      153,
+      95
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/jungle/north_jungle",
+    "name": "Northern Jungle",
+    "z": 1,
+    "x": 90,
+    "y": 85,
+    "tileCount": 460,
+    "bounds": [
+      67,
+      72,
+      113,
+      93
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/jungle/north_west_jungle",
+    "name": "Northwest Jungle",
+    "z": 1,
+    "x": 56,
+    "y": 69,
+    "tileCount": 711,
+    "bounds": [
+      30,
+      53,
+      74,
+      82
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/caves/south_central_caves",
+    "name": "South Central Caves",
+    "z": 1,
+    "x": 78,
+    "y": 138,
+    "tileCount": 1186,
+    "bounds": [
+      54,
+      120,
+      106,
+      154
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/caves/south_east_caves",
+    "name": "South East Caves",
+    "z": 1,
+    "x": 150,
+    "y": 146,
+    "tileCount": 969,
+    "bounds": [
+      128,
+      134,
+      174,
+      160
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/jungle/south_east_jungle",
+    "name": "South East Jungle",
+    "z": 1,
+    "x": 152,
+    "y": 13,
+    "tileCount": 692,
+    "bounds": [
+      124,
+      6,
+      174,
+      29
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/barrens/south_eastern_jungle_barrens",
+    "name": "South East Jungle Barrens",
+    "z": 1,
+    "x": 166,
+    "y": 96,
+    "tileCount": 351,
+    "bounds": [
+      154,
+      85,
+      174,
+      105
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/barrens/south_eastern_barrens",
+    "name": "South Eastern Barrens",
+    "z": 1,
+    "x": 152,
+    "y": 107,
+    "tileCount": 463,
+    "bounds": [
+      132,
+      97,
+      174,
+      115
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/colony/south_medbay_road",
+    "name": "South Medbay Road",
+    "z": 1,
+    "x": 87,
+    "y": 69,
+    "tileCount": 121,
+    "bounds": [
+      75,
+      63,
+      96,
+      75
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/colony/south_nexus_road",
+    "name": "South Nexus Road",
+    "z": 1,
+    "x": 110,
+    "y": 14,
+    "tileCount": 150,
+    "bounds": [
+      98,
+      11,
+      123,
+      19
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/barrens/south_west_barrens",
+    "name": "South West Barrens",
+    "z": 1,
+    "x": 36,
+    "y": 83,
+    "tileCount": 343,
+    "bounds": [
+      2,
+      69,
+      63,
+      95
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/barrens/north_east_barrens/ceiling",
+    "name": "South Western Barrens",
+    "z": 1,
+    "x": 113,
+    "y": 136,
+    "tileCount": 42,
+    "bounds": [
+      110,
+      133,
+      116,
+      138
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/caves/south_west_caves",
+    "name": "South Western Caves",
+    "z": 1,
+    "x": 26,
+    "y": 100,
+    "tileCount": 1879,
+    "bounds": [
+      2,
+      71,
+      63,
+      120
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/jungle/south_central_jungle",
+    "name": "Southern Central Jungle",
+    "z": 1,
+    "x": 79,
+    "y": 9,
+    "tileCount": 555,
+    "bounds": [
+      44,
+      6,
+      123,
+      17
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/jungle/south_west_jungle",
+    "name": "Southwest Jungle",
+    "z": 1,
+    "x": 19,
+    "y": 19,
+    "tileCount": 778,
+    "bounds": [
+      2,
+      6,
+      46,
+      34
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/jungle/west_central_jungle",
+    "name": "West Central Jungle",
+    "z": 1,
+    "x": 63,
+    "y": 36,
+    "tileCount": 125,
+    "bounds": [
+      57,
+      23,
+      71,
+      51
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/jungle/west_jungle",
+    "name": "West Jungle",
+    "z": 1,
+    "x": 13,
+    "y": 49,
+    "tileCount": 762,
+    "bounds": [
+      2,
+      32,
+      29,
+      68
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/colony/west_nexus_road",
+    "name": "West Nexus Road",
+    "z": 1,
+    "x": 93,
+    "y": 42,
+    "tileCount": 175,
+    "bounds": [
+      85,
+      32,
+      98,
+      52
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/colony/west_tcomms_road",
+    "name": "West T-Comms Road",
+    "z": 1,
+    "x": 53,
+    "y": 19,
+    "tileCount": 211,
+    "bounds": [
+      42,
+      14,
+      66,
+      25
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/barrens/west_barrens",
+    "name": "Western Barrens",
+    "z": 1,
+    "x": 67,
+    "y": 110,
+    "tileCount": 557,
+    "bounds": [
+      51,
+      96,
+      81,
+      131
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/caves/west_caves",
+    "name": "Western Caves",
+    "z": 1,
+    "x": 31,
+    "y": 148,
+    "tileCount": 3365,
+    "bounds": [
+      2,
+      114,
+      68,
+      178
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/jungle/south_west_jungle/ceiling",
+    "name": "Western Jungle",
+    "z": 1,
+    "x": 10,
+    "y": 14,
+    "tileCount": 72,
+    "bounds": [
+      5,
+      11,
+      15,
+      17
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/ground/river/west_river",
+    "name": "Western River",
+    "z": 1,
+    "x": 39,
+    "y": 78,
+    "tileCount": 576,
+    "bounds": [
+      2,
+      64,
+      69,
+      99
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv624/lazarus/armory",
+    "name": "Armory",
+    "z": 1,
+    "x": 103,
+    "y": 30,
+    "tileCount": 38,
+    "bounds": [
+      100,
+      27,
+      105,
+      33
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv624/lazarus/canteen",
+    "name": "Canteen",
+    "z": 1,
+    "x": 132,
+    "y": 27,
+    "tileCount": 104,
+    "bounds": [
+      125,
+      19,
+      138,
+      33
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv624/lazarus/quartstorage/outdoors",
+    "name": "Cargo Bay Area",
+    "z": 1,
+    "x": 134,
+    "y": 65,
+    "tileCount": 339,
+    "bounds": [
+      122,
+      54,
+      145,
+      75
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv624/lazarus/chapel",
+    "name": "Chapel",
+    "z": 1,
+    "x": 112,
+    "y": 42,
+    "tileCount": 44,
+    "bounds": [
+      109,
+      39,
+      115,
+      45
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv624/lazarus/captain",
+    "name": "Commandant's Quarters",
+    "z": 1,
+    "x": 106,
+    "y": 24,
+    "tileCount": 35,
+    "bounds": [
+      102,
+      21,
+      108,
+      26
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv624/lazarus/corporate_dome",
+    "name": "Corporate Dome",
+    "z": 1,
+    "x": 57,
+    "y": 32,
+    "tileCount": 286,
+    "bounds": [
+      47,
+      24,
+      67,
+      39
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv624/lazarus/crashed_ship_containers",
+    "name": "Crashed Ship Containers",
+    "z": 1,
+    "x": 123,
+    "y": 145,
+    "tileCount": 105,
+    "bounds": [
+      119,
+      140,
+      127,
+      151
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv624/lazarus/toilet",
+    "name": "Dormitory Toilet",
+    "z": 1,
+    "x": 104,
+    "y": 42,
+    "tileCount": 66,
+    "bounds": [
+      100,
+      39,
+      108,
+      46
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv624/lazarus/engineering",
+    "name": "Engineering",
+    "z": 1,
+    "x": 90,
+    "y": 17,
+    "tileCount": 183,
+    "bounds": [
+      83,
+      10,
+      97,
+      23
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv624/lazarus/sleep_female",
+    "name": "Female Dorm",
+    "z": 1,
+    "x": 127,
+    "y": 50,
+    "tileCount": 78,
+    "bounds": [
+      123,
+      47,
+      132,
+      55
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv624/lazarus/fitness",
+    "name": "Fitness Room",
+    "z": 1,
+    "x": 94,
+    "y": 60,
+    "tileCount": 193,
+    "bounds": [
+      86,
+      53,
+      101,
+      67
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv624/lazarus/hop",
+    "name": "Head of Personnel's Office",
+    "z": 1,
+    "x": 112,
+    "y": 22,
+    "tileCount": 68,
+    "bounds": [
+      108,
+      17,
+      115,
+      26
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv624/lazarus/hydroponics",
+    "name": "Hydroponics",
+    "z": 1,
+    "x": 98,
+    "y": 78,
+    "tileCount": 176,
+    "bounds": [
+      90,
+      71,
+      105,
+      84
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv624/lazarus/kitchen",
+    "name": "Kitchen",
+    "z": 1,
+    "x": 126,
+    "y": 24,
+    "tileCount": 94,
+    "bounds": [
+      123,
+      17,
+      130,
+      31
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv624/lazarus/sleep_male",
+    "name": "Male Dorm",
+    "z": 1,
+    "x": 110,
+    "y": 50,
+    "tileCount": 97,
+    "bounds": [
+      103,
+      46,
+      115,
+      55
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv624/lazarus/medbay",
+    "name": "Medbay",
+    "z": 1,
+    "x": 81,
+    "y": 78,
+    "tileCount": 176,
+    "bounds": [
+      74,
+      71,
+      89,
+      84
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv624/lazarus/quart",
+    "name": "Quartermasters",
+    "z": 1,
+    "x": 128,
+    "y": 43,
+    "tileCount": 82,
+    "bounds": [
+      123,
+      39,
+      133,
+      46
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv624/lazarus/research",
+    "name": "Research Lab",
+    "z": 1,
+    "x": 77,
+    "y": 61,
+    "tileCount": 193,
+    "bounds": [
+      70,
+      54,
+      85,
+      68
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv624/lazarus/robotics",
+    "name": "Robotics",
+    "z": 1,
+    "x": 55,
+    "y": 54,
+    "tileCount": 189,
+    "bounds": [
+      48,
+      47,
+      62,
+      61
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv624/lazarus/secure_storage",
+    "name": "Secure Storage",
+    "z": 1,
+    "x": 36,
+    "y": 16,
+    "tileCount": 178,
+    "bounds": [
+      29,
+      9,
+      43,
+      23
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv624/lazarus/security",
+    "name": "Security",
+    "z": 1,
+    "x": 110,
+    "y": 30,
+    "tileCount": 66,
+    "bounds": [
+      106,
+      27,
+      115,
+      33
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv624/lazarus/yggdrasil",
+    "name": "Yggdrasil Tree",
+    "z": 1,
+    "x": 87,
+    "y": 30,
+    "tileCount": 178,
+    "bounds": [
+      80,
+      24,
+      94,
+      37
+    ],
+    "category": "room"
+  }
+]

@@ -1,0 +1,572 @@
+[
+  {
+    "id": "/area/whiskey_outpost/inside/bunker",
+    "name": "Bunker",
+    "z": 1,
+    "x": 71,
+    "y": 150,
+    "tileCount": 427,
+    "bounds": [
+      55,
+      134,
+      86,
+      163
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/whiskey_outpost/outside/north/beach",
+    "name": "Bunker Beach",
+    "z": 1,
+    "x": 66,
+    "y": 134,
+    "tileCount": 1121,
+    "bounds": [
+      29,
+      120,
+      102,
+      153
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/whiskey_outpost/outside/north/platform",
+    "name": "Bunker Platform",
+    "z": 1,
+    "x": 70,
+    "y": 141,
+    "tileCount": 479,
+    "bounds": [
+      51,
+      131,
+      90,
+      156
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/whiskey_outpost/inside/caves/caverns/east",
+    "name": "Eastern Caverns",
+    "z": 1,
+    "x": 106,
+    "y": 55,
+    "tileCount": 351,
+    "bounds": [
+      91,
+      33,
+      119,
+      72
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/whiskey_outpost/outside/lane/four_north",
+    "name": "Eastern Crash Site North",
+    "z": 1,
+    "x": 109,
+    "y": 102,
+    "tileCount": 429,
+    "bounds": [
+      95,
+      94,
+      125,
+      111
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/whiskey_outpost/outside/lane/four_south",
+    "name": "Eastern Crash Site South",
+    "z": 1,
+    "x": 111,
+    "y": 84,
+    "tileCount": 453,
+    "bounds": [
+      97,
+      71,
+      122,
+      106
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/whiskey_outpost/outside/south/very_far",
+    "name": "Far-Southern Jungle",
+    "z": 1,
+    "x": 65,
+    "y": 25,
+    "tileCount": 1524,
+    "bounds": [
+      18,
+      2,
+      118,
+      42
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/whiskey_outpost/inside/living",
+    "name": "Living Quarters",
+    "z": 1,
+    "x": 77,
+    "y": 175,
+    "tileCount": 577,
+    "bounds": [
+      61,
+      163,
+      92,
+      187
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/whiskey_outpost/inside/caves/caverns",
+    "name": "Northern Caverns",
+    "z": 1,
+    "x": 22,
+    "y": 142,
+    "tileCount": 212,
+    "bounds": [
+      8,
+      125,
+      91,
+      164
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/whiskey_outpost/outside/lane/one_north",
+    "name": "One North",
+    "z": 1,
+    "x": 22,
+    "y": 96,
+    "tileCount": 428,
+    "bounds": [
+      11,
+      87,
+      38,
+      108
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/whiskey_outpost/outside/south",
+    "name": "Perimeter Entrance",
+    "z": 1,
+    "x": 68,
+    "y": 59,
+    "tileCount": 599,
+    "bounds": [
+      43,
+      51,
+      92,
+      68
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/whiskey_outpost/inside/bunker/bunker/front",
+    "name": "Pillbox Beer",
+    "z": 1,
+    "x": 71,
+    "y": 77,
+    "tileCount": 387,
+    "bounds": [
+      62,
+      65,
+      79,
+      89
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/whiskey_outpost/outside/river",
+    "name": "Riko's River Central",
+    "z": 1,
+    "x": 61,
+    "y": 120,
+    "tileCount": 177,
+    "bounds": [
+      40,
+      116,
+      83,
+      123
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/whiskey_outpost/outside/river/east",
+    "name": "Riko's River East",
+    "z": 1,
+    "x": 101,
+    "y": 130,
+    "tileCount": 513,
+    "bounds": [
+      80,
+      115,
+      115,
+      151
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/whiskey_outpost/outside/river/west",
+    "name": "Riko's River West",
+    "z": 1,
+    "x": 30,
+    "y": 128,
+    "tileCount": 155,
+    "bounds": [
+      23,
+      119,
+      39,
+      140
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/whiskey_outpost/inside/caves",
+    "name": "Rock",
+    "z": 1,
+    "x": 63,
+    "y": 100,
+    "tileCount": 12888,
+    "bounds": [
+      1,
+      1,
+      130,
+      200
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/whiskey_outpost/outside/south/far",
+    "name": "Southern Jungle",
+    "z": 1,
+    "x": 69,
+    "y": 43,
+    "tileCount": 824,
+    "bounds": [
+      42,
+      26,
+      93,
+      54
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/whiskey_outpost/inside/caves/tunnel",
+    "name": "Tunnel",
+    "z": 1,
+    "x": 96,
+    "y": 175,
+    "tileCount": 352,
+    "bounds": [
+      92,
+      154,
+      100,
+      199
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/whiskey_outpost/inside/caves/caverns/west",
+    "name": "Western Caverns",
+    "z": 1,
+    "x": 32,
+    "y": 56,
+    "tileCount": 365,
+    "bounds": [
+      15,
+      31,
+      48,
+      74
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/whiskey_outpost/outside/lane/one_south",
+    "name": "Western Jungle South",
+    "z": 1,
+    "x": 22,
+    "y": 80,
+    "tileCount": 281,
+    "bounds": [
+      11,
+      72,
+      34,
+      86
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/whiskey_outpost/inside/cic",
+    "name": "Command Information Center",
+    "z": 1,
+    "x": 38,
+    "y": 173,
+    "tileCount": 227,
+    "bounds": [
+      30,
+      163,
+      46,
+      181
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/whiskey_outpost/outside/lane/three_north",
+    "name": "Eastern Path North",
+    "z": 1,
+    "x": 85,
+    "y": 95,
+    "tileCount": 297,
+    "bounds": [
+      78,
+      85,
+      95,
+      106
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/whiskey_outpost/outside/lane/three_south",
+    "name": "Eastern Path South",
+    "z": 1,
+    "x": 86,
+    "y": 75,
+    "tileCount": 267,
+    "bounds": [
+      79,
+      63,
+      94,
+      84
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/whiskey_outpost/inside/engineering",
+    "name": "Engineering",
+    "z": 1,
+    "x": 38,
+    "y": 157,
+    "tileCount": 140,
+    "bounds": [
+      31,
+      152,
+      44,
+      162
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/whiskey_outpost/inside/hospital",
+    "name": "Hospital",
+    "z": 1,
+    "x": 56,
+    "y": 173,
+    "tileCount": 292,
+    "bounds": [
+      47,
+      164,
+      65,
+      182
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/whiskey_outpost/outside/mortar_pit",
+    "name": "Mortar Pit",
+    "z": 1,
+    "x": 82,
+    "y": 159,
+    "tileCount": 54,
+    "bounds": [
+      79,
+      156,
+      86,
+      163
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/whiskey_outpost/outside/north/northeast",
+    "name": "North-Eastern Beach",
+    "z": 1,
+    "x": 109,
+    "y": 130,
+    "tileCount": 226,
+    "bounds": [
+      97,
+      118,
+      118,
+      139
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/whiskey_outpost/outside/north/northwest",
+    "name": "North-Western Beach",
+    "z": 1,
+    "x": 20,
+    "y": 122,
+    "tileCount": 298,
+    "bounds": [
+      10,
+      114,
+      36,
+      137
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/whiskey_outpost/outside/north",
+    "name": "Northern Beach",
+    "z": 1,
+    "x": 68,
+    "y": 113,
+    "tileCount": 337,
+    "bounds": [
+      45,
+      103,
+      95,
+      119
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/whiskey_outpost/inside/bunker/pillbox/one",
+    "name": "One",
+    "z": 1,
+    "x": 18,
+    "y": 111,
+    "tileCount": 64,
+    "bounds": [
+      13,
+      109,
+      23,
+      114
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/whiskey_outpost/inside/bunker/pillbox/four",
+    "name": "Pillbox Tequila",
+    "z": 1,
+    "x": 107,
+    "y": 114,
+    "tileCount": 64,
+    "bounds": [
+      102,
+      112,
+      112,
+      117
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/whiskey_outpost/inside/bunker/pillbox/three",
+    "name": "Pillbox Vodka",
+    "z": 1,
+    "x": 84,
+    "y": 109,
+    "tileCount": 64,
+    "bounds": [
+      79,
+      107,
+      89,
+      112
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/whiskey_outpost/inside/bunker/pillbox/two",
+    "name": "Pillbox Wine",
+    "z": 1,
+    "x": 55,
+    "y": 109,
+    "tileCount": 64,
+    "bounds": [
+      50,
+      107,
+      60,
+      112
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/whiskey_outpost/inside/supply",
+    "name": "Supply Depot",
+    "z": 1,
+    "x": 53,
+    "y": 153,
+    "tileCount": 229,
+    "bounds": [
+      38,
+      148,
+      65,
+      158
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/whiskey_outpost/inside/hospital/triage",
+    "name": "Triage Center",
+    "z": 1,
+    "x": 70,
+    "y": 94,
+    "tileCount": 136,
+    "bounds": [
+      62,
+      90,
+      77,
+      98
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/whiskey_outpost/outside/lane/two_north",
+    "name": "Western Path North",
+    "z": 1,
+    "x": 53,
+    "y": 95,
+    "tileCount": 349,
+    "bounds": [
+      39,
+      86,
+      63,
+      107
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/whiskey_outpost/outside/lane/two_south",
+    "name": "Western Path South",
+    "z": 1,
+    "x": 55,
+    "y": 77,
+    "tileCount": 216,
+    "bounds": [
+      48,
+      69,
+      61,
+      85
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/whiskey_outpost",
+    "name": "Whiskey Outpost",
+    "z": 1,
+    "x": 49,
+    "y": 163,
+    "tileCount": 131,
+    "bounds": [
+      36,
+      158,
+      85,
+      171
+    ],
+    "category": "room"
+  }
+]

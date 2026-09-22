@@ -1,0 +1,3437 @@
+[
+  {
+    "id": "/area/lv759/outdoors/colony_streets/north_east_street_LZ",
+    "name": "Colony Streets - Northeast",
+    "z": 1,
+    "x": 200,
+    "y": 227,
+    "tileCount": 465,
+    "bounds": [
+      183,
+      212,
+      223,
+      243
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/lv759/indoors/caves/comms_tower",
+    "name": "Comms Tower - Central Caves",
+    "z": 1,
+    "x": 94,
+    "y": 109,
+    "tileCount": 107,
+    "bounds": [
+      88,
+      101,
+      100,
+      116
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/lv759/outdoors/landing_zone_2",
+    "name": "KMCC Interstellar Freight Hub - Landing Zone Two",
+    "z": 1,
+    "x": 208,
+    "y": 105,
+    "tileCount": 1087,
+    "bounds": [
+      193,
+      86,
+      222,
+      126
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/lv759/indoors/caves/north_east_caves_comms_2",
+    "name": "NMHC - Emergency Response - Landing Zone One - Caverns - Northeast - Subspace-Communications",
+    "z": 1,
+    "x": 218,
+    "y": 204,
+    "tileCount": 36,
+    "bounds": [
+      215,
+      202,
+      220,
+      207
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/lv759/outdoors/landing_zone_1",
+    "name": "Nova Medica Hospital Complex - Emergency Response - Landing Zone One",
+    "z": 1,
+    "x": 214,
+    "y": 234,
+    "tileCount": 573,
+    "bounds": [
+      203,
+      220,
+      223,
+      248
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/lv759/indoors/landing_zone_1/flight_control_room",
+    "name": "Nova Medica Hospital Complex - Emergency Response - Landing Zone One - Flight Control Room",
+    "z": 1,
+    "x": 199,
+    "y": 240,
+    "tileCount": 59,
+    "bounds": [
+      195,
+      237,
+      202,
+      244
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/lv759/indoors/caves/sensory_tower",
+    "name": "Sensory Tower - Plateau Caves",
+    "z": 1,
+    "x": 115,
+    "y": 55,
+    "tileCount": 91,
+    "bounds": [
+      110,
+      51,
+      120,
+      62
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/lv759/indoors/caves/central_caves_north",
+    "name": "Caverns - Central",
+    "z": 1,
+    "x": 99,
+    "y": 129,
+    "tileCount": 186,
+    "bounds": [
+      87,
+      125,
+      112,
+      134
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/indoors/caves/north_caves/east",
+    "name": "Caverns - Central",
+    "z": 1,
+    "x": 159,
+    "y": 241,
+    "tileCount": 303,
+    "bounds": [
+      145,
+      233,
+      176,
+      248
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/indoors/caves/east_caves/north",
+    "name": "Caverns - East",
+    "z": 1,
+    "x": 147,
+    "y": 91,
+    "tileCount": 403,
+    "bounds": [
+      121,
+      81,
+      172,
+      103
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/indoors/caves/east_caves",
+    "name": "Caverns - East",
+    "z": 1,
+    "x": 186,
+    "y": 64,
+    "tileCount": 491,
+    "bounds": [
+      164,
+      53,
+      211,
+      82
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/indoors/caves/north_east_caves/south",
+    "name": "Caverns - North",
+    "z": 1,
+    "x": 207,
+    "y": 154,
+    "tileCount": 107,
+    "bounds": [
+      200,
+      149,
+      216,
+      159
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/indoors/caves/north_east_caves",
+    "name": "Caverns - Northeast",
+    "z": 1,
+    "x": 215,
+    "y": 185,
+    "tileCount": 404,
+    "bounds": [
+      203,
+      164,
+      222,
+      211
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/outdoors/caves/north_west_caves_outdoors",
+    "name": "Caverns - Northwest",
+    "z": 1,
+    "x": 26,
+    "y": 175,
+    "tileCount": 431,
+    "bounds": [
+      7,
+      160,
+      45,
+      186
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/indoors/caves/north_west_caves",
+    "name": "Caverns - Northwest",
+    "z": 1,
+    "x": 25,
+    "y": 141,
+    "tileCount": 753,
+    "bounds": [
+      7,
+      127,
+      45,
+      154
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/outdoors/caveplateau",
+    "name": "Caverns - Plateau",
+    "z": 1,
+    "x": 115,
+    "y": 54,
+    "tileCount": 1197,
+    "bounds": [
+      89,
+      29,
+      139,
+      76
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/indoors/caves/south_caves/derelict_ship",
+    "name": "Caverns - South",
+    "z": 1,
+    "x": 146,
+    "y": 10,
+    "tileCount": 112,
+    "bounds": [
+      138,
+      6,
+      153,
+      15
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/indoors/caves/south_caves",
+    "name": "Caverns - South",
+    "z": 1,
+    "x": 179,
+    "y": 15,
+    "tileCount": 639,
+    "bounds": [
+      154,
+      4,
+      208,
+      28
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/indoors/caves/south_east_caves",
+    "name": "Caverns - Southeast",
+    "z": 1,
+    "x": 194,
+    "y": 36,
+    "tileCount": 762,
+    "bounds": [
+      173,
+      18,
+      217,
+      54
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/indoors/caves/south_west_caves",
+    "name": "Caverns - Southwest",
+    "z": 1,
+    "x": 43,
+    "y": 35,
+    "tileCount": 1229,
+    "bounds": [
+      5,
+      10,
+      84,
+      73
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/indoors/caves/west_caves",
+    "name": "Caverns - West",
+    "z": 1,
+    "x": 60,
+    "y": 126,
+    "tileCount": 696,
+    "bounds": [
+      39,
+      106,
+      78,
+      148
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/indoors/caves/central_caves",
+    "name": "Central Caves",
+    "z": 1,
+    "x": 89,
+    "y": 96,
+    "tileCount": 1538,
+    "bounds": [
+      59,
+      68,
+      127,
+      124
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/outdoors/colony_streets/east_central_street_left",
+    "name": "Central Street - East",
+    "z": 1,
+    "x": 131,
+    "y": 184,
+    "tileCount": 254,
+    "bounds": [
+      122,
+      153,
+      140,
+      197
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/outdoors/colony_streets/east_central_street",
+    "name": "Central Street - East",
+    "z": 1,
+    "x": 167,
+    "y": 188,
+    "tileCount": 1376,
+    "bounds": [
+      140,
+      154,
+      193,
+      217
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/outdoors/colony_streets/central_streets",
+    "name": "Central Street - West",
+    "z": 1,
+    "x": 91,
+    "y": 171,
+    "tileCount": 1730,
+    "bounds": [
+      55,
+      144,
+      126,
+      196
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/outdoors/colony_streets/north_street",
+    "name": "Colony Streets - North",
+    "z": 1,
+    "x": 110,
+    "y": 215,
+    "tileCount": 1243,
+    "bounds": [
+      77,
+      197,
+      140,
+      230
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/outdoors/colony_streets/north_east_street",
+    "name": "Colony Streets - Northeast",
+    "z": 1,
+    "x": 202,
+    "y": 196,
+    "tileCount": 253,
+    "bounds": [
+      194,
+      187,
+      210,
+      208
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/outdoors/colony_streets/north_west_street",
+    "name": "Colony Streets - Northwest",
+    "z": 1,
+    "x": 46,
+    "y": 206,
+    "tileCount": 1126,
+    "bounds": [
+      3,
+      183,
+      76,
+      234
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/outdoors/colony_streets/south_east_street",
+    "name": "Colony Streets - Southeast",
+    "z": 1,
+    "x": 172,
+    "y": 130,
+    "tileCount": 1590,
+    "bounds": [
+      145,
+      93,
+      195,
+      160
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/outdoors/colony_streets/south_east_street_comms",
+    "name": "Colony Streets - Southeast - Subspace-Communications",
+    "z": 1,
+    "x": 177,
+    "y": 130,
+    "tileCount": 50,
+    "bounds": [
+      175,
+      126,
+      179,
+      135
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/outdoors/colony_streets/south_west_street",
+    "name": "Colony Streets - Southwest - WY Checkpoint Passthrough",
+    "z": 1,
+    "x": 30,
+    "y": 163,
+    "tileCount": 456,
+    "bounds": [
+      13,
+      153,
+      48,
+      178
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/indoors/derelict_ship",
+    "name": "Derelict Ship",
+    "z": 1,
+    "x": 125,
+    "y": 42,
+    "tileCount": 1933,
+    "bounds": [
+      75,
+      5,
+      164,
+      90
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/indoors/caves/electric_fence3",
+    "name": "Electrical Fence - Central Caves",
+    "z": 1,
+    "x": 114,
+    "y": 107,
+    "tileCount": 55,
+    "bounds": [
+      111,
+      103,
+      117,
+      110
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/indoors/caves/electric_fence2",
+    "name": "Electrical Fence - East Caves",
+    "z": 1,
+    "x": 176,
+    "y": 68,
+    "tileCount": 63,
+    "bounds": [
+      171,
+      65,
+      180,
+      71
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/indoors/caves/electric_fence1",
+    "name": "Electrical Fence - West Caves",
+    "z": 1,
+    "x": 53,
+    "y": 123,
+    "tileCount": 63,
+    "bounds": [
+      48,
+      120,
+      57,
+      126
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/indoors/caves/north_east_caves_comms",
+    "name": "KMCC - Mining Outpost - East - Subspace-Communications",
+    "z": 1,
+    "x": 198,
+    "y": 156,
+    "tileCount": 36,
+    "bounds": [
+      196,
+      154,
+      201,
+      159
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/indoors/caves/north_caves",
+    "name": "North Caves",
+    "z": 1,
+    "x": 107,
+    "y": 242,
+    "tileCount": 646,
+    "bounds": [
+      62,
+      235,
+      144,
+      248
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/oob",
+    "name": "Out Of Bounds",
+    "z": 1,
+    "x": 110,
+    "y": 81,
+    "tileCount": 13607,
+    "bounds": [
+      1,
+      1,
+      225,
+      250
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/indoors/wy_research_complex/hangarbay",
+    "name": "Weyland-Yutani - Advanced Bio-Genomic Research Complex - Hangar Bay",
+    "z": 1,
+    "x": 18,
+    "y": 47,
+    "tileCount": 695,
+    "bounds": [
+      3,
+      33,
+      33,
+      60
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/indoors/caves/wy_research_complex_entrance",
+    "name": "Weyland-Yutani - Advanced Bio-Genomic Research Complex - North Main Entrance",
+    "z": 1,
+    "x": 22,
+    "y": 117,
+    "tileCount": 548,
+    "bounds": [
+      3,
+      109,
+      38,
+      127
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/indoors/spaceport/docking_bay_1",
+    "name": "Weyland-Yutani Celestia Gateway Space-Port - Docking Bay: 1",
+    "z": 1,
+    "x": 18,
+    "y": 215,
+    "tileCount": 1016,
+    "bounds": [
+      3,
+      196,
+      35,
+      244
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/indoors/weyyu_office/supervisor",
+    "name": "Weyland-Yutani Offices - Colony Supervisors Office",
+    "z": 1,
+    "x": 77,
+    "y": 198,
+    "tileCount": 54,
+    "bounds": [
+      73,
+      195,
+      81,
+      200
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv759/indoors/bar",
+    "name": "Bar",
+    "z": 1,
+    "x": 125,
+    "y": 223,
+    "tileCount": 222,
+    "bounds": [
+      118,
+      211,
+      134,
+      236
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/bar/entertainment",
+    "name": "Bar - Entertainment Subsection",
+    "z": 1,
+    "x": 125,
+    "y": 206,
+    "tileCount": 95,
+    "bounds": [
+      120,
+      202,
+      130,
+      210
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/bar/kitchen",
+    "name": "Bar - Kitchen",
+    "z": 1,
+    "x": 129,
+    "y": 228,
+    "tileCount": 54,
+    "bounds": [
+      124,
+      226,
+      134,
+      231
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/bar/bathroom",
+    "name": "Bar - Restrooms",
+    "z": 1,
+    "x": 125,
+    "y": 199,
+    "tileCount": 62,
+    "bounds": [
+      119,
+      197,
+      131,
+      201
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/bunker/checkpoint",
+    "name": "Checkpoint & Hidden Bunker - Entrance",
+    "z": 1,
+    "x": 216,
+    "y": 12,
+    "tileCount": 313,
+    "bounds": [
+      200,
+      3,
+      223,
+      29
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/wy_security/checkpoint_northeast",
+    "name": "Checkpoint Northeast",
+    "z": 1,
+    "x": 204,
+    "y": 211,
+    "tileCount": 57,
+    "bounds": [
+      198,
+      209,
+      209,
+      213
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/electical_systems/substation3",
+    "name": "Electrical Systems - Substation Three",
+    "z": 1,
+    "x": 213,
+    "y": 192,
+    "tileCount": 60,
+    "bounds": [
+      208,
+      186,
+      216,
+      197
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/electical_systems/substation2",
+    "name": "Electrical Systems - Substation Two",
+    "z": 1,
+    "x": 215,
+    "y": 74,
+    "tileCount": 53,
+    "bounds": [
+      211,
+      71,
+      218,
+      77
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/garage_managersoffice",
+    "name": "Garage - Managers Office",
+    "z": 1,
+    "x": 91,
+    "y": 234,
+    "tileCount": 31,
+    "bounds": [
+      89,
+      231,
+      94,
+      237
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/garage_reception",
+    "name": "Garage - Reception",
+    "z": 1,
+    "x": 84,
+    "y": 233,
+    "tileCount": 72,
+    "bounds": [
+      79,
+      228,
+      88,
+      236
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/garage_restroom",
+    "name": "Garage - Restroom",
+    "z": 1,
+    "x": 82,
+    "y": 239,
+    "tileCount": 25,
+    "bounds": [
+      80,
+      237,
+      84,
+      241
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/garage_workshop",
+    "name": "Garage - Workshop",
+    "z": 1,
+    "x": 70,
+    "y": 233,
+    "tileCount": 119,
+    "bounds": [
+      62,
+      230,
+      78,
+      236
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/garage_workshop_storage",
+    "name": "Garage - Workshop - Storage Room",
+    "z": 1,
+    "x": 73,
+    "y": 239,
+    "tileCount": 25,
+    "bounds": [
+      71,
+      237,
+      75,
+      241
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/bunker/gonzo",
+    "name": "Gonzo's hide-out",
+    "z": 1,
+    "x": 217,
+    "y": 62,
+    "tileCount": 41,
+    "bounds": [
+      214,
+      57,
+      220,
+      69
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/hobosecret",
+    "name": "Hidden Hobo Haven",
+    "z": 1,
+    "x": 172,
+    "y": 94,
+    "tileCount": 24,
+    "bounds": [
+      169,
+      93,
+      176,
+      96
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/hotel/hotel_hallway",
+    "name": "Hotel Hallway",
+    "z": 1,
+    "x": 138,
+    "y": 230,
+    "tileCount": 78,
+    "bounds": [
+      130,
+      224,
+      148,
+      235
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/jacks_surplus",
+    "name": "Jack's Military Surplus",
+    "z": 1,
+    "x": 159,
+    "y": 102,
+    "tileCount": 142,
+    "bounds": [
+      153,
+      95,
+      166,
+      107
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/mining_outpost/east",
+    "name": "KMCC - Mining Outpost - East",
+    "z": 1,
+    "x": 212,
+    "y": 160,
+    "tileCount": 60,
+    "bounds": [
+      207,
+      158,
+      216,
+      163
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/mining_outpost/east_command",
+    "name": "KMCC - Mining Outpost - East - Command Center",
+    "z": 1,
+    "x": 216,
+    "y": 149,
+    "tileCount": 42,
+    "bounds": [
+      213,
+      146,
+      218,
+      152
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/mining_outpost/east_deploymentbay",
+    "name": "KMCC - Mining Outpost - East - Deployment Bay",
+    "z": 1,
+    "x": 201,
+    "y": 148,
+    "tileCount": 124,
+    "bounds": [
+      192,
+      145,
+      212,
+      153
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/mining_outpost/east_dorms",
+    "name": "KMCC - Mining Outpost - East - Dorms",
+    "z": 1,
+    "x": 195,
+    "y": 143,
+    "tileCount": 55,
+    "bounds": [
+      191,
+      140,
+      198,
+      146
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/mining_outpost/north_maint",
+    "name": "KMCC - Mining Outpost - North - Maintenance",
+    "z": 1,
+    "x": 114,
+    "y": 234,
+    "tileCount": 36,
+    "bounds": [
+      112,
+      231,
+      117,
+      236
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/mining_outpost/northeast",
+    "name": "KMCC - Mining Outpost - Northeast",
+    "z": 1,
+    "x": 187,
+    "y": 244,
+    "tileCount": 165,
+    "bounds": [
+      176,
+      237,
+      201,
+      248
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/mining_outpost/processing",
+    "name": "KMCC - Mining Outpost - South - Processing & Storage",
+    "z": 1,
+    "x": 200,
+    "y": 75,
+    "tileCount": 47,
+    "bounds": [
+      196,
+      72,
+      204,
+      77
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/mining_outpost/vehicledeployment",
+    "name": "KMCC - Mining Outpost - South - Vehicle Deployment",
+    "z": 1,
+    "x": 207,
+    "y": 66,
+    "tileCount": 142,
+    "bounds": [
+      201,
+      60,
+      213,
+      73
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/outdoors/mining_outpost/south_entrance",
+    "name": "KMCC - Mining Outpost - South - Vehicle Deployment Entrance",
+    "z": 1,
+    "x": 208,
+    "y": 81,
+    "tileCount": 200,
+    "bounds": [
+      195,
+      74,
+      222,
+      85
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/mining_outpost/south",
+    "name": "KMCC - Mining Outpost - Southeast",
+    "z": 1,
+    "x": 214,
+    "y": 42,
+    "tileCount": 241,
+    "bounds": [
+      202,
+      31,
+      221,
+      49
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/landing_zone_2/kmcc_hub_cargo",
+    "name": "KMCC Interstellar Freight Hub - Cargo Processing Center",
+    "z": 1,
+    "x": 206,
+    "y": 138,
+    "tileCount": 307,
+    "bounds": [
+      192,
+      131,
+      218,
+      145
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/outdoors/landing_zone_2/kmcc_hub_cargo_entrance_south",
+    "name": "KMCC Interstellar Freight Hub - Cargo Processing Center - Main Entrance & South Unloading Platform",
+    "z": 1,
+    "x": 204,
+    "y": 129,
+    "tileCount": 144,
+    "bounds": [
+      191,
+      126,
+      215,
+      133
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/landing_zone_2/kmcc_hub_maintenance_north",
+    "name": "KMCC Interstellar Freight Hub - Cargo Processing Center - Maintenance",
+    "z": 1,
+    "x": 220,
+    "y": 146,
+    "tileCount": 117,
+    "bounds": [
+      216,
+      132,
+      222,
+      157
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/landing_zone_2/kmcc_hub_flight_control_room",
+    "name": "KMCC Interstellar Freight Hub - Flight Control Room",
+    "z": 1,
+    "x": 192,
+    "y": 112,
+    "tileCount": 46,
+    "bounds": [
+      189,
+      109,
+      195,
+      116
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/landing_zone_2/kmcc_hub_fuel",
+    "name": "KMCC Interstellar Freight Hub - Fuel Storage & Maintenance - North",
+    "z": 1,
+    "x": 219,
+    "y": 127,
+    "tileCount": 67,
+    "bounds": [
+      215,
+      123,
+      222,
+      131
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/landing_zone_2/kmcc_hub_lounge_hallway",
+    "name": "KMCC Interstellar Freight Hub - Passenger Departures - Hallway",
+    "z": 1,
+    "x": 192,
+    "y": 96,
+    "tileCount": 138,
+    "bounds": [
+      187,
+      85,
+      195,
+      108
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/landing_zone_2/kmcc_hub_lounge_north",
+    "name": "KMCC Interstellar Freight Hub - Passenger Departures - Lounge North",
+    "z": 1,
+    "x": 186,
+    "y": 104,
+    "tileCount": 71,
+    "bounds": [
+      182,
+      101,
+      190,
+      108
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/landing_zone_2/kmcc_hub_lounge_south",
+    "name": "KMCC Interstellar Freight Hub - Passenger Departures - Lounge South",
+    "z": 1,
+    "x": 186,
+    "y": 89,
+    "tileCount": 56,
+    "bounds": [
+      183,
+      86,
+      190,
+      92
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/landing_zone_2/kmcc_hub_maintenance",
+    "name": "KMCC Interstellar Freight Hub - Passenger Departures - Maintenance",
+    "z": 1,
+    "x": 188,
+    "y": 79,
+    "tileCount": 80,
+    "bounds": [
+      181,
+      74,
+      195,
+      85
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/landing_zone_2/kmcc_hub_south_office",
+    "name": "KMCC Interstellar Freight Hub - Passenger Departures - South Office",
+    "z": 1,
+    "x": 192,
+    "y": 81,
+    "tileCount": 57,
+    "bounds": [
+      188,
+      78,
+      196,
+      84
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/landing_zone_2/kmcc_hub_security",
+    "name": "KMCC Interstellar Freight Hub - Security Checkpoint Office",
+    "z": 1,
+    "x": 192,
+    "y": 125,
+    "tileCount": 47,
+    "bounds": [
+      189,
+      121,
+      195,
+      128
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/meridian/meridian_factory",
+    "name": "Meridian - Factory Floor",
+    "z": 1,
+    "x": 131,
+    "y": 147,
+    "tileCount": 310,
+    "bounds": [
+      115,
+      141,
+      144,
+      153
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/meridian/meridian_maintenance_east",
+    "name": "Meridian - Factory Floor - Maintenance",
+    "z": 1,
+    "x": 142,
+    "y": 142,
+    "tileCount": 16,
+    "bounds": [
+      141,
+      141,
+      144,
+      144
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/meridian/meridian_foyer",
+    "name": "Meridian - Foyer",
+    "z": 1,
+    "x": 115,
+    "y": 151,
+    "tileCount": 86,
+    "bounds": [
+      110,
+      145,
+      119,
+      155
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/meridian/meridian_maintenance",
+    "name": "Meridian - Maintenance",
+    "z": 1,
+    "x": 99,
+    "y": 136,
+    "tileCount": 203,
+    "bounds": [
+      84,
+      129,
+      114,
+      142
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/meridian/meridian_managersoffice",
+    "name": "Meridian - Manager's Office",
+    "z": 1,
+    "x": 104,
+    "y": 140,
+    "tileCount": 24,
+    "bounds": [
+      102,
+      139,
+      107,
+      142
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/meridian/meridian_office",
+    "name": "Meridian - Offices",
+    "z": 1,
+    "x": 104,
+    "y": 147,
+    "tileCount": 205,
+    "bounds": [
+      94,
+      138,
+      115,
+      155
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/meridian/meridian_restroom",
+    "name": "Meridian - Restroom",
+    "z": 1,
+    "x": 110,
+    "y": 140,
+    "tileCount": 20,
+    "bounds": [
+      108,
+      139,
+      112,
+      142
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/meridian/meridian_showroom",
+    "name": "Meridian - Showroom",
+    "z": 1,
+    "x": 92,
+    "y": 148,
+    "tileCount": 118,
+    "bounds": [
+      87,
+      141,
+      99,
+      152
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/colonial_marshals/armory",
+    "name": "NSPA - Ironbridge Precinct - Armory",
+    "z": 1,
+    "x": 124,
+    "y": 124,
+    "tileCount": 69,
+    "bounds": [
+      120,
+      121,
+      128,
+      129
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/colonial_marshals/armory_foyer",
+    "name": "NSPA - Ironbridge Precinct - Armory Foyer",
+    "z": 1,
+    "x": 132,
+    "y": 121,
+    "tileCount": 81,
+    "bounds": [
+      125,
+      118,
+      139,
+      128
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/colonial_marshals/hallway_central",
+    "name": "NSPA - Ironbridge Precinct - Central Hallway",
+    "z": 1,
+    "x": 158,
+    "y": 127,
+    "tileCount": 132,
+    "bounds": [
+      144,
+      124,
+      174,
+      129
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/colonial_marshals/changing_room",
+    "name": "NSPA - Ironbridge Precinct - Changing Room",
+    "z": 1,
+    "x": 142,
+    "y": 110,
+    "tileCount": 25,
+    "bounds": [
+      139,
+      108,
+      145,
+      111
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/colonial_marshals/press_room",
+    "name": "NSPA - Ironbridge Precinct - Court Room",
+    "z": 1,
+    "x": 174,
+    "y": 140,
+    "tileCount": 106,
+    "bounds": [
+      169,
+      136,
+      179,
+      145
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/colonial_marshals/armory_evidenceroom",
+    "name": "NSPA - Ironbridge Precinct - Evidence Room",
+    "z": 1,
+    "x": 122,
+    "y": 119,
+    "tileCount": 15,
+    "bounds": [
+      120,
+      118,
+      124,
+      120
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/colonial_marshals/armory_firingrange",
+    "name": "NSPA - Ironbridge Precinct - Firing Range",
+    "z": 1,
+    "x": 136,
+    "y": 126,
+    "tileCount": 48,
+    "bounds": [
+      132,
+      123,
+      139,
+      128
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/colonial_marshals/head_office",
+    "name": "NSPA - Ironbridge Precinct - Forensics Office",
+    "z": 1,
+    "x": 174,
+    "y": 121,
+    "tileCount": 79,
+    "bounds": [
+      169,
+      118,
+      179,
+      125
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/colonial_marshals/holding_cells",
+    "name": "NSPA - Ironbridge Precinct - Holding Cells",
+    "z": 1,
+    "x": 156,
+    "y": 121,
+    "tileCount": 159,
+    "bounds": [
+      144,
+      117,
+      168,
+      124
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/colonial_marshals/interrogation",
+    "name": "NSPA - Ironbridge Precinct - Interrogation",
+    "z": 1,
+    "x": 136,
+    "y": 138,
+    "tileCount": 35,
+    "bounds": [
+      133,
+      136,
+      139,
+      140
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/colonial_marshals/south_maintenance",
+    "name": "NSPA - Ironbridge Precinct - Maintenance - South",
+    "z": 1,
+    "x": 156,
+    "y": 120,
+    "tileCount": 18,
+    "bounds": [
+      155,
+      118,
+      157,
+      123
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/colonial_marshals/southwest_maintenance",
+    "name": "NSPA - Ironbridge Precinct - Maintenance - Southwest",
+    "z": 1,
+    "x": 128,
+    "y": 113,
+    "tileCount": 38,
+    "bounds": [
+      126,
+      108,
+      131,
+      117
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/colonial_marshals/prisoners_cells",
+    "name": "NSPA - Ironbridge Precinct - Maximum Security Ward - Cells",
+    "z": 1,
+    "x": 128,
+    "y": 135,
+    "tileCount": 70,
+    "bounds": [
+      123,
+      129,
+      132,
+      140
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/colonial_marshals/prisoners_foyer",
+    "name": "NSPA - Ironbridge Precinct - Maximum Security Ward - Foyer",
+    "z": 1,
+    "x": 130,
+    "y": 134,
+    "tileCount": 59,
+    "bounds": [
+      124,
+      132,
+      139,
+      136
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/colonial_marshals/prisoners_recreation_area",
+    "name": "NSPA - Ironbridge Precinct - Maximum Security Ward - Recreation Area & Shower Room",
+    "z": 1,
+    "x": 119,
+    "y": 134,
+    "tileCount": 106,
+    "bounds": [
+      115,
+      127,
+      123,
+      140
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/colonial_marshals/hallway_north",
+    "name": "NSPA - Ironbridge Precinct - North Hallway",
+    "z": 1,
+    "x": 172,
+    "y": 132,
+    "tileCount": 35,
+    "bounds": [
+      170,
+      129,
+      174,
+      135
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/colonial_marshals/hallway_north_locker",
+    "name": "NSPA - Ironbridge Precinct - North Hallway - Locker Room",
+    "z": 1,
+    "x": 142,
+    "y": 134,
+    "tileCount": 48,
+    "bounds": [
+      140,
+      129,
+      143,
+      140
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/colonial_marshals/north_office",
+    "name": "NSPA - Ironbridge Precinct - North Office",
+    "z": 1,
+    "x": 164,
+    "y": 133,
+    "tileCount": 107,
+    "bounds": [
+      158,
+      129,
+      169,
+      141
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/colonial_marshals/office",
+    "name": "NSPA - Ironbridge Precinct - Office",
+    "z": 1,
+    "x": 134,
+    "y": 113,
+    "tileCount": 101,
+    "bounds": [
+      130,
+      107,
+      139,
+      118
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/colonial_marshals/hallway_reception",
+    "name": "NSPA - Ironbridge Precinct - Reception Hallway",
+    "z": 1,
+    "x": 156,
+    "y": 134,
+    "tileCount": 44,
+    "bounds": [
+      154,
+      129,
+      157,
+      139
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/colonial_marshals/reception",
+    "name": "NSPA - Ironbridge Precinct - Reception Office",
+    "z": 1,
+    "x": 160,
+    "y": 137,
+    "tileCount": 27,
+    "bounds": [
+      158,
+      135,
+      162,
+      141
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/colonial_marshals/restroom",
+    "name": "NSPA - Ironbridge Precinct - Restroom & Showers",
+    "z": 1,
+    "x": 141,
+    "y": 105,
+    "tileCount": 34,
+    "bounds": [
+      138,
+      103,
+      144,
+      107
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/colonial_marshals/hallway_south",
+    "name": "NSPA - Ironbridge Precinct - South Hallway",
+    "z": 1,
+    "x": 142,
+    "y": 120,
+    "tileCount": 74,
+    "bounds": [
+      140,
+      112,
+      145,
+      128
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/colonial_marshals/garage",
+    "name": "NSPA - Ironbridge Precinct - Vehicle Deployment & Maintenace",
+    "z": 1,
+    "x": 148,
+    "y": 135,
+    "tileCount": 115,
+    "bounds": [
+      144,
+      129,
+      153,
+      141
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/colonial_marshals/wardens_office",
+    "name": "NSPA - Ironbridge Precinct - Wardens Office",
+    "z": 1,
+    "x": 136,
+    "y": 131,
+    "tileCount": 35,
+    "bounds": [
+      133,
+      129,
+      139,
+      133
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/casino",
+    "name": "Night Gold Casino",
+    "z": 1,
+    "x": 53,
+    "y": 175,
+    "tileCount": 207,
+    "bounds": [
+      48,
+      164,
+      59,
+      186
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/casino/casino_office",
+    "name": "Night Gold Casino - Managers Office",
+    "z": 1,
+    "x": 46,
+    "y": 170,
+    "tileCount": 20,
+    "bounds": [
+      44,
+      169,
+      48,
+      172
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/casino/casino_restroom",
+    "name": "Night Gold Casino - Restroom",
+    "z": 1,
+    "x": 46,
+    "y": 175,
+    "tileCount": 25,
+    "bounds": [
+      44,
+      173,
+      48,
+      177
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/casino/casino_vault",
+    "name": "Night Gold Casino - Vault",
+    "z": 1,
+    "x": 46,
+    "y": 166,
+    "tileCount": 25,
+    "bounds": [
+      44,
+      164,
+      48,
+      168
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/mining_outpost/north",
+    "name": "North",
+    "z": 1,
+    "x": 106,
+    "y": 233,
+    "tileCount": 64,
+    "bounds": [
+      99,
+      231,
+      111,
+      236
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/hospital/break_room",
+    "name": "Nova Medica Hospital Complex - Breakroom",
+    "z": 1,
+    "x": 195,
+    "y": 222,
+    "tileCount": 38,
+    "bounds": [
+      192,
+      219,
+      198,
+      225
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/hospital/central_hallway",
+    "name": "Nova Medica Hospital Complex - Central Hallway",
+    "z": 1,
+    "x": 170,
+    "y": 213,
+    "tileCount": 196,
+    "bounds": [
+      162,
+      196,
+      177,
+      227
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/hospital/cmo_office",
+    "name": "Nova Medica Hospital Complex - Chief Medical Officer's Office",
+    "z": 1,
+    "x": 165,
+    "y": 222,
+    "tileCount": 31,
+    "bounds": [
+      161,
+      220,
+      168,
+      223
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/hospital/cryo_room",
+    "name": "Nova Medica Hospital Complex - Cryo Ward",
+    "z": 1,
+    "x": 154,
+    "y": 224,
+    "tileCount": 119,
+    "bounds": [
+      149,
+      215,
+      160,
+      229
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/hospital/east_hallway",
+    "name": "Nova Medica Hospital Complex - East Hallway",
+    "z": 1,
+    "x": 186,
+    "y": 219,
+    "tileCount": 140,
+    "bounds": [
+      178,
+      208,
+      193,
+      229
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/hospital/emergency_room",
+    "name": "Nova Medica Hospital Complex - Emergency Room",
+    "z": 1,
+    "x": 157,
+    "y": 217,
+    "tileCount": 68,
+    "bounds": [
+      153,
+      213,
+      161,
+      220
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/hospital/icu",
+    "name": "Nova Medica Hospital Complex - Intensive Care Ward",
+    "z": 1,
+    "x": 165,
+    "y": 228,
+    "tileCount": 71,
+    "bounds": [
+      161,
+      224,
+      168,
+      232
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/hospital/janitor",
+    "name": "Nova Medica Hospital Complex - Janitors Closet",
+    "z": 1,
+    "x": 188,
+    "y": 210,
+    "tileCount": 20,
+    "bounds": [
+      187,
+      208,
+      190,
+      212
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/hospital/maintenance_north",
+    "name": "Nova Medica Hospital Complex - Maintenance North",
+    "z": 1,
+    "x": 154,
+    "y": 232,
+    "tileCount": 50,
+    "bounds": [
+      149,
+      229,
+      161,
+      235
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/hospital/medical_storage",
+    "name": "Nova Medica Hospital Complex - Medical Storage",
+    "z": 1,
+    "x": 177,
+    "y": 204,
+    "tileCount": 54,
+    "bounds": [
+      173,
+      202,
+      181,
+      207
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/hospital/morgue",
+    "name": "Nova Medica Hospital Complex - Morgue",
+    "z": 1,
+    "x": 173,
+    "y": 233,
+    "tileCount": 152,
+    "bounds": [
+      163,
+      228,
+      182,
+      237
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/hospital/storage",
+    "name": "Nova Medica Hospital Complex - Office",
+    "z": 1,
+    "x": 186,
+    "y": 227,
+    "tileCount": 25,
+    "bounds": [
+      184,
+      225,
+      188,
+      229
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/hospital/operation",
+    "name": "Nova Medica Hospital Complex - Operation Theatres & Observation",
+    "z": 1,
+    "x": 178,
+    "y": 216,
+    "tileCount": 121,
+    "bounds": [
+      173,
+      211,
+      183,
+      221
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/hospital/outgoing",
+    "name": "Nova Medica Hospital Complex - Outgoing Ward",
+    "z": 1,
+    "x": 162,
+    "y": 199,
+    "tileCount": 108,
+    "bounds": [
+      156,
+      195,
+      168,
+      203
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/hospital/patient_ward",
+    "name": "Nova Medica Hospital Complex - Patient Ward",
+    "z": 1,
+    "x": 178,
+    "y": 227,
+    "tileCount": 48,
+    "bounds": [
+      172,
+      225,
+      183,
+      229
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/hospital/pharmacy",
+    "name": "Nova Medica Hospital Complex - Pharmacy & Outgoing Foyer",
+    "z": 1,
+    "x": 153,
+    "y": 200,
+    "tileCount": 81,
+    "bounds": [
+      149,
+      195,
+      159,
+      205
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/hospital/reception",
+    "name": "Nova Medica Hospital Complex - Reception",
+    "z": 1,
+    "x": 164,
+    "y": 209,
+    "tileCount": 106,
+    "bounds": [
+      159,
+      204,
+      168,
+      214
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/hospital/maintenance_south",
+    "name": "Nova Medica Hospital Complex - Unisex-Restroom",
+    "z": 1,
+    "x": 184,
+    "y": 205,
+    "tileCount": 29,
+    "bounds": [
+      182,
+      202,
+      186,
+      207
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/hospital/virology",
+    "name": "Nova Medica Hospital Complex - Virology",
+    "z": 1,
+    "x": 193,
+    "y": 209,
+    "tileCount": 217,
+    "bounds": [
+      187,
+      198,
+      198,
+      219
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/hospital/paramedics_garage",
+    "name": "Paramedics Garage",
+    "z": 1,
+    "x": 145,
+    "y": 222,
+    "tileCount": 68,
+    "bounds": [
+      141,
+      218,
+      149,
+      225
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/pizzaria",
+    "name": "Pizza Galaxy - Outpost Zeta",
+    "z": 1,
+    "x": 100,
+    "y": 214,
+    "tileCount": 78,
+    "bounds": [
+      94,
+      212,
+      106,
+      217
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/hotel/hotel_rooms",
+    "name": "Prospera Grand Hotel - Room",
+    "z": 1,
+    "x": 138,
+    "y": 232,
+    "tileCount": 153,
+    "bounds": [
+      124,
+      226,
+      149,
+      237
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/south_public_restroom",
+    "name": "Public Restroom - South",
+    "z": 1,
+    "x": 180,
+    "y": 96,
+    "tileCount": 20,
+    "bounds": [
+      178,
+      94,
+      182,
+      97
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/southwest_public_restroom",
+    "name": "Public Restroom - Southwest",
+    "z": 1,
+    "x": 148,
+    "y": 105,
+    "tileCount": 35,
+    "bounds": [
+      145,
+      103,
+      152,
+      107
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/electical_systems/substation1",
+    "name": "Substation1",
+    "z": 1,
+    "x": 9,
+    "y": 152,
+    "tileCount": 77,
+    "bounds": [
+      6,
+      146,
+      14,
+      158
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/recycling_plant/synthetic_storage",
+    "name": "Synthetic Storage",
+    "z": 1,
+    "x": 209,
+    "y": 197,
+    "tileCount": 75,
+    "bounds": [
+      206,
+      192,
+      213,
+      202
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/spaceport/horizon_runner",
+    "name": "WY-LWI Horizon Runner HR-150",
+    "z": 1,
+    "x": 40,
+    "y": 237,
+    "tileCount": 96,
+    "bounds": [
+      36,
+      231,
+      43,
+      245
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/spaceport/starglider",
+    "name": "WY-LWI StarGlider SG-200",
+    "z": 1,
+    "x": 19,
+    "y": 218,
+    "tileCount": 163,
+    "bounds": [
+      14,
+      208,
+      24,
+      228
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/apartment/westfoyer",
+    "name": "Westfoyer",
+    "z": 1,
+    "x": 85,
+    "y": 179,
+    "tileCount": 57,
+    "bounds": [
+      80,
+      176,
+      89,
+      182
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/apartment/eastbedrooms",
+    "name": "Westhaven Apartment Complex - East - Bedrooms",
+    "z": 1,
+    "x": 107,
+    "y": 173,
+    "tileCount": 97,
+    "bounds": [
+      102,
+      167,
+      111,
+      178
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/apartment/eastbedroomsstorage",
+    "name": "Westhaven Apartment Complex - East - Bedrooms - Storage Room",
+    "z": 1,
+    "x": 107,
+    "y": 180,
+    "tileCount": 37,
+    "bounds": [
+      103,
+      178,
+      111,
+      182
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/apartment/eastentrance",
+    "name": "Westhaven Apartment Complex - East - Entrance Room",
+    "z": 1,
+    "x": 110,
+    "y": 166,
+    "tileCount": 30,
+    "bounds": [
+      107,
+      164,
+      113,
+      169
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/apartment/eastfoyer",
+    "name": "Westhaven Apartment Complex - East - Foyer",
+    "z": 1,
+    "x": 98,
+    "y": 177,
+    "tileCount": 76,
+    "bounds": [
+      93,
+      172,
+      102,
+      181
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/apartment/eastrestroomsshower",
+    "name": "Westhaven Apartment Complex - East - Restrooms & Showers",
+    "z": 1,
+    "x": 99,
+    "y": 169,
+    "tileCount": 73,
+    "bounds": [
+      94,
+      166,
+      104,
+      173
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/apartment/northapartments",
+    "name": "Westhaven Apartment Complex - North - Apartments",
+    "z": 1,
+    "x": 100,
+    "y": 198,
+    "tileCount": 151,
+    "bounds": [
+      97,
+      188,
+      103,
+      209
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/apartment/northfoyer",
+    "name": "Westhaven Apartment Complex - North - Foyer",
+    "z": 1,
+    "x": 98,
+    "y": 184,
+    "tileCount": 54,
+    "bounds": [
+      94,
+      182,
+      102,
+      187
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/apartment/northhallway",
+    "name": "Westhaven Apartment Complex - North - Hallway",
+    "z": 1,
+    "x": 95,
+    "y": 199,
+    "tileCount": 69,
+    "bounds": [
+      93,
+      188,
+      96,
+      208
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/apartment/westbedrooms",
+    "name": "Westhaven Apartment Complex - West - Apartments",
+    "z": 1,
+    "x": 77,
+    "y": 180,
+    "tileCount": 237,
+    "bounds": [
+      63,
+      169,
+      89,
+      189
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/apartment/westhallway",
+    "name": "Westhaven Apartment Complex - West - Hallway",
+    "z": 1,
+    "x": 71,
+    "y": 181,
+    "tileCount": 87,
+    "bounds": [
+      64,
+      170,
+      81,
+      188
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/apartment/westentertainment",
+    "name": "Westhaven Apartment Complex - West - Recreation Hub",
+    "z": 1,
+    "x": 74,
+    "y": 175,
+    "tileCount": 104,
+    "bounds": [
+      70,
+      169,
+      79,
+      180
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/wy_research_complex/mainlabs",
+    "name": "Weyland-Yutani - Advanced Bio-Genomic Research Complex - Advanced Chemical Testing & Research Lab",
+    "z": 1,
+    "x": 13,
+    "y": 88,
+    "tileCount": 349,
+    "bounds": [
+      3,
+      80,
+      23,
+      96
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/wy_research_complex/weaponresearchlab",
+    "name": "Weyland-Yutani - Advanced Bio-Genomic Research Complex - Advanced Weapon Research Lab",
+    "z": 1,
+    "x": 6,
+    "y": 76,
+    "tileCount": 56,
+    "bounds": [
+      3,
+      73,
+      10,
+      79
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/wy_research_complex/weaponresearchlabtesting",
+    "name": "Weyland-Yutani - Advanced Bio-Genomic Research Complex - Advanced Weapon Research Lab - Weapons Testing Range",
+    "z": 1,
+    "x": 6,
+    "y": 70,
+    "tileCount": 48,
+    "bounds": [
+      3,
+      67,
+      10,
+      72
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/wy_research_complex/xenobiology",
+    "name": "Weyland-Yutani - Advanced Bio-Genomic Research Complex - Advanced Xenobiology Lab",
+    "z": 1,
+    "x": 38,
+    "y": 89,
+    "tileCount": 281,
+    "bounds": [
+      30,
+      81,
+      47,
+      96
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/wy_research_complex/securityarmory",
+    "name": "Weyland-Yutani - Advanced Bio-Genomic Research Complex - Armory",
+    "z": 1,
+    "x": 7,
+    "y": 64,
+    "tileCount": 48,
+    "bounds": [
+      3,
+      61,
+      11,
+      66
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/wy_research_complex/cafeteria",
+    "name": "Weyland-Yutani - Advanced Bio-Genomic Research Complex - Cafeteria",
+    "z": 1,
+    "x": 35,
+    "y": 76,
+    "tileCount": 100,
+    "bounds": [
+      30,
+      70,
+      40,
+      80
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/wy_research_complex/cafeteriakitchen",
+    "name": "Weyland-Yutani - Advanced Bio-Genomic Research Complex - Cafeteria - Kitchen",
+    "z": 1,
+    "x": 37,
+    "y": 69,
+    "tileCount": 51,
+    "bounds": [
+      34,
+      65,
+      40,
+      72
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/wy_research_complex/hallwaycentral",
+    "name": "Weyland-Yutani - Advanced Bio-Genomic Research Complex - Central Hallway",
+    "z": 1,
+    "x": 26,
+    "y": 88,
+    "tileCount": 96,
+    "bounds": [
+      24,
+      81,
+      29,
+      96
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/wy_research_complex/dormsbedroom",
+    "name": "Weyland-Yutani - Advanced Bio-Genomic Research Complex - Dorms",
+    "z": 1,
+    "x": 46,
+    "y": 58,
+    "tileCount": 92,
+    "bounds": [
+      42,
+      52,
+      49,
+      64
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/wy_research_complex/dormsfoyer",
+    "name": "Weyland-Yutani - Advanced Bio-Genomic Research Complex - Dorms Foyer",
+    "z": 1,
+    "x": 39,
+    "y": 58,
+    "tileCount": 69,
+    "bounds": [
+      37,
+      52,
+      42,
+      64
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/wy_research_complex/hallwayeast",
+    "name": "Weyland-Yutani - Advanced Bio-Genomic Research Complex - Hallway East",
+    "z": 1,
+    "x": 50,
+    "y": 89,
+    "tileCount": 82,
+    "bounds": [
+      48,
+      82,
+      53,
+      96
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/wy_research_complex/hangarbayshuttle",
+    "name": "Weyland-Yutani - Advanced Bio-Genomic Research Complex - Hangar Bay - Weyland-Yutani PMC ERT Shuttle",
+    "z": 1,
+    "x": 11,
+    "y": 48,
+    "tileCount": 89,
+    "bounds": [
+      8,
+      42,
+      14,
+      54
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/wy_research_complex/head_research_office",
+    "name": "Weyland-Yutani - Advanced Bio-Genomic Research Complex - Head of Research's Office",
+    "z": 1,
+    "x": 41,
+    "y": 47,
+    "tileCount": 62,
+    "bounds": [
+      37,
+      44,
+      44,
+      51
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/wy_research_complex/janitor",
+    "name": "Weyland-Yutani - Advanced Bio-Genomic Research Complex - Janitorial Supplies Storage",
+    "z": 1,
+    "x": 54,
+    "y": 85,
+    "tileCount": 28,
+    "bounds": [
+      53,
+      82,
+      56,
+      88
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/wy_research_complex/changingroom",
+    "name": "Weyland-Yutani - Advanced Bio-Genomic Research Complex - Locker Room",
+    "z": 1,
+    "x": 51,
+    "y": 105,
+    "tileCount": 35,
+    "bounds": [
+      49,
+      102,
+      53,
+      108
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/wy_research_complex/medical_annex",
+    "name": "Weyland-Yutani - Advanced Bio-Genomic Research Complex - Medical Annex Building",
+    "z": 1,
+    "x": 6,
+    "y": 114,
+    "tileCount": 48,
+    "bounds": [
+      4,
+      111,
+      9,
+      118
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/wy_research_complex/hallwaynorth",
+    "name": "Weyland-Yutani - Advanced Bio-Genomic Research Complex - North Hallway",
+    "z": 1,
+    "x": 32,
+    "y": 99,
+    "tileCount": 205,
+    "bounds": [
+      12,
+      97,
+      52,
+      101
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/wy_research_complex/hallwaynorthexit",
+    "name": "Weyland-Yutani - Advanced Bio-Genomic Research Complex - North Hallway - Personnel Exit East",
+    "z": 1,
+    "x": 60,
+    "y": 98,
+    "tileCount": 90,
+    "bounds": [
+      53,
+      96,
+      67,
+      101
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/wy_research_complex/reception",
+    "name": "Weyland-Yutani - Advanced Bio-Genomic Research Complex - Reception & Administration",
+    "z": 1,
+    "x": 21,
+    "y": 105,
+    "tileCount": 119,
+    "bounds": [
+      13,
+      102,
+      29,
+      108
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/wy_research_complex/cargo",
+    "name": "Weyland-Yutani - Advanced Bio-Genomic Research Complex - Requisitions & Cargo",
+    "z": 1,
+    "x": 39,
+    "y": 105,
+    "tileCount": 133,
+    "bounds": [
+      30,
+      102,
+      48,
+      108
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/wy_research_complex/securitycommand",
+    "name": "Weyland-Yutani - Advanced Bio-Genomic Research Complex - Security Command Center & Deployment",
+    "z": 1,
+    "x": 23,
+    "y": 62,
+    "tileCount": 94,
+    "bounds": [
+      16,
+      59,
+      29,
+      67
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/wy_research_complex/hallwaysoutheast",
+    "name": "Weyland-Yutani - Advanced Bio-Genomic Research Complex - South East Hallway",
+    "z": 1,
+    "x": 34,
+    "y": 58,
+    "tileCount": 121,
+    "bounds": [
+      29,
+      44,
+      37,
+      69
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/wy_research_complex/southeastexit",
+    "name": "Weyland-Yutani - Advanced Bio-Genomic Research Complex - South East Maintenace & Emergency Exit",
+    "z": 1,
+    "x": 41,
+    "y": 43,
+    "tileCount": 97,
+    "bounds": [
+      33,
+      36,
+      47,
+      53
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/wy_research_complex/hallwaysouthwest",
+    "name": "Weyland-Yutani - Advanced Bio-Genomic Research Complex - South West Hallway",
+    "z": 1,
+    "x": 17,
+    "y": 73,
+    "tileCount": 174,
+    "bounds": [
+      9,
+      61,
+      29,
+      80
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/wy_research_complex/researchanddevelopment",
+    "name": "Weyland-Yutani - Advanced Bio-Genomic Research Complex - Technology Research & Development Lab",
+    "z": 1,
+    "x": 7,
+    "y": 103,
+    "tileCount": 115,
+    "bounds": [
+      3,
+      97,
+      12,
+      108
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/wy_research_complex/vehicledeploymentbay",
+    "name": "Weyland-Yutani - Advanced Bio-Genomic Research Complex - Vehicle Deployment & Maintenance Bay",
+    "z": 1,
+    "x": 50,
+    "y": 74,
+    "tileCount": 309,
+    "bounds": [
+      41,
+      65,
+      62,
+      81
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/wy_research_complex/xenoarcheology",
+    "name": "Weyland-Yutani - Advanced Bio-Genomic Research Complex - Xenoarcheology Research Lab",
+    "z": 1,
+    "x": 23,
+    "y": 70,
+    "tileCount": 125,
+    "bounds": [
+      16,
+      66,
+      29,
+      75
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/recycling_plant",
+    "name": "Weyland-Yutani - Resource Recovery Facility",
+    "z": 1,
+    "x": 197,
+    "y": 178,
+    "tileCount": 72,
+    "bounds": [
+      194,
+      173,
+      201,
+      182
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/recycling_plant/garage",
+    "name": "Weyland-Yutani - Resource Recovery Facility - Garage",
+    "z": 1,
+    "x": 201,
+    "y": 184,
+    "tileCount": 68,
+    "bounds": [
+      194,
+      181,
+      207,
+      186
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/recycling_plant_office",
+    "name": "Weyland-Yutani - Resource Recovery Facility - Office",
+    "z": 1,
+    "x": 203,
+    "y": 177,
+    "tileCount": 45,
+    "bounds": [
+      201,
+      172,
+      207,
+      180
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/recycling_plant_waste_disposal_incinerator",
+    "name": "Weyland-Yutani - Resource Recovery Facility - Waste Disposal Incinerating Room",
+    "z": 1,
+    "x": 197,
+    "y": 166,
+    "tileCount": 84,
+    "bounds": [
+      194,
+      160,
+      201,
+      172
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/spaceport/baggagehandling",
+    "name": "Weyland-Yutani Celestia Gateway Space-Port - Baggage Storage & Handling",
+    "z": 1,
+    "x": 40,
+    "y": 209,
+    "tileCount": 126,
+    "bounds": [
+      35,
+      203,
+      45,
+      215
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/spaceport/cargo_maintenance",
+    "name": "Weyland-Yutani Celestia Gateway Space-Port - Cargo - Maintenance",
+    "z": 1,
+    "x": 57,
+    "y": 239,
+    "tileCount": 76,
+    "bounds": [
+      49,
+      233,
+      64,
+      248
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/spaceport/cargo",
+    "name": "Weyland-Yutani Celestia Gateway Space-Port - Cargo Bay",
+    "z": 1,
+    "x": 54,
+    "y": 244,
+    "tileCount": 120,
+    "bounds": [
+      49,
+      239,
+      60,
+      248
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/spaceport/communications_office",
+    "name": "Weyland-Yutani Celestia Gateway Space-Port - Communications & Administration Office",
+    "z": 1,
+    "x": 40,
+    "y": 224,
+    "tileCount": 88,
+    "bounds": [
+      35,
+      220,
+      45,
+      227
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/spaceport/cuppajoes",
+    "name": "Weyland-Yutani Celestia Gateway Space-Port - Cuppa Joe's",
+    "z": 1,
+    "x": 42,
+    "y": 199,
+    "tileCount": 134,
+    "bounds": [
+      33,
+      195,
+      50,
+      203
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/spaceport/docking_bay_2",
+    "name": "Weyland-Yutani Celestia Gateway Space-Port - Docking Bay: 2 - Refueling and Maintenance",
+    "z": 1,
+    "x": 39,
+    "y": 238,
+    "tileCount": 325,
+    "bounds": [
+      27,
+      227,
+      49,
+      248
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/spaceport/flight_control_room",
+    "name": "Weyland-Yutani Celestia Gateway Space-Port - Flight Control Room",
+    "z": 1,
+    "x": 6,
+    "y": 234,
+    "tileCount": 64,
+    "bounds": [
+      3,
+      231,
+      10,
+      238
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/spaceport/engineering",
+    "name": "Weyland-Yutani Celestia Gateway Space-Port - Fuel Storage & Processing",
+    "z": 1,
+    "x": 20,
+    "y": 246,
+    "tileCount": 61,
+    "bounds": [
+      13,
+      244,
+      26,
+      248
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/spaceport/hallway_east",
+    "name": "Weyland-Yutani Celestia Gateway Space-Port - Hallway - East",
+    "z": 1,
+    "x": 42,
+    "y": 218,
+    "tileCount": 56,
+    "bounds": [
+      36,
+      216,
+      49,
+      219
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/spaceport/heavyequip",
+    "name": "Weyland-Yutani Celestia Gateway Space-Port - Heavy Equipment Storage",
+    "z": 1,
+    "x": 6,
+    "y": 244,
+    "tileCount": 56,
+    "bounds": [
+      3,
+      241,
+      10,
+      248
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/spaceport/janitor",
+    "name": "Weyland-Yutani Celestia Gateway Space-Port - Janitorial Storage Room",
+    "z": 1,
+    "x": 11,
+    "y": 246,
+    "tileCount": 20,
+    "bounds": [
+      9,
+      245,
+      13,
+      248
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/spaceport/kitchen",
+    "name": "Weyland-Yutani Celestia Gateway Space-Port - Kitchen",
+    "z": 1,
+    "x": 48,
+    "y": 223,
+    "tileCount": 37,
+    "bounds": [
+      46,
+      220,
+      50,
+      227
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/spaceport/maintenance_east",
+    "name": "Weyland-Yutani Celestia Gateway Space-Port - Maintenance - East",
+    "z": 1,
+    "x": 48,
+    "y": 209,
+    "tileCount": 59,
+    "bounds": [
+      46,
+      204,
+      50,
+      215
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/spaceport/security_office",
+    "name": "Weyland-Yutani Celestia Gateway Space-Port - Office",
+    "z": 1,
+    "x": 15,
+    "y": 239,
+    "tileCount": 34,
+    "bounds": [
+      13,
+      235,
+      17,
+      242
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/spaceport/security",
+    "name": "Weyland-Yutani Celestia Gateway Space-Port - Security- Observation & Office",
+    "z": 1,
+    "x": 25,
+    "y": 239,
+    "tileCount": 65,
+    "bounds": [
+      21,
+      235,
+      29,
+      244
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/power_plant",
+    "name": "Weyland-Yutani DynaGrid Nexus - Central Hallway",
+    "z": 1,
+    "x": 144,
+    "y": 175,
+    "tileCount": 185,
+    "bounds": [
+      127,
+      169,
+      160,
+      186
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/power_plant/fusion_generators",
+    "name": "Weyland-Yutani DynaGrid Nexus - Control Center",
+    "z": 1,
+    "x": 126,
+    "y": 182,
+    "tileCount": 81,
+    "bounds": [
+      122,
+      178,
+      130,
+      186
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/power_plant/Hallway_East",
+    "name": "Weyland-Yutani DynaGrid Nexus - East Hallway",
+    "z": 1,
+    "x": 170,
+    "y": 173,
+    "tileCount": 39,
+    "bounds": [
+      164,
+      172,
+      176,
+      174
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/power_plant/equipment_east",
+    "name": "Weyland-Yutani DynaGrid Nexus - Equipment Storage Room - East",
+    "z": 1,
+    "x": 152,
+    "y": 160,
+    "tileCount": 48,
+    "bounds": [
+      149,
+      157,
+      156,
+      162
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/power_plant/equipment_west",
+    "name": "Weyland-Yutani DynaGrid Nexus - Equipment Storage Room - West",
+    "z": 1,
+    "x": 124,
+    "y": 165,
+    "tileCount": 42,
+    "bounds": [
+      122,
+      162,
+      127,
+      168
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/power_plant/gas_generators",
+    "name": "Weyland-Yutani DynaGrid Nexus - Gas Mixing & Storage",
+    "z": 1,
+    "x": 147,
+    "y": 180,
+    "tileCount": 139,
+    "bounds": [
+      140,
+      175,
+      152,
+      186
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/power_plant/geothermal_generators",
+    "name": "Weyland-Yutani DynaGrid Nexus - Geothermal Generators Room",
+    "z": 1,
+    "x": 144,
+    "y": 167,
+    "tileCount": 243,
+    "bounds": [
+      131,
+      157,
+      160,
+      171
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/power_plant/south_hallway",
+    "name": "Weyland-Yutani DynaGrid Nexus - South Hallway",
+    "z": 1,
+    "x": 135,
+    "y": 161,
+    "tileCount": 150,
+    "bounds": [
+      122,
+      157,
+      148,
+      168
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/power_plant/telecomms",
+    "name": "Weyland-Yutani DynaGrid Nexus - Telecommunications",
+    "z": 1,
+    "x": 170,
+    "y": 178,
+    "tileCount": 104,
+    "bounds": [
+      164,
+      175,
+      176,
+      182
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/outdoors/power_plant/transformers_north",
+    "name": "Weyland-Yutani DynaGrid Nexus - Transformers - North",
+    "z": 1,
+    "x": 158,
+    "y": 181,
+    "tileCount": 40,
+    "bounds": [
+      157,
+      175,
+      160,
+      186
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/outdoors/power_plant/transformers_south",
+    "name": "Weyland-Yutani DynaGrid Nexus - Transformers - South",
+    "z": 1,
+    "x": 158,
+    "y": 164,
+    "tileCount": 51,
+    "bounds": [
+      157,
+      157,
+      160,
+      170
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/power_plant/workers_canteen",
+    "name": "Weyland-Yutani DynaGrid Nexus - Worker's Canteen",
+    "z": 1,
+    "x": 170,
+    "y": 166,
+    "tileCount": 138,
+    "bounds": [
+      164,
+      161,
+      176,
+      171
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/power_plant/workers_canteen_kitchen",
+    "name": "Weyland-Yutani DynaGrid Nexus - Worker's Canteen - Kitchen",
+    "z": 1,
+    "x": 170,
+    "y": 157,
+    "tileCount": 78,
+    "bounds": [
+      164,
+      154,
+      176,
+      160
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/weyyu_office/pressroom",
+    "name": "Weyland-Yutani Offices - Assembly Hall",
+    "z": 1,
+    "x": 66,
+    "y": 200,
+    "tileCount": 195,
+    "bounds": [
+      59,
+      193,
+      73,
+      206
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/weyyu_office/breakroom",
+    "name": "Weyland-Yutani Offices - Breakroom",
+    "z": 1,
+    "x": 84,
+    "y": 214,
+    "tileCount": 83,
+    "bounds": [
+      79,
+      211,
+      89,
+      218
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/weyyu_office/vip",
+    "name": "Weyland-Yutani Offices - Conference Room",
+    "z": 1,
+    "x": 78,
+    "y": 204,
+    "tileCount": 66,
+    "bounds": [
+      73,
+      201,
+      83,
+      206
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/weyyu_office/floor",
+    "name": "Weyland-Yutani Offices - Main Office Floor",
+    "z": 1,
+    "x": 72,
+    "y": 213,
+    "tileCount": 150,
+    "bounds": [
+      65,
+      207,
+      79,
+      218
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/weyyu_office",
+    "name": "Weyland-Yutani Offices - Reception Hallway",
+    "z": 1,
+    "x": 85,
+    "y": 202,
+    "tileCount": 127,
+    "bounds": [
+      80,
+      193,
+      89,
+      210
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/weyyu_office/hallway",
+    "name": "Weyland-Yutani Offices - West Foyer",
+    "z": 1,
+    "x": 67,
+    "y": 208,
+    "tileCount": 20,
+    "bounds": [
+      65,
+      207,
+      69,
+      210
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/wy_security/checkpoint_central",
+    "name": "Weyland-Yutani Security Checkpoint - Central",
+    "z": 1,
+    "x": 123,
+    "y": 154,
+    "tileCount": 42,
+    "bounds": [
+      119,
+      152,
+      126,
+      157
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/wy_security/checkpoint_east",
+    "name": "Weyland-Yutani Security Checkpoint - East",
+    "z": 1,
+    "x": 185,
+    "y": 164,
+    "tileCount": 142,
+    "bounds": [
+      177,
+      160,
+      193,
+      169
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/wy_security/checkpoint_northwest",
+    "name": "Weyland-Yutani Security Checkpoint - North West",
+    "z": 1,
+    "x": 27,
+    "y": 183,
+    "tileCount": 98,
+    "bounds": [
+      22,
+      178,
+      33,
+      187
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/wy_security/checkpoint_west",
+    "name": "Weyland-Yutani Security Checkpoint - West",
+    "z": 1,
+    "x": 53,
+    "y": 157,
+    "tileCount": 121,
+    "bounds": [
+      48,
+      151,
+      58,
+      163
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/weymart",
+    "name": "Weymart",
+    "z": 1,
+    "x": 74,
+    "y": 146,
+    "tileCount": 349,
+    "bounds": [
+      62,
+      135,
+      86,
+      155
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv759/indoors/weymart/backrooms",
+    "name": "Weymart - Backrooms",
+    "z": 1,
+    "x": 78,
+    "y": 135,
+    "tileCount": 137,
+    "bounds": [
+      68,
+      129,
+      86,
+      143
+    ],
+    "category": "room"
+  }
+]

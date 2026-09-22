@@ -1,0 +1,512 @@
+[
+  {
+    "id": "/area/fiorina/station/telecomm/lz2_maint",
+    "name": "Fiorina - Backup Communications Relay",
+    "z": 1,
+    "x": 124,
+    "y": 25,
+    "tileCount": 125,
+    "bounds": [
+      118,
+      21,
+      133,
+      31
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/fiorina/lz/near_lzI",
+    "name": "Fiorina - LZ1 Aux Port",
+    "z": 1,
+    "x": 234,
+    "y": 114,
+    "tileCount": 1398,
+    "bounds": [
+      217,
+      87,
+      252,
+      147
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/fiorina/station/telecomm/lz1_tram",
+    "name": "Fiorina - LZ1 Aux Port Communications Relay",
+    "z": 1,
+    "x": 243,
+    "y": 80,
+    "tileCount": 240,
+    "bounds": [
+      234,
+      69,
+      250,
+      92
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/fiorina/station/telecomm/lz1_cargo",
+    "name": "Fiorina - LZ1 Cargo Communications Relay",
+    "z": 1,
+    "x": 205,
+    "y": 123,
+    "tileCount": 746,
+    "bounds": [
+      185,
+      105,
+      219,
+      140
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/fiorina/lz/near_lzII",
+    "name": "Fiorina - LZ2 Prison Port",
+    "z": 1,
+    "x": 159,
+    "y": 35,
+    "tileCount": 974,
+    "bounds": [
+      144,
+      15,
+      173,
+      60
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/fiorina/tumor/fiberbush",
+    "name": "Fiberbush",
+    "z": 1,
+    "x": 22,
+    "y": 77,
+    "tileCount": 1170,
+    "bounds": [
+      1,
+      53,
+      38,
+      100
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/fiorina/station/civres_blue",
+    "name": "Fiorina - Blue Block Residences",
+    "z": 1,
+    "x": 81,
+    "y": 129,
+    "tileCount": 2137,
+    "bounds": [
+      58,
+      95,
+      107,
+      160
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/fiorina/station/botany",
+    "name": "Fiorina - Botany Growtrays",
+    "z": 1,
+    "x": 102,
+    "y": 61,
+    "tileCount": 787,
+    "bounds": [
+      83,
+      47,
+      117,
+      75
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/fiorina/station/central_ring",
+    "name": "Fiorina - Central Ring",
+    "z": 1,
+    "x": 150,
+    "y": 106,
+    "tileCount": 717,
+    "bounds": [
+      136,
+      89,
+      166,
+      125
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/fiorina/station/chapel",
+    "name": "Fiorina - Chapel",
+    "z": 1,
+    "x": 108,
+    "y": 103,
+    "tileCount": 1077,
+    "bounds": [
+      85,
+      82,
+      131,
+      117
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/fiorina/tumor/ice_lab",
+    "name": "Fiorina - Cryogenic Research Labs",
+    "z": 1,
+    "x": 137,
+    "y": 178,
+    "tileCount": 2573,
+    "bounds": [
+      99,
+      156,
+      175,
+      207
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/fiorina/station/disco/east_disco",
+    "name": "Fiorina - East Disco Storage",
+    "z": 1,
+    "x": 196,
+    "y": 105,
+    "tileCount": 432,
+    "bounds": [
+      185,
+      96,
+      212,
+      124
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/fiorina/station/research_cells/east",
+    "name": "Fiorina - East Research Cellblock",
+    "z": 1,
+    "x": 196,
+    "y": 144,
+    "tileCount": 593,
+    "bounds": [
+      181,
+      129,
+      216,
+      157
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/fiorina/station/power_ring",
+    "name": "Fiorina - Engineering Ring",
+    "z": 1,
+    "x": 200,
+    "y": 57,
+    "tileCount": 2322,
+    "bounds": [
+      165,
+      28,
+      238,
+      82
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/fiorina/tumor/aux_engi",
+    "name": "Fiorina - Engineering Sector",
+    "z": 1,
+    "x": 53,
+    "y": 68,
+    "tileCount": 2338,
+    "bounds": [
+      19,
+      34,
+      79,
+      101
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/fiorina/station/flight_deck",
+    "name": "Fiorina - Flight Deck",
+    "z": 1,
+    "x": 213,
+    "y": 89,
+    "tileCount": 396,
+    "bounds": [
+      198,
+      81,
+      227,
+      104
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/fiorina/tumor/civres",
+    "name": "Fiorina - Green Block Residences",
+    "z": 1,
+    "x": 34,
+    "y": 120,
+    "tileCount": 2355,
+    "bounds": [
+      4,
+      94,
+      62,
+      151
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/fiorina/station/lowsec/east",
+    "name": "Fiorina - Low Security Eastside",
+    "z": 1,
+    "x": 182,
+    "y": 88,
+    "tileCount": 662,
+    "bounds": [
+      166,
+      77,
+      205,
+      100
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/fiorina/station/lowsec/showers_laundry",
+    "name": "Fiorina - Low Security Showers & Laundry",
+    "z": 1,
+    "x": 158,
+    "y": 72,
+    "tileCount": 544,
+    "bounds": [
+      131,
+      61,
+      181,
+      78
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/fiorina/maintenance",
+    "name": "Fiorina - Maintenance",
+    "z": 1,
+    "x": 118,
+    "y": 48,
+    "tileCount": 629,
+    "bounds": [
+      96,
+      13,
+      142,
+      100
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/fiorina/station/medbay",
+    "name": "Fiorina - Medical Bay",
+    "z": 1,
+    "x": 129,
+    "y": 136,
+    "tileCount": 1981,
+    "bounds": [
+      105,
+      112,
+      161,
+      160
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/fiorina/oob",
+    "name": "Fiorina - Out Of Bounds",
+    "z": 1,
+    "x": 141,
+    "y": 113,
+    "tileCount": 19673,
+    "bounds": [
+      1,
+      1,
+      255,
+      210
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/fiorina/station/park",
+    "name": "Fiorina - Park",
+    "z": 1,
+    "x": 77,
+    "y": 36,
+    "tileCount": 1668,
+    "bounds": [
+      47,
+      14,
+      114,
+      53
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/fiorina/tumor/servers",
+    "name": "Fiorina - Research Servers",
+    "z": 1,
+    "x": 69,
+    "y": 166,
+    "tileCount": 2533,
+    "bounds": [
+      15,
+      140,
+      107,
+      193
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/fiorina/tumor/ship",
+    "name": "Fiorina - Scavenger Ship 'NSV Renault",
+    "z": 1,
+    "x": 10,
+    "y": 67,
+    "tileCount": 184,
+    "bounds": [
+      4,
+      57,
+      16,
+      77
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/fiorina/station/security",
+    "name": "Fiorina - Security Hub",
+    "z": 1,
+    "x": 133,
+    "y": 54,
+    "tileCount": 1453,
+    "bounds": [
+      104,
+      29,
+      156,
+      82
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/fiorina/station",
+    "name": "Fiorina - Station Interior",
+    "z": 1,
+    "x": 43,
+    "y": 25,
+    "tileCount": 529,
+    "bounds": [
+      7,
+      4,
+      70,
+      41
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/fiorina/station/transit_hub",
+    "name": "Fiorina - Transit Hub",
+    "z": 1,
+    "x": 95,
+    "y": 81,
+    "tileCount": 839,
+    "bounds": [
+      79,
+      49,
+      117,
+      94
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/fiorina/station/disco",
+    "name": "Fiorina - West Disco Storage",
+    "z": 1,
+    "x": 176,
+    "y": 109,
+    "tileCount": 384,
+    "bounds": [
+      165,
+      96,
+      186,
+      123
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/fiorina/station/research_cells/west",
+    "name": "Fiorina - West Research Cellblock",
+    "z": 1,
+    "x": 169,
+    "y": 139,
+    "tileCount": 1179,
+    "bounds": [
+      154,
+      116,
+      189,
+      163
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/fiorina/station/research_cells/basketball",
+    "name": "Fiorina - Basketball Court",
+    "z": 1,
+    "x": 207,
+    "y": 145,
+    "tileCount": 65,
+    "bounds": [
+      201,
+      143,
+      213,
+      147
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/fiorina/station/power_ring/reactor",
+    "name": "Fiorina - Engineering Reactor",
+    "z": 1,
+    "x": 206,
+    "y": 66,
+    "tileCount": 260,
+    "bounds": [
+      198,
+      58,
+      215,
+      75
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/fiorina/station/lowsec",
+    "name": "Fiorina - Low Security Cells",
+    "z": 1,
+    "x": 152,
+    "y": 85,
+    "tileCount": 348,
+    "bounds": [
+      132,
+      79,
+      165,
+      94
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/fiorina/station/security/wardens",
+    "name": "Fiorina - Warden's Office",
+    "z": 1,
+    "x": 139,
+    "y": 22,
+    "tileCount": 236,
+    "bounds": [
+      130,
+      10,
+      145,
+      31
+    ],
+    "category": "room"
+  }
+]

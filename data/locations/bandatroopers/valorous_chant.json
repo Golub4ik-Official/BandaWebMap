@@ -1,0 +1,167 @@
+[
+  {
+    "id": "/area/valorous_chant/outdoors/four",
+    "name": "Rocky Mountain - Zone Four",
+    "z": 1,
+    "x": 211,
+    "y": 78,
+    "tileCount": 12166,
+    "bounds": [
+      172,
+      1,
+      250,
+      154
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/valorous_chant/outdoors/one",
+    "name": "Rocky Mountain - Zone One",
+    "z": 1,
+    "x": 46,
+    "y": 41,
+    "tileCount": 7290,
+    "bounds": [
+      1,
+      1,
+      90,
+      81
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/valorous_chant/outdoors/three",
+    "name": "Rocky Mountain - Zone Three",
+    "z": 1,
+    "x": 131,
+    "y": 78,
+    "tileCount": 12474,
+    "bounds": [
+      91,
+      1,
+      171,
+      154
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/valorous_chant/outdoors/two",
+    "name": "Rocky Mountain - Zone Two",
+    "z": 1,
+    "x": 45,
+    "y": 118,
+    "tileCount": 6511,
+    "bounds": [
+      1,
+      82,
+      90,
+      154
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/valorous_chant/indoors/cov_ship",
+    "name": "SDV - Valorous Chant",
+    "z": 1,
+    "x": 126,
+    "y": 202,
+    "tileCount": 1581,
+    "bounds": [
+      88,
+      180,
+      169,
+      224
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/valorous_chant/indoors/cov_ship/grav",
+    "name": "SDV - Valorous Chant - Gravlift",
+    "z": 1,
+    "x": 125,
+    "y": 202,
+    "tileCount": 701,
+    "bounds": [
+      112,
+      187,
+      138,
+      217
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/valorous_chant/indoors/cov_ship/hangar",
+    "name": "SDV - Valorous Chant - Hangar",
+    "z": 1,
+    "x": 67,
+    "y": 202,
+    "tileCount": 1247,
+    "bounds": [
+      39,
+      187,
+      87,
+      217
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/valorous_chant/indoors/cov_ground_stuff",
+    "name": "Rocky Mountain - Covenant Structures",
+    "z": 1,
+    "x": 67,
+    "y": 109,
+    "tileCount": 59,
+    "bounds": [
+      63,
+      105,
+      71,
+      113
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/valorous_chant/indoors/cov_ship/bridge",
+    "name": "SDV - Valorous Chant - Bridge",
+    "z": 1,
+    "x": 17,
+    "y": 202,
+    "tileCount": 303,
+    "bounds": [
+      4,
+      196,
+      32,
+      208
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/valorous_chant/indoors/cov_ship/engineering",
+    "name": "SDV - Valorous Chant - Engineering",
+    "z": 1,
+    "x": 177,
+    "y": 202,
+    "tileCount": 282,
+    "bounds": [
+      169,
+      193,
+      188,
+      211
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/valorous_chant/indoors/cov_ship/guns",
+    "name": "SDV - Valorous Chant - Gunnery Room",
+    "z": 1,
+    "x": 34,
+    "y": 202,
+    "tileCount": 346,
+    "bounds": [
+      20,
+      192,
+      44,
+      212
+    ],
+    "category": "room"
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "id": "/area/binhai/other/umbilical",
+    "name": "Binhai - Umbillical Arrivals",
+    "z": 1,
+    "x": 184,
+    "y": 70,
+    "tileCount": 472,
+    "bounds": [
+      170,
+      56,
+      198,
+      84
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/binhai/caves/main",
+    "name": "Binhai Caves",
+    "z": 1,
+    "x": 120,
+    "y": 113,
+    "tileCount": 41370,
+    "bounds": [
+      2,
+      2,
+      245,
+      239
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/binhai/caves/depths",
+    "name": "Binhai Depths",
+    "z": 1,
+    "x": 300,
+    "y": 101,
+    "tileCount": 9567,
+    "bounds": [
+      275,
+      2,
+      324,
+      199
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/binhai/caves/upper",
+    "name": "Binhai Upper Caves",
+    "z": 1,
+    "x": 27,
+    "y": 220,
+    "tileCount": 1765,
+    "bounds": [
+      3,
+      195,
+      77,
+      238
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/binhai/main/hangar",
+    "name": "Hangar Block - Arrivals and Storage",
+    "z": 1,
+    "x": 163,
+    "y": 115,
+    "tileCount": 1271,
+    "bounds": [
+      130,
+      89,
+      185,
+      135
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/binhai/basemil/lower",
+    "name": "MSS Block - Operations Space",
+    "z": 1,
+    "x": 43,
+    "y": 162,
+    "tileCount": 418,
+    "bounds": [
+      19,
+      153,
+      62,
+      171
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/binhai/main/operations",
+    "name": "Main Block - Colony Operations",
+    "z": 1,
+    "x": 110,
+    "y": 95,
+    "tileCount": 155,
+    "bounds": [
+      105,
+      85,
+      119,
+      101
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/binhai/other/mainlower",
+    "name": "Main Block - Lower Access",
+    "z": 1,
+    "x": 101,
+    "y": 86,
+    "tileCount": 999,
+    "bounds": [
+      38,
+      31,
+      235,
+      138
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/binhai/other/checkpoint",
+    "name": "Binhai - Checkpoint",
+    "z": 1,
+    "x": 123,
+    "y": 69,
+    "tileCount": 39,
+    "bounds": [
+      107,
+      52,
+      239,
+      73
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/other/hyrdo",
+    "name": "Binhai - Hydroponics",
+    "z": 1,
+    "x": 132,
+    "y": 93,
+    "tileCount": 114,
+    "bounds": [
+      128,
+      87,
+      136,
+      99
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/other/morgue",
+    "name": "Binhai - Morgue",
+    "z": 1,
+    "x": 113,
+    "y": 137,
+    "tileCount": 35,
+    "bounds": [
+      110,
+      135,
+      116,
+      139
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/other/powerstation",
+    "name": "Binhai - Power Station",
+    "z": 1,
+    "x": 216,
+    "y": 131,
+    "tileCount": 104,
+    "bounds": [
+      209,
+      127,
+      224,
+      134
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/other/research",
+    "name": "Binhai - Research",
+    "z": 1,
+    "x": 190,
+    "y": 90,
+    "tileCount": 253,
+    "bounds": [
+      77,
+      79,
+      224,
+      107
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/main/shed",
+    "name": "Binhai - Storage Shed",
+    "z": 1,
+    "x": 177,
+    "y": 91,
+    "tileCount": 87,
+    "bounds": [
+      172,
+      88,
+      182,
+      96
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/other/watertreat",
+    "name": "Binhai - Water Treatment Control",
+    "z": 1,
+    "x": 237,
+    "y": 131,
+    "tileCount": 108,
+    "bounds": [
+      232,
+      124,
+      243,
+      136
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/other/ship1",
+    "name": "Cargo Freight Shuttle - Herschel OBERON-Class",
+    "z": 1,
+    "x": 169,
+    "y": 118,
+    "tileCount": 159,
+    "bounds": [
+      165,
+      109,
+      173,
+      128
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/hab/east",
+    "name": "Hab Block - Apartments East",
+    "z": 1,
+    "x": 63,
+    "y": 55,
+    "tileCount": 119,
+    "bounds": [
+      57,
+      49,
+      67,
+      62
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/hab/north",
+    "name": "Hab Block - Apartments North",
+    "z": 1,
+    "x": 55,
+    "y": 60,
+    "tileCount": 190,
+    "bounds": [
+      49,
+      50,
+      60,
+      70
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/hab/south",
+    "name": "Hab Block - Apartments South",
+    "z": 1,
+    "x": 55,
+    "y": 34,
+    "tileCount": 225,
+    "bounds": [
+      45,
+      29,
+      66,
+      43
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/hab/west",
+    "name": "Hab Block - Apartments West",
+    "z": 1,
+    "x": 40,
+    "y": 55,
+    "tileCount": 172,
+    "bounds": [
+      36,
+      45,
+      44,
+      65
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/hab/bunks",
+    "name": "Hab Block - Bunks",
+    "z": 1,
+    "x": 70,
+    "y": 52,
+    "tileCount": 56,
+    "bounds": [
+      67,
+      49,
+      74,
+      55
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/other/hablower",
+    "name": "Hab Block - Lower Access",
+    "z": 1,
+    "x": 177,
+    "y": 30,
+    "tileCount": 88,
+    "bounds": [
+      172,
+      25,
+      181,
+      36
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/hab/study",
+    "name": "Hab Block - Study Space",
+    "z": 1,
+    "x": 40,
+    "y": 42,
+    "tileCount": 33,
+    "bounds": [
+      36,
+      41,
+      44,
+      44
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/hab/substation",
+    "name": "Hab Block - Substation",
+    "z": 1,
+    "x": 44,
+    "y": 35,
+    "tileCount": 21,
+    "bounds": [
+      43,
+      31,
+      46,
+      37
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/hab/washing",
+    "name": "Hab Block - Washing Space",
+    "z": 1,
+    "x": 49,
+    "y": 63,
+    "tileCount": 27,
+    "bounds": [
+      48,
+      60,
+      51,
+      67
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/main/commissary",
+    "name": "Hangar Block - Commissary",
+    "z": 1,
+    "x": 147,
+    "y": 92,
+    "tileCount": 165,
+    "bounds": [
+      141,
+      85,
+      154,
+      102
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/shuttles/drop1",
+    "name": "Hangar Block - Supply Pad",
+    "z": 1,
+    "x": 153,
+    "y": 119,
+    "tileCount": 299,
+    "bounds": [
+      147,
+      108,
+      159,
+      130
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/basemil/lowerarmory",
+    "name": "MSS Block - Armory",
+    "z": 1,
+    "x": 41,
+    "y": 168,
+    "tileCount": 36,
+    "bounds": [
+      38,
+      165,
+      43,
+      172
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/basemil/lowerbunks",
+    "name": "MSS Block - Bunks",
+    "z": 1,
+    "x": 23,
+    "y": 166,
+    "tileCount": 44,
+    "bounds": [
+      21,
+      161,
+      25,
+      171
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/basemil/office",
+    "name": "MSS Block - Office",
+    "z": 1,
+    "x": 41,
+    "y": 159,
+    "tileCount": 25,
+    "bounds": [
+      39,
+      157,
+      43,
+      161
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/basemil/lowerss",
+    "name": "MSS Block - Substation",
+    "z": 1,
+    "x": 46,
+    "y": 168,
+    "tileCount": 20,
+    "bounds": [
+      44,
+      166,
+      48,
+      169
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/main/lobby",
+    "name": "Main Block - Arrivals Lobby",
+    "z": 1,
+    "x": 114,
+    "y": 118,
+    "tileCount": 57,
+    "bounds": [
+      109,
+      115,
+      119,
+      121
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/main/hall",
+    "name": "Main Block - Assembly Hall",
+    "z": 1,
+    "x": 92,
+    "y": 106,
+    "tileCount": 116,
+    "bounds": [
+      86,
+      100,
+      98,
+      110
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/main/atmos",
+    "name": "Main Block - Atmospherics",
+    "z": 1,
+    "x": 92,
+    "y": 125,
+    "tileCount": 83,
+    "bounds": [
+      87,
+      120,
+      98,
+      128
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/main/bar",
+    "name": "Main Block - Bar",
+    "z": 1,
+    "x": 91,
+    "y": 90,
+    "tileCount": 62,
+    "bounds": [
+      85,
+      87,
+      96,
+      94
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/main/diner",
+    "name": "Main Block - Diner",
+    "z": 1,
+    "x": 80,
+    "y": 68,
+    "tileCount": 215,
+    "bounds": [
+      59,
+      36,
+      99,
+      99
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/main/engineering",
+    "name": "Main Block - Engineering",
+    "z": 1,
+    "x": 93,
+    "y": 133,
+    "tileCount": 108,
+    "bounds": [
+      87,
+      129,
+      99,
+      137
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/other/Engineeringlower",
+    "name": "Main Block - Engineering Lower Access",
+    "z": 1,
+    "x": 224,
+    "y": 119,
+    "tileCount": 67,
+    "bounds": [
+      220,
+      114,
+      228,
+      124
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/main/kitchen",
+    "name": "Main Block - Kitchen",
+    "z": 1,
+    "x": 82,
+    "y": 96,
+    "tileCount": 56,
+    "bounds": [
+      79,
+      92,
+      85,
+      99
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/main/paparmory",
+    "name": "Main Block - PAP Armory",
+    "z": 1,
+    "x": 108,
+    "y": 108,
+    "tileCount": 37,
+    "bounds": [
+      105,
+      105,
+      111,
+      111
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/main/pap",
+    "name": "Main Block - PAP Space",
+    "z": 1,
+    "x": 114,
+    "y": 108,
+    "tileCount": 166,
+    "bounds": [
+      105,
+      100,
+      120,
+      116
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/main/janitor",
+    "name": "Main Block - Sanitation Closet",
+    "z": 1,
+    "x": 94,
+    "y": 112,
+    "tileCount": 15,
+    "bounds": [
+      93,
+      111,
+      96,
+      114
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/main/server",
+    "name": "Main Block - Server Room",
+    "z": 1,
+    "x": 114,
+    "y": 92,
+    "tileCount": 31,
+    "bounds": [
+      113,
+      89,
+      116,
+      96
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/main/supply",
+    "name": "Main Block - Supply Closet",
+    "z": 1,
+    "x": 91,
+    "y": 112,
+    "tileCount": 12,
+    "bounds": [
+      90,
+      111,
+      92,
+      114
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/main/synth",
+    "name": "Main Block - Synthetic Storage",
+    "z": 1,
+    "x": 88,
+    "y": 113,
+    "tileCount": 20,
+    "bounds": [
+      86,
+      111,
+      89,
+      115
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/main/treatment",
+    "name": "Main Block - Treatment Space",
+    "z": 1,
+    "x": 110,
+    "y": 127,
+    "tileCount": 169,
+    "bounds": [
+      104,
+      121,
+      117,
+      133
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/main/toilet",
+    "name": "Main Block - Water Closet",
+    "z": 1,
+    "x": 81,
+    "y": 77,
+    "tileCount": 62,
+    "bounds": [
+      68,
+      56,
+      98,
+      102
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/basemil/upperarmory",
+    "name": "Military Block - Armory",
+    "z": 1,
+    "x": 40,
+    "y": 200,
+    "tileCount": 55,
+    "bounds": [
+      36,
+      197,
+      45,
+      202
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/basemil/command",
+    "name": "Military Block - Command Room",
+    "z": 1,
+    "x": 66,
+    "y": 229,
+    "tileCount": 187,
+    "bounds": [
+      54,
+      224,
+      75,
+      238
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/basemil/hallway",
+    "name": "Military Block - Hallway",
+    "z": 1,
+    "x": 50,
+    "y": 212,
+    "tileCount": 227,
+    "bounds": [
+      35,
+      197,
+      58,
+      226
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/basemil/airoom",
+    "name": "Military Block - Human AI Interface",
+    "z": 1,
+    "x": 42,
+    "y": 225,
+    "tileCount": 143,
+    "bounds": [
+      34,
+      220,
+      50,
+      229
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/shuttles/drop2",
+    "name": "Military Block - Landing Pad",
+    "z": 1,
+    "x": 67,
+    "y": 211,
+    "tileCount": 299,
+    "bounds": [
+      61,
+      200,
+      73,
+      222
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/basemil/lobby",
+    "name": "Military Block - Lobby",
+    "z": 1,
+    "x": 64,
+    "y": 205,
+    "tileCount": 249,
+    "bounds": [
+      50,
+      195,
+      75,
+      223
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/basemil/maint",
+    "name": "Military Block - Maintenance",
+    "z": 1,
+    "x": 52,
+    "y": 223,
+    "tileCount": 74,
+    "bounds": [
+      48,
+      213,
+      57,
+      229
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/basemil/upperbunks",
+    "name": "Military Block - Quarters",
+    "z": 1,
+    "x": 40,
+    "y": 210,
+    "tileCount": 143,
+    "bounds": [
+      36,
+      203,
+      45,
+      217
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/basemil/upperss",
+    "name": "Military Block - Substation",
+    "z": 1,
+    "x": 53,
+    "y": 216,
+    "tileCount": 30,
+    "bounds": [
+      51,
+      213,
+      55,
+      218
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/basemil/uppertoilet",
+    "name": "Military Block - Water Closet",
+    "z": 1,
+    "x": 28,
+    "y": 169,
+    "tileCount": 39,
+    "bounds": [
+      25,
+      167,
+      32,
+      172
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/other/minelower",
+    "name": "Mining Block - Lower Excavation",
+    "z": 1,
+    "x": 297,
+    "y": 59,
+    "tileCount": 205,
+    "bounds": [
+      287,
+      50,
+      306,
+      66
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/other/mineoffice",
+    "name": "Mining Block - Office",
+    "z": 1,
+    "x": 143,
+    "y": 35,
+    "tileCount": 26,
+    "bounds": [
+      141,
+      33,
+      145,
+      38
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/binhai/other/mineprep",
+    "name": "Mining Block - Prep",
+    "z": 1,
+    "x": 143,
+    "y": 28,
+    "tileCount": 141,
+    "bounds": [
+      136,
+      21,
+      153,
+      35
+    ],
+    "category": "room"
+  }
+]

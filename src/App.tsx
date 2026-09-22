@@ -13,6 +13,7 @@ export const App: React.FC = () => {
 
   const [showGrid, setShowGrid] = useState<boolean>(true);
   const [showPipenet, setShowPipenet] = useState<boolean>(false);
+  const [showLocations, setShowLocations] = useState<boolean>(true);
   const [rulerActive, setRulerActive] = useState<boolean>(false);
 
   const [isSearchOpen, setIsSearchOpen] = useState<boolean>(false);
@@ -40,17 +41,31 @@ export const App: React.FC = () => {
       });
   }, []);
 
-  // Keyboard shortcut Ctrl+K / Cmd+K for map search
+  // Keyboard shortcuts
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
+      // Ctrl+K / Cmd+K for map search
       if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'k') {
         e.preventDefault();
         setIsSearchOpen(prev => !prev);
+        return;
+      }
+
+      // Ignore single key shortcuts if input is focused
+      if (document.activeElement?.tagName === 'INPUT' || document.activeElement?.tagName === 'TEXTAREA') {
+        return;
+      }
+
+      if (e.key.toLowerCase() === 'l' && !e.ctrlKey && !e.metaKey) {
+        setShowLocations(prev => !prev);
+      } else if (e.key.toLowerCase() === 'g' && !e.ctrlKey && !e.metaKey) {
+        setShowGrid(prev => !prev);
       }
     };
     window.addEventListener('keydown', handleKeyDown);
     return () => window.removeEventListener('keydown', handleKeyDown);
   }, []);
+
 
   const getDefaultZ = useCallback((map: GameMap | null): number => {
     if (!map) return 1;
@@ -162,12 +177,14 @@ export const App: React.FC = () => {
         currentZ={currentZ}
         showGrid={showGrid}
         showPipenet={showPipenet}
+        showLocations={showLocations}
         rulerActive={rulerActive}
         onServerChange={handleServerChange}
         onOpenMapSearch={() => setIsSearchOpen(true)}
         onZChange={handleZChange}
         onToggleGrid={() => setShowGrid(!showGrid)}
         onTogglePipenet={() => setShowPipenet(!showPipenet)}
+        onToggleLocations={() => setShowLocations(prev => !prev)}
         onToggleRuler={() => setRulerActive(!rulerActive)}
         onCopyLink={handleCopyLink}
         isCopied={isCopied}
@@ -181,6 +198,7 @@ export const App: React.FC = () => {
         currentZ={currentZ}
         showGrid={showGrid}
         showPipenet={showPipenet}
+        showLocations={showLocations}
         rulerActive={rulerActive}
         targetCoords={targetCoords}
         onCoordChange={setActiveCoords}

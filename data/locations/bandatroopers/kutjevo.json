@@ -1,0 +1,662 @@
+[
+  {
+    "id": "/area/kutjevo/interior/power/comms",
+    "name": "Kutjevo - Hydroelectric Dam Comms Relay",
+    "z": 1,
+    "x": 38,
+    "y": 60,
+    "tileCount": 364,
+    "bounds": [
+      26,
+      52,
+      50,
+      70
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/kutjevo/exterior/lz_dunes",
+    "name": "Kutjevo - Landing Zone Dunes",
+    "z": 1,
+    "x": 26,
+    "y": 30,
+    "tileCount": 1167,
+    "bounds": [
+      7,
+      6,
+      44,
+      53
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/kutjevo/exterior/telecomm/lz2_north",
+    "name": "Kutjevo - North LZ2 Communications Relay",
+    "z": 1,
+    "x": 65,
+    "y": 149,
+    "tileCount": 28,
+    "bounds": [
+      62,
+      147,
+      68,
+      151
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/kutjevo/exterior/lz_river",
+    "name": "Kutjevo - Power Station River",
+    "z": 1,
+    "x": 46,
+    "y": 39,
+    "tileCount": 257,
+    "bounds": [
+      30,
+      25,
+      52,
+      52
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/kutjevo/exterior/telecomm/lz1_south",
+    "name": "Kutjevo - South LZ1 Communications Relay",
+    "z": 1,
+    "x": 69,
+    "y": 10,
+    "tileCount": 26,
+    "bounds": [
+      67,
+      8,
+      72,
+      12
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/kutjevo/exterior/telecomm/lz2_south",
+    "name": "Kutjevo - South LZ2 Communications Relay",
+    "z": 1,
+    "x": 24,
+    "y": 91,
+    "tileCount": 28,
+    "bounds": [
+      21,
+      89,
+      26,
+      93
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/kutjevo/exterior/lz_pad",
+    "name": "Kutjevo Auxilliary Landing Zone",
+    "z": 1,
+    "x": 26,
+    "y": 129,
+    "tileCount": 1027,
+    "bounds": [
+      5,
+      108,
+      46,
+      152
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/kutjevo/interior/oob",
+    "name": "Kutjevo -  Out Of Bounds",
+    "z": 1,
+    "x": 131,
+    "y": 83,
+    "tileCount": 16123,
+    "bounds": [
+      1,
+      1,
+      240,
+      165
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kutjevo/exterior/construction",
+    "name": "Kutjevo - Abandoned Construction",
+    "z": 1,
+    "x": 139,
+    "y": 96,
+    "tileCount": 612,
+    "bounds": [
+      117,
+      80,
+      153,
+      125
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kutjevo/interior/construction",
+    "name": "Kutjevo - Abandoned Construction Interior",
+    "z": 1,
+    "x": 141,
+    "y": 108,
+    "tileCount": 691,
+    "bounds": [
+      115,
+      83,
+      175,
+      130
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kutjevo/interior/colony_central",
+    "name": "Kutjevo - Central Colony Caves",
+    "z": 1,
+    "x": 180,
+    "y": 93,
+    "tileCount": 1545,
+    "bounds": [
+      151,
+      70,
+      202,
+      116
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kutjevo/interior/colony_central/mine_elevator",
+    "name": "Kutjevo - Central Colony Elevator",
+    "z": 1,
+    "x": 204,
+    "y": 80,
+    "tileCount": 66,
+    "bounds": [
+      202,
+      75,
+      207,
+      85
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kutjevo/interior/power",
+    "name": "Kutjevo - Hydroelectric Dam Substation",
+    "z": 1,
+    "x": 51,
+    "y": 15,
+    "tileCount": 545,
+    "bounds": [
+      28,
+      2,
+      66,
+      58
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kutjevo/interior/colony_north",
+    "name": "Kutjevo - North Colony Caves",
+    "z": 1,
+    "x": 166,
+    "y": 134,
+    "tileCount": 2091,
+    "bounds": [
+      130,
+      109,
+      196,
+      161
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kutjevo/interior/colony_S_East",
+    "name": "Kutjevo - North East Colony Caves",
+    "z": 1,
+    "x": 219,
+    "y": 80,
+    "tileCount": 724,
+    "bounds": [
+      200,
+      66,
+      237,
+      97
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kutjevo/exterior/Northwest_Colony",
+    "name": "Kutjevo - Northwest Colony Grounds",
+    "z": 1,
+    "x": 52,
+    "y": 118,
+    "tileCount": 1117,
+    "bounds": [
+      7,
+      83,
+      91,
+      149
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kutjevo/exterior/runoff_bridge",
+    "name": "Kutjevo - Runoff Bridge",
+    "z": 1,
+    "x": 94,
+    "y": 56,
+    "tileCount": 259,
+    "bounds": [
+      74,
+      49,
+      118,
+      65
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kutjevo/exterior/runoff_dunes",
+    "name": "Kutjevo - Runoff Dunes",
+    "z": 1,
+    "x": 66,
+    "y": 41,
+    "tileCount": 955,
+    "bounds": [
+      50,
+      22,
+      82,
+      62
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kutjevo/exterior/runoff_river",
+    "name": "Kutjevo - Runoff River",
+    "z": 1,
+    "x": 94,
+    "y": 64,
+    "tileCount": 671,
+    "bounds": [
+      77,
+      42,
+      123,
+      101
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kutjevo/exterior/scrubland",
+    "name": "Kutjevo - Scrubland",
+    "z": 1,
+    "x": 65,
+    "y": 91,
+    "tileCount": 2074,
+    "bounds": [
+      32,
+      49,
+      94,
+      130
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kutjevo/interior/colony_South",
+    "name": "Kutjevo - South Colony Caves",
+    "z": 1,
+    "x": 185,
+    "y": 55,
+    "tileCount": 1540,
+    "bounds": [
+      151,
+      36,
+      220,
+      73
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kutjevo/interior/colony_South/power2",
+    "name": "Kutjevo - South Colony Treatment Plant",
+    "z": 1,
+    "x": 153,
+    "y": 69,
+    "tileCount": 661,
+    "bounds": [
+      140,
+      53,
+      168,
+      82
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kutjevo/interior/colony_N_East",
+    "name": "Kutjevo - South East Colony Caves",
+    "z": 1,
+    "x": 212,
+    "y": 108,
+    "tileCount": 1212,
+    "bounds": [
+      187,
+      86,
+      236,
+      127
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kutjevo/exterior/spring",
+    "name": "Kutjevo - Southern Spring",
+    "z": 1,
+    "x": 173,
+    "y": 28,
+    "tileCount": 370,
+    "bounds": [
+      154,
+      16,
+      189,
+      42
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kutjevo/exterior/stonyfields",
+    "name": "Kutjevo - Stony Fields",
+    "z": 1,
+    "x": 94,
+    "y": 29,
+    "tileCount": 1096,
+    "bounds": [
+      65,
+      13,
+      122,
+      46
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kutjevo/exterior/complex_border/botany_medical_cave",
+    "name": "Kutjevo Complex - Botany - Medical Cave",
+    "z": 1,
+    "x": 107,
+    "y": 90,
+    "tileCount": 137,
+    "bounds": [
+      94,
+      87,
+      119,
+      97
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kutjevo/interior/complex/botany",
+    "name": "Kutjevo Complex - Botany Bay",
+    "z": 1,
+    "x": 102,
+    "y": 70,
+    "tileCount": 912,
+    "bounds": [
+      85,
+      52,
+      118,
+      87
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kutjevo/interior/complex/med",
+    "name": "Kutjevo Complex - Medical Foyer",
+    "z": 1,
+    "x": 107,
+    "y": 100,
+    "tileCount": 383,
+    "bounds": [
+      94,
+      92,
+      121,
+      108
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kutjevo/exterior/complex_border/med_park",
+    "name": "Kutjevo Complex - Medical Park",
+    "z": 1,
+    "x": 102,
+    "y": 128,
+    "tileCount": 60,
+    "bounds": [
+      99,
+      125,
+      106,
+      132
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kutjevo/interior/complex/Northwest_Dorms",
+    "name": "Kutjevo Complex - Northwest Colony Dorms",
+    "z": 1,
+    "x": 44,
+    "y": 143,
+    "tileCount": 237,
+    "bounds": [
+      37,
+      133,
+      55,
+      150
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kutjevo/interior/complex/botany/east_tech",
+    "name": "Kutjevo Complex - Powerplant Access Hall",
+    "z": 1,
+    "x": 132,
+    "y": 59,
+    "tileCount": 419,
+    "bounds": [
+      123,
+      45,
+      143,
+      82
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kutjevo/exterior/complex_border/med_rec",
+    "name": "Kutjevo Complex - Water Tank Cave",
+    "z": 1,
+    "x": 124,
+    "y": 109,
+    "tileCount": 274,
+    "bounds": [
+      109,
+      102,
+      141,
+      123
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kutjevo/interior/oob/dev_room",
+    "name": "Kutjevo - Credits Room",
+    "z": 1,
+    "x": 36,
+    "y": 82,
+    "tileCount": 139,
+    "bounds": [
+      4,
+      3,
+      87,
+      150
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/kutjevo/interior/foremans_office",
+    "name": "Kutjevo - Foreman's Office",
+    "z": 1,
+    "x": 139,
+    "y": 114,
+    "tileCount": 66,
+    "bounds": [
+      136,
+      108,
+      141,
+      119
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/kutjevo/interior/power_pt2_electric_boogaloo",
+    "name": "Kutjevo - Power Plant",
+    "z": 1,
+    "x": 125,
+    "y": 76,
+    "tileCount": 230,
+    "bounds": [
+      116,
+      69,
+      134,
+      83
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/kutjevo/interior/complex/botany/east",
+    "name": "Kutjevo Complex - Botany East Hall",
+    "z": 1,
+    "x": 119,
+    "y": 66,
+    "tileCount": 137,
+    "bounds": [
+      113,
+      56,
+      124,
+      79
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/kutjevo/interior/complex/med/auto_doc",
+    "name": "Kutjevo Complex - Medical Autodoc Hallway",
+    "z": 1,
+    "x": 88,
+    "y": 108,
+    "tileCount": 206,
+    "bounds": [
+      81,
+      99,
+      94,
+      117
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/kutjevo/interior/complex/med/cells",
+    "name": "Kutjevo Complex - Medical Cryocells",
+    "z": 1,
+    "x": 105,
+    "y": 112,
+    "tileCount": 124,
+    "bounds": [
+      95,
+      108,
+      113,
+      115
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/kutjevo/interior/complex/med/operating",
+    "name": "Kutjevo Complex - Medical Operation Hallway",
+    "z": 1,
+    "x": 96,
+    "y": 124,
+    "tileCount": 158,
+    "bounds": [
+      87,
+      116,
+      103,
+      131
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/kutjevo/interior/complex/med/pano",
+    "name": "Kutjevo Complex - Medical Panopticon",
+    "z": 1,
+    "x": 97,
+    "y": 115,
+    "tileCount": 25,
+    "bounds": [
+      95,
+      113,
+      99,
+      117
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/kutjevo/interior/complex/med/locks",
+    "name": "Kutjevo Complex - Medical Stormlocks",
+    "z": 1,
+    "x": 127,
+    "y": 98,
+    "tileCount": 120,
+    "bounds": [
+      120,
+      92,
+      136,
+      102
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/kutjevo/interior/complex/med/triage",
+    "name": "Kutjevo Complex - Medical Triage Hallway",
+    "z": 1,
+    "x": 109,
+    "y": 120,
+    "tileCount": 86,
+    "bounds": [
+      104,
+      116,
+      116,
+      125
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/kutjevo/interior/complex/Northwest_Flight_Control",
+    "name": "Kutjevo Complex - Northwest Flight Control Room",
+    "z": 1,
+    "x": 40,
+    "y": 110,
+    "tileCount": 195,
+    "bounds": [
+      30,
+      105,
+      49,
+      115
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/kutjevo/interior/complex/Northwest_Security_Checkpoint",
+    "name": "Kutjevo Complex - Northwest Security Checkpoint",
+    "z": 1,
+    "x": 10,
+    "y": 112,
+    "tileCount": 106,
+    "bounds": [
+      5,
+      107,
+      15,
+      116
+    ],
+    "category": "room"
+  }
+]

@@ -9,7 +9,8 @@ import {
   Minimize2, 
   Layers, 
   GitCommitHorizontal,
-  Check
+  Check,
+  MapPin
 } from 'lucide-react';
 import { GameMap } from '../types';
 
@@ -19,12 +20,14 @@ interface FloatingHeaderProps {
   currentZ: number;
   showGrid: boolean;
   showPipenet: boolean;
+  showLocations: boolean;
   rulerActive: boolean;
   onServerChange: (server: 'bandamarines' | 'bandastation' | 'bandatroopers') => void;
   onOpenMapSearch: () => void;
   onZChange: (z: number) => void;
   onToggleGrid: () => void;
   onTogglePipenet: () => void;
+  onToggleLocations: () => void;
   onToggleRuler: () => void;
   onCopyLink: () => void;
   isCopied: boolean;
@@ -32,18 +35,21 @@ interface FloatingHeaderProps {
   onToggleFullscreen: () => void;
 }
 
+
 export const FloatingHeader: React.FC<FloatingHeaderProps> = ({
   currentServer,
   currentMap,
   currentZ,
   showGrid,
   showPipenet,
+  showLocations,
   rulerActive,
   onServerChange,
   onOpenMapSearch,
   onZChange,
   onToggleGrid,
   onTogglePipenet,
+  onToggleLocations,
   onToggleRuler,
   onCopyLink,
   isCopied,
@@ -137,10 +143,24 @@ export const FloatingHeader: React.FC<FloatingHeaderProps> = ({
               ? 'bg-sky-500/20 border-sky-500/40 text-sky-400' 
               : 'border-transparent hover:bg-white/10 hover:text-white'
           }`}
-          title="Вкл/Выкл координатную сетку"
+          title="Вкл/Выкл координатную сетку (G)"
         >
           <Grid3X3 className="w-4 h-4" />
         </button>
+
+        {/* Toggle Locations / Areas */}
+        <button
+          onClick={onToggleLocations}
+          className={`p-2 rounded-xl border transition-all ${
+            showLocations 
+              ? 'bg-amber-500/20 border-amber-500/40 text-amber-400 shadow-[0_0_10px_rgba(245,158,11,0.25)]' 
+              : 'border-transparent hover:bg-white/10 hover:text-white'
+          }`}
+          title="Показать/скрыть названия мест и отсеков (L)"
+        >
+          <MapPin className="w-4 h-4" />
+        </button>
+
 
         {/* Toggle Pipenet */}
         {hasPipenet && (

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "/area/sekhmet/outside/temple_outer",
+    "name": "Sekhmet Outer Ruins",
+    "z": 1,
+    "x": 153,
+    "y": 132,
+    "tileCount": 3421,
+    "bounds": [
+      102,
+      90,
+      394,
+      160
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/sekhmet/caves/temple",
+    "name": "Sekhmet Ruins",
+    "z": 1,
+    "x": 306,
+    "y": 142,
+    "tileCount": 6987,
+    "bounds": [
+      139,
+      119,
+      406,
+      160
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/sekhmet/int_reg/military_hangar",
+    "name": "UPP Military Landing Zone",
+    "z": 1,
+    "x": 20,
+    "y": 140,
+    "tileCount": 1319,
+    "bounds": [
+      1,
+      111,
+      49,
+      160
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/sekhmet/shuttles/drop3",
+    "name": "Sekhmet - Research Landing Pad",
+    "z": 1,
+    "x": 204,
+    "y": 15,
+    "tileCount": 639,
+    "bounds": [
+      191,
+      3,
+      219,
+      28
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/sekhmet/int_glass/complex_generic",
+    "name": "Sekhmet Central Complex",
+    "z": 1,
+    "x": 107,
+    "y": 104,
+    "tileCount": 1129,
+    "bounds": [
+      89,
+      86,
+      125,
+      127
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/sekhmet/outside/central_road",
+    "name": "Sekhmet Central Path",
+    "z": 1,
+    "x": 118,
+    "y": 91,
+    "tileCount": 2984,
+    "bounds": [
+      80,
+      48,
+      170,
+      144
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/sekhmet/outside/airfield",
+    "name": "Sekhmet Clearing",
+    "z": 1,
+    "x": 22,
+    "y": 42,
+    "tileCount": 2975,
+    "bounds": [
+      1,
+      1,
+      57,
+      87
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/sekhmet/outside/east_jungle",
+    "name": "Sekhmet Eastern Jungle",
+    "z": 1,
+    "x": 197,
+    "y": 88,
+    "tileCount": 3340,
+    "bounds": [
+      160,
+      48,
+      220,
+      137
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/sekhmet/int_heavy/low_level_gen",
+    "name": "Sekhmet Lower Complex",
+    "z": 1,
+    "x": 304,
+    "y": 84,
+    "tileCount": 3946,
+    "bounds": [
+      269,
+      43,
+      347,
+      121
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/sekhmet/int_heavy/low_level_rsr",
+    "name": "Sekhmet Lower Research",
+    "z": 1,
+    "x": 357,
+    "y": 42,
+    "tileCount": 4874,
+    "bounds": [
+      308,
+      5,
+      406,
+      76
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/sekhmet/int_reg/complex_operation",
+    "name": "Sekhmet Operations",
+    "z": 1,
+    "x": 109,
+    "y": 77,
+    "tileCount": 480,
+    "bounds": [
+      92,
+      67,
+      126,
+      86
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/sekhmet/int_heavy/research",
+    "name": "Sekhmet Research Main Floor",
+    "z": 1,
+    "x": 179,
+    "y": 40,
+    "tileCount": 2032,
+    "bounds": [
+      142,
+      15,
+      220,
+      58
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/sekhmet/caves/south_cave",
+    "name": "Sekhmet South Caves",
+    "z": 1,
+    "x": 70,
+    "y": 7,
+    "tileCount": 808,
+    "bounds": [
+      35,
+      1,
+      106,
+      16
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/sekhmet/outside/southeast_road",
+    "name": "Sekhmet Southeastern Path",
+    "z": 1,
+    "x": 155,
+    "y": 20,
+    "tileCount": 1944,
+    "bounds": [
+      111,
+      1,
+      220,
+      50
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/sekhmet/int_glass/south_complex",
+    "name": "Sekhmet Southern Complex",
+    "z": 1,
+    "x": 121,
+    "y": 54,
+    "tileCount": 575,
+    "bounds": [
+      97,
+      46,
+      140,
+      61
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/sekhmet/outside/southroad",
+    "name": "Sekhmet Southern Path",
+    "z": 1,
+    "x": 87,
+    "y": 24,
+    "tileCount": 1458,
+    "bounds": [
+      40,
+      4,
+      131,
+      51
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/sekhmet/outside/swamp",
+    "name": "Sekhmet Swamp",
+    "z": 1,
+    "x": 63,
+    "y": 103,
+    "tileCount": 5070,
+    "bounds": [
+      8,
+      20,
+      121,
+      160
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/sekhmet/int_glass/hosptial",
+    "name": "Sekhmet Treatment Center",
+    "z": 1,
+    "x": 65,
+    "y": 44,
+    "tileCount": 436,
+    "bounds": [
+      57,
+      32,
+      75,
+      57
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/sekhmet/int_reg/warehouse",
+    "name": "Sekhmet Warehouse",
+    "z": 1,
+    "x": 62,
+    "y": 15,
+    "tileCount": 373,
+    "bounds": [
+      47,
+      9,
+      77,
+      22
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/sekhmet/int_reg/water_filters",
+    "name": "Sekhmet Water Filtration",
+    "z": 1,
+    "x": 106,
+    "y": 40,
+    "tileCount": 391,
+    "bounds": [
+      80,
+      29,
+      130,
+      47
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/sekhmet/caves/west_cave",
+    "name": "Sekhmet West Caves",
+    "z": 1,
+    "x": 14,
+    "y": 91,
+    "tileCount": 988,
+    "bounds": [
+      1,
+      56,
+      31,
+      128
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/sekhmet/int_reg/catwalk",
+    "name": "Swamp Catwalk",
+    "z": 1,
+    "x": 57,
+    "y": 93,
+    "tileCount": 618,
+    "bounds": [
+      13,
+      70,
+      83,
+      121
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/sekhmet/int_reg/ship2",
+    "name": "Atreus SEQUOD-class Transport Ship",
+    "z": 1,
+    "x": 212,
+    "y": 18,
+    "tileCount": 87,
+    "bounds": [
+      209,
+      12,
+      215,
+      24
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/sekhmet/int_reg/ship1",
+    "name": "Mikhail GENESIS-class Freight Hauler",
+    "z": 1,
+    "x": 197,
+    "y": 38,
+    "tileCount": 94,
+    "bounds": [
+      194,
+      31,
+      200,
+      44
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/sekhmet/shuttles/drop1",
+    "name": "Sekhmet - Military Landing Pad",
+    "z": 1,
+    "x": 23,
+    "y": 139,
+    "tileCount": 231,
+    "bounds": [
+      18,
+      129,
+      28,
+      149
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/sekhmet/shuttles/drop2",
+    "name": "Sekhmet - Open Field",
+    "z": 1,
+    "x": 24,
+    "y": 32,
+    "tileCount": 194,
+    "bounds": [
+      19,
+      22,
+      29,
+      42
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/sekhmet/int_glass/offices",
+    "name": "Sekhmet Administrators Office",
+    "z": 1,
+    "x": 145,
+    "y": 76,
+    "tileCount": 248,
+    "bounds": [
+      134,
+      70,
+      155,
+      82
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/sekhmet/int_reg/air_filters",
+    "name": "Sekhmet Air Filtrators",
+    "z": 1,
+    "x": 108,
+    "y": 151,
+    "tileCount": 335,
+    "bounds": [
+      91,
+      142,
+      134,
+      160
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/sekhmet/int_reg/yard",
+    "name": "Sekhmet Breaking Yard",
+    "z": 1,
+    "x": 114,
+    "y": 4,
+    "tileCount": 103,
+    "bounds": [
+      107,
+      1,
+      123,
+      7
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/sekhmet/int_reg/complex_comms",
+    "name": "Sekhmet Communication Array",
+    "z": 1,
+    "x": 132,
+    "y": 109,
+    "tileCount": 261,
+    "bounds": [
+      128,
+      92,
+      136,
+      127
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/sekhmet/int_reg/engineering",
+    "name": "Sekhmet Engineering",
+    "z": 1,
+    "x": 166,
+    "y": 76,
+    "tileCount": 252,
+    "bounds": [
+      155,
+      70,
+      179,
+      82
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/sekhmet/int_heavy/entry_zone",
+    "name": "Sekhmet Entry Zone",
+    "z": 1,
+    "x": 155,
+    "y": 93,
+    "tileCount": 195,
+    "bounds": [
+      142,
+      88,
+      165,
+      100
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/sekhmet/int_reg/garage",
+    "name": "Sekhmet Garage",
+    "z": 1,
+    "x": 177,
+    "y": 16,
+    "tileCount": 201,
+    "bounds": [
+      167,
+      10,
+      188,
+      20
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/sekhmet/int_reg/complex_intel",
+    "name": "Sekhmet Intelligence",
+    "z": 1,
+    "x": 115,
+    "y": 104,
+    "tileCount": 96,
+    "bounds": [
+      110,
+      100,
+      120,
+      108
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/sekhmet/int_reg/comms_lower",
+    "name": "Sekhmet Lower Commmunication Hall",
+    "z": 1,
+    "x": 58,
+    "y": 154,
+    "tileCount": 229,
+    "bounds": [
+      50,
+      144,
+      66,
+      160
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/sekhmet/int_reg/southwest_complex",
+    "name": "Sekhmet Southwestern Complex",
+    "z": 1,
+    "x": 50,
+    "y": 45,
+    "tileCount": 284,
+    "bounds": [
+      41,
+      34,
+      56,
+      55
+    ],
+    "category": "room"
+  }
+]

@@ -1,0 +1,722 @@
+[
+  {
+    "id": "/area/varadero/exterior/pontoon_beach/lz",
+    "name": "New Varadero - East Beach",
+    "z": 1,
+    "x": 70,
+    "y": 167,
+    "tileCount": 107,
+    "bounds": [
+      63,
+      158,
+      77,
+      173
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/varadero/exterior/lz2_near",
+    "name": "New Varadero - Palm Airfield",
+    "z": 1,
+    "x": 142,
+    "y": 149,
+    "tileCount": 1359,
+    "bounds": [
+      123,
+      132,
+      161,
+      166
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/varadero/exterior/lz1_near",
+    "name": "New Varadero - Pontoon Airfield",
+    "z": 1,
+    "x": 68,
+    "y": 144,
+    "tileCount": 1104,
+    "bounds": [
+      47,
+      122,
+      83,
+      166
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/varadero/exterior/eastbeach",
+    "name": "Eastbeach",
+    "z": 1,
+    "x": 135,
+    "y": 120,
+    "tileCount": 850,
+    "bounds": [
+      114,
+      105,
+      154,
+      132
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/varadero/interior/caves/east",
+    "name": "New Varadero - Beach Caves",
+    "z": 1,
+    "x": 139,
+    "y": 67,
+    "tileCount": 761,
+    "bounds": [
+      119,
+      38,
+      153,
+      93
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/varadero/interior/cargo",
+    "name": "New Varadero - Cargo",
+    "z": 1,
+    "x": 40,
+    "y": 127,
+    "tileCount": 531,
+    "bounds": [
+      29,
+      110,
+      56,
+      139
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/varadero/interior/maintenance",
+    "name": "New Varadero - Central Maintenance",
+    "z": 1,
+    "x": 76,
+    "y": 85,
+    "tileCount": 430,
+    "bounds": [
+      47,
+      69,
+      100,
+      101
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/varadero/interior_protected/caves/digsite",
+    "name": "New Varadero - Dig Site",
+    "z": 1,
+    "x": 180,
+    "y": 24,
+    "tileCount": 1205,
+    "bounds": [
+      147,
+      4,
+      210,
+      48
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/varadero/exterior/eastocean",
+    "name": "New Varadero - East Ocean",
+    "z": 1,
+    "x": 165,
+    "y": 90,
+    "tileCount": 720,
+    "bounds": [
+      151,
+      56,
+      178,
+      132
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/varadero/exterior/farocean",
+    "name": "New Varadero - Far Ocean",
+    "z": 1,
+    "x": 147,
+    "y": 126,
+    "tileCount": 4131,
+    "bounds": [
+      5,
+      37,
+      205,
+      179
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/varadero/interior_protected/caves/central",
+    "name": "New Varadero - Grass Caves",
+    "z": 1,
+    "x": 106,
+    "y": 26,
+    "tileCount": 2066,
+    "bounds": [
+      61,
+      4,
+      150,
+      53
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/varadero/interior/hall_N",
+    "name": "New Varadero - Hallway N",
+    "z": 1,
+    "x": 68,
+    "y": 106,
+    "tileCount": 539,
+    "bounds": [
+      40,
+      97,
+      104,
+      116
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/varadero/interior/hall_SE",
+    "name": "New Varadero - Hallway SE",
+    "z": 1,
+    "x": 93,
+    "y": 63,
+    "tileCount": 822,
+    "bounds": [
+      48,
+      36,
+      121,
+      102
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/varadero/exterior/pool",
+    "name": "New Varadero - Interior Pool",
+    "z": 1,
+    "x": 84,
+    "y": 84,
+    "tileCount": 40,
+    "bounds": [
+      80,
+      82,
+      88,
+      86
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/varadero/interior/medical",
+    "name": "New Varadero - Medical",
+    "z": 1,
+    "x": 59,
+    "y": 95,
+    "tileCount": 427,
+    "bounds": [
+      47,
+      85,
+      75,
+      102
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/varadero/exterior/monsoon",
+    "name": "New Varadero - Monsoon",
+    "z": 1,
+    "x": 157,
+    "y": 79,
+    "tileCount": 865,
+    "bounds": [
+      143,
+      49,
+      178,
+      113
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/varadero/interior/caves/north_research",
+    "name": "New Varadero - North Research Caves",
+    "z": 1,
+    "x": 23,
+    "y": 92,
+    "tileCount": 813,
+    "bounds": [
+      4,
+      62,
+      40,
+      111
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/varadero/interior/maintenance/north",
+    "name": "New Varadero - Northern Maintenance",
+    "z": 1,
+    "x": 72,
+    "y": 120,
+    "tileCount": 545,
+    "bounds": [
+      47,
+      107,
+      102,
+      132
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/varadero/interior/oob",
+    "name": "New Varadero - Out Of Bounds",
+    "z": 1,
+    "x": 78,
+    "y": 74,
+    "tileCount": 6706,
+    "bounds": [
+      1,
+      1,
+      220,
+      180
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/varadero/interior/maintenance/research",
+    "name": "New Varadero - Research Maintenance",
+    "z": 1,
+    "x": 21,
+    "y": 95,
+    "tileCount": 390,
+    "bounds": [
+      10,
+      80,
+      40,
+      115
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/varadero/interior/research",
+    "name": "New Varadero - Research Offices",
+    "z": 1,
+    "x": 22,
+    "y": 75,
+    "tileCount": 416,
+    "bounds": [
+      10,
+      67,
+      40,
+      88
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/varadero/exterior/pontoon_beach",
+    "name": "New Varadero - Rockabilly Beach",
+    "z": 1,
+    "x": 101,
+    "y": 147,
+    "tileCount": 2053,
+    "bounds": [
+      72,
+      113,
+      129,
+      173
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/varadero/interior/maintenance/security",
+    "name": "New Varadero - Security Maintenance",
+    "z": 1,
+    "x": 126,
+    "y": 75,
+    "tileCount": 863,
+    "bounds": [
+      105,
+      36,
+      144,
+      101
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/varadero/interior/security",
+    "name": "New Varadero - Security Offices",
+    "z": 1,
+    "x": 117,
+    "y": 70,
+    "tileCount": 587,
+    "bounds": [
+      105,
+      54,
+      134,
+      87
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/varadero/interior_protected/caves",
+    "name": "New Varadero - South Research Caves",
+    "z": 1,
+    "x": 40,
+    "y": 51,
+    "tileCount": 1126,
+    "bounds": [
+      13,
+      29,
+      60,
+      67
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/varadero/interior_protected/maintenance/south",
+    "name": "New Varadero - Southern Maintenance",
+    "z": 1,
+    "x": 92,
+    "y": 35,
+    "tileCount": 1082,
+    "bounds": [
+      58,
+      11,
+      134,
+      57
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/varadero/interior_protected/caves/swcaves",
+    "name": "New Varadero - Southwest Caves",
+    "z": 1,
+    "x": 28,
+    "y": 25,
+    "tileCount": 1084,
+    "bounds": [
+      6,
+      6,
+      74,
+      61
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/varadero/interior_protected/vessel",
+    "name": "New Varadero - Unknown Vessel",
+    "z": 1,
+    "x": 178,
+    "y": 22,
+    "tileCount": 888,
+    "bounds": [
+      155,
+      10,
+      203,
+      35
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/varadero/exterior/comms4",
+    "name": "New Varadero - Walkway Extension",
+    "z": 1,
+    "x": 23,
+    "y": 128,
+    "tileCount": 364,
+    "bounds": [
+      16,
+      116,
+      30,
+      143
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/varadero/interior/administration",
+    "name": "New Varadero - Administrative Offices",
+    "z": 1,
+    "x": 72,
+    "y": 76,
+    "tileCount": 342,
+    "bounds": [
+      62,
+      69,
+      85,
+      87
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/varadero/interior/court",
+    "name": "New Varadero - Basketball Court",
+    "z": 1,
+    "x": 92,
+    "y": 97,
+    "tileCount": 187,
+    "bounds": [
+      84,
+      92,
+      100,
+      102
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/varadero/interior/beach_bar",
+    "name": "New Varadero - Beach Bar",
+    "z": 1,
+    "x": 106,
+    "y": 152,
+    "tileCount": 72,
+    "bounds": [
+      100,
+      150,
+      111,
+      155
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/varadero/interior/comms1",
+    "name": "New Varadero - Cargo Generator",
+    "z": 1,
+    "x": 36,
+    "y": 142,
+    "tileCount": 80,
+    "bounds": [
+      28,
+      140,
+      43,
+      144
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/varadero/interior/comms2",
+    "name": "New Varadero - Communications Project Site",
+    "z": 1,
+    "x": 138,
+    "y": 100,
+    "tileCount": 98,
+    "bounds": [
+      132,
+      94,
+      143,
+      104
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/varadero/interior/disposals",
+    "name": "New Varadero - Disposals",
+    "z": 1,
+    "x": 60,
+    "y": 60,
+    "tileCount": 96,
+    "bounds": [
+      55,
+      57,
+      66,
+      64
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/varadero/interior/dock_control",
+    "name": "New Varadero - Dock Control",
+    "z": 1,
+    "x": 60,
+    "y": 164,
+    "tileCount": 25,
+    "bounds": [
+      58,
+      162,
+      62,
+      166
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/varadero/interior/electrical",
+    "name": "New Varadero - Electrical Annex",
+    "z": 1,
+    "x": 123,
+    "y": 103,
+    "tileCount": 294,
+    "bounds": [
+      114,
+      93,
+      132,
+      112
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/varadero/interior/comms3",
+    "name": "New Varadero - Engineering Communications",
+    "z": 1,
+    "x": 109,
+    "y": 107,
+    "tileCount": 89,
+    "bounds": [
+      105,
+      102,
+      113,
+      112
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/varadero/interior/hall_NW",
+    "name": "New Varadero - Hallway NW",
+    "z": 1,
+    "x": 43,
+    "y": 81,
+    "tileCount": 218,
+    "bounds": [
+      40,
+      64,
+      47,
+      97
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/varadero/interior/laundry",
+    "name": "New Varadero - Laundry",
+    "z": 1,
+    "x": 72,
+    "y": 60,
+    "tileCount": 80,
+    "bounds": [
+      67,
+      57,
+      76,
+      64
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/varadero/interior/bunks",
+    "name": "New Varadero - Level 1 Quarters",
+    "z": 1,
+    "x": 94,
+    "y": 74,
+    "tileCount": 120,
+    "bounds": [
+      89,
+      69,
+      100,
+      78
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/varadero/interior/library",
+    "name": "New Varadero - Library",
+    "z": 1,
+    "x": 91,
+    "y": 112,
+    "tileCount": 130,
+    "bounds": [
+      85,
+      107,
+      97,
+      116
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/varadero/interior/mess",
+    "name": "New Varadero - Mess Hall",
+    "z": 1,
+    "x": 96,
+    "y": 84,
+    "tileCount": 90,
+    "bounds": [
+      92,
+      79,
+      100,
+      88
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/varadero/interior/morgue",
+    "name": "New Varadero - Morgue",
+    "z": 1,
+    "x": 62,
+    "y": 111,
+    "tileCount": 99,
+    "bounds": [
+      57,
+      107,
+      67,
+      115
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/varadero/interior/records",
+    "name": "New Varadero - Records",
+    "z": 1,
+    "x": 113,
+    "y": 49,
+    "tileCount": 145,
+    "bounds": [
+      105,
+      44,
+      122,
+      57
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/varadero/interior/toilets",
+    "name": "New Varadero - Restrooms",
+    "z": 1,
+    "x": 127,
+    "y": 40,
+    "tileCount": 127,
+    "bounds": [
+      122,
+      34,
+      131,
+      46
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/varadero/interior/technical_storage",
+    "name": "New Varadero - Technical Storage",
+    "z": 1,
+    "x": 52,
+    "y": 75,
+    "tileCount": 156,
+    "bounds": [
+      47,
+      69,
+      58,
+      81
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/varadero/interior/chapel",
+    "name": "New Vardero - Chapel",
+    "z": 1,
+    "x": 52,
+    "y": 111,
+    "tileCount": 90,
+    "bounds": [
+      47,
+      107,
+      56,
+      115
+    ],
+    "category": "room"
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "id": "/area/mackay_station/bravo/blueengi",
+    "name": "Blue Engineering",
+    "z": 1,
+    "x": 489,
+    "y": 210,
+    "tileCount": 1630,
+    "bounds": [
+      457,
+      184,
+      527,
+      247
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/mackay_station/bravo/bluetram",
+    "name": "Blue Tram Station",
+    "z": 1,
+    "x": 460,
+    "y": 213,
+    "tileCount": 996,
+    "bounds": [
+      434,
+      201,
+      489,
+      225
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/mackay_station/bravo/bluebridge",
+    "name": "Bluebridge",
+    "z": 1,
+    "x": 451,
+    "y": 241,
+    "tileCount": 1409,
+    "bounds": [
+      430,
+      223,
+      474,
+      259
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/mackay_station/firecontrol",
+    "name": "Fire Control",
+    "z": 1,
+    "x": 274,
+    "y": 253,
+    "tileCount": 1274,
+    "bounds": [
+      255,
+      182,
+      293,
+      282
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/mackay_station/golf/greenarmory",
+    "name": "Green Armory",
+    "z": 1,
+    "x": 80,
+    "y": 277,
+    "tileCount": 499,
+    "bounds": [
+      69,
+      259,
+      91,
+      292
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/mackay_station/golf/greenquarters1",
+    "name": "Green Dorms 1",
+    "z": 1,
+    "x": 46,
+    "y": 216,
+    "tileCount": 1149,
+    "bounds": [
+      19,
+      197,
+      73,
+      231
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/mackay_station/golf/greenquarters2",
+    "name": "Green Dorms 2",
+    "z": 1,
+    "x": 44,
+    "y": 266,
+    "tileCount": 1038,
+    "bounds": [
+      19,
+      250,
+      75,
+      284
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/mackay_station/golf/greenmedical",
+    "name": "Green Medical",
+    "z": 1,
+    "x": 109,
+    "y": 250,
+    "tileCount": 1428,
+    "bounds": [
+      92,
+      223,
+      125,
+      275
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/mackay_station/golf/greenrec",
+    "name": "Green Recreation",
+    "z": 1,
+    "x": 62,
+    "y": 241,
+    "tileCount": 1083,
+    "bounds": [
+      29,
+      223,
+      91,
+      259
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/mackay_station/golf/greentram",
+    "name": "Greentram",
+    "z": 1,
+    "x": 91,
+    "y": 211,
+    "tileCount": 611,
+    "bounds": [
+      73,
+      201,
+      110,
+      223
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/mackay_station/pathways",
+    "name": "Pathways",
+    "z": 1,
+    "x": 247,
+    "y": 220,
+    "tileCount": 8370,
+    "bounds": [
+      111,
+      45,
+      433,
+      297
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/mackay_station/romeo/redcommons1",
+    "name": "Red Commons 1",
+    "z": 1,
+    "x": 206,
+    "y": 141,
+    "tileCount": 1350,
+    "bounds": [
+      185,
+      119,
+      231,
+      161
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/mackay_station/romeo/redcommons2",
+    "name": "Red Commons 2",
+    "z": 1,
+    "x": 337,
+    "y": 139,
+    "tileCount": 1188,
+    "bounds": [
+      310,
+      119,
+      359,
+      153
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/mackay_station/romeo/redtram1",
+    "name": "Red Tram Station 1",
+    "z": 1,
+    "x": 187,
+    "y": 109,
+    "tileCount": 1682,
+    "bounds": [
+      167,
+      75,
+      208,
+      146
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/mackay_station/romeo/redtram2",
+    "name": "Red Tram Station 2",
+    "z": 1,
+    "x": 356,
+    "y": 108,
+    "tileCount": 1742,
+    "bounds": [
+      336,
+      75,
+      377,
+      146
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/mackay_station/romeo/redhangars",
+    "name": "Redhangars",
+    "z": 1,
+    "x": 272,
+    "y": 88,
+    "tileCount": 7507,
+    "bounds": [
+      205,
+      18,
+      339,
+      125
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/mackay_station/elevator/tram_bravo",
+    "name": "Bravo Exit",
+    "z": 1,
+    "x": 438,
+    "y": 206,
+    "tileCount": 28,
+    "bounds": [
+      435,
+      205,
+      441,
+      208
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/mackay_station/elevator/tram_bravo/exit",
+    "name": "Fire Control Elevator",
+    "z": 1,
+    "x": 373,
+    "y": 140,
+    "tileCount": 28,
+    "bounds": [
+      370,
+      139,
+      376,
+      142
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/mackay_station/elevator/fire_control/entry",
+    "name": "Fire Control Elevator Entry",
+    "z": 1,
+    "x": 258,
+    "y": 234,
+    "tileCount": 36,
+    "bounds": [
+      256,
+      231,
+      261,
+      236
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/mackay_station/elevator/fire_control/exit",
+    "name": "Hangar Elevator",
+    "z": 1,
+    "x": 268,
+    "y": 254,
+    "tileCount": 36,
+    "bounds": [
+      266,
+      251,
+      271,
+      256
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/mackay_station/elevator/hangar/entry",
+    "name": "Hangar Elevator Entry",
+    "z": 1,
+    "x": 272,
+    "y": 188,
+    "tileCount": 156,
+    "bounds": [
+      266,
+      183,
+      278,
+      194
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/mackay_station/elevator/tram_golf/entry",
+    "name": "Sector Golf Tram Entry",
+    "z": 1,
+    "x": 106,
+    "y": 206,
+    "tileCount": 28,
+    "bounds": [
+      103,
+      205,
+      109,
+      208
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/mackay_station/elevator/tram_romeo/entry",
+    "name": "Sector Romeo Tram Entry",
+    "z": 1,
+    "x": 180,
+    "y": 140,
+    "tileCount": 28,
+    "bounds": [
+      177,
+      139,
+      183,
+      142
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/mackay_station/elevator/tram_romeo/exit",
+    "name": "Tram Bravo",
+    "z": 1,
+    "x": 364,
+    "y": 140,
+    "tileCount": 28,
+    "bounds": [
+      361,
+      139,
+      367,
+      142
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/mackay_station/elevator/hangar/exit",
+    "name": "Tram Call",
+    "z": 1,
+    "x": 272,
+    "y": 90,
+    "tileCount": 156,
+    "bounds": [
+      266,
+      85,
+      278,
+      96
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/mackay_station/elevator/tram_golf/exit",
+    "name": "Tram Romeo",
+    "z": 1,
+    "x": 171,
+    "y": 140,
+    "tileCount": 28,
+    "bounds": [
+      168,
+      139,
+      174,
+      142
+    ],
+    "category": "room"
+  }
+]

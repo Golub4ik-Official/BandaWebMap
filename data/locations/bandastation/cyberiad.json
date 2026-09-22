@@ -1,0 +1,3242 @@
+[
+  {
+    "id": "/area/station/construction/mining/aux_base",
+    "name": "mining shuttle beacon",
+    "z": 1,
+    "x": 52,
+    "y": 150,
+    "tileCount": 140,
+    "bounds": [
+      47,
+      144,
+      56,
+      157
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/station/maintenance/aft",
+    "name": "Aft Maintenance",
+    "z": 2,
+    "x": 151,
+    "y": 78,
+    "tileCount": 956,
+    "bounds": [
+      113,
+      50,
+      178,
+      110
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/station/maintenance/port/aft",
+    "name": "Aft Port Maintenance",
+    "z": 2,
+    "x": 81,
+    "y": 98,
+    "tileCount": 746,
+    "bounds": [
+      51,
+      82,
+      104,
+      111
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/station/maintenance/starboard/aft",
+    "name": "Aft Starboard Maintenance",
+    "z": 2,
+    "x": 196,
+    "y": 82,
+    "tileCount": 1139,
+    "bounds": [
+      177,
+      53,
+      213,
+      122
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/station/hallway/secondary/entry",
+    "name": "Arrival Shuttle Hallway",
+    "z": 2,
+    "x": 42,
+    "y": 138,
+    "tileCount": 510,
+    "bounds": [
+      29,
+      119,
+      59,
+      157
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/station/engineering/atmos",
+    "name": "Atmospherics",
+    "z": 2,
+    "x": 116,
+    "y": 51,
+    "tileCount": 650,
+    "bounds": [
+      99,
+      40,
+      131,
+      65
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/station/hallway/secondary/exit/departure_lounge",
+    "name": "Departure Lounge",
+    "z": 2,
+    "x": 210,
+    "y": 130,
+    "tileCount": 391,
+    "bounds": [
+      198,
+      120,
+      221,
+      140
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/station/maintenance/fore",
+    "name": "Fore Maintenance",
+    "z": 2,
+    "x": 136,
+    "y": 167,
+    "tileCount": 353,
+    "bounds": [
+      113,
+      152,
+      153,
+      182
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/station/maintenance/port/fore",
+    "name": "Fore Port Maintenance",
+    "z": 2,
+    "x": 91,
+    "y": 154,
+    "tileCount": 352,
+    "bounds": [
+      75,
+      143,
+      109,
+      164
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/station/maintenance/starboard/fore",
+    "name": "Fore Starboard Maintenance",
+    "z": 2,
+    "x": 172,
+    "y": 156,
+    "tileCount": 911,
+    "bounds": [
+      152,
+      135,
+      197,
+      172
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/station/maintenance/ghetto/aft",
+    "name": "Ghetto Aft Maintenance",
+    "z": 1,
+    "x": 157,
+    "y": 88,
+    "tileCount": 538,
+    "bounds": [
+      128,
+      68,
+      182,
+      104
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/station/maintenance/ghetto/port/aft",
+    "name": "Ghetto Aft Port Maintenance",
+    "z": 1,
+    "x": 74,
+    "y": 96,
+    "tileCount": 483,
+    "bounds": [
+      51,
+      83,
+      101,
+      107
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/station/maintenance/ghetto/auxiliary",
+    "name": "Ghetto Auxiliary Dock",
+    "z": 1,
+    "x": 136,
+    "y": 68,
+    "tileCount": 400,
+    "bounds": [
+      123,
+      51,
+      150,
+      79
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/station/maintenance/ghetto/central/fore",
+    "name": "Ghetto Central Fore Maintenance",
+    "z": 1,
+    "x": 109,
+    "y": 144,
+    "tileCount": 362,
+    "bounds": [
+      92,
+      128,
+      129,
+      156
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/station/maintenance/ghetto/central",
+    "name": "Ghetto Central Maintenance",
+    "z": 1,
+    "x": 111,
+    "y": 111,
+    "tileCount": 542,
+    "bounds": [
+      89,
+      98,
+      131,
+      133
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/station/maintenance/ghetto/fore/starboard",
+    "name": "Ghetto Fore Starboard Maintenance",
+    "z": 1,
+    "x": 170,
+    "y": 157,
+    "tileCount": 1108,
+    "bounds": [
+      137,
+      137,
+      199,
+      174
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/station/maintenance/ghetto/port",
+    "name": "Ghetto Port Maintenance",
+    "z": 1,
+    "x": 70,
+    "y": 136,
+    "tileCount": 561,
+    "bounds": [
+      51,
+      121,
+      90,
+      148
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/station/maintenance/ghetto/starboard",
+    "name": "Ghetto Starboard Maintenance",
+    "z": 1,
+    "x": 178,
+    "y": 117,
+    "tileCount": 623,
+    "bounds": [
+      157,
+      93,
+      198,
+      136
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/station/maintenance/port/greater",
+    "name": "Greater Port Maintenance",
+    "z": 2,
+    "x": 61,
+    "y": 157,
+    "tileCount": 427,
+    "bounds": [
+      42,
+      149,
+      76,
+      166
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/station/maintenance/port",
+    "name": "Port Maintenance",
+    "z": 2,
+    "x": 64,
+    "y": 125,
+    "tileCount": 396,
+    "bounds": [
+      50,
+      109,
+      87,
+      139
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/station/security/prison",
+    "name": "Prison Wing",
+    "z": 2,
+    "x": 75,
+    "y": 177,
+    "tileCount": 450,
+    "bounds": [
+      62,
+      162,
+      90,
+      189
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/station/maintenance/department/security/ghetto/aft",
+    "name": "Security Maintenance Aft Lower Floor",
+    "z": 1,
+    "x": 121,
+    "y": 164,
+    "tileCount": 351,
+    "bounds": [
+      90,
+      152,
+      152,
+      173
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/station/maintenance/starboard/upper",
+    "name": "Upper Starboard Maintenance",
+    "z": 2,
+    "x": 168,
+    "y": 100,
+    "tileCount": 603,
+    "bounds": [
+      152,
+      82,
+      182,
+      127
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/station/ai/satellite/interior",
+    "name": "AI Satellite Antechamber",
+    "z": 2,
+    "x": 158,
+    "y": 47,
+    "tileCount": 107,
+    "bounds": [
+      154,
+      39,
+      164,
+      54
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/ai/satellite/atmos",
+    "name": "AI Satellite Atmospherics",
+    "z": 2,
+    "x": 153,
+    "y": 41,
+    "tileCount": 30,
+    "bounds": [
+      151,
+      38,
+      155,
+      44
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/ai/satellite/hallway",
+    "name": "AI Satellite Hallway",
+    "z": 2,
+    "x": 158,
+    "y": 33,
+    "tileCount": 52,
+    "bounds": [
+      155,
+      29,
+      161,
+      38
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/ai/satellite/maintenance",
+    "name": "AI Satellite Maintenance",
+    "z": 2,
+    "x": 158,
+    "y": 31,
+    "tileCount": 100,
+    "bounds": [
+      152,
+      24,
+      164,
+      38
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/ai/satellite/service",
+    "name": "AI Satellite Service",
+    "z": 2,
+    "x": 163,
+    "y": 41,
+    "tileCount": 30,
+    "bounds": [
+      161,
+      38,
+      165,
+      44
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/ai/upload/chamber",
+    "name": "AI Upload Chamber",
+    "z": 2,
+    "x": 111,
+    "y": 129,
+    "tileCount": 70,
+    "bounds": [
+      107,
+      126,
+      115,
+      133
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/service/kitchen/abandoned",
+    "name": "Abandoned Kitchen",
+    "z": 2,
+    "x": 187,
+    "y": 167,
+    "tileCount": 145,
+    "bounds": [
+      176,
+      163,
+      197,
+      170
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/hallway/primary/central/aft",
+    "name": "Aft Central Primary Hallway",
+    "z": 2,
+    "x": 99,
+    "y": 118,
+    "tileCount": 132,
+    "bounds": [
+      94,
+      110,
+      111,
+      132
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/medical/surgery/aft",
+    "name": "Aft Operating Room",
+    "z": 2,
+    "x": 146,
+    "y": 101,
+    "tileCount": 69,
+    "bounds": [
+      142,
+      97,
+      149,
+      105
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/hallway/primary/aft",
+    "name": "Aft Primary Hallway",
+    "z": 2,
+    "x": 110,
+    "y": 97,
+    "tileCount": 163,
+    "bounds": [
+      104,
+      88,
+      117,
+      110
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/security/armory",
+    "name": "Armory",
+    "z": 2,
+    "x": 114,
+    "y": 191,
+    "tileCount": 91,
+    "bounds": [
+      109,
+      186,
+      118,
+      195
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/security/checkpoint/arrivals",
+    "name": "Arrivals Security Checkpoint",
+    "z": 2,
+    "x": 52,
+    "y": 147,
+    "tileCount": 29,
+    "bounds": [
+      49,
+      145,
+      55,
+      149
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/service/library/artgallery",
+    "name": "Art Gallery",
+    "z": 1,
+    "x": 166,
+    "y": 136,
+    "tileCount": 60,
+    "bounds": [
+      164,
+      131,
+      169,
+      140
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/commons/storage/art",
+    "name": "Art Supply Storage",
+    "z": 2,
+    "x": 89,
+    "y": 146,
+    "tileCount": 18,
+    "bounds": [
+      88,
+      143,
+      90,
+      148
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/engineering/atmos/storage/gas",
+    "name": "Atmospherics Gas Storage",
+    "z": 2,
+    "x": 109,
+    "y": 62,
+    "tileCount": 66,
+    "bounds": [
+      104,
+      60,
+      114,
+      65
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/engineering/atmos/hfr_room",
+    "name": "Atmospherics HFR Room",
+    "z": 2,
+    "x": 141,
+    "y": 54,
+    "tileCount": 117,
+    "bounds": [
+      136,
+      49,
+      146,
+      59
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/maintenance/department/engine/atmos",
+    "name": "Atmospherics Maintenance",
+    "z": 2,
+    "x": 93,
+    "y": 57,
+    "tileCount": 95,
+    "bounds": [
+      85,
+      53,
+      101,
+      63
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/engineering/atmos/mix/ghetto",
+    "name": "Atmospherics Mixing Room Lower Floor",
+    "z": 1,
+    "x": 110,
+    "y": 58,
+    "tileCount": 282,
+    "bounds": [
+      100,
+      47,
+      119,
+      67
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/engineering/atmos/project",
+    "name": "Atmospherics Project Room",
+    "z": 2,
+    "x": 141,
+    "y": 64,
+    "tileCount": 213,
+    "bounds": [
+      132,
+      58,
+      151,
+      70
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/engineering/atmos/pumproom",
+    "name": "Atmospherics Pumping Room",
+    "z": 2,
+    "x": 132,
+    "y": 55,
+    "tileCount": 42,
+    "bounds": [
+      130,
+      52,
+      135,
+      58
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/service/bar",
+    "name": "Bar",
+    "z": 2,
+    "x": 137,
+    "y": 145,
+    "tileCount": 69,
+    "bounds": [
+      133,
+      142,
+      142,
+      149
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/service/bar/atrium/ghetto",
+    "name": "Bar Atrium Lower Floor",
+    "z": 1,
+    "x": 136,
+    "y": 133,
+    "tileCount": 217,
+    "bounds": [
+      129,
+      125,
+      143,
+      141
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/service/bar/backroom/ghetto",
+    "name": "Bar Backroom Lower Floor",
+    "z": 1,
+    "x": 136,
+    "y": 146,
+    "tileCount": 57,
+    "bounds": [
+      133,
+      142,
+      139,
+      151
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/commons/lounge",
+    "name": "Bar Lounge",
+    "z": 2,
+    "x": 134,
+    "y": 136,
+    "tileCount": 136,
+    "bounds": [
+      129,
+      131,
+      140,
+      142
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/cargo/bitrunning/den",
+    "name": "Bitrunning Den",
+    "z": 1,
+    "x": 71,
+    "y": 112,
+    "tileCount": 25,
+    "bounds": [
+      69,
+      110,
+      73,
+      114
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/command/heads_quarters/blueshield",
+    "name": "Blueshield's Office",
+    "z": 2,
+    "x": 116,
+    "y": 107,
+    "tileCount": 46,
+    "bounds": [
+      113,
+      104,
+      121,
+      110
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/command/bridge",
+    "name": "Bridge",
+    "z": 2,
+    "x": 111,
+    "y": 130,
+    "tileCount": 251,
+    "bounds": [
+      100,
+      115,
+      122,
+      139
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/security/brig",
+    "name": "Brig",
+    "z": 2,
+    "x": 112,
+    "y": 176,
+    "tileCount": 293,
+    "bounds": [
+      91,
+      164,
+      140,
+      180
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/security/warden",
+    "name": "Brig Control",
+    "z": 2,
+    "x": 108,
+    "y": 184,
+    "tileCount": 60,
+    "bounds": [
+      104,
+      181,
+      113,
+      186
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/security/brig/entrance",
+    "name": "Brig Entrance",
+    "z": 2,
+    "x": 107,
+    "y": 172,
+    "tileCount": 72,
+    "bounds": [
+      101,
+      167,
+      112,
+      176
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/maintenance/department/security/ghetto",
+    "name": "Brig Lower Floor",
+    "z": 1,
+    "x": 113,
+    "y": 174,
+    "tileCount": 289,
+    "bounds": [
+      103,
+      166,
+      124,
+      181
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/service/cafeteria",
+    "name": "Cafeteria",
+    "z": 2,
+    "x": 116,
+    "y": 146,
+    "tileCount": 45,
+    "bounds": [
+      113,
+      143,
+      119,
+      149
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/command/heads_quarters/captain",
+    "name": "Captain",
+    "z": 2,
+    "x": 122,
+    "y": 127,
+    "tileCount": 80,
+    "bounds": [
+      118,
+      120,
+      125,
+      132
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/command/heads_quarters/captain/private",
+    "name": "Captain's Quarters",
+    "z": 2,
+    "x": 120,
+    "y": 122,
+    "tileCount": 28,
+    "bounds": [
+      117,
+      120,
+      123,
+      123
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/cargo/storage",
+    "name": "Cargo Bay",
+    "z": 2,
+    "x": 74,
+    "y": 118,
+    "tileCount": 198,
+    "bounds": [
+      67,
+      110,
+      82,
+      126
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/cargo/storage/ghetto/depot",
+    "name": "Cargo Bay Depot Lower Floor",
+    "z": 1,
+    "x": 81,
+    "y": 124,
+    "tileCount": 44,
+    "bounds": [
+      78,
+      121,
+      84,
+      127
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/cargo/storage/ghetto",
+    "name": "Cargo Bay Lower Floor",
+    "z": 1,
+    "x": 74,
+    "y": 121,
+    "tileCount": 78,
+    "bounds": [
+      71,
+      115,
+      79,
+      127
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/cargo/lobby",
+    "name": "Cargo Lobby",
+    "z": 2,
+    "x": 91,
+    "y": 118,
+    "tileCount": 30,
+    "bounds": [
+      89,
+      116,
+      93,
+      121
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/cargo/office",
+    "name": "Cargo Office",
+    "z": 2,
+    "x": 85,
+    "y": 116,
+    "tileCount": 82,
+    "bounds": [
+      83,
+      107,
+      88,
+      124
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/hallway/primary/central",
+    "name": "Central Primary Hallway",
+    "z": 2,
+    "x": 124,
+    "y": 118,
+    "tileCount": 109,
+    "bounds": [
+      112,
+      111,
+      128,
+      132
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/service/chapel/office",
+    "name": "Chapel Office",
+    "z": 1,
+    "x": 181,
+    "y": 146,
+    "tileCount": 71,
+    "bounds": [
+      177,
+      142,
+      185,
+      150
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/medical/chemistry/ghetto",
+    "name": "Chemistry Lower Floor",
+    "z": 1,
+    "x": 137,
+    "y": 112,
+    "tileCount": 268,
+    "bounds": [
+      129,
+      104,
+      145,
+      119
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/command/heads_quarters/ce",
+    "name": "Chief Engineer's Office",
+    "z": 2,
+    "x": 124,
+    "y": 67,
+    "tileCount": 101,
+    "bounds": [
+      117,
+      64,
+      132,
+      70
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/science/circuits",
+    "name": "Circuit Lab",
+    "z": 2,
+    "x": 180,
+    "y": 97,
+    "tileCount": 54,
+    "bounds": [
+      177,
+      92,
+      182,
+      101
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/engineering/break_room",
+    "name": "Confiscated Contraband",
+    "z": 2,
+    "x": 126,
+    "y": 78,
+    "tileCount": 95,
+    "bounds": [
+      122,
+      73,
+      134,
+      83
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/construction",
+    "name": "Construction Area",
+    "z": 2,
+    "x": 103,
+    "y": 99,
+    "tileCount": 47,
+    "bounds": [
+      100,
+      95,
+      105,
+      102
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/security/courtroom",
+    "name": "Courtroom",
+    "z": 2,
+    "x": 100,
+    "y": 160,
+    "tileCount": 135,
+    "bounds": [
+      93,
+      155,
+      108,
+      166
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/security/courtroom/holding",
+    "name": "Courtroom Prisoner Holding Room",
+    "z": 2,
+    "x": 126,
+    "y": 174,
+    "tileCount": 56,
+    "bounds": [
+      122,
+      171,
+      129,
+      177
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/medical/cryo",
+    "name": "Cryogenics",
+    "z": 2,
+    "x": 154,
+    "y": 115,
+    "tileCount": 30,
+    "bounds": [
+      152,
+      113,
+      157,
+      117
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/common/cryopods",
+    "name": "Cryopods Room",
+    "z": 2,
+    "x": 115,
+    "y": 154,
+    "tileCount": 20,
+    "bounds": [
+      113,
+      152,
+      117,
+      155
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/service/janitor",
+    "name": "Custodial Closet",
+    "z": 2,
+    "x": 117,
+    "y": 96,
+    "tileCount": 48,
+    "bounds": [
+      113,
+      94,
+      123,
+      99
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/security/checkpoint/customs",
+    "name": "Customs",
+    "z": 2,
+    "x": 122,
+    "y": 192,
+    "tileCount": 49,
+    "bounds": [
+      119,
+      189,
+      125,
+      195
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/cargo/sorting",
+    "name": "Delivery Office",
+    "z": 2,
+    "x": 90,
+    "y": 127,
+    "tileCount": 88,
+    "bounds": [
+      86,
+      122,
+      93,
+      132
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/security/detectives_office",
+    "name": "Detective's Office",
+    "z": 2,
+    "x": 120,
+    "y": 163,
+    "tileCount": 56,
+    "bounds": [
+      115,
+      160,
+      126,
+      166
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/commons/dorms",
+    "name": "Dormitories",
+    "z": 2,
+    "x": 134,
+    "y": 152,
+    "tileCount": 261,
+    "bounds": [
+      113,
+      143,
+      151,
+      168
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/commons/dorms/apartment1",
+    "name": "Dorms Apartment 1",
+    "z": 2,
+    "x": 150,
+    "y": 165,
+    "tileCount": 72,
+    "bounds": [
+      145,
+      158,
+      154,
+      169
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/cargo/drone_bay/ghetto",
+    "name": "Drone Bay Lower Floor",
+    "z": 1,
+    "x": 99,
+    "y": 105,
+    "tileCount": 99,
+    "bounds": [
+      95,
+      100,
+      103,
+      110
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/engineering/dronefabricator",
+    "name": "Drone Fabricator",
+    "z": 2,
+    "x": 101,
+    "y": 89,
+    "tileCount": 32,
+    "bounds": [
+      99,
+      86,
+      104,
+      91
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/command/eva",
+    "name": "EVA Storage",
+    "z": 2,
+    "x": 104,
+    "y": 146,
+    "tileCount": 65,
+    "bounds": [
+      100,
+      143,
+      109,
+      151
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/maintenance/department/electrical",
+    "name": "Electrical Maintenance",
+    "z": 2,
+    "x": 145,
+    "y": 121,
+    "tileCount": 143,
+    "bounds": [
+      91,
+      82,
+      199,
+      162
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/maintenance/department/electrical/ghetto",
+    "name": "Electrical Maintenance Lower Floor",
+    "z": 1,
+    "x": 98,
+    "y": 92,
+    "tileCount": 124,
+    "bounds": [
+      94,
+      85,
+      103,
+      99
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/commons/storage/emergency",
+    "name": "Emergency",
+    "z": 2,
+    "x": 82,
+    "y": 136,
+    "tileCount": 46,
+    "bounds": [
+      79,
+      133,
+      86,
+      139
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/engineering/main",
+    "name": "Engineering",
+    "z": 2,
+    "x": 108,
+    "y": 76,
+    "tileCount": 94,
+    "bounds": [
+      101,
+      73,
+      114,
+      79
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/engineering/hallway/west",
+    "name": "Engineering Hallway West",
+    "z": 2,
+    "x": 94,
+    "y": 71,
+    "tileCount": 167,
+    "bounds": [
+      89,
+      59,
+      101,
+      82
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/maintenance/department/engine",
+    "name": "Engineering Maintenance",
+    "z": 2,
+    "x": 138,
+    "y": 76,
+    "tileCount": 59,
+    "bounds": [
+      131,
+      74,
+      147,
+      78
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/engineering/engine_smes",
+    "name": "Engineering SMES",
+    "z": 2,
+    "x": 109,
+    "y": 68,
+    "tileCount": 55,
+    "bounds": [
+      104,
+      66,
+      114,
+      70
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/engineering/storage",
+    "name": "Engineering Storage",
+    "z": 2,
+    "x": 101,
+    "y": 64,
+    "tileCount": 68,
+    "bounds": [
+      97,
+      59,
+      103,
+      70
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/security/evidence",
+    "name": "Evidence Storage",
+    "z": 2,
+    "x": 133,
+    "y": 175,
+    "tileCount": 35,
+    "bounds": [
+      130,
+      173,
+      136,
+      177
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/commons/fitness",
+    "name": "Fitness Room",
+    "z": 2,
+    "x": 147,
+    "y": 161,
+    "tileCount": 28,
+    "bounds": [
+      145,
+      158,
+      149,
+      163
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/hallway/primary/central/fore",
+    "name": "Fore Central Primary Hallway",
+    "z": 2,
+    "x": 110,
+    "y": 139,
+    "tileCount": 210,
+    "bounds": [
+      92,
+      133,
+      128,
+      145
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/medical/surgery/fore",
+    "name": "Fore Operating Room",
+    "z": 2,
+    "x": 138,
+    "y": 101,
+    "tileCount": 60,
+    "bounds": [
+      135,
+      97,
+      142,
+      105
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/hallway/primary/fore",
+    "name": "Fore Primary Hallway",
+    "z": 2,
+    "x": 111,
+    "y": 157,
+    "tileCount": 82,
+    "bounds": [
+      109,
+      146,
+      114,
+      166
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/service/hydroponics/garden",
+    "name": "Garden",
+    "z": 2,
+    "x": 60,
+    "y": 147,
+    "tileCount": 67,
+    "bounds": [
+      56,
+      143,
+      64,
+      151
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/command/gateway",
+    "name": "Gateway",
+    "z": 2,
+    "x": 94,
+    "y": 146,
+    "tileCount": 38,
+    "bounds": [
+      92,
+      143,
+      96,
+      150
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/science/genetics",
+    "name": "Genetics Lab",
+    "z": 2,
+    "x": 196,
+    "y": 122,
+    "tileCount": 51,
+    "bounds": [
+      194,
+      117,
+      199,
+      127
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/maintenance/ghetto/garden",
+    "name": "Ghetto Abandoned Garden",
+    "z": 1,
+    "x": 181,
+    "y": 113,
+    "tileCount": 322,
+    "bounds": [
+      173,
+      104,
+      189,
+      122
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/maintenance/department/medical/ghetto",
+    "name": "Ghetto Abandoned Medbay",
+    "z": 1,
+    "x": 126,
+    "y": 149,
+    "tileCount": 194,
+    "bounds": [
+      118,
+      139,
+      132,
+      156
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/maintenance/department/medical/ghetto/central",
+    "name": "Ghetto Abandoned Medbay Entrance",
+    "z": 1,
+    "x": 118,
+    "y": 160,
+    "tileCount": 124,
+    "bounds": [
+      111,
+      156,
+      125,
+      164
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/maintenance/department/medical/ghetto/morgue",
+    "name": "Ghetto Abandoned Medbay Morgue",
+    "z": 1,
+    "x": 128,
+    "y": 160,
+    "tileCount": 42,
+    "bounds": [
+      126,
+      157,
+      131,
+      163
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/maintenance/ghetto/central/aft",
+    "name": "Ghetto Central Aft Maintenance",
+    "z": 1,
+    "x": 104,
+    "y": 83,
+    "tileCount": 151,
+    "bounds": [
+      100,
+      66,
+      107,
+      108
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/maintenance/ghetto/port/greater",
+    "name": "Ghetto Greater Port Maintenance",
+    "z": 1,
+    "x": 67,
+    "y": 154,
+    "tileCount": 244,
+    "bounds": [
+      47,
+      149,
+      94,
+      164
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/maintenance/ghetto/storage",
+    "name": "Ghetto Warehouse",
+    "z": 1,
+    "x": 117,
+    "y": 88,
+    "tileCount": 340,
+    "bounds": [
+      109,
+      76,
+      125,
+      99
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/maintenance/ghetto/sorting",
+    "name": "Ghetto Warehouse Sorting Line",
+    "z": 1,
+    "x": 134,
+    "y": 83,
+    "tileCount": 126,
+    "bounds": [
+      125,
+      79,
+      142,
+      86
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/medical/surgery/theatre",
+    "name": "Grand Surgery Theatre",
+    "z": 2,
+    "x": 142,
+    "y": 108,
+    "tileCount": 56,
+    "bounds": [
+      136,
+      106,
+      149,
+      109
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/engineering/gravity_generator",
+    "name": "Gravity Generator Room",
+    "z": 2,
+    "x": 144,
+    "y": 81,
+    "tileCount": 103,
+    "bounds": [
+      138,
+      77,
+      151,
+      84
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/engineering/hallway",
+    "name": "Hallway",
+    "z": 2,
+    "x": 119,
+    "y": 76,
+    "tileCount": 220,
+    "bounds": [
+      99,
+      66,
+      143,
+      88
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/command/heads_quarters/hop",
+    "name": "Head of Personnel's Office",
+    "z": 2,
+    "x": 103,
+    "y": 118,
+    "tileCount": 90,
+    "bounds": [
+      99,
+      114,
+      109,
+      123
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/command/heads_quarters/hos",
+    "name": "Head of Security's Office",
+    "z": 2,
+    "x": 137,
+    "y": 187,
+    "tileCount": 91,
+    "bounds": [
+      134,
+      181,
+      140,
+      193
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/command/meeting_room",
+    "name": "Heads of Staff Meeting Room",
+    "z": 2,
+    "x": 100,
+    "y": 128,
+    "tileCount": 74,
+    "bounds": [
+      97,
+      123,
+      104,
+      132
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/security/holding_cell",
+    "name": "Holding Cell",
+    "z": 2,
+    "x": 116,
+    "y": 169,
+    "tileCount": 44,
+    "bounds": [
+      113,
+      166,
+      119,
+      172
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/service/hydroponics",
+    "name": "Hydroponics",
+    "z": 2,
+    "x": 157,
+    "y": 137,
+    "tileCount": 169,
+    "bounds": [
+      149,
+      131,
+      162,
+      145
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/service/hydroponics/ghetto",
+    "name": "Hydroponics Lower Floor",
+    "z": 1,
+    "x": 152,
+    "y": 140,
+    "tileCount": 84,
+    "bounds": [
+      149,
+      134,
+      155,
+      145
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/security/interrogation/ghetto",
+    "name": "In-Depth Interrogation Room Lower Floor",
+    "z": 1,
+    "x": 98,
+    "y": 173,
+    "tileCount": 83,
+    "bounds": [
+      92,
+      169,
+      102,
+      177
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/maintenance/disposal/incinerator",
+    "name": "Incinerator",
+    "z": 2,
+    "x": 94,
+    "y": 48,
+    "tileCount": 111,
+    "bounds": [
+      89,
+      40,
+      97,
+      54
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/security/interrogation",
+    "name": "Interrogation Room",
+    "z": 2,
+    "x": 126,
+    "y": 168,
+    "tileCount": 32,
+    "bounds": [
+      122,
+      167,
+      129,
+      170
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/service/kitchen",
+    "name": "Kitchen",
+    "z": 2,
+    "x": 146,
+    "y": 136,
+    "tileCount": 91,
+    "bounds": [
+      141,
+      131,
+      153,
+      140
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/service/kitchen/kitchen_backroom",
+    "name": "Kitchen Backroom",
+    "z": 2,
+    "x": 145,
+    "y": 142,
+    "tileCount": 50,
+    "bounds": [
+      141,
+      140,
+      149,
+      145
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/service/kitchen/kitchen_backroom/ghetto",
+    "name": "Kitchen Backroom Lower Floor",
+    "z": 1,
+    "x": 144,
+    "y": 144,
+    "tileCount": 54,
+    "bounds": [
+      140,
+      141,
+      148,
+      146
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/service/kitchen/coldroom/ghetto",
+    "name": "Kitchen Cold Room Lower Floor",
+    "z": 1,
+    "x": 146,
+    "y": 136,
+    "tileCount": 47,
+    "bounds": [
+      144,
+      132,
+      149,
+      140
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/security/processing",
+    "name": "Labor Shuttle Dock",
+    "z": 2,
+    "x": 96,
+    "y": 183,
+    "tileCount": 90,
+    "bounds": [
+      87,
+      181,
+      103,
+      186
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/service/lawoffice",
+    "name": "Law Office",
+    "z": 2,
+    "x": 98,
+    "y": 172,
+    "tileCount": 72,
+    "bounds": [
+      95,
+      167,
+      101,
+      177
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/service/library",
+    "name": "Library",
+    "z": 2,
+    "x": 172,
+    "y": 138,
+    "tileCount": 149,
+    "bounds": [
+      167,
+      131,
+      178,
+      146
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/service/library/ghetto",
+    "name": "Library Lower Floor",
+    "z": 1,
+    "x": 172,
+    "y": 139,
+    "tileCount": 138,
+    "bounds": [
+      166,
+      131,
+      178,
+      147
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/engineering/lobby",
+    "name": "Lobby",
+    "z": 2,
+    "x": 111,
+    "y": 86,
+    "tileCount": 40,
+    "bounds": [
+      109,
+      82,
+      113,
+      89
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/commons/locker",
+    "name": "Locker Room",
+    "z": 2,
+    "x": 68,
+    "y": 136,
+    "tileCount": 113,
+    "bounds": [
+      59,
+      131,
+      75,
+      139
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/commons/toilet/locker",
+    "name": "Locker Toilets",
+    "z": 2,
+    "x": 65,
+    "y": 130,
+    "tileCount": 29,
+    "bounds": [
+      63,
+      127,
+      67,
+      133
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/science/lower",
+    "name": "Lower Science Division",
+    "z": 2,
+    "x": 191,
+    "y": 92,
+    "tileCount": 101,
+    "bounds": [
+      186,
+      86,
+      196,
+      97
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/command/heads_quarters/magistrate",
+    "name": "Magistrate's Office",
+    "z": 2,
+    "x": 105,
+    "y": 166,
+    "tileCount": 59,
+    "bounds": [
+      101,
+      163,
+      109,
+      169
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/science/robotics/mechbay",
+    "name": "Mech Bay",
+    "z": 2,
+    "x": 170,
+    "y": 122,
+    "tileCount": 72,
+    "bounds": [
+      167,
+      117,
+      173,
+      127
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/medical/medbay",
+    "name": "Medbay",
+    "z": 2,
+    "x": 151,
+    "y": 99,
+    "tileCount": 81,
+    "bounds": [
+      149,
+      89,
+      157,
+      116
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/medical/medbay/aft",
+    "name": "Medbay Aft",
+    "z": 2,
+    "x": 132,
+    "y": 111,
+    "tileCount": 65,
+    "bounds": [
+      129,
+      106,
+      135,
+      116
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/medical/medbay/lobby",
+    "name": "Medbay Lobby",
+    "z": 2,
+    "x": 143,
+    "y": 122,
+    "tileCount": 102,
+    "bounds": [
+      138,
+      117,
+      149,
+      127
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/medical/storage",
+    "name": "Medbay Storage",
+    "z": 2,
+    "x": 144,
+    "y": 93,
+    "tileCount": 56,
+    "bounds": [
+      141,
+      90,
+      148,
+      96
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/medical/treatment_center",
+    "name": "Medbay Treatment Center",
+    "z": 2,
+    "x": 142,
+    "y": 113,
+    "tileCount": 105,
+    "bounds": [
+      135,
+      110,
+      149,
+      116
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/medical/break_room",
+    "name": "Medical Break Room",
+    "z": 2,
+    "x": 160,
+    "y": 115,
+    "tileCount": 25,
+    "bounds": [
+      158,
+      113,
+      163,
+      117
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/cargo/miningoffice",
+    "name": "Mining Office",
+    "z": 1,
+    "x": 80,
+    "y": 113,
+    "tileCount": 92,
+    "bounds": [
+      74,
+      110,
+      89,
+      119
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/service/chapel/monastery",
+    "name": "Monastery",
+    "z": 2,
+    "x": 185,
+    "y": 139,
+    "tileCount": 207,
+    "bounds": [
+      179,
+      131,
+      191,
+      149
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/medical/morgue",
+    "name": "Morgue",
+    "z": 2,
+    "x": 156,
+    "y": 122,
+    "tileCount": 109,
+    "bounds": [
+      150,
+      117,
+      162,
+      127
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/command/heads_quarters/nanotrasen_representative",
+    "name": "Nanotrasen Representative's Office",
+    "z": 2,
+    "x": 105,
+    "y": 106,
+    "tileCount": 57,
+    "bounds": [
+      100,
+      103,
+      109,
+      110
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/science/ordnance/bomb",
+    "name": "Ordnance Bomb Site",
+    "z": 2,
+    "x": 238,
+    "y": 102,
+    "tileCount": 247,
+    "bounds": [
+      231,
+      94,
+      247,
+      110
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/science/ordnance/burnchamber",
+    "name": "Ordnance Burn Chamber",
+    "z": 1,
+    "x": 207,
+    "y": 114,
+    "tileCount": 30,
+    "bounds": [
+      205,
+      111,
+      209,
+      116
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/science/ordnance/freezerchamber",
+    "name": "Ordnance Freezer Chamber",
+    "z": 1,
+    "x": 207,
+    "y": 102,
+    "tileCount": 20,
+    "bounds": [
+      205,
+      101,
+      209,
+      104
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/science/ordnance",
+    "name": "Ordnance Lab",
+    "z": 1,
+    "x": 202,
+    "y": 107,
+    "tileCount": 138,
+    "bounds": [
+      196,
+      101,
+      209,
+      112
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/science/ordnance/office",
+    "name": "Ordnance Office",
+    "z": 2,
+    "x": 201,
+    "y": 106,
+    "tileCount": 90,
+    "bounds": [
+      196,
+      101,
+      205,
+      112
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/science/ordnance/testlab",
+    "name": "Ordnance Testing Lab",
+    "z": 2,
+    "x": 207,
+    "y": 104,
+    "tileCount": 35,
+    "bounds": [
+      205,
+      101,
+      209,
+      107
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/medical/paramedic",
+    "name": "Paramedic Dispatch",
+    "z": 2,
+    "x": 137,
+    "y": 120,
+    "tileCount": 30,
+    "bounds": [
+      135,
+      117,
+      139,
+      122
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/medical/pharmacy",
+    "name": "Pharmacy",
+    "z": 2,
+    "x": 132,
+    "y": 123,
+    "tileCount": 81,
+    "bounds": [
+      129,
+      117,
+      137,
+      127
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/solars/port/fore",
+    "name": "Port Bow Solar Array",
+    "z": 2,
+    "x": 53,
+    "y": 175,
+    "tileCount": 111,
+    "bounds": [
+      47,
+      169,
+      59,
+      183
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/maintenance/solars/port/fore",
+    "name": "Port Bow Solar Maintenance",
+    "z": 2,
+    "x": 53,
+    "y": 165,
+    "tileCount": 27,
+    "bounds": [
+      51,
+      162,
+      55,
+      168
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/commons/storage/emergency/port",
+    "name": "Port Emergency Storage",
+    "z": 2,
+    "x": 51,
+    "y": 127,
+    "tileCount": 23,
+    "bounds": [
+      49,
+      125,
+      53,
+      129
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/hallway/primary/port",
+    "name": "Port Primary Hallway",
+    "z": 2,
+    "x": 76,
+    "y": 141,
+    "tileCount": 112,
+    "bounds": [
+      60,
+      139,
+      91,
+      144
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/solars/port/aft",
+    "name": "Port Quarter Solar Array",
+    "z": 2,
+    "x": 58,
+    "y": 77,
+    "tileCount": 145,
+    "bounds": [
+      47,
+      67,
+      71,
+      86
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/maintenance/solars/port/aft",
+    "name": "Port Quarter Solar Maintenance",
+    "z": 2,
+    "x": 75,
+    "y": 86,
+    "tileCount": 23,
+    "bounds": [
+      72,
+      84,
+      78,
+      87
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/commons/storage/primary",
+    "name": "Primary Tool Storage",
+    "z": 2,
+    "x": 70,
+    "y": 146,
+    "tileCount": 67,
+    "bounds": [
+      65,
+      143,
+      75,
+      149
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/security/prison/garden",
+    "name": "Prison Garden",
+    "z": 1,
+    "x": 77,
+    "y": 167,
+    "tileCount": 109,
+    "bounds": [
+      72,
+      162,
+      82,
+      173
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/maintenance/department/prison",
+    "name": "Prison Maintenance",
+    "z": 1,
+    "x": 83,
+    "y": 174,
+    "tileCount": 30,
+    "bounds": [
+      81,
+      171,
+      85,
+      176
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/maintenance/department/prison",
+    "name": "Prison Maintenance",
+    "z": 2,
+    "x": 83,
+    "y": 174,
+    "tileCount": 30,
+    "bounds": [
+      81,
+      171,
+      85,
+      176
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/security/prison/mess",
+    "name": "Prison Mess Hall",
+    "z": 1,
+    "x": 84,
+    "y": 180,
+    "tileCount": 49,
+    "bounds": [
+      81,
+      177,
+      87,
+      183
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/security/prison/visit",
+    "name": "Prison Visitation Area",
+    "z": 2,
+    "x": 88,
+    "y": 174,
+    "tileCount": 24,
+    "bounds": [
+      86,
+      173,
+      91,
+      176
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/security/prison/ghetto",
+    "name": "Prison Wing Lower Floor",
+    "z": 1,
+    "x": 74,
+    "y": 180,
+    "tileCount": 218,
+    "bounds": [
+      68,
+      169,
+      80,
+      188
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/medical/psychology",
+    "name": "Psychology Office",
+    "z": 2,
+    "x": 129,
+    "y": 104,
+    "tileCount": 77,
+    "bounds": [
+      124,
+      98,
+      134,
+      110
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/command/heads_quarters/qm",
+    "name": "Quartermaster's Office",
+    "z": 2,
+    "x": 83,
+    "y": 128,
+    "tileCount": 37,
+    "bounds": [
+      80,
+      125,
+      85,
+      131
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/holodeck/rec_center",
+    "name": "Rec Center",
+    "z": 2,
+    "x": 138,
+    "y": 164,
+    "tileCount": 90,
+    "bounds": [
+      134,
+      159,
+      142,
+      168
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/command/heads_quarters/rd",
+    "name": "Research Director's Office",
+    "z": 2,
+    "x": 179,
+    "y": 110,
+    "tileCount": 44,
+    "bounds": [
+      175,
+      108,
+      182,
+      113
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/science/research",
+    "name": "Research Division",
+    "z": 2,
+    "x": 185,
+    "y": 104,
+    "tileCount": 174,
+    "bounds": [
+      179,
+      83,
+      192,
+      121
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/science/server",
+    "name": "Research Division Server Room",
+    "z": 2,
+    "x": 178,
+    "y": 104,
+    "tileCount": 48,
+    "bounds": [
+      175,
+      102,
+      182,
+      107
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/science/auxlab/firing_range",
+    "name": "Research Firing Range",
+    "z": 2,
+    "x": 174,
+    "y": 97,
+    "tileCount": 38,
+    "bounds": [
+      172,
+      93,
+      177,
+      101
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/science/lab",
+    "name": "Research and Development",
+    "z": 2,
+    "x": 190,
+    "y": 122,
+    "tileCount": 74,
+    "bounds": [
+      186,
+      117,
+      193,
+      127
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/commons/toilet/restrooms",
+    "name": "Restrooms",
+    "z": 2,
+    "x": 152,
+    "y": 152,
+    "tileCount": 53,
+    "bounds": [
+      148,
+      149,
+      157,
+      155
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/science/robotics/lab",
+    "name": "Robotics Lab",
+    "z": 2,
+    "x": 177,
+    "y": 120,
+    "tileCount": 111,
+    "bounds": [
+      172,
+      113,
+      182,
+      127
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/science/breakroom",
+    "name": "Science Break Room",
+    "z": 2,
+    "x": 188,
+    "y": 109,
+    "tileCount": 45,
+    "bounds": [
+      186,
+      106,
+      191,
+      113
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/science/lobby",
+    "name": "Science Lobby",
+    "z": 2,
+    "x": 184,
+    "y": 125,
+    "tileCount": 38,
+    "bounds": [
+      181,
+      122,
+      187,
+      127
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/hallway/secondary/dock",
+    "name": "Secondary Station Dock Hallway",
+    "z": 1,
+    "x": 51,
+    "y": 136,
+    "tileCount": 147,
+    "bounds": [
+      46,
+      129,
+      57,
+      143
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/security/lockers",
+    "name": "Security Locker Room",
+    "z": 2,
+    "x": 120,
+    "y": 184,
+    "tileCount": 81,
+    "bounds": [
+      114,
+      181,
+      125,
+      188
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/maintenance/department/security/ghetto/fore",
+    "name": "Security Maintenance Fore Lower Floor",
+    "z": 1,
+    "x": 109,
+    "y": 180,
+    "tileCount": 177,
+    "bounds": [
+      89,
+      171,
+      129,
+      186
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/security/mechbay",
+    "name": "Security Mechbay",
+    "z": 2,
+    "x": 144,
+    "y": 182,
+    "tileCount": 60,
+    "bounds": [
+      141,
+      178,
+      146,
+      187
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/security/medical",
+    "name": "Security Medical",
+    "z": 1,
+    "x": 119,
+    "y": 168,
+    "tileCount": 35,
+    "bounds": [
+      116,
+      166,
+      122,
+      170
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/security/office",
+    "name": "Security Office",
+    "z": 2,
+    "x": 130,
+    "y": 184,
+    "tileCount": 64,
+    "bounds": [
+      126,
+      181,
+      133,
+      188
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/security/checkpoint/supply",
+    "name": "Security Officer",
+    "z": 2,
+    "x": 90,
+    "y": 114,
+    "tileCount": 24,
+    "bounds": [
+      88,
+      112,
+      93,
+      115
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/security/checkpoint/engineering",
+    "name": "Security Post - Engineering",
+    "z": 2,
+    "x": 106,
+    "y": 84,
+    "tileCount": 35,
+    "bounds": [
+      103,
+      82,
+      108,
+      87
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/security/checkpoint/medical",
+    "name": "Security Post - Medbay",
+    "z": 2,
+    "x": 149,
+    "y": 124,
+    "tileCount": 30,
+    "bounds": [
+      147,
+      122,
+      151,
+      127
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/security/checkpoint/science",
+    "name": "Security Post - Science",
+    "z": 2,
+    "x": 189,
+    "y": 100,
+    "tileCount": 28,
+    "bounds": [
+      186,
+      98,
+      192,
+      101
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/hallway/secondary/service",
+    "name": "Service Hallway",
+    "z": 2,
+    "x": 150,
+    "y": 146,
+    "tileCount": 71,
+    "bounds": [
+      143,
+      141,
+      157,
+      149
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/engineering/storage_shared",
+    "name": "Shared Engineering Storage",
+    "z": 2,
+    "x": 108,
+    "y": 78,
+    "tileCount": 70,
+    "bounds": [
+      94,
+      73,
+      121,
+      81
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/solars/starboard/fore",
+    "name": "Starboard Bow Solar Array",
+    "z": 2,
+    "x": 170,
+    "y": 187,
+    "tileCount": 149,
+    "bounds": [
+      162,
+      178,
+      179,
+      198
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/maintenance/solars/starboard/fore",
+    "name": "Starboard Bow Solar Maintenance",
+    "z": 2,
+    "x": 163,
+    "y": 174,
+    "tileCount": 31,
+    "bounds": [
+      161,
+      171,
+      165,
+      177
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/hallway/primary/starboard",
+    "name": "Starboard Primary Hallway",
+    "z": 2,
+    "x": 146,
+    "y": 129,
+    "tileCount": 104,
+    "bounds": [
+      129,
+      127,
+      162,
+      130
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/hallway/primary/starboard/west",
+    "name": "Starboard Primary Hallway West",
+    "z": 2,
+    "x": 178,
+    "y": 130,
+    "tileCount": 148,
+    "bounds": [
+      163,
+      127,
+      197,
+      135
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/solars/starboard/aft",
+    "name": "Starboard Quarter Solar Array",
+    "z": 2,
+    "x": 196,
+    "y": 47,
+    "tileCount": 115,
+    "bounds": [
+      190,
+      38,
+      202,
+      56
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/maintenance/solars/starboard/aft",
+    "name": "Starboard Quarter Solar Maintenance",
+    "z": 2,
+    "x": 196,
+    "y": 60,
+    "tileCount": 31,
+    "bounds": [
+      194,
+      57,
+      198,
+      63
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/engineering/supermatter/engine",
+    "name": "Supermatter Engine",
+    "z": 2,
+    "x": 79,
+    "y": 68,
+    "tileCount": 55,
+    "bounds": [
+      75,
+      65,
+      83,
+      71
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/engineering/supermatter/room",
+    "name": "Supermatter Engine Room",
+    "z": 2,
+    "x": 81,
+    "y": 71,
+    "tileCount": 340,
+    "bounds": [
+      71,
+      60,
+      89,
+      81
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/engineering/storage/tech",
+    "name": "Technical Storage",
+    "z": 2,
+    "x": 122,
+    "y": 89,
+    "tileCount": 77,
+    "bounds": [
+      118,
+      84,
+      125,
+      94
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/tcommsat/computer",
+    "name": "Telecomms Control Room",
+    "z": 1,
+    "x": 113,
+    "y": 117,
+    "tileCount": 56,
+    "bounds": [
+      109,
+      114,
+      117,
+      122
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/tcommsat/computer",
+    "name": "Telecomms Control Room",
+    "z": 2,
+    "x": 114,
+    "y": 116,
+    "tileCount": 20,
+    "bounds": [
+      113,
+      114,
+      116,
+      118
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/tcommsat/server",
+    "name": "Telecomms Server Room",
+    "z": 1,
+    "x": 111,
+    "y": 128,
+    "tileCount": 110,
+    "bounds": [
+      106,
+      123,
+      116,
+      132
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/command/teleporter",
+    "name": "Teleporter Room",
+    "z": 2,
+    "x": 121,
+    "y": 116,
+    "tileCount": 54,
+    "bounds": [
+      117,
+      114,
+      125,
+      119
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/service/theater",
+    "name": "Theater",
+    "z": 2,
+    "x": 126,
+    "y": 153,
+    "tileCount": 98,
+    "bounds": [
+      118,
+      149,
+      133,
+      156
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/security/execution",
+    "name": "Transfer Centre",
+    "z": 2,
+    "x": 88,
+    "y": 168,
+    "tileCount": 57,
+    "bounds": [
+      84,
+      165,
+      91,
+      172
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/engineering/transit_tube",
+    "name": "Transit Tube",
+    "z": 2,
+    "x": 149,
+    "y": 70,
+    "tileCount": 51,
+    "bounds": [
+      144,
+      65,
+      153,
+      73
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/commons/vacant_room/commissary",
+    "name": "Vacant Commissary",
+    "z": 2,
+    "x": 90,
+    "y": 136,
+    "tileCount": 44,
+    "bounds": [
+      87,
+      133,
+      93,
+      139
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/commons/vacant_room/office",
+    "name": "Vacant Office",
+    "z": 2,
+    "x": 52,
+    "y": 133,
+    "tileCount": 53,
+    "bounds": [
+      49,
+      130,
+      56,
+      136
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/medical/virology",
+    "name": "Virology",
+    "z": 2,
+    "x": 159,
+    "y": 96,
+    "tileCount": 95,
+    "bounds": [
+      152,
+      90,
+      163,
+      102
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/cargo/warehouse",
+    "name": "Warehouse",
+    "z": 2,
+    "x": 80,
+    "y": 110,
+    "tileCount": 48,
+    "bounds": [
+      78,
+      107,
+      83,
+      114
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/maintenance/disposal/trash",
+    "name": "Waste Burner",
+    "z": 2,
+    "x": 67,
+    "y": 93,
+    "tileCount": 67,
+    "bounds": [
+      62,
+      90,
+      73,
+      96
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/maintenance/disposal",
+    "name": "Waste Disposal",
+    "z": 2,
+    "x": 62,
+    "y": 98,
+    "tileCount": 52,
+    "bounds": [
+      55,
+      96,
+      69,
+      100
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/science/xenobiology",
+    "name": "Xenobiology Lab",
+    "z": 1,
+    "x": 169,
+    "y": 75,
+    "tileCount": 286,
+    "bounds": [
+      155,
+      69,
+      181,
+      81
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/science/xenobiology",
+    "name": "Xenobiology Lab",
+    "z": 2,
+    "x": 174,
+    "y": 75,
+    "tileCount": 252,
+    "bounds": [
+      165,
+      69,
+      185,
+      82
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/service/chapel",
+    "name": "[GLOB.deity]'s sparring contract",
+    "z": 1,
+    "x": 185,
+    "y": 136,
+    "tileCount": 172,
+    "bounds": [
+      179,
+      129,
+      191,
+      146
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/security/range",
+    "name": "implant-keyed firing pin",
+    "z": 2,
+    "x": 130,
+    "y": 192,
+    "tileCount": 58,
+    "bounds": [
+      126,
+      189,
+      134,
+      195
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/command/vault",
+    "name": "medical door remote",
+    "z": 2,
+    "x": 80,
+    "y": 148,
+    "tileCount": 42,
+    "bounds": [
+      77,
+      145,
+      83,
+      150
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/command/heads_quarters/cmo",
+    "name": "royale implanter",
+    "z": 2,
+    "x": 155,
+    "y": 103,
+    "tileCount": 71,
+    "bounds": [
+      152,
+      98,
+      158,
+      108
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/station/ai/satellite/chamber",
+    "name": "security door remote",
+    "z": 2,
+    "x": 158,
+    "y": 20,
+    "tileCount": 157,
+    "bounds": [
+      152,
+      14,
+      164,
+      28
+    ],
+    "category": "room"
+  }
+]

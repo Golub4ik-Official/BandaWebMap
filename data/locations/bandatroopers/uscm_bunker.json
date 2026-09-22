@@ -1,0 +1,197 @@
+[
+  {
+    "id": "/area/golden_arrow/cryo_cells",
+    "name": "Cryo Cells",
+    "z": 1,
+    "x": 24,
+    "y": 31,
+    "tileCount": 481,
+    "bounds": [
+      12,
+      17,
+      37,
+      43
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/golden_arrow/engineering",
+    "name": "Engineering",
+    "z": 1,
+    "x": 24,
+    "y": 40,
+    "tileCount": 478,
+    "bounds": [
+      4,
+      7,
+      61,
+      78
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/uscm_bunker",
+    "name": "uscm_bunker",
+    "z": 1,
+    "x": 38,
+    "y": 44,
+    "tileCount": 2654,
+    "bounds": [
+      2,
+      2,
+      69,
+      79
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/golden_arrow/briefing",
+    "name": "Assembly Room",
+    "z": 1,
+    "x": 46,
+    "y": 14,
+    "tileCount": 183,
+    "bounds": [
+      38,
+      9,
+      55,
+      21
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/golden_arrow/dorms",
+    "name": "Dorms",
+    "z": 1,
+    "x": 8,
+    "y": 32,
+    "tileCount": 180,
+    "bounds": [
+      4,
+      23,
+      13,
+      40
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/golden_arrow/hangar",
+    "name": "Hangar",
+    "z": 1,
+    "x": 59,
+    "y": 36,
+    "tileCount": 181,
+    "bounds": [
+      52,
+      25,
+      63,
+      51
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/golden_arrow/medical",
+    "name": "Medical",
+    "z": 1,
+    "x": 32,
+    "y": 15,
+    "tileCount": 125,
+    "bounds": [
+      26,
+      11,
+      38,
+      21
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/golden_arrow/platoonarmory",
+    "name": "Platoon Armory",
+    "z": 1,
+    "x": 53,
+    "y": 42,
+    "tileCount": 223,
+    "bounds": [
+      47,
+      32,
+      58,
+      52
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/golden_arrow/platoon_commander_rooms",
+    "name": "Platoon Commander's Rooms",
+    "z": 1,
+    "x": 51,
+    "y": 22,
+    "tileCount": 41,
+    "bounds": [
+      49,
+      19,
+      54,
+      25
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/golden_arrow/platoonprep",
+    "name": "Platoon Prep",
+    "z": 1,
+    "x": 43,
+    "y": 42,
+    "tileCount": 347,
+    "bounds": [
+      37,
+      25,
+      54,
+      56
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/golden_arrow/prep_hallway",
+    "name": "Prep Hallway",
+    "z": 1,
+    "x": 38,
+    "y": 23,
+    "tileCount": 70,
+    "bounds": [
+      30,
+      20,
+      48,
+      24
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/golden_arrow/shared_office",
+    "name": "Shared Office",
+    "z": 1,
+    "x": 49,
+    "y": 28,
+    "tileCount": 30,
+    "bounds": [
+      47,
+      25,
+      51,
+      31
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/golden_arrow/synthcloset",
+    "name": "Synthetic Storage Closet",
+    "z": 1,
+    "x": 7,
+    "y": 72,
+    "tileCount": 42,
+    "bounds": [
+      4,
+      70,
+      10,
+      75
+    ],
+    "category": "room"
+  }
+]

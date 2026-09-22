@@ -1,0 +1,17 @@
+[
+  {
+    "id": "/area/misc/testroom/gateway_room",
+    "name": "Gateway Room",
+    "z": 1,
+    "x": 6,
+    "y": 5,
+    "tileCount": 59,
+    "bounds": [
+      2,
+      2,
+      9,
+      9
+    ],
+    "category": "room"
+  }
+]

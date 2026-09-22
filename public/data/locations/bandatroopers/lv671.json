@@ -1,0 +1,1847 @@
+[
+  {
+    "id": "/area/lv671/landing_zone_1",
+    "name": "Ark Borealis - Landing Zone One",
+    "z": 1,
+    "x": 218,
+    "y": 36,
+    "tileCount": 822,
+    "bounds": [
+      147,
+      19,
+      327,
+      56
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/lv671/processor/filtration",
+    "name": "Ark Borealis - AP - Filtration",
+    "z": 1,
+    "x": 41,
+    "y": 430,
+    "tileCount": 1090,
+    "bounds": [
+      17,
+      407,
+      67,
+      451
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv671/processor/under/maints",
+    "name": "Ark Borealis - AP - Maintenance",
+    "z": 1,
+    "x": 280,
+    "y": 288,
+    "tileCount": 401,
+    "bounds": [
+      267,
+      268,
+      299,
+      302
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv671/processor/under/reactor",
+    "name": "Ark Borealis - AP - Reactor",
+    "z": 1,
+    "x": 307,
+    "y": 298,
+    "tileCount": 886,
+    "bounds": [
+      286,
+      271,
+      323,
+      318
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv671/processor/under",
+    "name": "Ark Borealis - AP - Underground",
+    "z": 1,
+    "x": 293,
+    "y": 283,
+    "tileCount": 389,
+    "bounds": [
+      275,
+      275,
+      308,
+      298
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv671/processor",
+    "name": "Ark Borealis - Atmospheric Processor",
+    "z": 1,
+    "x": 100,
+    "y": 431,
+    "tileCount": 1159,
+    "bounds": [
+      50,
+      414,
+      161,
+      446
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv671/residential/under/bunker",
+    "name": "Ark Borealis - Bunker",
+    "z": 1,
+    "x": 213,
+    "y": 115,
+    "tileCount": 626,
+    "bounds": [
+      198,
+      102,
+      230,
+      130
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv671/administration/upper/cc",
+    "name": "Ark Borealis - Colony Command",
+    "z": 1,
+    "x": 224,
+    "y": 375,
+    "tileCount": 220,
+    "bounds": [
+      216,
+      366,
+      237,
+      384
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv671/administration/upper/cc/armory",
+    "name": "Ark Borealis - Colony Command Armory",
+    "z": 1,
+    "x": 228,
+    "y": 366,
+    "tileCount": 28,
+    "bounds": [
+      225,
+      365,
+      231,
+      368
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv671/administration/upper/cc/comms",
+    "name": "Ark Borealis - Colony Command Communications",
+    "z": 1,
+    "x": 234,
+    "y": 380,
+    "tileCount": 36,
+    "bounds": [
+      231,
+      377,
+      236,
+      382
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv671/outdoors/beyond",
+    "name": "Ark Borealis - Colony Outside",
+    "z": 1,
+    "x": 111,
+    "y": 194,
+    "tileCount": 15018,
+    "bounds": [
+      3,
+      4,
+      193,
+      448
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv671/hospital",
+    "name": "Ark Borealis - Hospital",
+    "z": 1,
+    "x": 46,
+    "y": 161,
+    "tileCount": 482,
+    "bounds": [
+      30,
+      145,
+      61,
+      182
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv671/sewers/med",
+    "name": "Ark Borealis - Hospital Sewers",
+    "z": 1,
+    "x": 246,
+    "y": 176,
+    "tileCount": 677,
+    "bounds": [
+      227,
+      125,
+      278,
+      204
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv671/outdoors",
+    "name": "Ark Borealis - Outdoors",
+    "z": 1,
+    "x": 80,
+    "y": 138,
+    "tileCount": 11914,
+    "bounds": [
+      6,
+      38,
+      156,
+      429
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv671/residential",
+    "name": "Ark Borealis - Residential",
+    "z": 1,
+    "x": 34,
+    "y": 64,
+    "tileCount": 432,
+    "bounds": [
+      12,
+      48,
+      48,
+      82
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv671/sewers/res",
+    "name": "Ark Borealis - Residential Sewers",
+    "z": 1,
+    "x": 248,
+    "y": 115,
+    "tileCount": 914,
+    "bounds": [
+      209,
+      69,
+      279,
+      144
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv671/residential/under",
+    "name": "Ark Borealis - Residential Undergrounds",
+    "z": 1,
+    "x": 255,
+    "y": 87,
+    "tileCount": 806,
+    "bounds": [
+      219,
+      69,
+      294,
+      105
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv671/sewers",
+    "name": "Ark Borealis - Sewers",
+    "z": 1,
+    "x": 258,
+    "y": 234,
+    "tileCount": 571,
+    "bounds": [
+      249,
+      201,
+      272,
+      269
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv671/sewers/cave",
+    "name": "Ark Borealis - Technical Cave",
+    "z": 1,
+    "x": 296,
+    "y": 114,
+    "tileCount": 365,
+    "bounds": [
+      290,
+      68,
+      300,
+      177
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv671/nothing",
+    "name": "LV671",
+    "z": 1,
+    "x": 179,
+    "y": 252,
+    "tileCount": 98283,
+    "bounds": [
+      1,
+      1,
+      330,
+      455
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv671/sewers/c_caves",
+    "name": "LV671 - Caves",
+    "z": 1,
+    "x": 180,
+    "y": 214,
+    "tileCount": 4304,
+    "bounds": [
+      22,
+      3,
+      326,
+      414
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv671/processor/control",
+    "name": "Ark Borealis - AP - Control",
+    "z": 1,
+    "x": 77,
+    "y": 439,
+    "tileCount": 59,
+    "bounds": [
+      73,
+      436,
+      81,
+      442
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/processor/crashsite",
+    "name": "Ark Borealis - AP - Crashsite",
+    "z": 1,
+    "x": 132,
+    "y": 438,
+    "tileCount": 287,
+    "bounds": [
+      126,
+      428,
+      139,
+      449
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/processor/under/engineering",
+    "name": "Ark Borealis - AP - Engineering",
+    "z": 1,
+    "x": 288,
+    "y": 264,
+    "tileCount": 115,
+    "bounds": [
+      277,
+      258,
+      302,
+      268
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/processor/under/equipment",
+    "name": "Ark Borealis - AP - Equipment",
+    "z": 1,
+    "x": 286,
+    "y": 259,
+    "tileCount": 86,
+    "bounds": [
+      282,
+      254,
+      289,
+      264
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/processor/under/mech",
+    "name": "Ark Borealis - AP - Exosuits",
+    "z": 1,
+    "x": 281,
+    "y": 272,
+    "tileCount": 54,
+    "bounds": [
+      277,
+      269,
+      284,
+      275
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/processor/lounge",
+    "name": "Ark Borealis - AP - Lounge",
+    "z": 1,
+    "x": 116,
+    "y": 432,
+    "tileCount": 77,
+    "bounds": [
+      111,
+      429,
+      121,
+      435
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/processor/under/lounge",
+    "name": "Ark Borealis - AP - Lounge",
+    "z": 1,
+    "x": 293,
+    "y": 259,
+    "tileCount": 76,
+    "bounds": [
+      290,
+      255,
+      297,
+      264
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/processor/under/nuclear",
+    "name": "Ark Borealis - AP - Nuclear Reactor",
+    "z": 1,
+    "x": 271,
+    "y": 260,
+    "tileCount": 110,
+    "bounds": [
+      267,
+      253,
+      277,
+      266
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/processor/observatory",
+    "name": "Ark Borealis - AP - Observatory",
+    "z": 1,
+    "x": 177,
+    "y": 434,
+    "tileCount": 69,
+    "bounds": [
+      171,
+      429,
+      183,
+      437
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/processor/under/office",
+    "name": "Ark Borealis - AP - Office",
+    "z": 1,
+    "x": 277,
+    "y": 278,
+    "tileCount": 43,
+    "bounds": [
+      274,
+      275,
+      281,
+      280
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/processor/under/smes",
+    "name": "Ark Borealis - AP - SMES",
+    "z": 1,
+    "x": 294,
+    "y": 271,
+    "tileCount": 83,
+    "bounds": [
+      289,
+      267,
+      299,
+      275
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/processor/under/storage",
+    "name": "Ark Borealis - AP - Storage",
+    "z": 1,
+    "x": 276,
+    "y": 287,
+    "tileCount": 88,
+    "bounds": [
+      271,
+      283,
+      281,
+      291
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/processor/under/giga_chad_storage",
+    "name": "Ark Borealis - AP - Synthetic Maintenance",
+    "z": 1,
+    "x": 275,
+    "y": 268,
+    "tileCount": 30,
+    "bounds": [
+      273,
+      265,
+      277,
+      270
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/administration",
+    "name": "Ark Borealis - Administration",
+    "z": 1,
+    "x": 75,
+    "y": 64,
+    "tileCount": 123,
+    "bounds": [
+      70,
+      52,
+      80,
+      73
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/administration/upper",
+    "name": "Ark Borealis - Administration 2 Floor",
+    "z": 1,
+    "x": 230,
+    "y": 361,
+    "tileCount": 257,
+    "bounds": [
+      222,
+      347,
+      244,
+      377
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/administration/upper/clothes",
+    "name": "Ark Borealis - Administration Clothes Distribution",
+    "z": 1,
+    "x": 240,
+    "y": 367,
+    "tileCount": 48,
+    "bounds": [
+      235,
+      365,
+      244,
+      369
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/administration/upper/lounge",
+    "name": "Ark Borealis - Administration Lounge",
+    "z": 1,
+    "x": 218,
+    "y": 364,
+    "tileCount": 63,
+    "bounds": [
+      215,
+      360,
+      221,
+      368
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/administration/upper/maint",
+    "name": "Ark Borealis - Administration Maintenance",
+    "z": 1,
+    "x": 237,
+    "y": 366,
+    "tileCount": 166,
+    "bounds": [
+      217,
+      351,
+      248,
+      382
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/administration/meeting",
+    "name": "Ark Borealis - Administration Meeting",
+    "z": 1,
+    "x": 82,
+    "y": 81,
+    "tileCount": 85,
+    "bounds": [
+      78,
+      74,
+      86,
+      86
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/administration/office",
+    "name": "Ark Borealis - Administration Office",
+    "z": 1,
+    "x": 68,
+    "y": 61,
+    "tileCount": 127,
+    "bounds": [
+      63,
+      55,
+      75,
+      69
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/administration/upper/office",
+    "name": "Ark Borealis - Administration Office",
+    "z": 1,
+    "x": 238,
+    "y": 356,
+    "tileCount": 174,
+    "bounds": [
+      231,
+      349,
+      246,
+      364
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/administration/upper/synth",
+    "name": "Ark Borealis - Administration Synthetic Storge",
+    "z": 1,
+    "x": 243,
+    "y": 375,
+    "tileCount": 46,
+    "bounds": [
+      239,
+      372,
+      246,
+      377
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/maintenance/assemble",
+    "name": "Ark Borealis - Assemble Line",
+    "z": 1,
+    "x": 153,
+    "y": 130,
+    "tileCount": 78,
+    "bounds": [
+      146,
+      127,
+      319,
+      153
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/maintenance/cargo",
+    "name": "Ark Borealis - Cargo",
+    "z": 1,
+    "x": 135,
+    "y": 119,
+    "tileCount": 243,
+    "bounds": [
+      123,
+      113,
+      146,
+      125
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/maintenance/cargo/office",
+    "name": "Ark Borealis - Cargo Office",
+    "z": 1,
+    "x": 150,
+    "y": 122,
+    "tileCount": 48,
+    "bounds": [
+      146,
+      119,
+      153,
+      124
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/hospital/cp_office",
+    "name": "Ark Borealis - Chief Physician Office",
+    "z": 1,
+    "x": 47,
+    "y": 176,
+    "tileCount": 56,
+    "bounds": [
+      44,
+      172,
+      50,
+      179
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/administration/corporate",
+    "name": "Ark Borealis - Corporate Office",
+    "z": 1,
+    "x": 75,
+    "y": 78,
+    "tileCount": 108,
+    "bounds": [
+      71,
+      71,
+      78,
+      85
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/maintenance/garage",
+    "name": "Ark Borealis - Garage",
+    "z": 1,
+    "x": 129,
+    "y": 130,
+    "tileCount": 145,
+    "bounds": [
+      120,
+      124,
+      318,
+      153
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/administration/security/hos",
+    "name": "Ark Borealis - Head of Security Office",
+    "z": 1,
+    "x": 90,
+    "y": 81,
+    "tileCount": 84,
+    "bounds": [
+      86,
+      76,
+      95,
+      85
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/hospital/chemistry",
+    "name": "Ark Borealis - Hospital Chemistry",
+    "z": 1,
+    "x": 40,
+    "y": 175,
+    "tileCount": 56,
+    "bounds": [
+      36,
+      172,
+      43,
+      178
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/hospital/equipment",
+    "name": "Ark Borealis - Hospital Equipment",
+    "z": 1,
+    "x": 46,
+    "y": 159,
+    "tileCount": 70,
+    "bounds": [
+      41,
+      156,
+      50,
+      162
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/hospital/lounge",
+    "name": "Ark Borealis - Hospital Lounge",
+    "z": 1,
+    "x": 46,
+    "y": 166,
+    "tileCount": 147,
+    "bounds": [
+      32,
+      161,
+      59,
+      171
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/hospital/under/morgue",
+    "name": "Ark Borealis - Hospital Morgue",
+    "z": 1,
+    "x": 243,
+    "y": 189,
+    "tileCount": 176,
+    "bounds": [
+      237,
+      178,
+      249,
+      197
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/hospital/office",
+    "name": "Ark Borealis - Hospital Office",
+    "z": 1,
+    "x": 56,
+    "y": 175,
+    "tileCount": 76,
+    "bounds": [
+      51,
+      171,
+      60,
+      178
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/hospital/surgery",
+    "name": "Ark Borealis - Hospital Operating Theatre Alpha",
+    "z": 1,
+    "x": 34,
+    "y": 158,
+    "tileCount": 36,
+    "bounds": [
+      32,
+      155,
+      37,
+      160
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/hospital/surgery/b",
+    "name": "Ark Borealis - Hospital Operating Theatre Bravo",
+    "z": 1,
+    "x": 34,
+    "y": 152,
+    "tileCount": 30,
+    "bounds": [
+      32,
+      150,
+      37,
+      154
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/hospital/surgery/c",
+    "name": "Ark Borealis - Hospital Operating Theatre Charlie",
+    "z": 1,
+    "x": 56,
+    "y": 158,
+    "tileCount": 36,
+    "bounds": [
+      54,
+      155,
+      59,
+      160
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/hospital/surgery/d",
+    "name": "Ark Borealis - Hospital Operating Theatre Delta",
+    "z": 1,
+    "x": 56,
+    "y": 152,
+    "tileCount": 30,
+    "bounds": [
+      54,
+      150,
+      59,
+      154
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/hospital/reception",
+    "name": "Ark Borealis - Hospital Reception",
+    "z": 1,
+    "x": 46,
+    "y": 141,
+    "tileCount": 88,
+    "bounds": [
+      42,
+      136,
+      49,
+      146
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/hospital/stationary",
+    "name": "Ark Borealis - Hospital Stationary Alpha",
+    "z": 1,
+    "x": 38,
+    "y": 141,
+    "tileCount": 82,
+    "bounds": [
+      35,
+      135,
+      41,
+      146
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/hospital/stationary/b",
+    "name": "Ark Borealis - Hospital Stationary Bravo",
+    "z": 1,
+    "x": 53,
+    "y": 141,
+    "tileCount": 82,
+    "bounds": [
+      50,
+      135,
+      56,
+      146
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/hospital/storage",
+    "name": "Ark Borealis - Hospital Storage",
+    "z": 1,
+    "x": 32,
+    "y": 173,
+    "tileCount": 53,
+    "bounds": [
+      30,
+      169,
+      36,
+      177
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/hospital/under/storage",
+    "name": "Ark Borealis - Hospital Storage",
+    "z": 1,
+    "x": 242,
+    "y": 171,
+    "tileCount": 76,
+    "bounds": [
+      238,
+      167,
+      246,
+      175
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/hospital/under",
+    "name": "Ark Borealis - Hospital Underground",
+    "z": 1,
+    "x": 246,
+    "y": 177,
+    "tileCount": 252,
+    "bounds": [
+      230,
+      158,
+      254,
+      197
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/hospital/under/virology",
+    "name": "Ark Borealis - Hospital Virology",
+    "z": 1,
+    "x": 252,
+    "y": 162,
+    "tileCount": 36,
+    "bounds": [
+      249,
+      160,
+      254,
+      165
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/maintenance/hydroponics",
+    "name": "Ark Borealis - Hydroponics",
+    "z": 1,
+    "x": 133,
+    "y": 142,
+    "tileCount": 104,
+    "bounds": [
+      125,
+      139,
+      140,
+      145
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/indoors",
+    "name": "Ark Borealis - Indoors",
+    "z": 1,
+    "x": 100,
+    "y": 103,
+    "tileCount": 134,
+    "bounds": [
+      87,
+      20,
+      108,
+      118
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/maintenance",
+    "name": "Ark Borealis - Maintenance",
+    "z": 1,
+    "x": 144,
+    "y": 130,
+    "tileCount": 247,
+    "bounds": [
+      124,
+      118,
+      320,
+      153
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/maintenance/under/office",
+    "name": "Ark Borealis - Maintenance Office",
+    "z": 1,
+    "x": 304,
+    "y": 154,
+    "tileCount": 42,
+    "bounds": [
+      301,
+      152,
+      307,
+      157
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/sewers/maint",
+    "name": "Ark Borealis - Maintenance Sewers",
+    "z": 1,
+    "x": 293,
+    "y": 146,
+    "tileCount": 305,
+    "bounds": [
+      274,
+      137,
+      320,
+      156
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/maintenance/under/substation",
+    "name": "Ark Borealis - Maintenance Substation",
+    "z": 1,
+    "x": 315,
+    "y": 155,
+    "tileCount": 63,
+    "bounds": [
+      310,
+      152,
+      321,
+      158
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/maintenance/under",
+    "name": "Ark Borealis - Maintenance Underground",
+    "z": 1,
+    "x": 309,
+    "y": 150,
+    "tileCount": 96,
+    "bounds": [
+      299,
+      148,
+      321,
+      155
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/maintenance/mining",
+    "name": "Ark Borealis - Mining Office",
+    "z": 1,
+    "x": 151,
+    "y": 140,
+    "tileCount": 163,
+    "bounds": [
+      142,
+      136,
+      317,
+      153
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/administration/overseer",
+    "name": "Ark Borealis - Overseer's Office",
+    "z": 1,
+    "x": 67,
+    "y": 77,
+    "tileCount": 109,
+    "bounds": [
+      63,
+      69,
+      72,
+      85
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/p_room",
+    "name": "Ark Borealis - Private Room 1",
+    "z": 1,
+    "x": 22,
+    "y": 77,
+    "tileCount": 49,
+    "bounds": [
+      19,
+      74,
+      25,
+      80
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/p_room/two",
+    "name": "Ark Borealis - Private Room 2",
+    "z": 1,
+    "x": 22,
+    "y": 68,
+    "tileCount": 45,
+    "bounds": [
+      19,
+      65,
+      25,
+      71
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/p_room/three",
+    "name": "Ark Borealis - Private Room 3",
+    "z": 1,
+    "x": 15,
+    "y": 68,
+    "tileCount": 61,
+    "bounds": [
+      11,
+      64,
+      18,
+      71
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/p_room/four",
+    "name": "Ark Borealis - Private Room 4",
+    "z": 1,
+    "x": 14,
+    "y": 77,
+    "tileCount": 56,
+    "bounds": [
+      11,
+      74,
+      18,
+      80
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/hospital/under/research",
+    "name": "Ark Borealis - Research",
+    "z": 1,
+    "x": 273,
+    "y": 184,
+    "tileCount": 96,
+    "bounds": [
+      262,
+      182,
+      291,
+      190
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/hospital/under/research/checkpoint",
+    "name": "Ark Borealis - Research Checkpoint",
+    "z": 1,
+    "x": 258,
+    "y": 184,
+    "tileCount": 82,
+    "bounds": [
+      255,
+      178,
+      262,
+      190
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/hospital/under/research/confinement",
+    "name": "Ark Borealis - Research Confinement",
+    "z": 1,
+    "x": 284,
+    "y": 176,
+    "tileCount": 98,
+    "bounds": [
+      280,
+      171,
+      288,
+      181
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/hospital/under/research/equipment",
+    "name": "Ark Borealis - Research Equipment",
+    "z": 1,
+    "x": 277,
+    "y": 188,
+    "tileCount": 45,
+    "bounds": [
+      274,
+      185,
+      281,
+      190
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/hospital/under/research/lab",
+    "name": "Ark Borealis - Research Laboratory",
+    "z": 1,
+    "x": 271,
+    "y": 178,
+    "tileCount": 102,
+    "bounds": [
+      265,
+      174,
+      279,
+      181
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/hospital/under/research/maints",
+    "name": "Ark Borealis - Research Maintenance",
+    "z": 1,
+    "x": 277,
+    "y": 171,
+    "tileCount": 160,
+    "bounds": [
+      262,
+      166,
+      295,
+      181
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/hospital/under/research/office",
+    "name": "Ark Borealis - Research Office",
+    "z": 1,
+    "x": 268,
+    "y": 188,
+    "tileCount": 56,
+    "bounds": [
+      265,
+      185,
+      272,
+      191
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/bar",
+    "name": "Ark Borealis - Residential Bar",
+    "z": 1,
+    "x": 51,
+    "y": 66,
+    "tileCount": 210,
+    "bounds": [
+      45,
+      54,
+      57,
+      76
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/under/kitchen",
+    "name": "Ark Borealis - Residential Cafeteria",
+    "z": 1,
+    "x": 241,
+    "y": 110,
+    "tileCount": 126,
+    "bounds": [
+      233,
+      105,
+      246,
+      115
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/under/cafe",
+    "name": "Ark Borealis - Residential Cafeteria",
+    "z": 1,
+    "x": 254,
+    "y": 113,
+    "tileCount": 251,
+    "bounds": [
+      246,
+      105,
+      262,
+      121
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/under/chapel",
+    "name": "Ark Borealis - Residential Chapel",
+    "z": 1,
+    "x": 267,
+    "y": 109,
+    "tileCount": 111,
+    "bounds": [
+      264,
+      102,
+      271,
+      116
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/dome",
+    "name": "Ark Borealis - Residential Dome",
+    "z": 1,
+    "x": 36,
+    "y": 72,
+    "tileCount": 216,
+    "bounds": [
+      28,
+      65,
+      43,
+      80
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/fitness",
+    "name": "Ark Borealis - Residential Fitness",
+    "z": 1,
+    "x": 38,
+    "y": 87,
+    "tileCount": 158,
+    "bounds": [
+      30,
+      83,
+      48,
+      91
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/under/flat/a",
+    "name": "Ark Borealis - Residential Flat Alpha",
+    "z": 1,
+    "x": 242,
+    "y": 97,
+    "tileCount": 99,
+    "bounds": [
+      237,
+      93,
+      247,
+      101
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/under/flat/b",
+    "name": "Ark Borealis - Residential Flat Bravo",
+    "z": 1,
+    "x": 232,
+    "y": 97,
+    "tileCount": 90,
+    "bounds": [
+      227,
+      93,
+      236,
+      101
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/under/flat/c",
+    "name": "Ark Borealis - Residential Flat Charlie",
+    "z": 1,
+    "x": 222,
+    "y": 97,
+    "tileCount": 88,
+    "bounds": [
+      217,
+      93,
+      226,
+      101
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/under/flat/d",
+    "name": "Ark Borealis - Residential Flat Delta",
+    "z": 1,
+    "x": 222,
+    "y": 86,
+    "tileCount": 92,
+    "bounds": [
+      217,
+      82,
+      227,
+      90
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/under/flat/e",
+    "name": "Ark Borealis - Residential Flat Echo",
+    "z": 1,
+    "x": 232,
+    "y": 84,
+    "tileCount": 88,
+    "bounds": [
+      227,
+      80,
+      236,
+      88
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/under/flat/f",
+    "name": "Ark Borealis - Residential Flat Foxtrot",
+    "z": 1,
+    "x": 242,
+    "y": 86,
+    "tileCount": 99,
+    "bounds": [
+      237,
+      82,
+      247,
+      90
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/under/flat/g",
+    "name": "Ark Borealis - Residential Flat Golf",
+    "z": 1,
+    "x": 269,
+    "y": 97,
+    "tileCount": 99,
+    "bounds": [
+      264,
+      93,
+      274,
+      101
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/under/flat/h",
+    "name": "Ark Borealis - Residential Flat Hotel",
+    "z": 1,
+    "x": 280,
+    "y": 97,
+    "tileCount": 90,
+    "bounds": [
+      275,
+      93,
+      284,
+      101
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/under/flat/i",
+    "name": "Ark Borealis - Residential Flat India",
+    "z": 1,
+    "x": 290,
+    "y": 97,
+    "tileCount": 90,
+    "bounds": [
+      285,
+      93,
+      294,
+      101
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/under/flat/j",
+    "name": "Ark Borealis - Residential Flat Juliett",
+    "z": 1,
+    "x": 289,
+    "y": 86,
+    "tileCount": 92,
+    "bounds": [
+      284,
+      82,
+      294,
+      90
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/under/flat/k",
+    "name": "Ark Borealis - Residential Flat Kilo",
+    "z": 1,
+    "x": 280,
+    "y": 84,
+    "tileCount": 90,
+    "bounds": [
+      275,
+      80,
+      284,
+      88
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/under/flat/l",
+    "name": "Ark Borealis - Residential Flat Lima",
+    "z": 1,
+    "x": 269,
+    "y": 86,
+    "tileCount": 99,
+    "bounds": [
+      264,
+      82,
+      274,
+      90
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/under/flat/m",
+    "name": "Ark Borealis - Residential Flat Mike",
+    "z": 1,
+    "x": 242,
+    "y": 78,
+    "tileCount": 88,
+    "bounds": [
+      237,
+      74,
+      247,
+      81
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/under/flat/n",
+    "name": "Ark Borealis - Residential Flat November",
+    "z": 1,
+    "x": 227,
+    "y": 76,
+    "tileCount": 94,
+    "bounds": [
+      222,
+      72,
+      232,
+      80
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/under/flat/o",
+    "name": "Ark Borealis - Residential Flat Oscar",
+    "z": 1,
+    "x": 230,
+    "y": 65,
+    "tileCount": 99,
+    "bounds": [
+      225,
+      61,
+      235,
+      69
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/under/flat/p",
+    "name": "Ark Borealis - Residential Flat Papa",
+    "z": 1,
+    "x": 240,
+    "y": 67,
+    "tileCount": 92,
+    "bounds": [
+      235,
+      63,
+      245,
+      71
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/under/flat/q",
+    "name": "Ark Borealis - Residential Flat Quebec",
+    "z": 1,
+    "x": 250,
+    "y": 67,
+    "tileCount": 90,
+    "bounds": [
+      246,
+      63,
+      255,
+      71
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/under/flat/r",
+    "name": "Ark Borealis - Residential Flat Romeo",
+    "z": 1,
+    "x": 269,
+    "y": 78,
+    "tileCount": 88,
+    "bounds": [
+      264,
+      74,
+      274,
+      81
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/under/flat/s",
+    "name": "Ark Borealis - Residential Flat Sierra",
+    "z": 1,
+    "x": 284,
+    "y": 76,
+    "tileCount": 93,
+    "bounds": [
+      279,
+      72,
+      289,
+      80
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/under/flat/t",
+    "name": "Ark Borealis - Residential Flat Tango",
+    "z": 1,
+    "x": 282,
+    "y": 65,
+    "tileCount": 90,
+    "bounds": [
+      277,
+      61,
+      286,
+      69
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/under/flat/u",
+    "name": "Ark Borealis - Residential Flat Uniform",
+    "z": 1,
+    "x": 271,
+    "y": 67,
+    "tileCount": 99,
+    "bounds": [
+      266,
+      63,
+      276,
+      71
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/under/flat/v",
+    "name": "Ark Borealis - Residential Flat Victor",
+    "z": 1,
+    "x": 260,
+    "y": 67,
+    "tileCount": 90,
+    "bounds": [
+      256,
+      63,
+      265,
+      71
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/under/storage",
+    "name": "Ark Borealis - Residential Maint Storage",
+    "z": 1,
+    "x": 234,
+    "y": 76,
+    "tileCount": 24,
+    "bounds": [
+      233,
+      74,
+      236,
+      79
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/office",
+    "name": "Ark Borealis - Residential Office",
+    "z": 1,
+    "x": 44,
+    "y": 58,
+    "tileCount": 101,
+    "bounds": [
+      38,
+      52,
+      48,
+      62
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/pool",
+    "name": "Ark Borealis - Residential Pools",
+    "z": 1,
+    "x": 22,
+    "y": 86,
+    "tileCount": 166,
+    "bounds": [
+      14,
+      81,
+      29,
+      92
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/residential/shower",
+    "name": "Ark Borealis - Residential Showers",
+    "z": 1,
+    "x": 26,
+    "y": 58,
+    "tileCount": 74,
+    "bounds": [
+      22,
+      53,
+      29,
+      62
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/administration/security",
+    "name": "Ark Borealis - Security",
+    "z": 1,
+    "x": 88,
+    "y": 64,
+    "tileCount": 192,
+    "bounds": [
+      81,
+      53,
+      95,
+      75
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/administration/security/armory",
+    "name": "Ark Borealis - Security Armory",
+    "z": 1,
+    "x": 89,
+    "y": 73,
+    "tileCount": 68,
+    "bounds": [
+      84,
+      70,
+      93,
+      76
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/administration/security/checkpoint",
+    "name": "Ark Borealis - Security Checkpoint",
+    "z": 1,
+    "x": 80,
+    "y": 57,
+    "tileCount": 75,
+    "bounds": [
+      78,
+      51,
+      83,
+      63
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/administration/security/surveillance",
+    "name": "Ark Borealis - Security Surveillance",
+    "z": 1,
+    "x": 80,
+    "y": 66,
+    "tileCount": 25,
+    "bounds": [
+      78,
+      64,
+      82,
+      68
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/lv671/maintenance/maints",
+    "name": "Ark Borealis - Tunnels",
+    "z": 1,
+    "x": 152,
+    "y": 126,
+    "tileCount": 223,
+    "bounds": [
+      138,
+      110,
+      162,
+      145
+    ],
+    "category": "room"
+  }
+]

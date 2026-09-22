@@ -1,0 +1,92 @@
+[
+  {
+    "id": "/area/shield_base/outdoors/beach",
+    "name": "Coastline",
+    "z": 1,
+    "x": 140,
+    "y": 117,
+    "tileCount": 49182,
+    "bounds": [
+      1,
+      1,
+      250,
+      250
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/shield_base/outdoors/oni",
+    "name": "ONI Shield Base - Outdoors",
+    "z": 1,
+    "x": 122,
+    "y": 128,
+    "tileCount": 2024,
+    "bounds": [
+      96,
+      93,
+      147,
+      167
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/shield_base/indoors/facility",
+    "name": "ONI Shieldbase - Facility Indoors",
+    "z": 1,
+    "x": 55,
+    "y": 164,
+    "tileCount": 10734,
+    "bounds": [
+      3,
+      96,
+      150,
+      226
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/shield_base/indoors/facility/prefab",
+    "name": "ONI Shieldbase - Prefab Indoors",
+    "z": 1,
+    "x": 116,
+    "y": 104,
+    "tileCount": 50,
+    "bounds": [
+      114,
+      100,
+      119,
+      108
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/shield_base/indoors/coastline/north",
+    "name": "Shield Base - North Prefabs",
+    "z": 1,
+    "x": 201,
+    "y": 192,
+    "tileCount": 277,
+    "bounds": [
+      183,
+      158,
+      215,
+      208
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/shield_base/indoors/coastline/south",
+    "name": "Shield Base - South Prefabs",
+    "z": 1,
+    "x": 198,
+    "y": 68,
+    "tileCount": 230,
+    "bounds": [
+      168,
+      57,
+      218,
+      82
+    ],
+    "category": "room"
+  }
+]

@@ -1,0 +1,1112 @@
+[
+  {
+    "id": "/area/strata/ag/exterior/north_lz_caves",
+    "name": "External Mining Aerodrome Caves",
+    "z": 1,
+    "x": 38,
+    "y": 103,
+    "tileCount": 210,
+    "bounds": [
+      28,
+      96,
+      50,
+      113
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/strata/ag/interior/nearlz1",
+    "name": "Landing Zone 1 - Mining Aerodrome",
+    "z": 1,
+    "x": 13,
+    "y": 123,
+    "tileCount": 439,
+    "bounds": [
+      2,
+      105,
+      32,
+      148
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/strata/ag/interior/landingzone_1",
+    "name": "Landing Zone 1 Pad - Mining Aerodrome",
+    "z": 1,
+    "x": 11,
+    "y": 130,
+    "tileCount": 390,
+    "bounds": [
+      4,
+      118,
+      18,
+      143
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/strata/ag/exterior/nearlz2",
+    "name": "Landing Zone 2 - Ice Fields",
+    "z": 1,
+    "x": 43,
+    "y": 40,
+    "tileCount": 834,
+    "bounds": [
+      21,
+      23,
+      65,
+      58
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/strata/ag/exterior/landingzone_2",
+    "name": "Landing Zone 2 Pad - Ice Fields",
+    "z": 1,
+    "x": 47,
+    "y": 40,
+    "tileCount": 390,
+    "bounds": [
+      40,
+      28,
+      54,
+      53
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/strata/ag/interior/landingzone_checkpoint",
+    "name": "Landing Zone Security Checkpoint",
+    "z": 1,
+    "x": 49,
+    "y": 87,
+    "tileCount": 109,
+    "bounds": [
+      24,
+      47,
+      65,
+      100
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/strata/ag/exterior/tcomms/tcomms_deck",
+    "name": "Relay Storage Deck",
+    "z": 1,
+    "x": 78,
+    "y": 67,
+    "tileCount": 123,
+    "bounds": [
+      67,
+      59,
+      92,
+      72
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/strata/ag/exterior/marsh/crash",
+    "name": "Cryo-Thermal Crashed Lifeboat",
+    "z": 1,
+    "x": 14,
+    "y": 77,
+    "tileCount": 488,
+    "bounds": [
+      4,
+      61,
+      25,
+      91
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ag/exterior/marsh",
+    "name": "Cryo-Thermal Marshes",
+    "z": 1,
+    "x": 43,
+    "y": 69,
+    "tileCount": 1174,
+    "bounds": [
+      8,
+      33,
+      77,
+      97
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ag/exterior/marsh/river",
+    "name": "Cryo-Thermal River",
+    "z": 1,
+    "x": 17,
+    "y": 101,
+    "tileCount": 447,
+    "bounds": [
+      3,
+      86,
+      32,
+      117
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ag/exterior/marsh/center",
+    "name": "Cryo-Thermal Springs",
+    "z": 1,
+    "x": 41,
+    "y": 71,
+    "tileCount": 442,
+    "bounds": [
+      21,
+      59,
+      57,
+      82
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ag/exterior/marsh/water",
+    "name": "Cryo-Thermal Water",
+    "z": 1,
+    "x": 15,
+    "y": 52,
+    "tileCount": 292,
+    "bounds": [
+      2,
+      22,
+      49,
+      161
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ug/interior/jungle/deep/minehead/ruins",
+    "name": "Deep Jungle - Ancient Dorms",
+    "z": 1,
+    "x": 188,
+    "y": 130,
+    "tileCount": 121,
+    "bounds": [
+      182,
+      122,
+      196,
+      136
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ug/exterior/jungle/deep/carplake_center",
+    "name": "Deep Jungle - Carp Lake Center Island",
+    "z": 1,
+    "x": 195,
+    "y": 98,
+    "tileCount": 676,
+    "bounds": [
+      180,
+      84,
+      209,
+      112
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ug/interior/jungle/deep/structures/res",
+    "name": "Deep Jungle - Classified Research Station",
+    "z": 1,
+    "x": 232,
+    "y": 149,
+    "tileCount": 1259,
+    "bounds": [
+      211,
+      131,
+      252,
+      168
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ug/interior/jungle/deep/east_dorms",
+    "name": "Deep Jungle - East Dorms",
+    "z": 1,
+    "x": 179,
+    "y": 98,
+    "tileCount": 660,
+    "bounds": [
+      165,
+      68,
+      189,
+      129
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ug/interior/jungle/deep/east_carp",
+    "name": "Deep Jungle - East of Carp Lake",
+    "z": 1,
+    "x": 221,
+    "y": 98,
+    "tileCount": 802,
+    "bounds": [
+      205,
+      84,
+      236,
+      115
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ug/interior/jungle/deep/east_engi",
+    "name": "Deep Jungle - East of Core Monitoring",
+    "z": 1,
+    "x": 237,
+    "y": 72,
+    "tileCount": 777,
+    "bounds": [
+      218,
+      51,
+      249,
+      90
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ug/interior/jungle/deep/hotsprings",
+    "name": "Deep Jungle - Hot Springs",
+    "z": 1,
+    "x": 243,
+    "y": 105,
+    "tileCount": 577,
+    "bounds": [
+      228,
+      87,
+      254,
+      118
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ug/interior/jungle/deep/north_carp",
+    "name": "Deep Jungle - North of Carp Lake",
+    "z": 1,
+    "x": 206,
+    "y": 121,
+    "tileCount": 646,
+    "bounds": [
+      188,
+      111,
+      227,
+      140
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ug/interior/jungle/deep/minehead",
+    "name": "Deep Jungle - Old Tunnels",
+    "z": 1,
+    "x": 193,
+    "y": 149,
+    "tileCount": 1123,
+    "bounds": [
+      175,
+      129,
+      216,
+      168
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ug/interior/jungle/deep/structures/engi",
+    "name": "Deep Jungle - Planetary Core Monitoring",
+    "z": 1,
+    "x": 209,
+    "y": 71,
+    "tileCount": 557,
+    "bounds": [
+      195,
+      57,
+      224,
+      83
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ug/interior/jungle/deep/south_dorms",
+    "name": "Deep Jungle - South Dorms",
+    "z": 1,
+    "x": 164,
+    "y": 58,
+    "tileCount": 517,
+    "bounds": [
+      142,
+      47,
+      178,
+      72
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ug/interior/jungle/deep/south_res",
+    "name": "Deep Jungle - South of Classified Research Station",
+    "z": 1,
+    "x": 233,
+    "y": 126,
+    "tileCount": 461,
+    "bounds": [
+      212,
+      119,
+      253,
+      140
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ug/interior/jungle/deep/south_engi",
+    "name": "Deep Jungle - South of Core Monitoring",
+    "z": 1,
+    "x": 217,
+    "y": 53,
+    "tileCount": 617,
+    "bounds": [
+      195,
+      41,
+      240,
+      66
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ug/interior/jungle/deep/tearlake",
+    "name": "Deep Jungle - Weeping Pool",
+    "z": 1,
+    "x": 179,
+    "y": 34,
+    "tileCount": 1561,
+    "bounds": [
+      152,
+      9,
+      206,
+      57
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ug/interior/jungle/deep/west_engi",
+    "name": "Deep Jungle - West of Core Monitoring",
+    "z": 1,
+    "x": 192,
+    "y": 68,
+    "tileCount": 385,
+    "bounds": [
+      184,
+      53,
+      202,
+      83
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ag/interior/dorms",
+    "name": "External Mining",
+    "z": 1,
+    "x": 34,
+    "y": 135,
+    "tileCount": 556,
+    "bounds": [
+      22,
+      122,
+      52,
+      146
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ag/exterior/paths/cabin_area",
+    "name": "Far North Of The Outpost",
+    "z": 1,
+    "x": 159,
+    "y": 165,
+    "tileCount": 680,
+    "bounds": [
+      132,
+      151,
+      180,
+      185
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ag/exterior/paths/adminext",
+    "name": "Flight Control Exterior",
+    "z": 1,
+    "x": 67,
+    "y": 114,
+    "tileCount": 727,
+    "bounds": [
+      47,
+      91,
+      86,
+      135
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ag/exterior/vanyard",
+    "name": "Flight Control Vehicle Yard",
+    "z": 1,
+    "x": 66,
+    "y": 84,
+    "tileCount": 89,
+    "bounds": [
+      63,
+      79,
+      71,
+      90
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ug/interior",
+    "name": "Interior Under Ground Area",
+    "z": 1,
+    "x": 207,
+    "y": 74,
+    "tileCount": 7043,
+    "bounds": [
+      125,
+      2,
+      255,
+      192
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ag/exterior/paths/dorms_quad",
+    "name": "Mining Dormitories Quad",
+    "z": 1,
+    "x": 46,
+    "y": 128,
+    "tileCount": 153,
+    "bounds": [
+      37,
+      122,
+      57,
+      136
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ag/interior/outpost/gen/bball/nest",
+    "name": "Outpost - B-Ball Caves",
+    "z": 1,
+    "x": 118,
+    "y": 174,
+    "tileCount": 899,
+    "bounds": [
+      95,
+      156,
+      150,
+      190
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ag/exterior/paths/north_outpost",
+    "name": "Outpost - North Access Channel",
+    "z": 1,
+    "x": 114,
+    "y": 146,
+    "tileCount": 637,
+    "bounds": [
+      89,
+      137,
+      150,
+      155
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ag/interior/outpost/admin",
+    "name": "Outpost Administration",
+    "z": 1,
+    "x": 125,
+    "y": 116,
+    "tileCount": 569,
+    "bounds": [
+      110,
+      102,
+      141,
+      127
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ag/interior/outpost/engi/drome",
+    "name": "Outpost Aerodome",
+    "z": 1,
+    "x": 146,
+    "y": 99,
+    "tileCount": 793,
+    "bounds": [
+      125,
+      80,
+      164,
+      118
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ag/interior/outpost/gen/bball",
+    "name": "Outpost Basket Ball Court",
+    "z": 1,
+    "x": 120,
+    "y": 158,
+    "tileCount": 391,
+    "bounds": [
+      105,
+      151,
+      135,
+      165
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ag/interior/outpost/canteen",
+    "name": "Outpost Canteen",
+    "z": 1,
+    "x": 164,
+    "y": 127,
+    "tileCount": 362,
+    "bounds": [
+      157,
+      105,
+      176,
+      140
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ag/exterior/research_decks",
+    "name": "Outpost Decks",
+    "z": 1,
+    "x": 89,
+    "y": 113,
+    "tileCount": 928,
+    "bounds": [
+      65,
+      83,
+      117,
+      148
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ag/interior/outpost/engi",
+    "name": "Outpost Engineering",
+    "z": 1,
+    "x": 108,
+    "y": 129,
+    "tileCount": 586,
+    "bounds": [
+      91,
+      117,
+      126,
+      143
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ag/interior/outpost/med",
+    "name": "Outpost Medical",
+    "z": 1,
+    "x": 116,
+    "y": 94,
+    "tileCount": 671,
+    "bounds": [
+      93,
+      72,
+      132,
+      110
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ag/interior/outpost/security",
+    "name": "Outpost Security",
+    "z": 1,
+    "x": 134,
+    "y": 136,
+    "tileCount": 378,
+    "bounds": [
+      121,
+      127,
+      145,
+      145
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ag/interior/mountain",
+    "name": "Outside mountain",
+    "z": 1,
+    "x": 84,
+    "y": 107,
+    "tileCount": 6842,
+    "bounds": [
+      2,
+      1,
+      183,
+      192
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ag/exterior/paths/southresearch",
+    "name": "South Of The Outpost",
+    "z": 1,
+    "x": 96,
+    "y": 71,
+    "tileCount": 655,
+    "bounds": [
+      67,
+      50,
+      119,
+      82
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ag/interior/tcomms",
+    "name": "Tcomms",
+    "z": 1,
+    "x": 78,
+    "y": 56,
+    "tileCount": 445,
+    "bounds": [
+      58,
+      47,
+      92,
+      68
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ag/exterior/shed_five_caves",
+    "name": "Terminal Five Topside Caves",
+    "z": 1,
+    "x": 82,
+    "y": 87,
+    "tileCount": 208,
+    "bounds": [
+      70,
+      79,
+      91,
+      93
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ug/interior/outpost/jung/dorms/admin4",
+    "name": "Underground Colony Administration Dorm #1",
+    "z": 1,
+    "x": 178,
+    "y": 113,
+    "tileCount": 40,
+    "bounds": [
+      175,
+      110,
+      181,
+      116
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ug/interior/jungle/platform/east/scrub",
+    "name": "Underground Platform East Scrub",
+    "z": 1,
+    "x": 156,
+    "y": 83,
+    "tileCount": 916,
+    "bounds": [
+      129,
+      65,
+      175,
+      112
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/strata/ag/interior/restricted/devroom",
+    "name": "Devroom",
+    "z": 1,
+    "x": 68,
+    "y": 160,
+    "tileCount": 146,
+    "bounds": [
+      60,
+      153,
+      75,
+      165
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/strata/ag/interior/outpost/engi/drome/shuttle",
+    "name": "Dismantled VDVK Eagle Mk 4",
+    "z": 1,
+    "x": 144,
+    "y": 95,
+    "tileCount": 58,
+    "bounds": [
+      141,
+      91,
+      146,
+      100
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/strata/ag/interior/disposals",
+    "name": "Disposals Overhang",
+    "z": 1,
+    "x": 26,
+    "y": 105,
+    "tileCount": 62,
+    "bounds": [
+      22,
+      102,
+      30,
+      108
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/strata/ag/interior/dorms/canteen",
+    "name": "External Mining Dormitory Canteen",
+    "z": 1,
+    "x": 41,
+    "y": 148,
+    "tileCount": 143,
+    "bounds": [
+      35,
+      143,
+      48,
+      154
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/strata/ag/interior/dorms/maintenance",
+    "name": "External Mining Dormitory Maintenance",
+    "z": 1,
+    "x": 50,
+    "y": 149,
+    "tileCount": 160,
+    "bounds": [
+      39,
+      137,
+      57,
+      157
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/strata/ag/interior/dorms/hive",
+    "name": "External Mining Dormitory Thermal Storage",
+    "z": 1,
+    "x": 30,
+    "y": 153,
+    "tileCount": 199,
+    "bounds": [
+      20,
+      147,
+      38,
+      161
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/strata/ag/interior/dorms/flight_control",
+    "name": "External Mining Flight Control",
+    "z": 1,
+    "x": 11,
+    "y": 151,
+    "tileCount": 149,
+    "bounds": [
+      2,
+      147,
+      19,
+      156
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/strata/ag/interior/administration",
+    "name": "Flight Control Offices",
+    "z": 1,
+    "x": 66,
+    "y": 108,
+    "tileCount": 271,
+    "bounds": [
+      55,
+      100,
+      77,
+      115
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/strata/ag/interior",
+    "name": "Interior",
+    "z": 1,
+    "x": 129,
+    "y": 105,
+    "tileCount": 16,
+    "bounds": [
+      123,
+      103,
+      133,
+      106
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/strata/ag/interior/outpost/canteen/bar",
+    "name": "Outpost Bar",
+    "z": 1,
+    "x": 146,
+    "y": 118,
+    "tileCount": 124,
+    "bounds": [
+      141,
+      113,
+      152,
+      126
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/strata/ag/interior/outpost/canteen/lower_cafeteria",
+    "name": "Outpost Cafeteria",
+    "z": 1,
+    "x": 151,
+    "y": 131,
+    "tileCount": 260,
+    "bounds": [
+      144,
+      119,
+      159,
+      143
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/strata/ag/interior/outpost/maint/canteen_e_1",
+    "name": "Outpost Canteen - Eastern Maintenance",
+    "z": 1,
+    "x": 169,
+    "y": 122,
+    "tileCount": 166,
+    "bounds": [
+      157,
+      113,
+      176,
+      136
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/strata/ag/interior/research_decks/security",
+    "name": "Outpost Deck Security Checkpoint",
+    "z": 1,
+    "x": 82,
+    "y": 128,
+    "tileCount": 108,
+    "bounds": [
+      66,
+      84,
+      104,
+      145
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/strata/ag/interior/outpost/gen/foyer",
+    "name": "Outpost Main Foyer",
+    "z": 1,
+    "x": 100,
+    "y": 113,
+    "tileCount": 170,
+    "bounds": [
+      93,
+      107,
+      109,
+      121
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/strata/ag/interior/outpost/canteen/personal_storage",
+    "name": "Outpost Personal Storage",
+    "z": 1,
+    "x": 160,
+    "y": 145,
+    "tileCount": 246,
+    "bounds": [
+      149,
+      140,
+      174,
+      151
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/strata/ag/interior/dorms/south",
+    "name": "South External Mining Dormitories",
+    "z": 1,
+    "x": 44,
+    "y": 119,
+    "tileCount": 201,
+    "bounds": [
+      33,
+      114,
+      55,
+      125
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/strata/ag/interior/restricted",
+    "name": "Super Secret Credits Room",
+    "z": 1,
+    "x": 12,
+    "y": 14,
+    "tileCount": 237,
+    "bounds": [
+      6,
+      1,
+      22,
+      29
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/strata/ug/interior/outpost/jung/dorms/admin1",
+    "name": "Underground General Staff Dorm #1",
+    "z": 1,
+    "x": 132,
+    "y": 63,
+    "tileCount": 94,
+    "bounds": [
+      126,
+      60,
+      139,
+      67
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/strata/ug/interior/outpost/jung/dorms/admin2",
+    "name": "Underground General Staff Dorm #2",
+    "z": 1,
+    "x": 160,
+    "y": 60,
+    "tileCount": 62,
+    "bounds": [
+      156,
+      55,
+      163,
+      64
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/strata/ug/interior/outpost/jung/dorms/admin3",
+    "name": "Underground General Staff Dorm #3",
+    "z": 1,
+    "x": 181,
+    "y": 63,
+    "tileCount": 67,
+    "bounds": [
+      177,
+      58,
+      184,
+      68
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/strata/ug/interior/outpost/jung/dorms/med1",
+    "name": "Underground Medical Dorm #1",
+    "z": 1,
+    "x": 134,
+    "y": 82,
+    "tileCount": 46,
+    "bounds": [
+      132,
+      78,
+      137,
+      86
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/strata/ug/interior/outpost/jung/dorms/med2",
+    "name": "Underground Medical Dorm #2",
+    "z": 1,
+    "x": 160,
+    "y": 71,
+    "tileCount": 49,
+    "bounds": [
+      157,
+      68,
+      163,
+      75
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/strata/ug/interior/outpost/jung/dorms/sec1",
+    "name": "Underground Security Dorm #1",
+    "z": 1,
+    "x": 145,
+    "y": 55,
+    "tileCount": 88,
+    "bounds": [
+      140,
+      50,
+      150,
+      59
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/strata/ug/interior/outpost/jung/dorms/sec2",
+    "name": "Underground Security Dorm #2",
+    "z": 1,
+    "x": 177,
+    "y": 83,
+    "tileCount": 62,
+    "bounds": [
+      173,
+      78,
+      180,
+      87
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/strata/ag/interior/paths/cabin_area/central",
+    "name": "Wooden Hospital - Hospital Proper",
+    "z": 1,
+    "x": 156,
+    "y": 176,
+    "tileCount": 134,
+    "bounds": [
+      148,
+      170,
+      170,
+      186
+    ],
+    "category": "room"
+  }
+]

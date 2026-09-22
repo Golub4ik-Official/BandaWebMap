@@ -1,0 +1,17 @@
+[
+  {
+    "id": "/area/desert_dam/exterior/valley/valley_wilderness",
+    "name": "Wilderness Valley",
+    "z": 1,
+    "x": 126,
+    "y": 125,
+    "tileCount": 61488,
+    "bounds": [
+      2,
+      2,
+      249,
+      249
+    ],
+    "category": "major"
+  }
+]

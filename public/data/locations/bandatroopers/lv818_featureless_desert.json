@@ -1,0 +1,17 @@
+[
+  {
+    "id": "/area/kutjevo/exterior/scrubland",
+    "name": "Kutjevo - Scrubland",
+    "z": 1,
+    "x": 125,
+    "y": 126,
+    "tileCount": 57756,
+    "bounds": [
+      1,
+      1,
+      250,
+      250
+    ],
+    "category": "major"
+  }
+]

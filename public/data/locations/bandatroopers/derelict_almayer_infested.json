@@ -1,0 +1,1757 @@
+[
+  {
+    "id": "/area/almayer/command/airoom",
+    "name": "AI Core",
+    "z": 1,
+    "x": 267,
+    "y": 110,
+    "tileCount": 354,
+    "bounds": [
+      187,
+      89,
+      294,
+      159
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/almayer/hallways/upper/aft_hallway",
+    "name": "Aft Hallway",
+    "z": 1,
+    "x": 175,
+    "y": 152,
+    "tileCount": 1267,
+    "bounds": [
+      114,
+      113,
+      247,
+      191
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/almayer/living/briefing",
+    "name": "Briefing Area",
+    "z": 1,
+    "x": 175,
+    "y": 51,
+    "tileCount": 713,
+    "bounds": [
+      158,
+      41,
+      193,
+      61
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/almayer/command/cic",
+    "name": "Cic",
+    "z": 1,
+    "x": 101,
+    "y": 152,
+    "tileCount": 351,
+    "bounds": [
+      91,
+      144,
+      127,
+      164
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/almayer/hallways/hangar",
+    "name": "Hangar",
+    "z": 1,
+    "x": 101,
+    "y": 50,
+    "tileCount": 1405,
+    "bounds": [
+      75,
+      31,
+      125,
+      71
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/almayer/command/lifeboat",
+    "name": "Lifeboat Docking Port",
+    "z": 1,
+    "x": 262,
+    "y": 152,
+    "tileCount": 520,
+    "bounds": [
+      244,
+      144,
+      280,
+      160
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/almayer/maint/hull/lower/l_f_p",
+    "name": "Lower Deck Port-Fore Hull",
+    "z": 1,
+    "x": 92,
+    "y": 32,
+    "tileCount": 438,
+    "bounds": [
+      47,
+      27,
+      125,
+      40
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/almayer/hallways/lower/port_midship_hallway",
+    "name": "Lower Deck Port-Midship Hallway",
+    "z": 1,
+    "x": 180,
+    "y": 35,
+    "tileCount": 608,
+    "bounds": [
+      126,
+      9,
+      242,
+      51
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/almayer/maint/hull/lower/l_m_p",
+    "name": "Lower Deck Port-Midship Hull",
+    "z": 1,
+    "x": 174,
+    "y": 18,
+    "tileCount": 575,
+    "bounds": [
+      123,
+      5,
+      207,
+      37
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/almayer/maint/hull/lower/l_a_s",
+    "name": "Lower Deck Starboard-Aft Hull",
+    "z": 1,
+    "x": 254,
+    "y": 68,
+    "tileCount": 383,
+    "bounds": [
+      208,
+      51,
+      288,
+      88
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/almayer/maint/hull/lower/l_f_s",
+    "name": "Lower Deck Starboard-Fore Hull",
+    "z": 1,
+    "x": 90,
+    "y": 70,
+    "tileCount": 428,
+    "bounds": [
+      54,
+      59,
+      127,
+      81
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/almayer/hallways/lower/starboard_midship_hallway",
+    "name": "Lower Deck Starboard-Midship Hallway",
+    "z": 1,
+    "x": 180,
+    "y": 67,
+    "tileCount": 573,
+    "bounds": [
+      126,
+      52,
+      242,
+      93
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/almayer/maint/hull/lower/l_m_s",
+    "name": "Lower Deck Starboard-Midship Hull",
+    "z": 1,
+    "x": 175,
+    "y": 83,
+    "tileCount": 676,
+    "bounds": [
+      128,
+      65,
+      207,
+      97
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/almayer/lifeboat_pumps/south1",
+    "name": "Port-Fore Lifeboat Fuel Pump",
+    "z": 1,
+    "x": 124,
+    "y": 128,
+    "tileCount": 440,
+    "bounds": [
+      109,
+      121,
+      148,
+      141
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/almayer/squads/req",
+    "name": "Requisitions",
+    "z": 1,
+    "x": 207,
+    "y": 51,
+    "tileCount": 482,
+    "bounds": [
+      194,
+      41,
+      220,
+      61
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/almayer/command/cichallway",
+    "name": "Secure Command Hallway",
+    "z": 1,
+    "x": 89,
+    "y": 152,
+    "tileCount": 352,
+    "bounds": [
+      73,
+      142,
+      111,
+      162
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/almayer/squads/alpha",
+    "name": "Squad Alpha Preparation",
+    "z": 1,
+    "x": 216,
+    "y": 78,
+    "tileCount": 405,
+    "bounds": [
+      195,
+      73,
+      235,
+      85
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/almayer/squads/delta",
+    "name": "Squad Delta Preparation",
+    "z": 1,
+    "x": 216,
+    "y": 24,
+    "tileCount": 367,
+    "bounds": [
+      195,
+      17,
+      235,
+      28
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/almayer/lifeboat_pumps/north1",
+    "name": "Starboard-Fore Lifeboat Fuel Pump",
+    "z": 1,
+    "x": 121,
+    "y": 175,
+    "tileCount": 376,
+    "bounds": [
+      109,
+      163,
+      136,
+      183
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/almayer/engineering/upper_engineering",
+    "name": "Upper Deck Engineering",
+    "z": 1,
+    "x": 230,
+    "y": 152,
+    "tileCount": 361,
+    "bounds": [
+      213,
+      143,
+      244,
+      159
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/almayer/maint/hull/upper/u_f_p",
+    "name": "Upper Deck Port-Fore Hull",
+    "z": 1,
+    "x": 82,
+    "y": 136,
+    "tileCount": 390,
+    "bounds": [
+      37,
+      127,
+      127,
+      150
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/almayer/maint/hull/upper/u_m_p",
+    "name": "Upper Deck Port-Midship Hull",
+    "z": 1,
+    "x": 169,
+    "y": 129,
+    "tileCount": 808,
+    "bounds": [
+      128,
+      112,
+      201,
+      141
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/almayer/maint/hull/upper/u_a_s",
+    "name": "Upper Deck Starboard-Aft Hull",
+    "z": 1,
+    "x": 224,
+    "y": 170,
+    "tileCount": 363,
+    "bounds": [
+      205,
+      160,
+      256,
+      181
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/almayer/maint/hull/upper/u_m_s",
+    "name": "Upper Deck Starboard-Midship Hull",
+    "z": 1,
+    "x": 170,
+    "y": 176,
+    "tileCount": 578,
+    "bounds": [
+      128,
+      163,
+      201,
+      192
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/almayer/living/chapel",
+    "name": "Almayer Chapel",
+    "z": 1,
+    "x": 170,
+    "y": 170,
+    "tileCount": 110,
+    "bounds": [
+      166,
+      163,
+      173,
+      177
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/engineering/upper_engineering/notunnel",
+    "name": "Almayer hanger port external airlock",
+    "z": 1,
+    "x": 242,
+    "y": 152,
+    "tileCount": 28,
+    "bounds": [
+      240,
+      128,
+      243,
+      176
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/hallways/lower/port_umbilical",
+    "name": "Almayer hanger starboard external airlock",
+    "z": 1,
+    "x": 78,
+    "y": 32,
+    "tileCount": 79,
+    "bounds": [
+      75,
+      28,
+      82,
+      37
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/squads/alpha_bravo_shared",
+    "name": "Alpha Bravo Equipment Preparation",
+    "z": 1,
+    "x": 189,
+    "y": 73,
+    "tileCount": 165,
+    "bounds": [
+      184,
+      66,
+      194,
+      80
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/living/basketball",
+    "name": "Basketball Court",
+    "z": 1,
+    "x": 157,
+    "y": 169,
+    "tileCount": 153,
+    "bounds": [
+      149,
+      165,
+      165,
+      173
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/shipboard/brig/armory",
+    "name": "Brig Armory",
+    "z": 1,
+    "x": 60,
+    "y": 165,
+    "tileCount": 55,
+    "bounds": [
+      56,
+      162,
+      64,
+      168
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/shipboard/brig/cells",
+    "name": "Brig Cells",
+    "z": 1,
+    "x": 52,
+    "y": 142,
+    "tileCount": 226,
+    "bounds": [
+      42,
+      136,
+      64,
+      148
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/shipboard/brig/chief_mp_office",
+    "name": "Brig Chief MP Office",
+    "z": 1,
+    "x": 38,
+    "y": 154,
+    "tileCount": 68,
+    "bounds": [
+      35,
+      149,
+      41,
+      160
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/shipboard/brig/cic_hallway",
+    "name": "Brig CiC Hallway",
+    "z": 1,
+    "x": 78,
+    "y": 152,
+    "tileCount": 160,
+    "bounds": [
+      70,
+      140,
+      86,
+      164
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/shipboard/brig/cryo",
+    "name": "Brig Cryo Pods",
+    "z": 1,
+    "x": 67,
+    "y": 161,
+    "tileCount": 74,
+    "bounds": [
+      50,
+      155,
+      81,
+      165
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/shipboard/brig/evidence_storage",
+    "name": "Brig Evidence Storage",
+    "z": 1,
+    "x": 49,
+    "y": 154,
+    "tileCount": 25,
+    "bounds": [
+      46,
+      146,
+      65,
+      156
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/shipboard/brig/execution",
+    "name": "Brig Execution Room",
+    "z": 1,
+    "x": 76,
+    "y": 141,
+    "tileCount": 55,
+    "bounds": [
+      72,
+      138,
+      81,
+      143
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/shipboard/brig/general_equipment",
+    "name": "Brig General Equipment",
+    "z": 1,
+    "x": 68,
+    "y": 164,
+    "tileCount": 89,
+    "bounds": [
+      61,
+      159,
+      72,
+      169
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/shipboard/brig/lobby",
+    "name": "Brig Lobby",
+    "z": 1,
+    "x": 67,
+    "y": 155,
+    "tileCount": 41,
+    "bounds": [
+      64,
+      146,
+      69,
+      159
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/shipboard/brig/medical",
+    "name": "Brig Medical",
+    "z": 1,
+    "x": 60,
+    "y": 157,
+    "tileCount": 42,
+    "bounds": [
+      56,
+      147,
+      65,
+      159
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/shipboard/brig/perma",
+    "name": "Brig Perma Cells",
+    "z": 1,
+    "x": 67,
+    "y": 141,
+    "tileCount": 120,
+    "bounds": [
+      62,
+      135,
+      72,
+      148
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/shipboard/brig/processing",
+    "name": "Brig Processing and Holding",
+    "z": 1,
+    "x": 58,
+    "y": 151,
+    "tileCount": 111,
+    "bounds": [
+      46,
+      147,
+      69,
+      154
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/shipboard/brig/warden_office",
+    "name": "Brig Warden Office",
+    "z": 1,
+    "x": 49,
+    "y": 158,
+    "tileCount": 221,
+    "bounds": [
+      40,
+      145,
+      60,
+      168
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/living/captain_mess",
+    "name": "Captain's Mess",
+    "z": 1,
+    "x": 118,
+    "y": 141,
+    "tileCount": 91,
+    "bounds": [
+      112,
+      138,
+      124,
+      144
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/engineering/ce_room",
+    "name": "Ce Room",
+    "z": 1,
+    "x": 238,
+    "y": 165,
+    "tileCount": 55,
+    "bounds": [
+      233,
+      163,
+      243,
+      167
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/squads/charlie_delta_shared",
+    "name": "Charlie Delta Equipment Preparation",
+    "z": 1,
+    "x": 189,
+    "y": 29,
+    "tileCount": 165,
+    "bounds": [
+      184,
+      22,
+      194,
+      36
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/living/commandbunks",
+    "name": "Commanding Officer's Bunk",
+    "z": 1,
+    "x": 101,
+    "y": 168,
+    "tileCount": 155,
+    "bounds": [
+      93,
+      163,
+      108,
+      172
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/medical/containment/cell/cl",
+    "name": "Containment",
+    "z": 1,
+    "x": 158,
+    "y": 128,
+    "tileCount": 36,
+    "bounds": [
+      151,
+      126,
+      161,
+      132
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/command/corporateliaison",
+    "name": "Corporate Liaison Office",
+    "z": 1,
+    "x": 163,
+    "y": 134,
+    "tileCount": 198,
+    "bounds": [
+      150,
+      130,
+      173,
+      139
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/engineering/lower/engine_core",
+    "name": "Engine Reactor Core Room",
+    "z": 1,
+    "x": 265,
+    "y": 51,
+    "tileCount": 321,
+    "bounds": [
+      255,
+      43,
+      276,
+      59
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/living/numbertwobunks",
+    "name": "Executive Officer's Bunk",
+    "z": 1,
+    "x": 116,
+    "y": 147,
+    "tileCount": 46,
+    "bounds": [
+      112,
+      145,
+      120,
+      150
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/living/offices/flight",
+    "name": "Flight Office",
+    "z": 1,
+    "x": 108,
+    "y": 65,
+    "tileCount": 98,
+    "bounds": [
+      99,
+      57,
+      116,
+      71
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/engineering/airmix",
+    "name": "Lifeboat Fuel Pumps",
+    "z": 1,
+    "x": 233,
+    "y": 89,
+    "tileCount": 108,
+    "bounds": [
+      206,
+      34,
+      255,
+      167
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/living/grunt_rnr",
+    "name": "Lounge",
+    "z": 1,
+    "x": 163,
+    "y": 30,
+    "tileCount": 304,
+    "bounds": [
+      150,
+      24,
+      180,
+      37
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/maint/hull/lower",
+    "name": "Lower",
+    "z": 1,
+    "x": 221,
+    "y": 49,
+    "tileCount": 33,
+    "bounds": [
+      220,
+      41,
+      222,
+      61
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/engineering/lower",
+    "name": "Lower",
+    "z": 1,
+    "x": 250,
+    "y": 53,
+    "tileCount": 212,
+    "bounds": [
+      243,
+      35,
+      257,
+      68
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/living/auxiliary_officer_office",
+    "name": "Lower Deck Auxiliary Support Officer office",
+    "z": 1,
+    "x": 69,
+    "y": 59,
+    "tileCount": 80,
+    "bounds": [
+      63,
+      56,
+      75,
+      62
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/living/offices",
+    "name": "Lower Deck Conference Office",
+    "z": 1,
+    "x": 157,
+    "y": 71,
+    "tileCount": 210,
+    "bounds": [
+      149,
+      65,
+      165,
+      77
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/living/cryo_cells",
+    "name": "Lower Deck Cryo Cells",
+    "z": 1,
+    "x": 226,
+    "y": 50,
+    "tileCount": 125,
+    "bounds": [
+      222,
+      41,
+      232,
+      61
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/hallways/lower/repair_bay",
+    "name": "Lower Deck Deployment Workshop",
+    "z": 1,
+    "x": 101,
+    "y": 68,
+    "tileCount": 91,
+    "bounds": [
+      95,
+      65,
+      107,
+      71
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/engineering/lower/workshop",
+    "name": "Lower Deck Engineering Workshop",
+    "z": 1,
+    "x": 248,
+    "y": 51,
+    "tileCount": 138,
+    "bounds": [
+      242,
+      46,
+      255,
+      56
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/living/gym",
+    "name": "Lower Deck Gym",
+    "z": 1,
+    "x": 131,
+    "y": 72,
+    "tileCount": 135,
+    "bounds": [
+      126,
+      65,
+      137,
+      78
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/living/port_emb",
+    "name": "Lower Deck Port Extended Mission Bunks",
+    "z": 1,
+    "x": 175,
+    "y": 33,
+    "tileCount": 99,
+    "bounds": [
+      170,
+      29,
+      180,
+      37
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/shipboard/port_point_defense",
+    "name": "Lower Deck Port Point Defense",
+    "z": 1,
+    "x": 143,
+    "y": 21,
+    "tileCount": 119,
+    "bounds": [
+      138,
+      12,
+      148,
+      28
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/maint/hull/lower/l_a_p",
+    "name": "Lower Deck Port-Aft Hull",
+    "z": 1,
+    "x": 254,
+    "y": 35,
+    "tileCount": 333,
+    "bounds": [
+      208,
+      14,
+      288,
+      50
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/shipboard/sea_office",
+    "name": "Lower Deck Senior Enlisted Advisor Office",
+    "z": 1,
+    "x": 224,
+    "y": 51,
+    "tileCount": 42,
+    "bounds": [
+      222,
+      48,
+      227,
+      54
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/stair_clone",
+    "name": "Lower Deck Stairs",
+    "z": 1,
+    "x": 170,
+    "y": 51,
+    "tileCount": 120,
+    "bounds": [
+      136,
+      9,
+      200,
+      93
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/living/starboard_emb",
+    "name": "Lower Deck Starboard Extended Mission Bunks",
+    "z": 1,
+    "x": 175,
+    "y": 69,
+    "tileCount": 99,
+    "bounds": [
+      170,
+      65,
+      180,
+      73
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/shipboard/weapon_room/notunnel",
+    "name": "Lower Deck Starboard Point Defense",
+    "z": 1,
+    "x": 47,
+    "y": 46,
+    "tileCount": 10,
+    "bounds": [
+      46,
+      44,
+      48,
+      47
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/shipboard/weapon_room",
+    "name": "Lower Deck Weapon Control",
+    "z": 1,
+    "x": 54,
+    "y": 50,
+    "tileCount": 189,
+    "bounds": [
+      48,
+      40,
+      62,
+      62
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/medical/lower_medical_lobby",
+    "name": "Lower Medical Lobby",
+    "z": 1,
+    "x": 131,
+    "y": 51,
+    "tileCount": 194,
+    "bounds": [
+      122,
+      41,
+      137,
+      61
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/medical/chemistry",
+    "name": "Medical Chemical laboratory",
+    "z": 1,
+    "x": 126,
+    "y": 58,
+    "tileCount": 56,
+    "bounds": [
+      122,
+      55,
+      129,
+      61
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/medical/cryo_tubes",
+    "name": "Medical Cryogenics Tubes",
+    "z": 1,
+    "x": 149,
+    "y": 50,
+    "tileCount": 5,
+    "bounds": [
+      147,
+      50,
+      151,
+      50
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/medical/lockerroom",
+    "name": "Medical Locker Room",
+    "z": 1,
+    "x": 126,
+    "y": 44,
+    "tileCount": 56,
+    "bounds": [
+      122,
+      41,
+      129,
+      47
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/medical/lower_medical_medbay",
+    "name": "Medical Lower Medbay",
+    "z": 1,
+    "x": 146,
+    "y": 51,
+    "tileCount": 288,
+    "bounds": [
+      134,
+      41,
+      158,
+      61
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/medical/operating_room_one",
+    "name": "Medical Operating Room 1",
+    "z": 1,
+    "x": 144,
+    "y": 58,
+    "tileCount": 42,
+    "bounds": [
+      141,
+      56,
+      147,
+      61
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/medical/operating_room_two",
+    "name": "Medical Operating Room 2",
+    "z": 1,
+    "x": 154,
+    "y": 58,
+    "tileCount": 42,
+    "bounds": [
+      151,
+      56,
+      157,
+      61
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/medical/operating_room_three",
+    "name": "Medical Operating Room 3",
+    "z": 1,
+    "x": 144,
+    "y": 44,
+    "tileCount": 42,
+    "bounds": [
+      141,
+      41,
+      147,
+      46
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/medical/operating_room_four",
+    "name": "Medical Operating Room 4",
+    "z": 1,
+    "x": 154,
+    "y": 44,
+    "tileCount": 42,
+    "bounds": [
+      151,
+      41,
+      157,
+      46
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/medical/containment",
+    "name": "Medical Research containment",
+    "z": 1,
+    "x": 170,
+    "y": 152,
+    "tileCount": 60,
+    "bounds": [
+      163,
+      148,
+      175,
+      156
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/medical/containment/cell",
+    "name": "Medical Research containment cells",
+    "z": 1,
+    "x": 175,
+    "y": 152,
+    "tileCount": 142,
+    "bounds": [
+      166,
+      146,
+      182,
+      158
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/medical/hydroponics",
+    "name": "Medical Research hydroponics",
+    "z": 1,
+    "x": 156,
+    "y": 158,
+    "tileCount": 76,
+    "bounds": [
+      149,
+      156,
+      164,
+      160
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/medical/medical_science",
+    "name": "Medical Research laboratories",
+    "z": 1,
+    "x": 161,
+    "y": 151,
+    "tileCount": 325,
+    "bounds": [
+      148,
+      143,
+      183,
+      161
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/medical/upper_medical",
+    "name": "Medical Upper",
+    "z": 1,
+    "x": 143,
+    "y": 151,
+    "tileCount": 191,
+    "bounds": [
+      136,
+      143,
+      156,
+      161
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/medical/morgue",
+    "name": "Morgue",
+    "z": 1,
+    "x": 134,
+    "y": 153,
+    "tileCount": 141,
+    "bounds": [
+      131,
+      143,
+      139,
+      161
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/shipboard/navigation",
+    "name": "Navigation",
+    "z": 1,
+    "x": 60,
+    "y": 51,
+    "tileCount": 129,
+    "bounds": [
+      55,
+      45,
+      65,
+      57
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/engineering/lower/workshop/hangar",
+    "name": "Ordnance Workshop",
+    "z": 1,
+    "x": 130,
+    "y": 30,
+    "tileCount": 166,
+    "bounds": [
+      123,
+      24,
+      139,
+      37
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/living/pilotbunks",
+    "name": "Pilot's Bunks",
+    "z": 1,
+    "x": 120,
+    "y": 160,
+    "tileCount": 201,
+    "bounds": [
+      112,
+      154,
+      127,
+      167
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/lifeboat_pumps/south2",
+    "name": "Port-Aft Lifeboat Fuel Pump",
+    "z": 1,
+    "x": 205,
+    "y": 127,
+    "tileCount": 202,
+    "bounds": [
+      198,
+      120,
+      213,
+      134
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/powered",
+    "name": "Powered",
+    "z": 1,
+    "x": 171,
+    "y": 122,
+    "tileCount": 18,
+    "bounds": [
+      131,
+      18,
+      193,
+      178
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/hallways/lower/starboard_umbilical",
+    "name": "Response Station Landing Pad 1",
+    "z": 1,
+    "x": 78,
+    "y": 70,
+    "tileCount": 70,
+    "bounds": [
+      75,
+      65,
+      81,
+      74
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/squads/bravo",
+    "name": "Squad Bravo Preparation",
+    "z": 1,
+    "x": 214,
+    "y": 69,
+    "tileCount": 299,
+    "bounds": [
+      195,
+      65,
+      233,
+      72
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/squads/charlie",
+    "name": "Squad Charlie Preparation",
+    "z": 1,
+    "x": 214,
+    "y": 33,
+    "tileCount": 337,
+    "bounds": [
+      195,
+      29,
+      234,
+      37
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/living/bridgebunks",
+    "name": "Staff Officer Bunks",
+    "z": 1,
+    "x": 99,
+    "y": 137,
+    "tileCount": 194,
+    "bounds": [
+      88,
+      132,
+      108,
+      141
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/living/starboard_garden",
+    "name": "Starboard Garden",
+    "z": 1,
+    "x": 152,
+    "y": 178,
+    "tileCount": 212,
+    "bounds": [
+      137,
+      174,
+      165,
+      183
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/shipboard/starboard_point_defense",
+    "name": "Starboard Point Defense",
+    "z": 1,
+    "x": 143,
+    "y": 86,
+    "tileCount": 225,
+    "bounds": [
+      138,
+      74,
+      148,
+      96
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/lifeboat_pumps/north2",
+    "name": "Starboard-Aft Lifeboat Fuel Pump",
+    "z": 1,
+    "x": 205,
+    "y": 177,
+    "tileCount": 202,
+    "bounds": [
+      198,
+      170,
+      213,
+      184
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/supply/station",
+    "name": "Supply Shuttle",
+    "z": 1,
+    "x": 209,
+    "y": 51,
+    "tileCount": 25,
+    "bounds": [
+      207,
+      49,
+      211,
+      53
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/living/tankerbunks",
+    "name": "Tankerbunks",
+    "z": 1,
+    "x": 69,
+    "y": 36,
+    "tileCount": 36,
+    "bounds": [
+      66,
+      34,
+      73,
+      38
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/powered/agent",
+    "name": "Unknown Area",
+    "z": 1,
+    "x": 228,
+    "y": 66,
+    "tileCount": 20,
+    "bounds": [
+      156,
+      19,
+      291,
+      105
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/command/combat_correspondent",
+    "name": "Upper Deck Combat Correspondent Office",
+    "z": 1,
+    "x": 213,
+    "y": 139,
+    "tileCount": 35,
+    "bounds": [
+      210,
+      137,
+      216,
+      141
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/command/computerlab",
+    "name": "Upper Deck Computer Lab",
+    "z": 1,
+    "x": 195,
+    "y": 149,
+    "tileCount": 115,
+    "bounds": [
+      187,
+      145,
+      201,
+      154
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/engineering/laundry",
+    "name": "Upper Deck Laundry Room",
+    "z": 1,
+    "x": 218,
+    "y": 138,
+    "tileCount": 17,
+    "bounds": [
+      217,
+      134,
+      219,
+      141
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/living/cafeteria_officer",
+    "name": "Upper Deck Officer Cafeteria",
+    "z": 1,
+    "x": 187,
+    "y": 165,
+    "tileCount": 35,
+    "bounds": [
+      184,
+      163,
+      190,
+      167
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/living/officer_study",
+    "name": "Upper Deck Officer's Study",
+    "z": 1,
+    "x": 178,
+    "y": 165,
+    "tileCount": 29,
+    "bounds": [
+      175,
+      163,
+      180,
+      167
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/engineering/port_atmos",
+    "name": "Upper Deck Port Atmospherics",
+    "z": 1,
+    "x": 196,
+    "y": 140,
+    "tileCount": 36,
+    "bounds": [
+      192,
+      138,
+      200,
+      141
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/engineering/upper_engineering/port",
+    "name": "Upper Deck Port Engineering",
+    "z": 1,
+    "x": 251,
+    "y": 135,
+    "tileCount": 336,
+    "bounds": [
+      231,
+      131,
+      275,
+      141
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/shipboard/port_missiles",
+    "name": "Upper Deck Port Missile Tubes",
+    "z": 1,
+    "x": 80,
+    "y": 131,
+    "tileCount": 111,
+    "bounds": [
+      74,
+      127,
+      86,
+      135
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/maint/hull/upper/u_a_p",
+    "name": "Upper Deck Port-Aft Hull",
+    "z": 1,
+    "x": 231,
+    "y": 135,
+    "tileCount": 165,
+    "bounds": [
+      205,
+      123,
+      256,
+      144
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/command/securestorage",
+    "name": "Upper Deck Secure Storage",
+    "z": 1,
+    "x": 198,
+    "y": 157,
+    "tileCount": 40,
+    "bounds": [
+      194,
+      155,
+      201,
+      159
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/stair_clone/upper",
+    "name": "Upper Deck Stairs",
+    "z": 1,
+    "x": 158,
+    "y": 152,
+    "tileCount": 132,
+    "bounds": [
+      135,
+      113,
+      178,
+      191
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/engineering/starboard_atmos",
+    "name": "Upper Deck Starboard Atmospherics",
+    "z": 1,
+    "x": 195,
+    "y": 165,
+    "tileCount": 45,
+    "bounds": [
+      191,
+      163,
+      200,
+      167
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/engineering/upper_engineering/starboard",
+    "name": "Upper Deck Starboard Engineering",
+    "z": 1,
+    "x": 254,
+    "y": 170,
+    "tileCount": 284,
+    "bounds": [
+      233,
+      163,
+      275,
+      175
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/shipboard/starboard_missiles",
+    "name": "Upper Deck Starboard Missile Tubes",
+    "z": 1,
+    "x": 80,
+    "y": 173,
+    "tileCount": 113,
+    "bounds": [
+      74,
+      168,
+      86,
+      177
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/maint/hull/upper/u_f_s",
+    "name": "Upper Deck Starboard-Fore Hull",
+    "z": 1,
+    "x": 76,
+    "y": 170,
+    "tileCount": 308,
+    "bounds": [
+      39,
+      161,
+      111,
+      177
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/living/synthcloset",
+    "name": "Upper Deck Synthetic Storage Closet",
+    "z": 1,
+    "x": 90,
+    "y": 166,
+    "tileCount": 35,
+    "bounds": [
+      88,
+      163,
+      92,
+      169
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/command/telecomms",
+    "name": "Upper Deck Telecommunications",
+    "z": 1,
+    "x": 207,
+    "y": 152,
+    "tileCount": 176,
+    "bounds": [
+      202,
+      145,
+      213,
+      159
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/almayer/hallways/lower/vehiclehangar",
+    "name": "Vehiclehangar",
+    "z": 1,
+    "x": 69,
+    "y": 46,
+    "tileCount": 206,
+    "bounds": [
+      62,
+      38,
+      75,
+      55
+    ],
+    "category": "room"
+  }
+]

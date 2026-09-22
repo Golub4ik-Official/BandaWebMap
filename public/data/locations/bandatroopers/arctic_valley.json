@@ -1,0 +1,17 @@
+[
+  {
+    "id": "/area/ice_colony/exterior/surface/valley",
+    "name": "Ice Cliffs Valley",
+    "z": 1,
+    "x": 126,
+    "y": 126,
+    "tileCount": 57494,
+    "bounds": [
+      2,
+      2,
+      249,
+      249
+    ],
+    "category": "major"
+  }
+]

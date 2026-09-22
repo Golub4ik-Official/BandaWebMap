@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "/area/ice_colony/exterior/surface/container_yard",
+    "name": "Aerodrome Container Yard",
+    "z": 1,
+    "x": 130,
+    "y": 160,
+    "tileCount": 240,
+    "bounds": [
+      120,
+      155,
+      139,
+      166
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/hangar/alpha",
+    "name": "Aerodrome Hangar 'Alpha",
+    "z": 1,
+    "x": 154,
+    "y": 170,
+    "tileCount": 287,
+    "bounds": [
+      146,
+      161,
+      161,
+      178
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/hangar/beta",
+    "name": "Aerodrome Hangar 'Beta",
+    "z": 1,
+    "x": 173,
+    "y": 170,
+    "tileCount": 287,
+    "bounds": [
+      166,
+      161,
+      181,
+      178
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/hangar/hallway",
+    "name": "Aerodrome Hangar Hallway",
+    "z": 1,
+    "x": 164,
+    "y": 170,
+    "tileCount": 68,
+    "bounds": [
+      162,
+      162,
+      165,
+      178
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/hangar/checkpoint",
+    "name": "Aerodrome Hangar Security Checkpoint",
+    "z": 1,
+    "x": 163,
+    "y": 183,
+    "tileCount": 111,
+    "bounds": [
+      157,
+      179,
+      169,
+      191
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/exterior/surface/landing_pad",
+    "name": "Aerodrome Landing Pad",
+    "z": 1,
+    "x": 180,
+    "y": 155,
+    "tileCount": 689,
+    "bounds": [
+      147,
+      144,
+      204,
+      166
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/exterior/surface/landing_pad_external",
+    "name": "Aerodrome Landing Valley",
+    "z": 1,
+    "x": 191,
+    "y": 154,
+    "tileCount": 382,
+    "bounds": [
+      143,
+      142,
+      214,
+      169
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/bar/bar",
+    "name": "Anti-Freeze Bar",
+    "z": 1,
+    "x": 130,
+    "y": 178,
+    "tileCount": 174,
+    "bounds": [
+      124,
+      170,
+      136,
+      184
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/bar/canteen",
+    "name": "Anti-Freeze Canteen",
+    "z": 1,
+    "x": 118,
+    "y": 177,
+    "tileCount": 150,
+    "bounds": [
+      114,
+      170,
+      123,
+      184
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/clinic/lobby",
+    "name": "Aurora Medical Clinic Lobby",
+    "z": 1,
+    "x": 161,
+    "y": 226,
+    "tileCount": 76,
+    "bounds": [
+      156,
+      223,
+      167,
+      229
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/clinic/storage",
+    "name": "Aurora Medical Clinic Storage",
+    "z": 1,
+    "x": 166,
+    "y": 234,
+    "tileCount": 56,
+    "bounds": [
+      163,
+      230,
+      169,
+      237
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/clinic/treatment",
+    "name": "Aurora Medical Clinic Treatment",
+    "z": 1,
+    "x": 161,
+    "y": 237,
+    "tileCount": 126,
+    "bounds": [
+      156,
+      230,
+      169,
+      242
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/command/checkpoint",
+    "name": "Colony Administration Security Checkpoint",
+    "z": 1,
+    "x": 117,
+    "y": 206,
+    "tileCount": 77,
+    "bounds": [
+      112,
+      203,
+      122,
+      209
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/exterior/surface/clearing/pass",
+    "name": "Colony Central Valley",
+    "z": 1,
+    "x": 126,
+    "y": 195,
+    "tileCount": 925,
+    "bounds": [
+      83,
+      185,
+      167,
+      209
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/command/control",
+    "name": "Colony Control Center",
+    "z": 1,
+    "x": 111,
+    "y": 200,
+    "tileCount": 97,
+    "bounds": [
+      99,
+      199,
+      123,
+      202
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/command/control/office",
+    "name": "Colony Control Central Office",
+    "z": 1,
+    "x": 105,
+    "y": 206,
+    "tileCount": 91,
+    "bounds": [
+      99,
+      203,
+      111,
+      209
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/command/control/pv1",
+    "name": "Colony Control Private Office",
+    "z": 1,
+    "x": 115,
+    "y": 196,
+    "tileCount": 30,
+    "bounds": [
+      113,
+      193,
+      117,
+      198
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/command/control/pv2",
+    "name": "Colony Control Private Office",
+    "z": 1,
+    "x": 120,
+    "y": 196,
+    "tileCount": 30,
+    "bounds": [
+      118,
+      193,
+      122,
+      198
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/command/crisis",
+    "name": "Colony Crisis Room",
+    "z": 1,
+    "x": 106,
+    "y": 195,
+    "tileCount": 111,
+    "bounds": [
+      99,
+      191,
+      112,
+      198
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/exterior/surface/clearing/north",
+    "name": "Colony Northern Clearing",
+    "z": 1,
+    "x": 125,
+    "y": 233,
+    "tileCount": 3125,
+    "bounds": [
+      72,
+      207,
+      212,
+      278
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/exterior/surface/clearing/south",
+    "name": "Colony Southern Clearing",
+    "z": 1,
+    "x": 129,
+    "y": 168,
+    "tileCount": 723,
+    "bounds": [
+      105,
+      151,
+      156,
+      184
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/tcomms",
+    "name": "Colony Telecommunications",
+    "z": 1,
+    "x": 130,
+    "y": 140,
+    "tileCount": 56,
+    "bounds": [
+      124,
+      45,
+      183,
+      146
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/security/detective",
+    "name": "Detective's Office",
+    "z": 1,
+    "x": 108,
+    "y": 84,
+    "tileCount": 42,
+    "bounds": [
+      105,
+      81,
+      111,
+      86
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/exterior/underground/caves/dig",
+    "name": "Dig",
+    "z": 1,
+    "x": 178,
+    "y": 22,
+    "tileCount": 890,
+    "bounds": [
+      155,
+      10,
+      203,
+      35
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/dorms",
+    "name": "Dormitories",
+    "z": 1,
+    "x": 110,
+    "y": 224,
+    "tileCount": 528,
+    "bounds": [
+      99,
+      210,
+      122,
+      243
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/dorms/canteen",
+    "name": "Dormitories Canteen",
+    "z": 1,
+    "x": 118,
+    "y": 215,
+    "tileCount": 50,
+    "bounds": [
+      113,
+      213,
+      122,
+      217
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/dorms/restroom_e",
+    "name": "Dormitories East Restroom",
+    "z": 1,
+    "x": 118,
+    "y": 242,
+    "tileCount": 134,
+    "bounds": [
+      113,
+      235,
+      122,
+      249
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/dorms/lavatory",
+    "name": "Dormitories Lavatory",
+    "z": 1,
+    "x": 104,
+    "y": 215,
+    "tileCount": 50,
+    "bounds": [
+      99,
+      213,
+      108,
+      217
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/dorms/restroom_w",
+    "name": "Dormitories West Restroom",
+    "z": 1,
+    "x": 103,
+    "y": 242,
+    "tileCount": 134,
+    "bounds": [
+      99,
+      235,
+      108,
+      249
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/crew/dorm_r",
+    "name": "East Dormitory",
+    "z": 1,
+    "x": 98,
+    "y": 74,
+    "tileCount": 60,
+    "bounds": [
+      95,
+      69,
+      100,
+      78
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/exterior/surface/valley/southeast",
+    "name": "Eastern Valleys",
+    "z": 1,
+    "x": 192,
+    "y": 194,
+    "tileCount": 1336,
+    "bounds": [
+      168,
+      165,
+      215,
+      227
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/exterior/surface/landing_pad2",
+    "name": "Emergency Landing Pad",
+    "z": 1,
+    "x": 84,
+    "y": 264,
+    "tileCount": 462,
+    "bounds": [
+      75,
+      250,
+      93,
+      277
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/engineering",
+    "name": "Engineering",
+    "z": 1,
+    "x": 155,
+    "y": 255,
+    "tileCount": 174,
+    "bounds": [
+      146,
+      249,
+      165,
+      263
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/engineering/electric",
+    "name": "Engineering Electric Storage",
+    "z": 1,
+    "x": 159,
+    "y": 267,
+    "tileCount": 56,
+    "bounds": [
+      154,
+      264,
+      164,
+      269
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/engineering/generator",
+    "name": "Engineering Generator Room",
+    "z": 1,
+    "x": 165,
+    "y": 258,
+    "tileCount": 114,
+    "bounds": [
+      161,
+      253,
+      170,
+      264
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/engineering/tool",
+    "name": "Engineering Tool Storage",
+    "z": 1,
+    "x": 154,
+    "y": 262,
+    "tileCount": 33,
+    "bounds": [
+      151,
+      260,
+      157,
+      264
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/excavation",
+    "name": "Excavation Outpost",
+    "z": 1,
+    "x": 111,
+    "y": 138,
+    "tileCount": 216,
+    "bounds": [
+      98,
+      134,
+      124,
+      141
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/excavation/storage",
+    "name": "Excavation Outpost External Storage",
+    "z": 1,
+    "x": 95,
+    "y": 138,
+    "tileCount": 38,
+    "bounds": [
+      93,
+      134,
+      97,
+      141
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/garage/two",
+    "name": "Garage Eastern Unit",
+    "z": 1,
+    "x": 159,
+    "y": 207,
+    "tileCount": 165,
+    "bounds": [
+      153,
+      201,
+      165,
+      213
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/garage/repair",
+    "name": "Garage Repair Station",
+    "z": 1,
+    "x": 136,
+    "y": 207,
+    "tileCount": 71,
+    "bounds": [
+      132,
+      202,
+      139,
+      212
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/garage/one",
+    "name": "Garage Western Unit",
+    "z": 1,
+    "x": 146,
+    "y": 207,
+    "tileCount": 166,
+    "bounds": [
+      140,
+      201,
+      152,
+      213
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/hydroponics/north",
+    "name": "Hydroponics North Wing",
+    "z": 1,
+    "x": 64,
+    "y": 243,
+    "tileCount": 314,
+    "bounds": [
+      55,
+      230,
+      75,
+      255
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/hydroponics/lobby",
+    "name": "Hydroponics Relaxation Module",
+    "z": 1,
+    "x": 61,
+    "y": 222,
+    "tileCount": 304,
+    "bounds": [
+      40,
+      216,
+      77,
+      229
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/hydroponics/south",
+    "name": "Hydroponics South Wing",
+    "z": 1,
+    "x": 64,
+    "y": 202,
+    "tileCount": 314,
+    "bounds": [
+      55,
+      190,
+      75,
+      215
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/exterior/surface/cliff",
+    "name": "Ice Cliffs",
+    "z": 1,
+    "x": 122,
+    "y": 201,
+    "tileCount": 6963,
+    "bounds": [
+      8,
+      116,
+      219,
+      279
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/exterior/underground/caves/open",
+    "name": "Ice Colony - Built Surface",
+    "z": 1,
+    "x": 102,
+    "y": 42,
+    "tileCount": 3942,
+    "bounds": [
+      5,
+      5,
+      210,
+      110
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/security/interrogation",
+    "name": "Interrogation Office",
+    "z": 1,
+    "x": 110,
+    "y": 74,
+    "tileCount": 77,
+    "bounds": [
+      105,
+      71,
+      115,
+      77
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/security/marshal",
+    "name": "Marshal's Office",
+    "z": 1,
+    "x": 116,
+    "y": 84,
+    "tileCount": 48,
+    "bounds": [
+      112,
+      81,
+      119,
+      86
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/mining",
+    "name": "Mining Outpost",
+    "z": 1,
+    "x": 206,
+    "y": 242,
+    "tileCount": 98,
+    "bounds": [
+      201,
+      238,
+      210,
+      247
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/exterior/surface/valley/northeast",
+    "name": "North Eastern Valleys",
+    "z": 1,
+    "x": 189,
+    "y": 247,
+    "tileCount": 267,
+    "bounds": [
+      165,
+      228,
+      212,
+      268
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/exterior/surface/valley/northwest",
+    "name": "North Western Valleys",
+    "z": 1,
+    "x": 48,
+    "y": 258,
+    "tileCount": 756,
+    "bounds": [
+      10,
+      230,
+      75,
+      278
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/exterior/surface/valley/north",
+    "name": "Northern Valleys",
+    "z": 1,
+    "x": 126,
+    "y": 262,
+    "tileCount": 1065,
+    "bounds": [
+      95,
+      236,
+      162,
+      277
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/research",
+    "name": "Omicron Dome",
+    "z": 1,
+    "x": 66,
+    "y": 173,
+    "tileCount": 192,
+    "bounds": [
+      56,
+      168,
+      74,
+      181
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/research/field_gear",
+    "name": "Omicron Dome Field Gear Storage",
+    "z": 1,
+    "x": 54,
+    "y": 177,
+    "tileCount": 68,
+    "bounds": [
+      50,
+      173,
+      62,
+      181
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/research/tech_storage",
+    "name": "Omicron Dome Technical Storage",
+    "z": 1,
+    "x": 66,
+    "y": 164,
+    "tileCount": 106,
+    "bounds": [
+      58,
+      160,
+      73,
+      167
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/research/temporary",
+    "name": "Omicron Dome Temporary Storage",
+    "z": 1,
+    "x": 53,
+    "y": 168,
+    "tileCount": 59,
+    "bounds": [
+      50,
+      164,
+      57,
+      172
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/exterior/surface/valley/southwest",
+    "name": "South Western Valleys",
+    "z": 1,
+    "x": 82,
+    "y": 170,
+    "tileCount": 823,
+    "bounds": [
+      52,
+      154,
+      107,
+      189
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/exterior/surface/valley/south",
+    "name": "Southern Valleys",
+    "z": 1,
+    "x": 102,
+    "y": 144,
+    "tileCount": 615,
+    "bounds": [
+      79,
+      129,
+      136,
+      160
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/exterior/surface/valley/south/excavation",
+    "name": "Southern Valleys - Excavation Site",
+    "z": 1,
+    "x": 144,
+    "y": 131,
+    "tileCount": 925,
+    "bounds": [
+      91,
+      121,
+      183,
+      143
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/storage_unit/power",
+    "name": "Storage Unit Power",
+    "z": 1,
+    "x": 185,
+    "y": 199,
+    "tileCount": 45,
+    "bounds": [
+      182,
+      195,
+      188,
+      202
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/storage_unit/research",
+    "name": "Storage Unit Research",
+    "z": 1,
+    "x": 85,
+    "y": 181,
+    "tileCount": 69,
+    "bounds": [
+      81,
+      177,
+      89,
+      185
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/storage_unit/telecomms",
+    "name": "Storage Unit T-Comms",
+    "z": 1,
+    "x": 193,
+    "y": 191,
+    "tileCount": 33,
+    "bounds": [
+      190,
+      188,
+      195,
+      194
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/disposals",
+    "name": "Surface Disposals",
+    "z": 1,
+    "x": 198,
+    "y": 215,
+    "tileCount": 79,
+    "bounds": [
+      194,
+      211,
+      202,
+      219
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/substation",
+    "name": "Surface Power Substation",
+    "z": 1,
+    "x": 183,
+    "y": 244,
+    "tileCount": 74,
+    "bounds": [
+      177,
+      242,
+      189,
+      247
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/substation/smes",
+    "name": "Surface Power Substation SMES",
+    "z": 1,
+    "x": 183,
+    "y": 252,
+    "tileCount": 126,
+    "bounds": [
+      177,
+      248,
+      189,
+      257
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/surface/requesitions",
+    "name": "Surface Requesition Warehouse",
+    "z": 1,
+    "x": 26,
+    "y": 263,
+    "tileCount": 437,
+    "bounds": [
+      12,
+      253,
+      38,
+      274
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/research",
+    "name": "Theta-V Research Laboratory",
+    "z": 1,
+    "x": 25,
+    "y": 73,
+    "tileCount": 257,
+    "bounds": [
+      15,
+      67,
+      41,
+      83
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/research/sample",
+    "name": "Theta-V Research Laboratory Sample Isolation",
+    "z": 1,
+    "x": 12,
+    "y": 77,
+    "tileCount": 30,
+    "bounds": [
+      10,
+      75,
+      15,
+      79
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/research/storage",
+    "name": "Theta-V Research Laboratory Storage",
+    "z": 1,
+    "x": 28,
+    "y": 78,
+    "tileCount": 66,
+    "bounds": [
+      25,
+      73,
+      30,
+      83
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/research/work",
+    "name": "Theta-V Research Laboratory Work Station",
+    "z": 1,
+    "x": 12,
+    "y": 71,
+    "tileCount": 42,
+    "bounds": [
+      10,
+      68,
+      15,
+      74
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/crew/canteen",
+    "name": "Underground Canteen",
+    "z": 1,
+    "x": 96,
+    "y": 84,
+    "tileCount": 99,
+    "bounds": [
+      92,
+      79,
+      100,
+      89
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/exterior/underground/caves",
+    "name": "Underground Caves",
+    "z": 1,
+    "x": 105,
+    "y": 56,
+    "tileCount": 6266,
+    "bounds": [
+      2,
+      2,
+      219,
+      152
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/maintenance/central",
+    "name": "Underground Central Maintenance",
+    "z": 1,
+    "x": 76,
+    "y": 85,
+    "tileCount": 304,
+    "bounds": [
+      48,
+      70,
+      99,
+      100
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/maintenance/central/construction",
+    "name": "Underground Central Maintenance Project",
+    "z": 1,
+    "x": 80,
+    "y": 94,
+    "tileCount": 24,
+    "bounds": [
+      78,
+      93,
+      83,
+      96
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/crew/chapel",
+    "name": "Underground Chapel",
+    "z": 1,
+    "x": 52,
+    "y": 112,
+    "tileCount": 100,
+    "bounds": [
+      47,
+      107,
+      56,
+      116
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/command/center",
+    "name": "Underground Colonial Administration Command Center",
+    "z": 1,
+    "x": 69,
+    "y": 81,
+    "tileCount": 141,
+    "bounds": [
+      62,
+      76,
+      75,
+      87
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/command/checkpoint",
+    "name": "Underground Colonial Administration Lobby",
+    "z": 1,
+    "x": 72,
+    "y": 72,
+    "tileCount": 135,
+    "bounds": [
+      62,
+      69,
+      85,
+      75
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/command/pv1",
+    "name": "Underground Colonial Administration Private Office",
+    "z": 1,
+    "x": 77,
+    "y": 76,
+    "tileCount": 30,
+    "bounds": [
+      75,
+      73,
+      79,
+      78
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/command/pv2",
+    "name": "Underground Colonial Administration Private Office",
+    "z": 1,
+    "x": 82,
+    "y": 76,
+    "tileCount": 36,
+    "bounds": [
+      80,
+      73,
+      85,
+      78
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/crew/disposals",
+    "name": "Underground Disposals",
+    "z": 1,
+    "x": 60,
+    "y": 60,
+    "tileCount": 96,
+    "bounds": [
+      55,
+      57,
+      66,
+      64
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/maintenance/east",
+    "name": "Underground Eastern Maintenance",
+    "z": 1,
+    "x": 132,
+    "y": 59,
+    "tileCount": 433,
+    "bounds": [
+      114,
+      31,
+      144,
+      82
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/engineering",
+    "name": "Underground Engineering",
+    "z": 1,
+    "x": 120,
+    "y": 105,
+    "tileCount": 251,
+    "bounds": [
+      105,
+      99,
+      131,
+      110
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/engineering/locker",
+    "name": "Underground Engineering Locker Room",
+    "z": 1,
+    "x": 110,
+    "y": 110,
+    "tileCount": 48,
+    "bounds": [
+      107,
+      107,
+      114,
+      112
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/maintenance/engineering",
+    "name": "Underground Engineering Maintenance",
+    "z": 1,
+    "x": 128,
+    "y": 93,
+    "tileCount": 287,
+    "bounds": [
+      106,
+      82,
+      143,
+      103
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/hallway/north_west",
+    "name": "Underground Hallway NW",
+    "z": 1,
+    "x": 55,
+    "y": 98,
+    "tileCount": 616,
+    "bounds": [
+      40,
+      64,
+      100,
+      117
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/hallway/south_east",
+    "name": "Underground Hallway SE",
+    "z": 1,
+    "x": 95,
+    "y": 67,
+    "tileCount": 776,
+    "bounds": [
+      48,
+      36,
+      122,
+      107
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/hangar",
+    "name": "Underground Hangar",
+    "z": 1,
+    "x": 66,
+    "y": 136,
+    "tileCount": 700,
+    "bounds": [
+      55,
+      118,
+      76,
+      152
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/storage/highsec",
+    "name": "Underground High Security Technical Storage",
+    "z": 1,
+    "x": 53,
+    "y": 78,
+    "tileCount": 91,
+    "bounds": [
+      47,
+      75,
+      59,
+      81
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/crew/lavatory",
+    "name": "Underground Lavatory",
+    "z": 1,
+    "x": 72,
+    "y": 60,
+    "tileCount": 80,
+    "bounds": [
+      67,
+      57,
+      76,
+      64
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/crew/leisure",
+    "name": "Underground Leisure Area",
+    "z": 1,
+    "x": 94,
+    "y": 61,
+    "tileCount": 84,
+    "bounds": [
+      89,
+      58,
+      100,
+      64
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/crew/library",
+    "name": "Underground Library",
+    "z": 1,
+    "x": 91,
+    "y": 112,
+    "tileCount": 130,
+    "bounds": [
+      85,
+      107,
+      97,
+      116
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/medical/hallway",
+    "name": "Underground Medical Laboratory Hallway",
+    "z": 1,
+    "x": 58,
+    "y": 93,
+    "tileCount": 70,
+    "bounds": [
+      47,
+      88,
+      62,
+      102
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/medical/lobby",
+    "name": "Underground Medical Laboratory Lobby",
+    "z": 1,
+    "x": 52,
+    "y": 96,
+    "tileCount": 144,
+    "bounds": [
+      47,
+      91,
+      58,
+      102
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/medical/or",
+    "name": "Underground Medical Laboratory Operating Room",
+    "z": 1,
+    "x": 72,
+    "y": 98,
+    "tileCount": 42,
+    "bounds": [
+      70,
+      95,
+      75,
+      101
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/medical/storage",
+    "name": "Underground Medical Laboratory Storage",
+    "z": 1,
+    "x": 53,
+    "y": 86,
+    "tileCount": 65,
+    "bounds": [
+      47,
+      84,
+      59,
+      88
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/medical/treatment",
+    "name": "Underground Medical Laboratory Treatment",
+    "z": 1,
+    "x": 67,
+    "y": 95,
+    "tileCount": 132,
+    "bounds": [
+      62,
+      90,
+      75,
+      102
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/crew/morgue",
+    "name": "Underground Morgue",
+    "z": 1,
+    "x": 62,
+    "y": 112,
+    "tileCount": 110,
+    "bounds": [
+      57,
+      107,
+      67,
+      116
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/maintenance/north",
+    "name": "Underground Northern Maintenance",
+    "z": 1,
+    "x": 70,
+    "y": 120,
+    "tileCount": 291,
+    "bounds": [
+      49,
+      108,
+      100,
+      131
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/engineering/substation",
+    "name": "Underground Power Substation",
+    "z": 1,
+    "x": 128,
+    "y": 96,
+    "tileCount": 56,
+    "bounds": [
+      124,
+      93,
+      131,
+      99
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/reception",
+    "name": "Underground Reception",
+    "z": 1,
+    "x": 108,
+    "y": 52,
+    "tileCount": 83,
+    "bounds": [
+      105,
+      47,
+      113,
+      57
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/reception/toilet_men",
+    "name": "Underground Reception Men's Restroom",
+    "z": 1,
+    "x": 127,
+    "y": 43,
+    "tileCount": 57,
+    "bounds": [
+      122,
+      41,
+      131,
+      46
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/reception/checkpoint_north",
+    "name": "Underground Reception Northern Security Checkpoint",
+    "z": 1,
+    "x": 80,
+    "y": 99,
+    "tileCount": 30,
+    "bounds": [
+      78,
+      97,
+      83,
+      101
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/reception/checkpoint_south",
+    "name": "Underground Reception Southern Security Checkpoint",
+    "z": 1,
+    "x": 110,
+    "y": 38,
+    "tileCount": 24,
+    "bounds": [
+      108,
+      36,
+      113,
+      39
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/reception/toilet_women",
+    "name": "Underground Reception Women's Restroom",
+    "z": 1,
+    "x": 126,
+    "y": 37,
+    "tileCount": 70,
+    "bounds": [
+      122,
+      34,
+      131,
+      40
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/requesition",
+    "name": "Underground Requesitions",
+    "z": 1,
+    "x": 42,
+    "y": 133,
+    "tileCount": 269,
+    "bounds": [
+      31,
+      123,
+      54,
+      145
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/requesition/lobby",
+    "name": "Underground Requesitions Lobby",
+    "z": 1,
+    "x": 45,
+    "y": 122,
+    "tileCount": 90,
+    "bounds": [
+      40,
+      117,
+      48,
+      128
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/requesition/sec_storage",
+    "name": "Underground Requesitions Secure Storage",
+    "z": 1,
+    "x": 35,
+    "y": 119,
+    "tileCount": 81,
+    "bounds": [
+      31,
+      115,
+      39,
+      123
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/requesition/storage",
+    "name": "Underground Requesitions Storage",
+    "z": 1,
+    "x": 34,
+    "y": 136,
+    "tileCount": 48,
+    "bounds": [
+      31,
+      132,
+      36,
+      139
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/maintenance/research",
+    "name": "Underground Research Maintenance",
+    "z": 1,
+    "x": 22,
+    "y": 97,
+    "tileCount": 351,
+    "bounds": [
+      10,
+      80,
+      40,
+      115
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/security",
+    "name": "Underground Security Center",
+    "z": 1,
+    "x": 122,
+    "y": 65,
+    "tileCount": 80,
+    "bounds": [
+      114,
+      63,
+      129,
+      67
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/security/armory",
+    "name": "Underground Security Center Armory",
+    "z": 1,
+    "x": 116,
+    "y": 58,
+    "tileCount": 70,
+    "bounds": [
+      113,
+      53,
+      119,
+      62
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/security/brig",
+    "name": "Underground Security Center Brig",
+    "z": 1,
+    "x": 126,
+    "y": 58,
+    "tileCount": 125,
+    "bounds": [
+      120,
+      53,
+      134,
+      62
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/security/backroom",
+    "name": "Underground Security Center Custodial Closet",
+    "z": 1,
+    "x": 112,
+    "y": 66,
+    "tileCount": 38,
+    "bounds": [
+      110,
+      62,
+      114,
+      70
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/security/hallway",
+    "name": "Underground Security Center Hallway",
+    "z": 1,
+    "x": 115,
+    "y": 75,
+    "tileCount": 99,
+    "bounds": [
+      105,
+      68,
+      122,
+      80
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/maintenance/security",
+    "name": "Underground Security Maintenance",
+    "z": 1,
+    "x": 109,
+    "y": 62,
+    "tileCount": 71,
+    "bounds": [
+      106,
+      52,
+      113,
+      70
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/maintenance/south",
+    "name": "Underground Southern Maintenance",
+    "z": 1,
+    "x": 89,
+    "y": 36,
+    "tileCount": 891,
+    "bounds": [
+      60,
+      11,
+      125,
+      63
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/crew/bball",
+    "name": "Underground Sports Center",
+    "z": 1,
+    "x": 92,
+    "y": 97,
+    "tileCount": 187,
+    "bounds": [
+      84,
+      92,
+      100,
+      102
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/storage",
+    "name": "Underground Technical Storage",
+    "z": 1,
+    "x": 53,
+    "y": 72,
+    "tileCount": 78,
+    "bounds": [
+      47,
+      69,
+      59,
+      74
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/underground/crew/dorm_l",
+    "name": "West Dormitory",
+    "z": 1,
+    "x": 91,
+    "y": 74,
+    "tileCount": 70,
+    "bounds": [
+      88,
+      69,
+      94,
+      78
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/ice_colony/exterior/surface/valley/west",
+    "name": "Western Valleys",
+    "z": 1,
+    "x": 48,
+    "y": 211,
+    "tileCount": 1885,
+    "bounds": [
+      24,
+      179,
+      83,
+      246
+    ],
+    "category": "major"
+  }
+]

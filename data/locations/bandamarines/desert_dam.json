@@ -1,0 +1,2387 @@
+[
+  {
+    "id": "/area/desert_dam/exterior/telecomm/lz2_containers",
+    "name": "Containers Communications Relay",
+    "z": 1,
+    "x": 77,
+    "y": 50,
+    "tileCount": 110,
+    "bounds": [
+      72,
+      45,
+      82,
+      54
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/desert_dam/exterior/telecomm/lz2_storage",
+    "name": "East LZ2 Communications Relay",
+    "z": 1,
+    "x": 76,
+    "y": 22,
+    "tileCount": 44,
+    "bounds": [
+      73,
+      17,
+      80,
+      24
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/desert_dam/exterior/telecomm/lz1_valley",
+    "name": "LZ1 Valley Communications Relay",
+    "z": 1,
+    "x": 73,
+    "y": 178,
+    "tileCount": 16,
+    "bounds": [
+      71,
+      176,
+      75,
+      179
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/desert_dam/interior/caves/temple",
+    "name": "Sand Temple",
+    "z": 1,
+    "x": 231,
+    "y": 148,
+    "tileCount": 389,
+    "bounds": [
+      219,
+      134,
+      243,
+      160
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/desert_dam/exterior/telecomm/lz1_south",
+    "name": "South LZ1 Communications Relay",
+    "z": 1,
+    "x": 55,
+    "y": 138,
+    "tileCount": 49,
+    "bounds": [
+      52,
+      135,
+      58,
+      141
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/desert_dam/exterior/telecomm/lz2_tcomms",
+    "name": "Telecomms Communications Relay",
+    "z": 1,
+    "x": 27,
+    "y": 62,
+    "tileCount": 38,
+    "bounds": [
+      24,
+      60,
+      31,
+      64
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/desert_dam/exterior/telecomm/lz1_xenoflora",
+    "name": "Xenoflora Communications Relay",
+    "z": 1,
+    "x": 93,
+    "y": 213,
+    "tileCount": 7,
+    "bounds": [
+      91,
+      213,
+      94,
+      214
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/desert_dam/exterior/landing_pad_two",
+    "name": "Aerodrome Landing Pad",
+    "z": 1,
+    "x": 23,
+    "y": 20,
+    "tileCount": 812,
+    "bounds": [
+      9,
+      3,
+      38,
+      38
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/exterior/landing_pad_one",
+    "name": "Airstrip Landing Pad",
+    "z": 1,
+    "x": 32,
+    "y": 206,
+    "tileCount": 1481,
+    "bounds": [
+      15,
+      184,
+      52,
+      231
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/exterior/valley/bar_valley_dam",
+    "name": "Bar Valley",
+    "z": 1,
+    "x": 95,
+    "y": 103,
+    "tileCount": 707,
+    "bounds": [
+      73,
+      85,
+      107,
+      125
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/building/cafeteria/cafeteria",
+    "name": "Cafeteria",
+    "z": 1,
+    "x": 196,
+    "y": 49,
+    "tileCount": 483,
+    "bounds": [
+      181,
+      40,
+      212,
+      59
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/interior/caves/central_caves",
+    "name": "Central Caves",
+    "z": 1,
+    "x": 218,
+    "y": 178,
+    "tileCount": 670,
+    "bounds": [
+      166,
+      149,
+      231,
+      199
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/exterior/valley/valley_civilian",
+    "name": "Civilian Valley",
+    "z": 1,
+    "x": 192,
+    "y": 47,
+    "tileCount": 2104,
+    "bounds": [
+      158,
+      10,
+      235,
+      75
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/exterior/valley/valley_crashsite",
+    "name": "Crash Site Valley",
+    "z": 1,
+    "x": 193,
+    "y": 160,
+    "tileCount": 2074,
+    "bounds": [
+      167,
+      133,
+      221,
+      198
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/interior/lab_northeast/east_lab_west_hallway",
+    "name": "East Lab Western Hallway",
+    "z": 1,
+    "x": 149,
+    "y": 204,
+    "tileCount": 437,
+    "bounds": [
+      130,
+      196,
+      167,
+      219
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/interior/caves/east_caves",
+    "name": "Eastern Caves",
+    "z": 1,
+    "x": 236,
+    "y": 205,
+    "tileCount": 405,
+    "bounds": [
+      224,
+      184,
+      243,
+      225
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/exterior/river/riverside_east",
+    "name": "Eastern Riverbed",
+    "z": 1,
+    "x": 189,
+    "y": 128,
+    "tileCount": 980,
+    "bounds": [
+      135,
+      114,
+      244,
+      135
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/interior/dam_interior/central_tunnel",
+    "name": "Engineering Central Tunnel",
+    "z": 1,
+    "x": 55,
+    "y": 131,
+    "tileCount": 514,
+    "bounds": [
+      40,
+      119,
+      77,
+      144
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/interior/dam_interior/hanger",
+    "name": "Engineering Hangar",
+    "z": 1,
+    "x": 34,
+    "y": 171,
+    "tileCount": 763,
+    "bounds": [
+      19,
+      158,
+      49,
+      183
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/interior/dam_interior/western_dam_cave",
+    "name": "Engineering West Entrance",
+    "z": 1,
+    "x": 10,
+    "y": 133,
+    "tileCount": 172,
+    "bounds": [
+      3,
+      124,
+      17,
+      140
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/exterior/river/filtration_a",
+    "name": "Filtration Plant A",
+    "z": 1,
+    "x": 132,
+    "y": 18,
+    "tileCount": 125,
+    "bounds": [
+      118,
+      15,
+      148,
+      21
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/exterior/valley/valley_hydro",
+    "name": "Hydro Valley",
+    "z": 1,
+    "x": 112,
+    "y": 46,
+    "tileCount": 2042,
+    "bounds": [
+      61,
+      10,
+      150,
+      78
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/exterior/valley/valley_labs",
+    "name": "Lab Valley",
+    "z": 1,
+    "x": 95,
+    "y": 217,
+    "tileCount": 581,
+    "bounds": [
+      72,
+      194,
+      112,
+      230
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/exterior/valley/valley_medical",
+    "name": "Medical Valley",
+    "z": 1,
+    "x": 156,
+    "y": 111,
+    "tileCount": 1352,
+    "bounds": [
+      117,
+      77,
+      207,
+      125
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/exterior/valley/valley_mining",
+    "name": "Mining Valley",
+    "z": 1,
+    "x": 216,
+    "y": 98,
+    "tileCount": 783,
+    "bounds": [
+      196,
+      73,
+      234,
+      125
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/exterior/valley/north_valley_dam",
+    "name": "North Dam Valley",
+    "z": 1,
+    "x": 116,
+    "y": 174,
+    "tileCount": 565,
+    "bounds": [
+      93,
+      163,
+      139,
+      188
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/exterior/valley/valley_northwest",
+    "name": "Northwest Valley",
+    "z": 1,
+    "x": 79,
+    "y": 190,
+    "tileCount": 845,
+    "bounds": [
+      50,
+      176,
+      106,
+      206
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/exterior/river/riverside_central_north",
+    "name": "Riverside Central North",
+    "z": 1,
+    "x": 118,
+    "y": 195,
+    "tileCount": 708,
+    "bounds": [
+      107,
+      161,
+      130,
+      231
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/exterior/rock",
+    "name": "Rock",
+    "z": 1,
+    "x": 127,
+    "y": 112,
+    "tileCount": 14999,
+    "bounds": [
+      1,
+      1,
+      245,
+      232
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/exterior/valley/valley_security",
+    "name": "Security Valley",
+    "z": 1,
+    "x": 30,
+    "y": 107,
+    "tileCount": 960,
+    "bounds": [
+      8,
+      74,
+      63,
+      124
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/exterior/valley/valley_cargo",
+    "name": "Shipping Valley",
+    "z": 1,
+    "x": 52,
+    "y": 49,
+    "tileCount": 1331,
+    "bounds": [
+      9,
+      25,
+      85,
+      72
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/exterior/valley/south_valley_dam",
+    "name": "South Dam Valley",
+    "z": 1,
+    "x": 133,
+    "y": 138,
+    "tileCount": 864,
+    "bounds": [
+      96,
+      126,
+      177,
+      147
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/exterior/river/riverside_central_south",
+    "name": "Southern Central Riverbed",
+    "z": 1,
+    "x": 121,
+    "y": 134,
+    "tileCount": 407,
+    "bounds": [
+      107,
+      121,
+      134,
+      154
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/exterior/river_mouth/southern",
+    "name": "Southern River Mouth",
+    "z": 1,
+    "x": 154,
+    "y": 14,
+    "tileCount": 196,
+    "bounds": [
+      148,
+      1,
+      159,
+      26
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/exterior/river/riverside_south",
+    "name": "Southern Riverbed",
+    "z": 1,
+    "x": 133,
+    "y": 73,
+    "tileCount": 1104,
+    "bounds": [
+      107,
+      27,
+      159,
+      120
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/exterior/valley/valley_telecoms",
+    "name": "Telecomms Valley",
+    "z": 1,
+    "x": 24,
+    "y": 62,
+    "tileCount": 270,
+    "bounds": [
+      14,
+      52,
+      33,
+      73
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/building/warehouse/warehouse",
+    "name": "Warehouse",
+    "z": 1,
+    "x": 43,
+    "y": 25,
+    "tileCount": 369,
+    "bounds": [
+      34,
+      14,
+      53,
+      36
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/building/warehouse/loading",
+    "name": "Warehouse Loading Room",
+    "z": 1,
+    "x": 63,
+    "y": 19,
+    "tileCount": 466,
+    "bounds": [
+      51,
+      2,
+      72,
+      31
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/exterior/valley/valley_wilderness",
+    "name": "Wilderness Valley",
+    "z": 1,
+    "x": 155,
+    "y": 182,
+    "tileCount": 1233,
+    "bounds": [
+      117,
+      149,
+      191,
+      220
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/desert_dam/building/administration/archives",
+    "name": "Administration Archives",
+    "z": 1,
+    "x": 80,
+    "y": 206,
+    "tileCount": 72,
+    "bounds": [
+      74,
+      203,
+      85,
+      208
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/administration/hallway",
+    "name": "Administration Hallway",
+    "z": 1,
+    "x": 73,
+    "y": 205,
+    "tileCount": 230,
+    "bounds": [
+      59,
+      193,
+      85,
+      214
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/administration/lobby",
+    "name": "Administration Lobby",
+    "z": 1,
+    "x": 64,
+    "y": 204,
+    "tileCount": 50,
+    "bounds": [
+      59,
+      202,
+      68,
+      206
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/administration/meetingrooom",
+    "name": "Administration Meeting Room",
+    "z": 1,
+    "x": 86,
+    "y": 194,
+    "tileCount": 108,
+    "bounds": [
+      80,
+      190,
+      91,
+      198
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/administration/office",
+    "name": "Administration Office",
+    "z": 1,
+    "x": 64,
+    "y": 215,
+    "tileCount": 73,
+    "bounds": [
+      58,
+      212,
+      70,
+      217
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/administration/overseer_office",
+    "name": "Administration Overseer's Office",
+    "z": 1,
+    "x": 72,
+    "y": 193,
+    "tileCount": 63,
+    "bounds": [
+      69,
+      189,
+      75,
+      197
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/bar/bar",
+    "name": "Bar",
+    "z": 1,
+    "x": 81,
+    "y": 103,
+    "tileCount": 224,
+    "bounds": [
+      72,
+      96,
+      87,
+      112
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/bar/backroom",
+    "name": "Bar Backroom",
+    "z": 1,
+    "x": 74,
+    "y": 110,
+    "tileCount": 45,
+    "bounds": [
+      70,
+      108,
+      78,
+      112
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/bar/bar_restroom",
+    "name": "Bar Restroom",
+    "z": 1,
+    "x": 70,
+    "y": 98,
+    "tileCount": 45,
+    "bounds": [
+      66,
+      96,
+      73,
+      101
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/cafeteria/backroom",
+    "name": "Cafeteria Backroom",
+    "z": 1,
+    "x": 188,
+    "y": 57,
+    "tileCount": 50,
+    "bounds": [
+      183,
+      55,
+      192,
+      60
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/cafeteria/cold_room",
+    "name": "Cafeteria Coldroom",
+    "z": 1,
+    "x": 218,
+    "y": 57,
+    "tileCount": 63,
+    "bounds": [
+      214,
+      54,
+      222,
+      60
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/cafeteria/loading",
+    "name": "Cafeteria Loading Room",
+    "z": 1,
+    "x": 215,
+    "y": 48,
+    "tileCount": 177,
+    "bounds": [
+      208,
+      40,
+      222,
+      58
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/church",
+    "name": "Church",
+    "z": 1,
+    "x": 53,
+    "y": 50,
+    "tileCount": 180,
+    "bounds": [
+      42,
+      46,
+      64,
+      55
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/substation/west",
+    "name": "Command Substation",
+    "z": 1,
+    "x": 13,
+    "y": 60,
+    "tileCount": 175,
+    "bounds": [
+      8,
+      51,
+      17,
+      69
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/substation/northwest",
+    "name": "Command Substation",
+    "z": 1,
+    "x": 49,
+    "y": 225,
+    "tileCount": 102,
+    "bounds": [
+      43,
+      219,
+      54,
+      229
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/substation/southwest",
+    "name": "Command Substation",
+    "z": 1,
+    "x": 99,
+    "y": 74,
+    "tileCount": 78,
+    "bounds": [
+      94,
+      71,
+      105,
+      77
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/substation/central",
+    "name": "Command Substation",
+    "z": 1,
+    "x": 177,
+    "y": 93,
+    "tileCount": 41,
+    "bounds": [
+      174,
+      91,
+      180,
+      96
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/substation/northeast",
+    "name": "Command Substation",
+    "z": 1,
+    "x": 190,
+    "y": 109,
+    "tileCount": 66,
+    "bounds": [
+      184,
+      106,
+      195,
+      111
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/administration/control_room",
+    "name": "Control Room",
+    "z": 1,
+    "x": 54,
+    "y": 209,
+    "tileCount": 134,
+    "bounds": [
+      50,
+      202,
+      58,
+      216
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/dorms/hallway_northwing",
+    "name": "Dormitory North Wing",
+    "z": 1,
+    "x": 189,
+    "y": 27,
+    "tileCount": 184,
+    "bounds": [
+      175,
+      24,
+      205,
+      31
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/dorms/pool",
+    "name": "Dormitory Pool Room",
+    "z": 1,
+    "x": 196,
+    "y": 10,
+    "tileCount": 163,
+    "bounds": [
+      187,
+      6,
+      205,
+      14
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/dorms/restroom",
+    "name": "Dormitory Showers",
+    "z": 1,
+    "x": 199,
+    "y": 19,
+    "tileCount": 124,
+    "bounds": [
+      193,
+      15,
+      205,
+      24
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/dorms/hallway_westwing",
+    "name": "Dormitory West Wing",
+    "z": 1,
+    "x": 183,
+    "y": 18,
+    "tileCount": 225,
+    "bounds": [
+      175,
+      11,
+      192,
+      24
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/lab_northeast/east_lab_security_armory",
+    "name": "East Lab Armory",
+    "z": 1,
+    "x": 213,
+    "y": 212,
+    "tileCount": 247,
+    "bounds": [
+      204,
+      206,
+      223,
+      219
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/lab_northeast/east_lab_biology",
+    "name": "East Lab Biology",
+    "z": 1,
+    "x": 188,
+    "y": 222,
+    "tileCount": 307,
+    "bounds": [
+      179,
+      212,
+      198,
+      231
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/lab_northeast/east_lab_central_hallway",
+    "name": "East Lab Central Hallway",
+    "z": 1,
+    "x": 170,
+    "y": 216,
+    "tileCount": 294,
+    "bounds": [
+      149,
+      206,
+      186,
+      228
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/lab_northeast/east_lab_containment",
+    "name": "East Lab Containment",
+    "z": 1,
+    "x": 156,
+    "y": 225,
+    "tileCount": 337,
+    "bounds": [
+      143,
+      219,
+      170,
+      231
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/lab_northeast/east_lab_east_hallway",
+    "name": "East Lab East Hallway",
+    "z": 1,
+    "x": 203,
+    "y": 214,
+    "tileCount": 320,
+    "bounds": [
+      187,
+      202,
+      223,
+      225
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/lab_northeast/east_lab_east_entrance",
+    "name": "East Lab Entrance",
+    "z": 1,
+    "x": 227,
+    "y": 219,
+    "tileCount": 75,
+    "bounds": [
+      223,
+      215,
+      230,
+      224
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/lab_northeast/east_lab_excavation",
+    "name": "East Lab Excavation Prep",
+    "z": 1,
+    "x": 215,
+    "y": 227,
+    "tileCount": 94,
+    "bounds": [
+      209,
+      224,
+      222,
+      230
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/lab_northeast/east_lab_lobby",
+    "name": "East Lab Lobby",
+    "z": 1,
+    "x": 210,
+    "y": 202,
+    "tileCount": 167,
+    "bounds": [
+      199,
+      199,
+      221,
+      206
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/lab_northeast/east_lab_maintenence",
+    "name": "East Lab Maintenence",
+    "z": 1,
+    "x": 165,
+    "y": 208,
+    "tileCount": 77,
+    "bounds": [
+      154,
+      205,
+      174,
+      211
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/lab_northeast/east_lab_RND",
+    "name": "East Lab Research and Development",
+    "z": 1,
+    "x": 162,
+    "y": 212,
+    "tileCount": 84,
+    "bounds": [
+      157,
+      209,
+      168,
+      215
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/lab_northeast/east_lab_west_entrance",
+    "name": "East Lab West Entrance",
+    "z": 1,
+    "x": 127,
+    "y": 214,
+    "tileCount": 85,
+    "bounds": [
+      123,
+      209,
+      131,
+      219
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/lab_northeast/east_lab_workshop",
+    "name": "East Lab Workshop",
+    "z": 1,
+    "x": 142,
+    "y": 215,
+    "tileCount": 107,
+    "bounds": [
+      136,
+      211,
+      148,
+      219
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/dam_interior/engine_room",
+    "name": "Engine Room",
+    "z": 1,
+    "x": 123,
+    "y": 155,
+    "tileCount": 263,
+    "bounds": [
+      113,
+      148,
+      133,
+      162
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/dam_interior/atmos_storage",
+    "name": "Engineering Atmospheric Storage",
+    "z": 1,
+    "x": 143,
+    "y": 150,
+    "tileCount": 54,
+    "bounds": [
+      139,
+      148,
+      147,
+      153
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/dam_interior/auxilary_tool_storage",
+    "name": "Engineering Auxiliary Tool Storage",
+    "z": 1,
+    "x": 55,
+    "y": 161,
+    "tileCount": 139,
+    "bounds": [
+      48,
+      155,
+      63,
+      169
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/dam_interior/break_room",
+    "name": "Engineering Breakroom",
+    "z": 1,
+    "x": 63,
+    "y": 126,
+    "tileCount": 120,
+    "bounds": [
+      56,
+      123,
+      70,
+      130
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/dam_interior/CE_office",
+    "name": "Engineering Chief Engineer's Office",
+    "z": 1,
+    "x": 66,
+    "y": 138,
+    "tileCount": 49,
+    "bounds": [
+      63,
+      135,
+      69,
+      141
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/dam_interior/control_room",
+    "name": "Engineering Control Room",
+    "z": 1,
+    "x": 108,
+    "y": 154,
+    "tileCount": 63,
+    "bounds": [
+      104,
+      151,
+      112,
+      158
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/dam_interior/disposals",
+    "name": "Engineering Disposals",
+    "z": 1,
+    "x": 37,
+    "y": 127,
+    "tileCount": 62,
+    "bounds": [
+      34,
+      123,
+      40,
+      131
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/dam_interior/engine_east_wing",
+    "name": "Engineering East Engine Wing",
+    "z": 1,
+    "x": 138,
+    "y": 157,
+    "tileCount": 150,
+    "bounds": [
+      133,
+      148,
+      147,
+      165
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/dam_interior/east_tunnel_entrance",
+    "name": "Engineering East Tunnel Entrance",
+    "z": 1,
+    "x": 90,
+    "y": 126,
+    "tileCount": 236,
+    "bounds": [
+      83,
+      114,
+      97,
+      136
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/dam_interior/hangar_storage",
+    "name": "Engineering Hangar Storage",
+    "z": 1,
+    "x": 25,
+    "y": 152,
+    "tileCount": 146,
+    "bounds": [
+      20,
+      146,
+      31,
+      158
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/dam_interior/lobby",
+    "name": "Engineering Lobby",
+    "z": 1,
+    "x": 99,
+    "y": 149,
+    "tileCount": 86,
+    "bounds": [
+      93,
+      145,
+      103,
+      154
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/dam_interior/smes_main",
+    "name": "Engineering Main Substation",
+    "z": 1,
+    "x": 109,
+    "y": 163,
+    "tileCount": 96,
+    "bounds": [
+      104,
+      158,
+      113,
+      167
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/dam_interior/north_tunnel_entrance",
+    "name": "Engineering North Tunnel Entrance",
+    "z": 1,
+    "x": 76,
+    "y": 170,
+    "tileCount": 121,
+    "bounds": [
+      68,
+      166,
+      82,
+      175
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/dam_interior/northeastern_tunnel",
+    "name": "Engineering Northeastern Tunnel",
+    "z": 1,
+    "x": 79,
+    "y": 154,
+    "tileCount": 294,
+    "bounds": [
+      67,
+      142,
+      98,
+      162
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/dam_interior/north_tunnel",
+    "name": "Engineering Northern Tunnel",
+    "z": 1,
+    "x": 59,
+    "y": 153,
+    "tileCount": 321,
+    "bounds": [
+      45,
+      145,
+      82,
+      167
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/dam_interior/northwestern_tunnel",
+    "name": "Engineering Northwestern Tunnel",
+    "z": 1,
+    "x": 38,
+    "y": 149,
+    "tileCount": 214,
+    "bounds": [
+      32,
+      141,
+      45,
+      157
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/dam_interior/office",
+    "name": "Engineering Office",
+    "z": 1,
+    "x": 42,
+    "y": 139,
+    "tileCount": 35,
+    "bounds": [
+      39,
+      137,
+      45,
+      141
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/dam_interior/primary_tool_storage",
+    "name": "Engineering Primary Tool Storage",
+    "z": 1,
+    "x": 78,
+    "y": 143,
+    "tileCount": 249,
+    "bounds": [
+      70,
+      135,
+      86,
+      150
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/dam_interior/smes_backup",
+    "name": "Engineering Secondary Backup Substation",
+    "z": 1,
+    "x": 108,
+    "y": 147,
+    "tileCount": 69,
+    "bounds": [
+      104,
+      144,
+      113,
+      150
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/dam_interior/tech_storage",
+    "name": "Engineering Secure Tech Storage",
+    "z": 1,
+    "x": 58,
+    "y": 167,
+    "tileCount": 104,
+    "bounds": [
+      53,
+      163,
+      63,
+      172
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/dam_interior/south_tunnel_entrance",
+    "name": "Engineering South Tunnel Entrance",
+    "z": 1,
+    "x": 90,
+    "y": 80,
+    "tileCount": 116,
+    "bounds": [
+      82,
+      76,
+      96,
+      85
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/dam_interior/south_tunnel",
+    "name": "Engineering Southern Tunnel",
+    "z": 1,
+    "x": 96,
+    "y": 126,
+    "tileCount": 339,
+    "bounds": [
+      59,
+      112,
+      160,
+      150
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/dam_interior/engine_west_wing",
+    "name": "Engineering West Engine Wing",
+    "z": 1,
+    "x": 96,
+    "y": 159,
+    "tileCount": 163,
+    "bounds": [
+      85,
+      155,
+      104,
+      166
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/dam_interior/west_tunnel",
+    "name": "Engineering Western Tunnel",
+    "z": 1,
+    "x": 144,
+    "y": 176,
+    "tileCount": 98,
+    "bounds": [
+      139,
+      172,
+      149,
+      181
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/dam_interior/workshop",
+    "name": "Engineering Workshop",
+    "z": 1,
+    "x": 28,
+    "y": 138,
+    "tileCount": 237,
+    "bounds": [
+      18,
+      132,
+      39,
+      145
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/interior/dam_interior/garage",
+    "name": "Garage",
+    "z": 1,
+    "x": 24,
+    "y": 128,
+    "tileCount": 113,
+    "bounds": [
+      16,
+      125,
+      32,
+      131
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/medical/garage",
+    "name": "Garage",
+    "z": 1,
+    "x": 136,
+    "y": 88,
+    "tileCount": 81,
+    "bounds": [
+      132,
+      84,
+      140,
+      92
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/hydroponics/hydroponics",
+    "name": "Hydroponics",
+    "z": 1,
+    "x": 107,
+    "y": 53,
+    "tileCount": 349,
+    "bounds": [
+      95,
+      46,
+      120,
+      60
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/hydroponics/hydroponics_breakroom",
+    "name": "Hydroponics Breakroom",
+    "z": 1,
+    "x": 112,
+    "y": 70,
+    "tileCount": 121,
+    "bounds": [
+      106,
+      66,
+      119,
+      76
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/hydroponics/hydroponics_loading",
+    "name": "Hydroponics Loading Room",
+    "z": 1,
+    "x": 136,
+    "y": 52,
+    "tileCount": 140,
+    "bounds": [
+      129,
+      47,
+      142,
+      56
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/hydroponics/hydroponics_storage",
+    "name": "Hydroponics Storage",
+    "z": 1,
+    "x": 124,
+    "y": 52,
+    "tileCount": 108,
+    "bounds": [
+      120,
+      46,
+      128,
+      57
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/medical/break_room",
+    "name": "Medical Breakroom",
+    "z": 1,
+    "x": 172,
+    "y": 110,
+    "tileCount": 144,
+    "bounds": [
+      164,
+      107,
+      181,
+      114
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/medical/CMO",
+    "name": "Medical CMO's Office",
+    "z": 1,
+    "x": 177,
+    "y": 100,
+    "tileCount": 41,
+    "bounds": [
+      174,
+      97,
+      180,
+      102
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/medical/east_wing_hallway",
+    "name": "Medical East Wing",
+    "z": 1,
+    "x": 181,
+    "y": 89,
+    "tileCount": 258,
+    "bounds": [
+      167,
+      81,
+      196,
+      102
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/medical/emergency_room",
+    "name": "Medical Emergency Room",
+    "z": 1,
+    "x": 148,
+    "y": 88,
+    "tileCount": 127,
+    "bounds": [
+      141,
+      84,
+      155,
+      92
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/medical/lobby",
+    "name": "Medical Lobby",
+    "z": 1,
+    "x": 146,
+    "y": 98,
+    "tileCount": 108,
+    "bounds": [
+      142,
+      93,
+      150,
+      104
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/medical/morgue",
+    "name": "Medical Morgue",
+    "z": 1,
+    "x": 159,
+    "y": 110,
+    "tileCount": 63,
+    "bounds": [
+      155,
+      107,
+      163,
+      113
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/medical/north_wing_hallway",
+    "name": "Medical North Wing",
+    "z": 1,
+    "x": 168,
+    "y": 104,
+    "tileCount": 109,
+    "bounds": [
+      155,
+      102,
+      181,
+      106
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/medical/office1",
+    "name": "Medical Office One",
+    "z": 1,
+    "x": 183,
+    "y": 93,
+    "tileCount": 25,
+    "bounds": [
+      181,
+      91,
+      185,
+      95
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/medical/office2",
+    "name": "Medical Office Two",
+    "z": 1,
+    "x": 188,
+    "y": 93,
+    "tileCount": 30,
+    "bounds": [
+      186,
+      91,
+      191,
+      95
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/medical/chemistry",
+    "name": "Medical Pharmacy",
+    "z": 1,
+    "x": 145,
+    "y": 109,
+    "tileCount": 112,
+    "bounds": [
+      139,
+      105,
+      150,
+      114
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/medical/primary_storage",
+    "name": "Medical Primary Storage",
+    "z": 1,
+    "x": 157,
+    "y": 97,
+    "tileCount": 58,
+    "bounds": [
+      155,
+      91,
+      159,
+      102
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/medical/surgury_observation",
+    "name": "Medical Surgery Observation",
+    "z": 1,
+    "x": 164,
+    "y": 100,
+    "tileCount": 50,
+    "bounds": [
+      160,
+      98,
+      169,
+      102
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/medical/surgery_room_one",
+    "name": "Medical Surgery Room One",
+    "z": 1,
+    "x": 162,
+    "y": 94,
+    "tileCount": 35,
+    "bounds": [
+      160,
+      91,
+      164,
+      97
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/medical/surgery_room_two",
+    "name": "Medical Surgery Room Two",
+    "z": 1,
+    "x": 167,
+    "y": 94,
+    "tileCount": 35,
+    "bounds": [
+      165,
+      91,
+      169,
+      97
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/medical/treatment_room",
+    "name": "Medical Treatment Room",
+    "z": 1,
+    "x": 161,
+    "y": 86,
+    "tileCount": 115,
+    "bounds": [
+      154,
+      80,
+      169,
+      90
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/medical/virology_isolation",
+    "name": "Medical Virology Isolation",
+    "z": 1,
+    "x": 167,
+    "y": 77,
+    "tileCount": 129,
+    "bounds": [
+      161,
+      72,
+      173,
+      84
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/medical/virology_wing",
+    "name": "Medical Virology Wing",
+    "z": 1,
+    "x": 181,
+    "y": 80,
+    "tileCount": 184,
+    "bounds": [
+      174,
+      73,
+      192,
+      86
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/medical/west_wing_hallway",
+    "name": "Medical West Wing",
+    "z": 1,
+    "x": 152,
+    "y": 103,
+    "tileCount": 84,
+    "bounds": [
+      151,
+      93,
+      154,
+      113
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/mining/workshop",
+    "name": "Mining Workshop",
+    "z": 1,
+    "x": 219,
+    "y": 27,
+    "tileCount": 258,
+    "bounds": [
+      209,
+      19,
+      227,
+      33
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/mining/workshop_foyer",
+    "name": "Mining Workshop Foyer",
+    "z": 1,
+    "x": 233,
+    "y": 28,
+    "tileCount": 86,
+    "bounds": [
+      228,
+      24,
+      238,
+      31
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/security/prison",
+    "name": "Prison",
+    "z": 1,
+    "x": 30,
+    "y": 81,
+    "tileCount": 256,
+    "bounds": [
+      22,
+      73,
+      37,
+      89
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/security/armory",
+    "name": "Security Armory",
+    "z": 1,
+    "x": 56,
+    "y": 83,
+    "tileCount": 109,
+    "bounds": [
+      50,
+      80,
+      63,
+      87
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/security/courtroom",
+    "name": "Security Courtroom",
+    "z": 1,
+    "x": 18,
+    "y": 93,
+    "tileCount": 109,
+    "bounds": [
+      14,
+      87,
+      23,
+      98
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/security/deathrow",
+    "name": "Security Death Row",
+    "z": 1,
+    "x": 46,
+    "y": 76,
+    "tileCount": 72,
+    "bounds": [
+      42,
+      72,
+      49,
+      80
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/security/detective",
+    "name": "Security Detective's Office",
+    "z": 1,
+    "x": 40,
+    "y": 106,
+    "tileCount": 44,
+    "bounds": [
+      37,
+      103,
+      42,
+      110
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/security/evidence",
+    "name": "Security Evidence",
+    "z": 1,
+    "x": 33,
+    "y": 96,
+    "tileCount": 42,
+    "bounds": [
+      30,
+      93,
+      36,
+      98
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/security/execution_chamber",
+    "name": "Security Execution Chamber",
+    "z": 1,
+    "x": 54,
+    "y": 76,
+    "tileCount": 69,
+    "bounds": [
+      50,
+      72,
+      59,
+      79
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/security/holding",
+    "name": "Security Holding Room",
+    "z": 1,
+    "x": 40,
+    "y": 96,
+    "tileCount": 42,
+    "bounds": [
+      37,
+      93,
+      43,
+      98
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/security/interrogation",
+    "name": "Security Interrogation",
+    "z": 1,
+    "x": 28,
+    "y": 96,
+    "tileCount": 18,
+    "bounds": [
+      27,
+      93,
+      29,
+      98
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/security/lobby",
+    "name": "Security Lobby",
+    "z": 1,
+    "x": 30,
+    "y": 107,
+    "tileCount": 84,
+    "bounds": [
+      25,
+      104,
+      36,
+      110
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/security/marshals_office",
+    "name": "Security Marshal's Office",
+    "z": 1,
+    "x": 46,
+    "y": 106,
+    "tileCount": 43,
+    "bounds": [
+      43,
+      103,
+      48,
+      110
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/security/northern_hallway",
+    "name": "Security North Hallway",
+    "z": 1,
+    "x": 31,
+    "y": 101,
+    "tileCount": 148,
+    "bounds": [
+      15,
+      99,
+      48,
+      103
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/security/observation",
+    "name": "Security Observation",
+    "z": 1,
+    "x": 25,
+    "y": 96,
+    "tileCount": 18,
+    "bounds": [
+      24,
+      93,
+      26,
+      98
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/security/office",
+    "name": "Security Office",
+    "z": 1,
+    "x": 19,
+    "y": 106,
+    "tileCount": 79,
+    "bounds": [
+      14,
+      103,
+      24,
+      110
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/security/southern_hallway",
+    "name": "Security South Hallway",
+    "z": 1,
+    "x": 38,
+    "y": 88,
+    "tileCount": 193,
+    "bounds": [
+      22,
+      73,
+      48,
+      98
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/security/staffroom",
+    "name": "Security Staffroom",
+    "z": 1,
+    "x": 56,
+    "y": 93,
+    "tileCount": 188,
+    "bounds": [
+      48,
+      87,
+      65,
+      99
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/security/warden",
+    "name": "Security Warden's Office",
+    "z": 1,
+    "x": 45,
+    "y": 84,
+    "tileCount": 63,
+    "bounds": [
+      42,
+      81,
+      49,
+      88
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/warehouse/breakroom",
+    "name": "Warehouse Breakroom",
+    "z": 1,
+    "x": 59,
+    "y": 35,
+    "tileCount": 183,
+    "bounds": [
+      43,
+      31,
+      71,
+      39
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/water_treatment_one/breakroom",
+    "name": "Water Treatment One Breakroom",
+    "z": 1,
+    "x": 94,
+    "y": 23,
+    "tileCount": 148,
+    "bounds": [
+      84,
+      17,
+      102,
+      27
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/water_treatment_one/control_room",
+    "name": "Water Treatment One Control Room",
+    "z": 1,
+    "x": 112,
+    "y": 32,
+    "tileCount": 55,
+    "bounds": [
+      109,
+      27,
+      114,
+      37
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/water_treatment_one/equipment",
+    "name": "Water Treatment One Equipment Room",
+    "z": 1,
+    "x": 107,
+    "y": 24,
+    "tileCount": 45,
+    "bounds": [
+      103,
+      22,
+      111,
+      26
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/water_treatment_one/floodgate_control",
+    "name": "Water Treatment One Floodgate Control",
+    "z": 1,
+    "x": 147,
+    "y": 26,
+    "tileCount": 42,
+    "bounds": [
+      144,
+      23,
+      150,
+      28
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/water_treatment_one/garage",
+    "name": "Water Treatment One Garage",
+    "z": 1,
+    "x": 86,
+    "y": 30,
+    "tileCount": 86,
+    "bounds": [
+      81,
+      26,
+      92,
+      33
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/water_treatment_one/hallway",
+    "name": "Water Treatment One Hallway",
+    "z": 1,
+    "x": 99,
+    "y": 32,
+    "tileCount": 124,
+    "bounds": [
+      92,
+      27,
+      108,
+      38
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/water_treatment_one/lobby",
+    "name": "Water Treatment One Lobby",
+    "z": 1,
+    "x": 105,
+    "y": 34,
+    "tileCount": 54,
+    "bounds": [
+      99,
+      32,
+      110,
+      36
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/water_treatment_one/purification",
+    "name": "Water Treatment One Purification",
+    "z": 1,
+    "x": 126,
+    "y": 32,
+    "tileCount": 288,
+    "bounds": [
+      115,
+      27,
+      138,
+      38
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/water_treatment_two",
+    "name": "Water Treatment Two",
+    "z": 1,
+    "x": 226,
+    "y": 99,
+    "tileCount": 98,
+    "bounds": [
+      223,
+      91,
+      229,
+      107
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/water_treatment_two/control_room",
+    "name": "Water Treatment Two Control Room",
+    "z": 1,
+    "x": 202,
+    "y": 98,
+    "tileCount": 49,
+    "bounds": [
+      198,
+      96,
+      206,
+      101
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/water_treatment_two/equipment",
+    "name": "Water Treatment Two Equipment",
+    "z": 1,
+    "x": 210,
+    "y": 99,
+    "tileCount": 45,
+    "bounds": [
+      206,
+      97,
+      214,
+      101
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/water_treatment_two/floodgate_control",
+    "name": "Water Treatment Two Floodgate Control",
+    "z": 1,
+    "x": 214,
+    "y": 122,
+    "tileCount": 54,
+    "bounds": [
+      210,
+      120,
+      218,
+      125
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/water_treatment_two/hallway",
+    "name": "Water Treatment Two Hallway",
+    "z": 1,
+    "x": 207,
+    "y": 93,
+    "tileCount": 83,
+    "bounds": [
+      199,
+      91,
+      214,
+      96
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/water_treatment_two/lobby",
+    "name": "Water Treatment Two Lobby",
+    "z": 1,
+    "x": 206,
+    "y": 88,
+    "tileCount": 75,
+    "bounds": [
+      200,
+      86,
+      213,
+      91
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/water_treatment_two/purification",
+    "name": "Water Treatment Two Purification",
+    "z": 1,
+    "x": 208,
+    "y": 108,
+    "tileCount": 258,
+    "bounds": [
+      198,
+      101,
+      217,
+      115
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/desert_dam/building/lab_northwest/west_lab_xenoflora",
+    "name": "West Lab Xenoflora",
+    "z": 1,
+    "x": 81,
+    "y": 219,
+    "tileCount": 175,
+    "bounds": [
+      72,
+      214,
+      89,
+      223
+    ],
+    "category": "room"
+  }
+]

@@ -1,0 +1,1232 @@
+[
+  {
+    "id": "/area/gamma_sector/open/abandoned_area",
+    "name": "Abandoned Area",
+    "z": 1,
+    "x": 308,
+    "y": 191,
+    "tileCount": 2064,
+    "bounds": [
+      259,
+      161,
+      347,
+      209
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/closed_hard/coastal_caves",
+    "name": "Beach Cavern",
+    "z": 1,
+    "x": 228,
+    "y": 17,
+    "tileCount": 1428,
+    "bounds": [
+      202,
+      1,
+      266,
+      33
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/open/inner_region",
+    "name": "Central Area",
+    "z": 1,
+    "x": 186,
+    "y": 110,
+    "tileCount": 7945,
+    "bounds": [
+      67,
+      55,
+      275,
+      174
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/closed_hard/cliff_caves",
+    "name": "Central Cavern",
+    "z": 1,
+    "x": 272,
+    "y": 70,
+    "tileCount": 1644,
+    "bounds": [
+      222,
+      49,
+      300,
+      101
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/traxus_base/main_filtration",
+    "name": "Central Filtration",
+    "z": 1,
+    "x": 145,
+    "y": 108,
+    "tileCount": 604,
+    "bounds": [
+      127,
+      98,
+      168,
+      120
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/open/coastal_beach",
+    "name": "Coastal Beach",
+    "z": 1,
+    "x": 104,
+    "y": 31,
+    "tileCount": 5426,
+    "bounds": [
+      33,
+      1,
+      176,
+      70
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/open/coastal_ridge",
+    "name": "Coastal Cliff",
+    "z": 1,
+    "x": 262,
+    "y": 12,
+    "tileCount": 2313,
+    "bounds": [
+      148,
+      1,
+      360,
+      32
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/unsc_base/communications",
+    "name": "Communications",
+    "z": 1,
+    "x": 103,
+    "y": 48,
+    "tileCount": 590,
+    "bounds": [
+      96,
+      13,
+      113,
+      77
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/open/dried_river",
+    "name": "Dried Riverbed",
+    "z": 1,
+    "x": 200,
+    "y": 177,
+    "tileCount": 5011,
+    "bounds": [
+      133,
+      137,
+      268,
+      209
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/unsc_base/east_wing",
+    "name": "East Wing",
+    "z": 1,
+    "x": 107,
+    "y": 93,
+    "tileCount": 428,
+    "bounds": [
+      97,
+      69,
+      127,
+      105
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/highway/southeastern_roadway",
+    "name": "Eastern Bridge",
+    "z": 1,
+    "x": 325,
+    "y": 57,
+    "tileCount": 844,
+    "bounds": [
+      289,
+      43,
+      348,
+      97
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/closed_hard/highway_caves",
+    "name": "Eastern Cavern",
+    "z": 1,
+    "x": 357,
+    "y": 134,
+    "tileCount": 431,
+    "bounds": [
+      352,
+      99,
+      360,
+      201
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/highway/eastern_way",
+    "name": "Eastern Highway",
+    "z": 1,
+    "x": 351,
+    "y": 157,
+    "tileCount": 1086,
+    "bounds": [
+      341,
+      115,
+      360,
+      201
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/highway/traxus_highway_maint",
+    "name": "Eastern Maintenance Section",
+    "z": 1,
+    "x": 336,
+    "y": 146,
+    "tileCount": 729,
+    "bounds": [
+      316,
+      114,
+      348,
+      183
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/open/eastern_ridge",
+    "name": "Eastern Ridge",
+    "z": 1,
+    "x": 328,
+    "y": 63,
+    "tileCount": 2371,
+    "bounds": [
+      291,
+      30,
+      359,
+      107
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/unsc_base/engineering_wing",
+    "name": "Engineering Wing",
+    "z": 1,
+    "x": 103,
+    "y": 184,
+    "tileCount": 1153,
+    "bounds": [
+      79,
+      169,
+      127,
+      201
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/unsc_base/central_vent",
+    "name": "Main Vent Airway",
+    "z": 1,
+    "x": 79,
+    "y": 131,
+    "tileCount": 1318,
+    "bounds": [
+      46,
+      105,
+      108,
+      154
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/traxus_base/north_plaza",
+    "name": "North Plaza",
+    "z": 1,
+    "x": 292,
+    "y": 176,
+    "tileCount": 405,
+    "bounds": [
+      277,
+      163,
+      312,
+      186
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/unsc_base/north_wing",
+    "name": "North Wing",
+    "z": 1,
+    "x": 89,
+    "y": 157,
+    "tileCount": 681,
+    "bounds": [
+      62,
+      142,
+      109,
+      174
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/shuttles/drop5",
+    "name": "Northeastern Industrial Plaza",
+    "z": 1,
+    "x": 295,
+    "y": 160,
+    "tileCount": 584,
+    "bounds": [
+      278,
+      146,
+      307,
+      173
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/closed_hard/facility_caves",
+    "name": "Northern Access Cavern",
+    "z": 1,
+    "x": 274,
+    "y": 165,
+    "tileCount": 531,
+    "bounds": [
+      259,
+      145,
+      299,
+      190
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/open/shorline",
+    "name": "Northwestern Shoreline",
+    "z": 1,
+    "x": 35,
+    "y": 183,
+    "tileCount": 2562,
+    "bounds": [
+      1,
+      129,
+      73,
+      210
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/unsc_base/command",
+    "name": "Operations",
+    "z": 1,
+    "x": 88,
+    "y": 110,
+    "tileCount": 362,
+    "bounds": [
+      78,
+      99,
+      96,
+      120
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/unsc_base/large_garage",
+    "name": "Primary Garage",
+    "z": 1,
+    "x": 63,
+    "y": 72,
+    "tileCount": 430,
+    "bounds": [
+      49,
+      61,
+      80,
+      87
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/closed_hard/overheads",
+    "name": "Rocky Overhead",
+    "z": 1,
+    "x": 146,
+    "y": 102,
+    "tileCount": 13933,
+    "bounds": [
+      1,
+      1,
+      360,
+      210
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/highway/southern_bridge",
+    "name": "Southern Bridge",
+    "z": 1,
+    "x": 324,
+    "y": 24,
+    "tileCount": 656,
+    "bounds": [
+      297,
+      17,
+      350,
+      36
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/highway/southern_way",
+    "name": "Southern Highway",
+    "z": 1,
+    "x": 249,
+    "y": 38,
+    "tileCount": 1881,
+    "bounds": [
+      185,
+      18,
+      296,
+      57
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/highway/southern_maintenance",
+    "name": "Southern Maintenance Section",
+    "z": 1,
+    "x": 220,
+    "y": 53,
+    "tileCount": 824,
+    "bounds": [
+      189,
+      44,
+      248,
+      67
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/traxus_base/supply_entryway",
+    "name": "Storage Entryway",
+    "z": 1,
+    "x": 310,
+    "y": 105,
+    "tileCount": 636,
+    "bounds": [
+      296,
+      88,
+      330,
+      133
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/traxus_base/supply_section_a",
+    "name": "Storage Section A",
+    "z": 1,
+    "x": 278,
+    "y": 127,
+    "tileCount": 373,
+    "bounds": [
+      271,
+      114,
+      285,
+      140
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/traxus_base/supply_section_b",
+    "name": "Storage Section B",
+    "z": 1,
+    "x": 295,
+    "y": 127,
+    "tileCount": 357,
+    "bounds": [
+      288,
+      114,
+      302,
+      140
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/traxus_base/main_facility",
+    "name": "Traxus Main Facility",
+    "z": 1,
+    "x": 321,
+    "y": 123,
+    "tileCount": 412,
+    "bounds": [
+      311,
+      112,
+      332,
+      132
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/traxus_base/transfer_primary",
+    "name": "Traxus Primary Hall",
+    "z": 1,
+    "x": 266,
+    "y": 146,
+    "tileCount": 788,
+    "bounds": [
+      231,
+      139,
+      312,
+      157
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/traxus_base/transfer_storage",
+    "name": "Traxus Storage Transfers",
+    "z": 1,
+    "x": 235,
+    "y": 122,
+    "tileCount": 386,
+    "bounds": [
+      229,
+      108,
+      242,
+      140
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/traxus_base/supply_section_main",
+    "name": "Traxus Supply Section",
+    "z": 1,
+    "x": 284,
+    "y": 103,
+    "tileCount": 598,
+    "bounds": [
+      270,
+      89,
+      300,
+      113
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/traxus_base/water_filtration",
+    "name": "Water Filtration Station",
+    "z": 1,
+    "x": 181,
+    "y": 107,
+    "tileCount": 476,
+    "bounds": [
+      169,
+      93,
+      196,
+      120
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/unsc_base/west_wing",
+    "name": "West Wing",
+    "z": 1,
+    "x": 71,
+    "y": 99,
+    "tileCount": 852,
+    "bounds": [
+      59,
+      71,
+      81,
+      122
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/open/western_clearing",
+    "name": "Western Clearing",
+    "z": 1,
+    "x": 27,
+    "y": 89,
+    "tileCount": 3520,
+    "bounds": [
+      1,
+      24,
+      59,
+      150
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/closed_hard/engineering_caves",
+    "name": "Western Shore Cavern",
+    "z": 1,
+    "x": 96,
+    "y": 196,
+    "tileCount": 1550,
+    "bounds": [
+      54,
+      169,
+      138,
+      210
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/gamma_sector/unsc_base/armory",
+    "name": "Armory",
+    "z": 1,
+    "x": 88,
+    "y": 92,
+    "tileCount": 248,
+    "bounds": [
+      80,
+      85,
+      97,
+      99
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/unsc_base/auxiliary_office",
+    "name": "Auxiliary Office",
+    "z": 1,
+    "x": 82,
+    "y": 140,
+    "tileCount": 62,
+    "bounds": [
+      77,
+      137,
+      87,
+      143
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/unsc_base/auxiliary_storage",
+    "name": "Auxiliary Storage",
+    "z": 1,
+    "x": 41,
+    "y": 172,
+    "tileCount": 150,
+    "bounds": [
+      36,
+      164,
+      45,
+      180
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/unsc_base/auxiliary_wing",
+    "name": "Auxiliary Wing",
+    "z": 1,
+    "x": 66,
+    "y": 163,
+    "tileCount": 321,
+    "bounds": [
+      58,
+      154,
+      79,
+      178
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/unsc_base/side_vent",
+    "name": "Breached Vent Airway",
+    "z": 1,
+    "x": 116,
+    "y": 88,
+    "tileCount": 286,
+    "bounds": [
+      103,
+      75,
+      128,
+      98
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/highway/bridge_highway_maintenance",
+    "name": "Bridge Maintenance Station",
+    "z": 1,
+    "x": 282,
+    "y": 39,
+    "tileCount": 250,
+    "bounds": [
+      267,
+      33,
+      292,
+      45
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/traxus_base/central_hub",
+    "name": "Central Filtration Hub",
+    "z": 1,
+    "x": 210,
+    "y": 116,
+    "tileCount": 113,
+    "bounds": [
+      202,
+      112,
+      218,
+      120
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/traxus_base/traxus_central_storage",
+    "name": "Central Storage",
+    "z": 1,
+    "x": 181,
+    "y": 130,
+    "tileCount": 156,
+    "bounds": [
+      171,
+      126,
+      192,
+      137
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/traxus_base/east_plaza",
+    "name": "East Plaza",
+    "z": 1,
+    "x": 310,
+    "y": 159,
+    "tileCount": 274,
+    "bounds": [
+      304,
+      145,
+      315,
+      174
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/highway/eastern_access",
+    "name": "Eastern Highway Access",
+    "z": 1,
+    "x": 345,
+    "y": 106,
+    "tileCount": 317,
+    "bounds": [
+      331,
+      97,
+      356,
+      114
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/unsc_base/mess_hall",
+    "name": "Eatery",
+    "z": 1,
+    "x": 120,
+    "y": 128,
+    "tileCount": 260,
+    "bounds": [
+      113,
+      118,
+      126,
+      138
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/closed_soft/oob_hab",
+    "name": "Empty Hab",
+    "z": 1,
+    "x": 10,
+    "y": 91,
+    "tileCount": 66,
+    "bounds": [
+      7,
+      86,
+      12,
+      96
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/traxus_base/hub_1",
+    "name": "Filtration Hub 1",
+    "z": 1,
+    "x": 201,
+    "y": 99,
+    "tileCount": 88,
+    "bounds": [
+      196,
+      95,
+      206,
+      103
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/traxus_base/hub_2",
+    "name": "Filtration Hub 2",
+    "z": 1,
+    "x": 219,
+    "y": 99,
+    "tileCount": 88,
+    "bounds": [
+      214,
+      95,
+      224,
+      103
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/closed_soft/garage",
+    "name": "Garage Outpost",
+    "z": 1,
+    "x": 152,
+    "y": 68,
+    "tileCount": 198,
+    "bounds": [
+      146,
+      59,
+      158,
+      77
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/unsc_base/joint_wing",
+    "name": "Joint Wing",
+    "z": 1,
+    "x": 114,
+    "y": 119,
+    "tileCount": 282,
+    "bounds": [
+      102,
+      105,
+      127,
+      133
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/traxus_base/lockers",
+    "name": "Locker",
+    "z": 1,
+    "x": 138,
+    "y": 160,
+    "tileCount": 109,
+    "bounds": [
+      133,
+      154,
+      142,
+      166
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/closed_soft/road_hab",
+    "name": "Maintenance Hab",
+    "z": 1,
+    "x": 354,
+    "y": 66,
+    "tileCount": 86,
+    "bounds": [
+      351,
+      61,
+      358,
+      72
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/traxus_base/maintenance_shack",
+    "name": "Maintenance Shack",
+    "z": 1,
+    "x": 192,
+    "y": 138,
+    "tileCount": 47,
+    "bounds": [
+      189,
+      135,
+      195,
+      141
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/traxus_base/maintenance_station",
+    "name": "Maintenance Station",
+    "z": 1,
+    "x": 116,
+    "y": 162,
+    "tileCount": 63,
+    "bounds": [
+      113,
+      157,
+      118,
+      167
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/unsc_base/maintenance_substation",
+    "name": "Maintenance substation",
+    "z": 1,
+    "x": 59,
+    "y": 147,
+    "tileCount": 66,
+    "bounds": [
+      54,
+      144,
+      63,
+      150
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/unsc_base/medbay",
+    "name": "Medical Clinic",
+    "z": 1,
+    "x": 106,
+    "y": 82,
+    "tileCount": 63,
+    "bounds": [
+      102,
+      79,
+      110,
+      85
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/highway/northeastern_exit",
+    "name": "Northeastern Highway Access",
+    "z": 1,
+    "x": 354,
+    "y": 206,
+    "tileCount": 123,
+    "bounds": [
+      347,
+      201,
+      360,
+      210
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/shuttles/drop3",
+    "name": "Northern Engineering Clearing",
+    "z": 1,
+    "x": 165,
+    "y": 193,
+    "tileCount": 276,
+    "bounds": [
+      157,
+      181,
+      173,
+      205
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/highway/northern_exit",
+    "name": "Northern Highway Access",
+    "z": 1,
+    "x": 129,
+    "y": 109,
+    "tileCount": 210,
+    "bounds": [
+      25,
+      7,
+      237,
+      210
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/closed_soft/observation_hab",
+    "name": "Observation Hab",
+    "z": 1,
+    "x": 52,
+    "y": 32,
+    "tileCount": 164,
+    "bounds": [
+      44,
+      26,
+      59,
+      37
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/closed_soft/old_hab",
+    "name": "Old Hab",
+    "z": 1,
+    "x": 312,
+    "y": 202,
+    "tileCount": 86,
+    "bounds": [
+      306,
+      199,
+      317,
+      206
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/unsc_base/command_office",
+    "name": "Operations Office",
+    "z": 1,
+    "x": 87,
+    "y": 123,
+    "tileCount": 117,
+    "bounds": [
+      78,
+      119,
+      96,
+      126
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/traxus_base/refiller",
+    "name": "Refiller Station",
+    "z": 1,
+    "x": 138,
+    "y": 126,
+    "tileCount": 63,
+    "bounds": [
+      132,
+      121,
+      148,
+      136
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/unsc_base/small_garage",
+    "name": "Secondary Garage",
+    "z": 1,
+    "x": 108,
+    "y": 143,
+    "tileCount": 233,
+    "bounds": [
+      102,
+      133,
+      114,
+      152
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/closed_soft/armory_hab",
+    "name": "Secured Hab",
+    "z": 1,
+    "x": 350,
+    "y": 46,
+    "tileCount": 86,
+    "bounds": [
+      347,
+      41,
+      354,
+      52
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/shuttles/drop4",
+    "name": "Southeastern Highway Coast Clearing",
+    "z": 1,
+    "x": 278,
+    "y": 14,
+    "tileCount": 250,
+    "bounds": [
+      270,
+      5,
+      287,
+      22
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/highway/southeastern_exit",
+    "name": "Southern Bridge Highway Access",
+    "z": 1,
+    "x": 355,
+    "y": 22,
+    "tileCount": 291,
+    "bounds": [
+      346,
+      5,
+      360,
+      34
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/shuttles/drop2",
+    "name": "Southern Clearing",
+    "z": 1,
+    "x": 166,
+    "y": 18,
+    "tileCount": 248,
+    "bounds": [
+      156,
+      7,
+      174,
+      181
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/highway/southern_access",
+    "name": "Southern Highway Access",
+    "z": 1,
+    "x": 181,
+    "y": 42,
+    "tileCount": 161,
+    "bounds": [
+      176,
+      32,
+      188,
+      49
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/shuttles/drop1",
+    "name": "Southwest Facility Clearing",
+    "z": 1,
+    "x": 25,
+    "y": 46,
+    "tileCount": 270,
+    "bounds": [
+      18,
+      35,
+      35,
+      57
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/traxus_base/supply_maint",
+    "name": "Storage Maintenance",
+    "z": 1,
+    "x": 295,
+    "y": 126,
+    "tileCount": 166,
+    "bounds": [
+      284,
+      114,
+      307,
+      138
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/traxus_base/tertiary_hub",
+    "name": "Tertiary Filtration Hub",
+    "z": 1,
+    "x": 207,
+    "y": 129,
+    "tileCount": 143,
+    "bounds": [
+      196,
+      126,
+      218,
+      132
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/unsc_base/communication_office",
+    "name": "Traxus Affairs",
+    "z": 1,
+    "x": 127,
+    "y": 93,
+    "tileCount": 85,
+    "bounds": [
+      121,
+      90,
+      133,
+      96
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/traxus_base/garage",
+    "name": "Traxus Auxiliary Garage",
+    "z": 1,
+    "x": 323,
+    "y": 157,
+    "tileCount": 206,
+    "bounds": [
+      314,
+      152,
+      332,
+      163
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/traxus_base/monitor_station",
+    "name": "Traxus Monitoring Station",
+    "z": 1,
+    "x": 319,
+    "y": 138,
+    "tileCount": 247,
+    "bounds": [
+      305,
+      133,
+      332,
+      145
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/traxus_base/traxus_office",
+    "name": "Traxus Office",
+    "z": 1,
+    "x": 162,
+    "y": 142,
+    "tileCount": 215,
+    "bounds": [
+      156,
+      132,
+      168,
+      150
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/gamma_sector/traxus_base/transfer_security",
+    "name": "Traxus Security Sublet",
+    "z": 1,
+    "x": 250,
+    "y": 137,
+    "tileCount": 184,
+    "bounds": [
+      238,
+      132,
+      266,
+      140
+    ],
+    "category": "room"
+  }
+]

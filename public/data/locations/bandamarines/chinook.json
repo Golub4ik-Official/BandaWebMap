@@ -1,0 +1,137 @@
+[
+  {
+    "id": "/area/adminlevel/chinook",
+    "name": "Chinook 91 GSO Station",
+    "z": 1,
+    "x": 57,
+    "y": 70,
+    "tileCount": 1828,
+    "bounds": [
+      10,
+      18,
+      120,
+      109
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/adminlevel/chinook/cargo",
+    "name": "Chinook 91 GSO Station - Cargo Bay",
+    "z": 1,
+    "x": 82,
+    "y": 23,
+    "tileCount": 450,
+    "bounds": [
+      69,
+      12,
+      91,
+      40
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/adminlevel/chinook/event",
+    "name": "Chinook 91 GSO Station - Convention Sector",
+    "z": 1,
+    "x": 99,
+    "y": 79,
+    "tileCount": 994,
+    "bounds": [
+      74,
+      69,
+      127,
+      92
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/adminlevel/chinook/engineering",
+    "name": "Chinook 91 GSO Station - Engineering Sector",
+    "z": 1,
+    "x": 49,
+    "y": 51,
+    "tileCount": 717,
+    "bounds": [
+      38,
+      32,
+      68,
+      71
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/adminlevel/chinook/medical",
+    "name": "Chinook 91 GSO Station - Medical Sector",
+    "z": 1,
+    "x": 71,
+    "y": 39,
+    "tileCount": 669,
+    "bounds": [
+      55,
+      23,
+      85,
+      53
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/adminlevel/chinook/offices",
+    "name": "Chinook 91 GSO Station - Office Sector",
+    "z": 1,
+    "x": 43,
+    "y": 89,
+    "tileCount": 1535,
+    "bounds": [
+      15,
+      67,
+      70,
+      107
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/adminlevel/chinook/sec",
+    "name": "Chinook 91 GSO Station - Security Sector",
+    "z": 1,
+    "x": 114,
+    "y": 49,
+    "tileCount": 1599,
+    "bounds": [
+      89,
+      29,
+      143,
+      65
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/adminlevel/chinook/cryo",
+    "name": "Chinook 91 GSO Station - Cryogenics Bay",
+    "z": 1,
+    "x": 62,
+    "y": 58,
+    "tileCount": 153,
+    "bounds": [
+      54,
+      54,
+      70,
+      62
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/adminlevel/chinook/shuttle",
+    "name": "Chinook 91 GSO Station - Shuttle Bay",
+    "z": 1,
+    "x": 101,
+    "y": 18,
+    "tileCount": 347,
+    "bounds": [
+      90,
+      8,
+      110,
+      28
+    ],
+    "category": "room"
+  }
+]

@@ -1,0 +1,1667 @@
+[
+  {
+    "id": "/area/prison/research/secret/testing",
+    "name": "Biological Testing",
+    "z": 1,
+    "x": 150,
+    "y": 191,
+    "tileCount": 353,
+    "bounds": [
+      140,
+      180,
+      159,
+      200
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/prison/canteen",
+    "name": "Canteen",
+    "z": 1,
+    "x": 188,
+    "y": 111,
+    "tileCount": 516,
+    "bounds": [
+      177,
+      99,
+      199,
+      124
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/prison/residential/central",
+    "name": "Civilian Residences Central",
+    "z": 1,
+    "x": 40,
+    "y": 105,
+    "tileCount": 908,
+    "bounds": [
+      26,
+      89,
+      58,
+      121
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/prison/residential/north",
+    "name": "Civilian Residences North",
+    "z": 1,
+    "x": 38,
+    "y": 138,
+    "tileCount": 776,
+    "bounds": [
+      18,
+      122,
+      57,
+      152
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/prison/residential/south",
+    "name": "Civilian Residences South",
+    "z": 1,
+    "x": 36,
+    "y": 74,
+    "tileCount": 673,
+    "bounds": [
+      18,
+      61,
+      54,
+      88
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/prison/security/monitoring/highsec",
+    "name": "High-Security Monitoring",
+    "z": 1,
+    "x": 70,
+    "y": 107,
+    "tileCount": 554,
+    "bounds": [
+      59,
+      90,
+      83,
+      121
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/prison/hanger/main",
+    "name": "Main Hanger",
+    "z": 1,
+    "x": 235,
+    "y": 106,
+    "tileCount": 710,
+    "bounds": [
+      219,
+      92,
+      247,
+      121
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/prison/cellblock/maxsec/south",
+    "name": "Maximum-Security Suspended Cellblock",
+    "z": 1,
+    "x": 124,
+    "y": 157,
+    "tileCount": 789,
+    "bounds": [
+      104,
+      145,
+      145,
+      170
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/prison/cellblock/mediumsec/east",
+    "name": "Medium-Security Cellblock East",
+    "z": 1,
+    "x": 154,
+    "y": 44,
+    "tileCount": 624,
+    "bounds": [
+      130,
+      19,
+      173,
+      53
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/prison/cellblock/mediumsec/north",
+    "name": "Medium-Security Cellblock North",
+    "z": 1,
+    "x": 131,
+    "y": 58,
+    "tileCount": 667,
+    "bounds": [
+      97,
+      49,
+      151,
+      69
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/prison/cellblock/mediumsec/south",
+    "name": "Medium-Security Cellblock South",
+    "z": 1,
+    "x": 115,
+    "y": 33,
+    "tileCount": 1182,
+    "bounds": [
+      89,
+      18,
+      142,
+      48
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/prison/cellblock/highsec/north/north",
+    "name": "North",
+    "z": 1,
+    "x": 87,
+    "y": 151,
+    "tileCount": 590,
+    "bounds": [
+      72,
+      141,
+      107,
+      162
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/prison/cellblock/maxsec/north",
+    "name": "North",
+    "z": 1,
+    "x": 124,
+    "y": 181,
+    "tileCount": 713,
+    "bounds": [
+      109,
+      166,
+      139,
+      194
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/prison/cellblock/highsec/north/south",
+    "name": "North High-Security Cellblock South",
+    "z": 1,
+    "x": 89,
+    "y": 126,
+    "tileCount": 836,
+    "bounds": [
+      72,
+      115,
+      110,
+      140
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/prison/hanger/research",
+    "name": "Research Hanger",
+    "z": 1,
+    "x": 187,
+    "y": 154,
+    "tileCount": 466,
+    "bounds": [
+      177,
+      141,
+      196,
+      166
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/prison/cellblock/highsec/south/north",
+    "name": "South High-Security Cellblock North",
+    "z": 1,
+    "x": 87,
+    "y": 83,
+    "tileCount": 829,
+    "bounds": [
+      72,
+      66,
+      110,
+      96
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/prison/cellblock/highsec/south/south",
+    "name": "South High-Security Cellblock South",
+    "z": 1,
+    "x": 92,
+    "y": 60,
+    "tileCount": 637,
+    "bounds": [
+      72,
+      49,
+      113,
+      72
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/prison/pirate",
+    "name": "Tramp Freighter \\",
+    "z": 1,
+    "x": 150,
+    "y": 30,
+    "tileCount": 453,
+    "bounds": [
+      143,
+      14,
+      158,
+      46
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/prison/hallway/central/west",
+    "name": "West Central Ring",
+    "z": 1,
+    "x": 118,
+    "y": 101,
+    "tileCount": 485,
+    "bounds": [
+      105,
+      79,
+      130,
+      132
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/prison/yard",
+    "name": "Yard",
+    "z": 1,
+    "x": 146,
+    "y": 106,
+    "tileCount": 532,
+    "bounds": [
+      131,
+      90,
+      162,
+      121
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/prison/engineering/atmos",
+    "name": "Atmospherics",
+    "z": 1,
+    "x": 190,
+    "y": 72,
+    "tileCount": 128,
+    "bounds": [
+      182,
+      69,
+      197,
+      76
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/research/secret/bioengineering",
+    "name": "Bioengineering",
+    "z": 1,
+    "x": 168,
+    "y": 181,
+    "tileCount": 226,
+    "bounds": [
+      159,
+      174,
+      177,
+      187
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/research",
+    "name": "Biological Research Department",
+    "z": 1,
+    "x": 171,
+    "y": 145,
+    "tileCount": 238,
+    "bounds": [
+      162,
+      134,
+      179,
+      157
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/security/briefing",
+    "name": "Briefing",
+    "z": 1,
+    "x": 210,
+    "y": 58,
+    "tileCount": 156,
+    "bounds": [
+      204,
+      52,
+      215,
+      64
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/toilet/canteen",
+    "name": "Canteen",
+    "z": 1,
+    "x": 204,
+    "y": 104,
+    "tileCount": 80,
+    "bounds": [
+      200,
+      100,
+      209,
+      107
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/security/monitoring/medsec/central",
+    "name": "Central Medium-Security Monitoring",
+    "z": 1,
+    "x": 116,
+    "y": 42,
+    "tileCount": 32,
+    "bounds": [
+      114,
+      38,
+      117,
+      45
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/chapel",
+    "name": "Chapel",
+    "z": 1,
+    "x": 117,
+    "y": 140,
+    "tileCount": 197,
+    "bounds": [
+      108,
+      134,
+      125,
+      145
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/research/secret/chemistry",
+    "name": "Chemistry",
+    "z": 1,
+    "x": 174,
+    "y": 163,
+    "tileCount": 49,
+    "bounds": [
+      171,
+      160,
+      177,
+      166
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/research/secret",
+    "name": "Classified Research",
+    "z": 1,
+    "x": 170,
+    "y": 169,
+    "tileCount": 175,
+    "bounds": [
+      159,
+      158,
+      180,
+      175
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/cleaning",
+    "name": "Custodial Supplies",
+    "z": 1,
+    "x": 180,
+    "y": 126,
+    "tileCount": 28,
+    "bounds": [
+      177,
+      125,
+      183,
+      128
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/disposal",
+    "name": "Disposals",
+    "z": 1,
+    "x": 187,
+    "y": 55,
+    "tileCount": 181,
+    "bounds": [
+      176,
+      49,
+      193,
+      64
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/research/secret/dissection",
+    "name": "Dissection",
+    "z": 1,
+    "x": 162,
+    "y": 164,
+    "tileCount": 96,
+    "bounds": [
+      158,
+      158,
+      166,
+      169
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/monorail/east",
+    "name": "East",
+    "z": 1,
+    "x": 242,
+    "y": 84,
+    "tileCount": 171,
+    "bounds": [
+      237,
+      76,
+      247,
+      92
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/hallway/central/east",
+    "name": "East Central Ring",
+    "z": 1,
+    "x": 172,
+    "y": 107,
+    "tileCount": 297,
+    "bounds": [
+      163,
+      85,
+      177,
+      125
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/hallway/east",
+    "name": "East Hallway",
+    "z": 1,
+    "x": 201,
+    "y": 84,
+    "tileCount": 346,
+    "bounds": [
+      175,
+      66,
+      217,
+      91
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/engineering",
+    "name": "Engineering",
+    "z": 1,
+    "x": 176,
+    "y": 69,
+    "tileCount": 180,
+    "bounds": [
+      170,
+      61,
+      181,
+      77
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/hallway/engineering",
+    "name": "Engineering Hallway",
+    "z": 1,
+    "x": 189,
+    "y": 66,
+    "tileCount": 69,
+    "bounds": [
+      182,
+      64,
+      197,
+      68
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/hallway/entrance",
+    "name": "Entrance Hallway",
+    "z": 1,
+    "x": 215,
+    "y": 104,
+    "tileCount": 238,
+    "bounds": [
+      210,
+      92,
+      221,
+      117
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/execution",
+    "name": "Execution",
+    "z": 1,
+    "x": 199,
+    "y": 57,
+    "tileCount": 154,
+    "bounds": [
+      194,
+      50,
+      203,
+      65
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/maintenance/hangar_barracks",
+    "name": "Hangar-Barracks Maintenance",
+    "z": 1,
+    "x": 228,
+    "y": 85,
+    "tileCount": 84,
+    "bounds": [
+      224,
+      80,
+      233,
+      91
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/security/head",
+    "name": "Head of Security's office",
+    "z": 1,
+    "x": 230,
+    "y": 66,
+    "tileCount": 96,
+    "bounds": [
+      224,
+      58,
+      233,
+      72
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/security/checkpoint/highsec_medsec",
+    "name": "High-to-Medium-Security Checkpoint",
+    "z": 1,
+    "x": 98,
+    "y": 56,
+    "tileCount": 49,
+    "bounds": [
+      95,
+      53,
+      101,
+      59
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/holding/holding1",
+    "name": "Holding Cell 1",
+    "z": 1,
+    "x": 180,
+    "y": 94,
+    "tileCount": 108,
+    "bounds": [
+      175,
+      90,
+      186,
+      98
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/holding/holding2",
+    "name": "Holding Cell 2",
+    "z": 1,
+    "x": 180,
+    "y": 81,
+    "tileCount": 108,
+    "bounds": [
+      175,
+      77,
+      186,
+      85
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/medbay",
+    "name": "Infirmary",
+    "z": 1,
+    "x": 152,
+    "y": 147,
+    "tileCount": 331,
+    "bounds": [
+      144,
+      134,
+      161,
+      160
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/medbay/foyer",
+    "name": "Infirmary Foyer",
+    "z": 1,
+    "x": 159,
+    "y": 137,
+    "tileCount": 91,
+    "bounds": [
+      151,
+      134,
+      165,
+      142
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/intake",
+    "name": "Intake Processing",
+    "z": 1,
+    "x": 206,
+    "y": 76,
+    "tileCount": 100,
+    "bounds": [
+      202,
+      71,
+      211,
+      80
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/kitchen",
+    "name": "Kitchen",
+    "z": 1,
+    "x": 203,
+    "y": 112,
+    "tileCount": 118,
+    "bounds": [
+      195,
+      108,
+      210,
+      115
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/laundry",
+    "name": "Laundry",
+    "z": 1,
+    "x": 116,
+    "y": 74,
+    "tileCount": 128,
+    "bounds": [
+      109,
+      70,
+      124,
+      77
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/security/armory/lethal",
+    "name": "Lethal Armory",
+    "z": 1,
+    "x": 225,
+    "y": 59,
+    "tileCount": 62,
+    "bounds": [
+      222,
+      55,
+      228,
+      64
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/library",
+    "name": "Library",
+    "z": 1,
+    "x": 163,
+    "y": 70,
+    "tileCount": 191,
+    "bounds": [
+      157,
+      64,
+      170,
+      77
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/hangar_storage/main",
+    "name": "Main Hangar Storage",
+    "z": 1,
+    "x": 210,
+    "y": 134,
+    "tileCount": 126,
+    "bounds": [
+      203,
+      130,
+      216,
+      138
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/security/checkpoint/hangar",
+    "name": "Main Hangar Traffic Control",
+    "z": 1,
+    "x": 231,
+    "y": 90,
+    "tileCount": 47,
+    "bounds": [
+      228,
+      87,
+      235,
+      92
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/security/checkpoint/maxsec",
+    "name": "Maximum-Security Checkpoint",
+    "z": 1,
+    "x": 134,
+    "y": 140,
+    "tileCount": 253,
+    "bounds": [
+      123,
+      134,
+      144,
+      147
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/security/checkpoint/maxsec_highsec",
+    "name": "Maximum-to-High-Security Checkpoint",
+    "z": 1,
+    "x": 98,
+    "y": 155,
+    "tileCount": 49,
+    "bounds": [
+      95,
+      152,
+      101,
+      158
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/cellblock/mediumsec/west",
+    "name": "Medium-Security Cellblock West",
+    "z": 1,
+    "x": 91,
+    "y": 42,
+    "tileCount": 344,
+    "bounds": [
+      79,
+      19,
+      158,
+      52
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/security/monitoring/medsec/south",
+    "name": "Medium-Security Monitoring",
+    "z": 1,
+    "x": 116,
+    "y": 19,
+    "tileCount": 70,
+    "bounds": [
+      111,
+      15,
+      120,
+      22
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/recreation/medsec",
+    "name": "Medium-Security Recreation",
+    "z": 1,
+    "x": 119,
+    "y": 65,
+    "tileCount": 99,
+    "bounds": [
+      114,
+      61,
+      124,
+      69
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/security/checkpoint/medsec",
+    "name": "Medsec",
+    "z": 1,
+    "x": 132,
+    "y": 74,
+    "tileCount": 118,
+    "bounds": [
+      125,
+      70,
+      139,
+      77
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/storage/medsec",
+    "name": "Medsec",
+    "z": 1,
+    "x": 147,
+    "y": 74,
+    "tileCount": 118,
+    "bounds": [
+      139,
+      70,
+      154,
+      77
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/medbay/morgue",
+    "name": "Morgue",
+    "z": 1,
+    "x": 164,
+    "y": 148,
+    "tileCount": 71,
+    "bounds": [
+      161,
+      143,
+      166,
+      154
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/security/monitoring/lowsec/ne",
+    "name": "Ne",
+    "z": 1,
+    "x": 168,
+    "y": 126,
+    "tileCount": 50,
+    "bounds": [
+      166,
+      121,
+      170,
+      130
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/hallway/central/north",
+    "name": "North Central Ring",
+    "z": 1,
+    "x": 141,
+    "y": 130,
+    "tileCount": 204,
+    "bounds": [
+      119,
+      122,
+      155,
+      133
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/maintenance/residential/access/north",
+    "name": "North Civilian Residences Access",
+    "z": 1,
+    "x": 63,
+    "y": 138,
+    "tileCount": 191,
+    "bounds": [
+      54,
+      123,
+      76,
+      145
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/security/checkpoint/highsec/n",
+    "name": "North High-Security Checkpoint",
+    "z": 1,
+    "x": 114,
+    "y": 124,
+    "tileCount": 144,
+    "bounds": [
+      111,
+      115,
+      118,
+      133
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/recreation/highsec/n",
+    "name": "North High-Security Recreation",
+    "z": 1,
+    "x": 100,
+    "y": 138,
+    "tileCount": 136,
+    "bounds": [
+      92,
+      134,
+      108,
+      141
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/storage/highsec/n",
+    "name": "North High-Security Storage",
+    "z": 1,
+    "x": 108,
+    "y": 132,
+    "tileCount": 35,
+    "bounds": [
+      104,
+      130,
+      111,
+      134
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/maintenance/residential/ne",
+    "name": "Northeast Civilian Residences Maintenance",
+    "z": 1,
+    "x": 49,
+    "y": 123,
+    "tileCount": 116,
+    "bounds": [
+      38,
+      117,
+      59,
+      126
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/cellblock/lowsec/ne",
+    "name": "Northeast Low-Security Cellblock",
+    "z": 1,
+    "x": 160,
+    "y": 120,
+    "tileCount": 301,
+    "bounds": [
+      149,
+      108,
+      170,
+      129
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/maintenance/residential/nw",
+    "name": "Nw",
+    "z": 1,
+    "x": 21,
+    "y": 123,
+    "tileCount": 307,
+    "bounds": [
+      13,
+      106,
+      34,
+      142
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/cellblock/lowsec/nw",
+    "name": "Nw",
+    "z": 1,
+    "x": 132,
+    "y": 120,
+    "tileCount": 346,
+    "bounds": [
+      123,
+      108,
+      144,
+      129
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/medbay/surgery",
+    "name": "Operating Theatre",
+    "z": 1,
+    "x": 158,
+    "y": 157,
+    "tileCount": 49,
+    "bounds": [
+      155,
+      154,
+      161,
+      160
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/security/monitoring/maxsec/panopticon",
+    "name": "Panopticon Monitoring",
+    "z": 1,
+    "x": 124,
+    "y": 179,
+    "tileCount": 76,
+    "bounds": [
+      121,
+      173,
+      128,
+      184
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/store",
+    "name": "Prison Store",
+    "z": 1,
+    "x": 189,
+    "y": 94,
+    "tileCount": 45,
+    "bounds": [
+      187,
+      90,
+      191,
+      98
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/cellblock/protective",
+    "name": "Protective Custody",
+    "z": 1,
+    "x": 162,
+    "y": 61,
+    "tileCount": 231,
+    "bounds": [
+      152,
+      54,
+      175,
+      76
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/security/monitoring/protective",
+    "name": "Protective Custody Monitoring",
+    "z": 1,
+    "x": 154,
+    "y": 56,
+    "tileCount": 36,
+    "bounds": [
+      152,
+      54,
+      157,
+      59
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/parole/protective_custody",
+    "name": "Protective Custody Parole",
+    "z": 1,
+    "x": 181,
+    "y": 59,
+    "tileCount": 85,
+    "bounds": [
+      175,
+      55,
+      186,
+      63
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/research/RD",
+    "name": "Research Director's office",
+    "z": 1,
+    "x": 174,
+    "y": 156,
+    "tileCount": 56,
+    "bounds": [
+      171,
+      152,
+      177,
+      159
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/quarters/research",
+    "name": "Research Dorms",
+    "z": 1,
+    "x": 188,
+    "y": 134,
+    "tileCount": 247,
+    "bounds": [
+      175,
+      129,
+      199,
+      140
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/hangar_storage/research",
+    "name": "Research Hangar Storage",
+    "z": 1,
+    "x": 199,
+    "y": 149,
+    "tileCount": 77,
+    "bounds": [
+      196,
+      144,
+      202,
+      154
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/toilet/research",
+    "name": "Research Restooms",
+    "z": 1,
+    "x": 179,
+    "y": 138,
+    "tileCount": 45,
+    "bounds": [
+      175,
+      136,
+      183,
+      140
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/maintenance/research_medbay",
+    "name": "Research-Infirmary Maintenance",
+    "z": 1,
+    "x": 152,
+    "y": 162,
+    "tileCount": 24,
+    "bounds": [
+      146,
+      161,
+      157,
+      162
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/security/armory/riot",
+    "name": "Riot Armory",
+    "z": 1,
+    "x": 218,
+    "y": 59,
+    "tileCount": 56,
+    "bounds": [
+      216,
+      55,
+      221,
+      64
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/quarters/security",
+    "name": "Security Barracks",
+    "z": 1,
+    "x": 220,
+    "y": 87,
+    "tileCount": 66,
+    "bounds": [
+      218,
+      82,
+      223,
+      92
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/security",
+    "name": "Security Department",
+    "z": 1,
+    "x": 217,
+    "y": 71,
+    "tileCount": 309,
+    "bounds": [
+      202,
+      61,
+      226,
+      81
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/toilet/security",
+    "name": "Security Restooms",
+    "z": 1,
+    "x": 230,
+    "y": 76,
+    "tileCount": 56,
+    "bounds": [
+      227,
+      72,
+      233,
+      79
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/hallway/central/south",
+    "name": "South Central Ring",
+    "z": 1,
+    "x": 140,
+    "y": 81,
+    "tileCount": 197,
+    "bounds": [
+      119,
+      78,
+      153,
+      89
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/maintenance/residential/access/south",
+    "name": "South Civilian Residences Access",
+    "z": 1,
+    "x": 61,
+    "y": 69,
+    "tileCount": 339,
+    "bounds": [
+      46,
+      59,
+      76,
+      86
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/security/checkpoint/highsec/s",
+    "name": "South High-Security Checkpoint",
+    "z": 1,
+    "x": 114,
+    "y": 82,
+    "tileCount": 64,
+    "bounds": [
+      111,
+      78,
+      118,
+      85
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/recreation/highsec/s",
+    "name": "South High-Security Recreation",
+    "z": 1,
+    "x": 100,
+    "y": 74,
+    "tileCount": 136,
+    "bounds": [
+      92,
+      70,
+      108,
+      77
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/storage/highsec/s",
+    "name": "South High-Security Storage",
+    "z": 1,
+    "x": 107,
+    "y": 80,
+    "tileCount": 28,
+    "bounds": [
+      104,
+      78,
+      110,
+      81
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/maintenance/residential/se",
+    "name": "Southeast Civilian Residences Maintenance",
+    "z": 1,
+    "x": 47,
+    "y": 88,
+    "tileCount": 82,
+    "bounds": [
+      38,
+      85,
+      53,
+      93
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/cellblock/lowsec/se",
+    "name": "Southeast Low-Security Cellblock",
+    "z": 1,
+    "x": 161,
+    "y": 91,
+    "tileCount": 346,
+    "bounds": [
+      149,
+      82,
+      170,
+      103
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/maintenance/residential/sw",
+    "name": "Southwest Civilian Residences Maintenance",
+    "z": 1,
+    "x": 21,
+    "y": 88,
+    "tileCount": 294,
+    "bounds": [
+      13,
+      69,
+      34,
+      105
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/cellblock/lowsec/sw",
+    "name": "Southwest Low-Security Cellblock",
+    "z": 1,
+    "x": 133,
+    "y": 92,
+    "tileCount": 296,
+    "bounds": [
+      123,
+      82,
+      144,
+      103
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/security/monitoring/lowsec/sw",
+    "name": "Southwest Low-Security Monitoring",
+    "z": 1,
+    "x": 125,
+    "y": 86,
+    "tileCount": 50,
+    "bounds": [
+      123,
+      82,
+      128,
+      90
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/recreation/staff",
+    "name": "Staff",
+    "z": 1,
+    "x": 209,
+    "y": 121,
+    "tileCount": 58,
+    "bounds": [
+      207,
+      116,
+      212,
+      125
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/hallway/staff",
+    "name": "Staff Hallway",
+    "z": 1,
+    "x": 209,
+    "y": 123,
+    "tileCount": 136,
+    "bounds": [
+      200,
+      116,
+      218,
+      129
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/quarters/staff",
+    "name": "Staff Quarters",
+    "z": 1,
+    "x": 191,
+    "y": 126,
+    "tileCount": 77,
+    "bounds": [
+      184,
+      124,
+      199,
+      128
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/toilet/staff",
+    "name": "Staff Restooms",
+    "z": 1,
+    "x": 201,
+    "y": 122,
+    "tileCount": 45,
+    "bounds": [
+      199,
+      118,
+      203,
+      126
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/maintenance/staff_research",
+    "name": "Staff-Research Maintenance",
+    "z": 1,
+    "x": 201,
+    "y": 138,
+    "tileCount": 79,
+    "bounds": [
+      196,
+      129,
+      205,
+      144
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/telecomms",
+    "name": "Telecommunications",
+    "z": 1,
+    "x": 192,
+    "y": 81,
+    "tileCount": 99,
+    "bounds": [
+      187,
+      77,
+      197,
+      85
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/research/secret/containment",
+    "name": "Test Subject Containment",
+    "z": 1,
+    "x": 150,
+    "y": 174,
+    "tileCount": 350,
+    "bounds": [
+      140,
+      163,
+      160,
+      196
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/cellblock/vip",
+    "name": "VIP Cells",
+    "z": 1,
+    "x": 93,
+    "y": 106,
+    "tileCount": 346,
+    "bounds": [
+      83,
+      97,
+      102,
+      114
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/security/checkpoint/vip",
+    "name": "VIP Checkpoint",
+    "z": 1,
+    "x": 107,
+    "y": 106,
+    "tileCount": 162,
+    "bounds": [
+      103,
+      97,
+      111,
+      114
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/storage/vip",
+    "name": "VIP Storage",
+    "z": 1,
+    "x": 114,
+    "y": 106,
+    "tileCount": 72,
+    "bounds": [
+      112,
+      97,
+      115,
+      114
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/visitation",
+    "name": "Visitation",
+    "z": 1,
+    "x": 201,
+    "y": 94,
+    "tileCount": 190,
+    "bounds": [
+      192,
+      90,
+      210,
+      99
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/command/office",
+    "name": "Warden's Office",
+    "z": 1,
+    "x": 229,
+    "y": 126,
+    "tileCount": 61,
+    "bounds": [
+      223,
+      123,
+      233,
+      129
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/command/quarters",
+    "name": "Warden's Quarters",
+    "z": 1,
+    "x": 223,
+    "y": 119,
+    "tileCount": 45,
+    "bounds": [
+      219,
+      117,
+      227,
+      121
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/command/secretary_office",
+    "name": "Warden's Secretary's Office",
+    "z": 1,
+    "x": 219,
+    "y": 125,
+    "tileCount": 63,
+    "bounds": [
+      216,
+      121,
+      223,
+      129
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/prison/monorail/west",
+    "name": "West Monorail Station",
+    "z": 1,
+    "x": 56,
+    "y": 95,
+    "tileCount": 99,
+    "bounds": [
+      54,
+      87,
+      59,
+      103
+    ],
+    "category": "room"
+  }
+]

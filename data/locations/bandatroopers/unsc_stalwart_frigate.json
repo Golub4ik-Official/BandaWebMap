@@ -1,0 +1,497 @@
+[
+  {
+    "id": "/area/unsc_stalwart_frigate",
+    "name": "UNSC Stalwart Frigate",
+    "z": 1,
+    "x": 55,
+    "y": 71,
+    "tileCount": 7627,
+    "bounds": [
+      19,
+      3,
+      132,
+      191
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/unsc_stalwart_frigate/medical",
+    "name": "Аварийный медотсек",
+    "z": 1,
+    "x": 93,
+    "y": 75,
+    "tileCount": 833,
+    "bounds": [
+      75,
+      63,
+      111,
+      86
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/unsc_stalwart_frigate/hangar",
+    "name": "Ангар",
+    "z": 1,
+    "x": 143,
+    "y": 57,
+    "tileCount": 4111,
+    "bounds": [
+      112,
+      13,
+      179,
+      94
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/unsc_stalwart_frigate/motor_pool/heavy",
+    "name": "Ангар бронетехники",
+    "z": 1,
+    "x": 101,
+    "y": 24,
+    "tileCount": 2014,
+    "bounds": [
+      74,
+      6,
+      132,
+      45
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/unsc_stalwart_frigate/upper_hallway",
+    "name": "Верхний коридор",
+    "z": 1,
+    "x": 93,
+    "y": 151,
+    "tileCount": 372,
+    "bounds": [
+      82,
+      137,
+      120,
+      182
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/unsc_stalwart_frigate/upper_hallway/north",
+    "name": "Верхний коридор - север",
+    "z": 1,
+    "x": 58,
+    "y": 178,
+    "tileCount": 1470,
+    "bounds": [
+      29,
+      159,
+      86,
+      191
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/unsc_stalwart_frigate/upper_hallway/south",
+    "name": "Верхний коридор - юг",
+    "z": 1,
+    "x": 74,
+    "y": 122,
+    "tileCount": 626,
+    "bounds": [
+      59,
+      111,
+      89,
+      136
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/unsc_stalwart_frigate/auxiliary/hangar",
+    "name": "Вспомогательная зона: ангар",
+    "z": 1,
+    "x": 172,
+    "y": 29,
+    "tileCount": 495,
+    "bounds": [
+      165,
+      13,
+      179,
+      45
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/unsc_stalwart_frigate/briefing",
+    "name": "Зал брифинга",
+    "z": 1,
+    "x": 96,
+    "y": 151,
+    "tileCount": 359,
+    "bounds": [
+      87,
+      142,
+      105,
+      161
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/unsc_stalwart_frigate/cryo_hall",
+    "name": "Коридор криоотсека",
+    "z": 1,
+    "x": 43,
+    "y": 145,
+    "tileCount": 515,
+    "bounds": [
+      22,
+      120,
+      61,
+      169
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/unsc_stalwart_frigate/cryo_bay/bravo",
+    "name": "Криоотсек Браво",
+    "z": 1,
+    "x": 52,
+    "y": 121,
+    "tileCount": 485,
+    "bounds": [
+      46,
+      103,
+      58,
+      140
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/unsc_stalwart_frigate/cryo_bay/delta",
+    "name": "Криоотсек Дельта",
+    "z": 1,
+    "x": 32,
+    "y": 158,
+    "tileCount": 412,
+    "bounds": [
+      21,
+      148,
+      41,
+      169
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/unsc_stalwart_frigate/cryo_bay/charlie",
+    "name": "Криоотсек Чарли",
+    "z": 1,
+    "x": 31,
+    "y": 130,
+    "tileCount": 442,
+    "bounds": [
+      21,
+      119,
+      41,
+      140
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/unsc_stalwart_frigate/lower_hallway",
+    "name": "Нижний коридор",
+    "z": 1,
+    "x": 99,
+    "y": 55,
+    "tileCount": 487,
+    "bounds": [
+      80,
+      45,
+      113,
+      63
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/unsc_stalwart_frigate/armory",
+    "name": "Оружейная",
+    "z": 1,
+    "x": 146,
+    "y": 140,
+    "tileCount": 1569,
+    "bounds": [
+      116,
+      122,
+      173,
+      158
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/unsc_stalwart_frigate/bathroom",
+    "name": "Санузел",
+    "z": 1,
+    "x": 109,
+    "y": 128,
+    "tileCount": 391,
+    "bounds": [
+      98,
+      120,
+      120,
+      136
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/unsc_stalwart_frigate/supply",
+    "name": "Склад снабжения",
+    "z": 1,
+    "x": 70,
+    "y": 52,
+    "tileCount": 503,
+    "bounds": [
+      61,
+      33,
+      79,
+      69
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/unsc_stalwart_frigate/canteen",
+    "name": "Столовая",
+    "z": 1,
+    "x": 72,
+    "y": 147,
+    "tileCount": 469,
+    "bounds": [
+      57,
+      137,
+      82,
+      158
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/unsc_stalwart_frigate/motor_pool",
+    "name": "Ангар техники",
+    "z": 1,
+    "x": 84,
+    "y": 48,
+    "tileCount": 202,
+    "bounds": [
+      77,
+      42,
+      91,
+      55
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/unsc_stalwart_frigate/upper_hallway/east",
+    "name": "Верхний коридор - восток",
+    "z": 1,
+    "x": 125,
+    "y": 124,
+    "tileCount": 192,
+    "bounds": [
+      121,
+      114,
+      132,
+      141
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/unsc_stalwart_frigate/auxiliary/engineering",
+    "name": "Вспомогательная зона: инженерный отсек",
+    "z": 1,
+    "x": 127,
+    "y": 157,
+    "tileCount": 25,
+    "bounds": [
+      125,
+      155,
+      129,
+      159
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/unsc_stalwart_frigate/auxiliary/medical",
+    "name": "Вспомогательная зона: медотсек",
+    "z": 1,
+    "x": 147,
+    "y": 130,
+    "tileCount": 186,
+    "bounds": [
+      111,
+      68,
+      167,
+      156
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/unsc_stalwart_frigate/auxiliary/operations",
+    "name": "Вспомогательная зона: операции",
+    "z": 1,
+    "x": 174,
+    "y": 136,
+    "tileCount": 220,
+    "bounds": [
+      169,
+      123,
+      182,
+      148
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/unsc_stalwart_frigate/briefing/one",
+    "name": "Зал брифинга 1",
+    "z": 1,
+    "x": 111,
+    "y": 150,
+    "tileCount": 161,
+    "bounds": [
+      106,
+      142,
+      115,
+      158
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/unsc_stalwart_frigate/briefing/two",
+    "name": "Зал брифинга 2",
+    "z": 1,
+    "x": 111,
+    "y": 162,
+    "tileCount": 128,
+    "bounds": [
+      105,
+      158,
+      118,
+      168
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/unsc_stalwart_frigate/engineering",
+    "name": "Инженерный отсек",
+    "z": 1,
+    "x": 125,
+    "y": 161,
+    "tileCount": 263,
+    "bounds": [
+      116,
+      149,
+      135,
+      169
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/unsc_stalwart_frigate/cryo_bay/alpha",
+    "name": "Криоотсек Альфа",
+    "z": 1,
+    "x": 52,
+    "y": 159,
+    "tileCount": 268,
+    "bounds": [
+      46,
+      148,
+      58,
+      169
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/unsc_stalwart_frigate/dorms",
+    "name": "Кубрики",
+    "z": 1,
+    "x": 92,
+    "y": 125,
+    "tileCount": 276,
+    "bounds": [
+      87,
+      111,
+      97,
+      137
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/unsc_stalwart_frigate/kitchen",
+    "name": "Кухня",
+    "z": 1,
+    "x": 63,
+    "y": 133,
+    "tileCount": 90,
+    "bounds": [
+      58,
+      128,
+      71,
+      137
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/unsc_stalwart_frigate/kitchen/freezer",
+    "name": "Морозильник",
+    "z": 1,
+    "x": 69,
+    "y": 130,
+    "tileCount": 42,
+    "bounds": [
+      66,
+      128,
+      72,
+      133
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/unsc_stalwart_frigate/bridge",
+    "name": "Мостик",
+    "z": 1,
+    "x": 98,
+    "y": 168,
+    "tileCount": 205,
+    "bounds": [
+      91,
+      161,
+      105,
+      175
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/unsc_stalwart_frigate/bridge/one",
+    "name": "Мостик - вспомогательный отсек 1",
+    "z": 1,
+    "x": 108,
+    "y": 170,
+    "tileCount": 34,
+    "bounds": [
+      105,
+      168,
+      111,
+      172
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/unsc_stalwart_frigate/bridge/two",
+    "name": "Мостик - вспомогательный отсек 2",
+    "z": 1,
+    "x": 89,
+    "y": 172,
+    "tileCount": 110,
+    "bounds": [
+      87,
+      159,
+      92,
+      182
+    ],
+    "category": "room"
+  }
+]

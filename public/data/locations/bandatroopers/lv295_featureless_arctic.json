@@ -1,0 +1,17 @@
+[
+  {
+    "id": "/area/lv295/outdoors",
+    "name": "LV295 - Outdoors",
+    "z": 1,
+    "x": 126,
+    "y": 126,
+    "tileCount": 61620,
+    "bounds": [
+      1,
+      1,
+      250,
+      250
+    ],
+    "category": "major"
+  }
+]

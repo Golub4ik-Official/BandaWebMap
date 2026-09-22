@@ -1,0 +1,812 @@
+[
+  {
+    "id": "/area/kleschers/int_reg/control_tower",
+    "name": "Control Tower Complex",
+    "z": 1,
+    "x": 134,
+    "y": 150,
+    "tileCount": 235,
+    "bounds": [
+      126,
+      142,
+      144,
+      157
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/kleschers/int_reg/cargo",
+    "name": "Cargo Bay",
+    "z": 1,
+    "x": 59,
+    "y": 107,
+    "tileCount": 594,
+    "bounds": [
+      45,
+      93,
+      71,
+      122
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kleschers/int_reg/marshals",
+    "name": "Colonial Marshals Complex",
+    "z": 1,
+    "x": 83,
+    "y": 180,
+    "tileCount": 734,
+    "bounds": [
+      65,
+      167,
+      105,
+      191
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kleschers/int_reg/dorms",
+    "name": "Dormitory Complex",
+    "z": 1,
+    "x": 104,
+    "y": 154,
+    "tileCount": 567,
+    "bounds": [
+      92,
+      141,
+      117,
+      166
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kleschers/caves/east",
+    "name": "Eastern Caves",
+    "z": 1,
+    "x": 187,
+    "y": 97,
+    "tileCount": 3232,
+    "bounds": [
+      151,
+      55,
+      223,
+      140
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kleschers/int_reg/engineering",
+    "name": "Engineering Complex",
+    "z": 1,
+    "x": 72,
+    "y": 81,
+    "tileCount": 1002,
+    "bounds": [
+      45,
+      63,
+      91,
+      96
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kleschers/outside/eta_courtyard",
+    "name": "Eta Courtyard",
+    "z": 1,
+    "x": 117,
+    "y": 61,
+    "tileCount": 434,
+    "bounds": [
+      95,
+      43,
+      139,
+      71
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kleschers/int_heavy/eta",
+    "name": "Eta Labs",
+    "z": 1,
+    "x": 109,
+    "y": 39,
+    "tileCount": 1678,
+    "bounds": [
+      87,
+      11,
+      129,
+      62
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kleschers/outside/rebel_landing",
+    "name": "Exterior Landing Site",
+    "z": 1,
+    "x": 28,
+    "y": 28,
+    "tileCount": 1389,
+    "bounds": [
+      4,
+      5,
+      62,
+      53
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kleschers/int_reg/filtration",
+    "name": "Filtration Complex",
+    "z": 1,
+    "x": 128,
+    "y": 89,
+    "tileCount": 431,
+    "bounds": [
+      114,
+      77,
+      146,
+      99
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kleschers/int_glass/fitness",
+    "name": "Fitness & Rehabilitation Center",
+    "z": 1,
+    "x": 58,
+    "y": 129,
+    "tileCount": 425,
+    "bounds": [
+      45,
+      120,
+      73,
+      137
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kleschers/int_reg/offices",
+    "name": "General Office Complex",
+    "z": 1,
+    "x": 133,
+    "y": 112,
+    "tileCount": 557,
+    "bounds": [
+      115,
+      97,
+      148,
+      123
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kleschers/outside/central_road",
+    "name": "Klescher Central Sector",
+    "z": 1,
+    "x": 98,
+    "y": 108,
+    "tileCount": 2287,
+    "bounds": [
+      59,
+      60,
+      130,
+      163
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kleschers/shuttles/drop2",
+    "name": "Kleschers - Cargo",
+    "z": 1,
+    "x": 37,
+    "y": 98,
+    "tileCount": 1172,
+    "bounds": [
+      20,
+      76,
+      65,
+      127
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kleschers/int_reg/admin",
+    "name": "Kleschers Administration Complex",
+    "z": 1,
+    "x": 92,
+    "y": 124,
+    "tileCount": 662,
+    "bounds": [
+      77,
+      111,
+      107,
+      136
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kleschers/outside/east",
+    "name": "Kleschers Eastern Sector",
+    "z": 1,
+    "x": 143,
+    "y": 93,
+    "tileCount": 1262,
+    "bounds": [
+      119,
+      60,
+      166,
+      130
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kleschers/outside/northeast",
+    "name": "Kleschers Northeastern Sector",
+    "z": 1,
+    "x": 131,
+    "y": 179,
+    "tileCount": 1969,
+    "bounds": [
+      101,
+      131,
+      175,
+      214
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kleschers/outside/northwest",
+    "name": "Kleschers Northwestern Sector",
+    "z": 1,
+    "x": 54,
+    "y": 163,
+    "tileCount": 1983,
+    "bounds": [
+      17,
+      127,
+      116,
+      200
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kleschers/int_heavy/reactor_excess",
+    "name": "Kleschers Reactor Cooling Pipeline",
+    "z": 1,
+    "x": 82,
+    "y": 50,
+    "tileCount": 375,
+    "bounds": [
+      72,
+      33,
+      91,
+      63
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kleschers/int_reg/roofed_spaceport",
+    "name": "Kleschers Spaceport",
+    "z": 1,
+    "x": 36,
+    "y": 197,
+    "tileCount": 863,
+    "bounds": [
+      16,
+      178,
+      64,
+      214
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kleschers/int_heavy/lambda_north_wing",
+    "name": "Lambda North Wing",
+    "z": 1,
+    "x": 197,
+    "y": 184,
+    "tileCount": 764,
+    "bounds": [
+      177,
+      170,
+      214,
+      197
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kleschers/int_heavy/lambda_south_wing",
+    "name": "Lambda South Wing",
+    "z": 1,
+    "x": 196,
+    "y": 152,
+    "tileCount": 415,
+    "bounds": [
+      185,
+      139,
+      209,
+      165
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kleschers/int_reg/buildings",
+    "name": "Landing Site Building",
+    "z": 1,
+    "x": 31,
+    "y": 34,
+    "tileCount": 470,
+    "bounds": [
+      4,
+      12,
+      51,
+      71
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kleschers/caves/northeast_caves",
+    "name": "Northeastern Caves",
+    "z": 1,
+    "x": 181,
+    "y": 184,
+    "tileCount": 3981,
+    "bounds": [
+      140,
+      137,
+      223,
+      214
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kleschers/caves/north_river",
+    "name": "Northern Caves",
+    "z": 1,
+    "x": 80,
+    "y": 205,
+    "tileCount": 1279,
+    "bounds": [
+      40,
+      187,
+      119,
+      214
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kleschers/int_reg/clinic",
+    "name": "Saint Mikaels Clinic",
+    "z": 1,
+    "x": 66,
+    "y": 154,
+    "tileCount": 947,
+    "bounds": [
+      38,
+      141,
+      87,
+      167
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kleschers/caves/southern_caves",
+    "name": "Southern Caves",
+    "z": 1,
+    "x": 134,
+    "y": 26,
+    "tileCount": 2896,
+    "bounds": [
+      77,
+      5,
+      170,
+      59
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kleschers/outside/southern_path",
+    "name": "Southern Path",
+    "z": 1,
+    "x": 45,
+    "y": 59,
+    "tileCount": 782,
+    "bounds": [
+      23,
+      45,
+      65,
+      77
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kleschers/caves/southwest_caves",
+    "name": "Southwestern Caves",
+    "z": 1,
+    "x": 59,
+    "y": 29,
+    "tileCount": 1527,
+    "bounds": [
+      4,
+      5,
+      80,
+      64
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kleschers/int_reg/virology",
+    "name": "Virology",
+    "z": 1,
+    "x": 26,
+    "y": 123,
+    "tileCount": 425,
+    "bounds": [
+      17,
+      112,
+      36,
+      136
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kleschers/caves/western_cave",
+    "name": "Western Caves",
+    "z": 1,
+    "x": 15,
+    "y": 103,
+    "tileCount": 2261,
+    "bounds": [
+      3,
+      52,
+      44,
+      173
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/kleschers/int_heavy/marshals_armory",
+    "name": "Armory",
+    "z": 1,
+    "x": 86,
+    "y": 188,
+    "tileCount": 57,
+    "bounds": [
+      81,
+      186,
+      91,
+      191
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/kleschers/int_glass/bar",
+    "name": "Bar Complex",
+    "z": 1,
+    "x": 122,
+    "y": 137,
+    "tileCount": 234,
+    "bounds": [
+      114,
+      130,
+      129,
+      144
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/kleschers/outside/construction",
+    "name": "Construction Site",
+    "z": 1,
+    "x": 159,
+    "y": 114,
+    "tileCount": 321,
+    "bounds": [
+      152,
+      86,
+      167,
+      126
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/kleschers/int_reg/shuttle",
+    "name": "Crusader Light-Hauler",
+    "z": 1,
+    "x": 22,
+    "y": 24,
+    "tileCount": 156,
+    "bounds": [
+      17,
+      15,
+      27,
+      33
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/kleschers/int_reg/diner",
+    "name": "Diner Complex",
+    "z": 1,
+    "x": 142,
+    "y": 136,
+    "tileCount": 243,
+    "bounds": [
+      132,
+      130,
+      151,
+      144
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/kleschers/int_heavy/lambda_saferoom",
+    "name": "Emergency Safe Room",
+    "z": 1,
+    "x": 184,
+    "y": 174,
+    "tileCount": 35,
+    "bounds": [
+      181,
+      172,
+      187,
+      176
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/kleschers/int_reg/connector",
+    "name": "Engineering-Filtration Connector Hallway",
+    "z": 1,
+    "x": 101,
+    "y": 82,
+    "tileCount": 193,
+    "bounds": [
+      88,
+      76,
+      113,
+      86
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/kleschers/int_heavy/filtration_locks",
+    "name": "Filtration Gate",
+    "z": 1,
+    "x": 160,
+    "y": 91,
+    "tileCount": 228,
+    "bounds": [
+      156,
+      79,
+      167,
+      104
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/kleschers/int_reg/hydroponics",
+    "name": "Hydroponics Complex",
+    "z": 1,
+    "x": 128,
+    "y": 164,
+    "tileCount": 286,
+    "bounds": [
+      118,
+      156,
+      138,
+      172
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/kleschers/int_reg/control_cover",
+    "name": "Klescher Northeastern Sector",
+    "z": 1,
+    "x": 134,
+    "y": 148,
+    "tileCount": 108,
+    "bounds": [
+      125,
+      129,
+      145,
+      172
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/kleschers/shuttles/drop1",
+    "name": "Kleschers - Spaceport",
+    "z": 1,
+    "x": 28,
+    "y": 195,
+    "tileCount": 231,
+    "bounds": [
+      23,
+      185,
+      33,
+      205
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/kleschers/int_glass/admin_open",
+    "name": "Kleschers Administration Complex",
+    "z": 1,
+    "x": 88,
+    "y": 120,
+    "tileCount": 18,
+    "bounds": [
+      81,
+      114,
+      97,
+      131
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/kleschers/outside/spaceport",
+    "name": "Kleschers Spaceport",
+    "z": 1,
+    "x": 41,
+    "y": 186,
+    "tileCount": 221,
+    "bounds": [
+      22,
+      181,
+      51,
+      193
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/kleschers/int_heavy/lambda_center",
+    "name": "Lambda Central",
+    "z": 1,
+    "x": 191,
+    "y": 167,
+    "tileCount": 259,
+    "bounds": [
+      176,
+      159,
+      209,
+      171
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/kleschers/int_reg/checkpoint",
+    "name": "Lambda Entry Checkpoint",
+    "z": 1,
+    "x": 171,
+    "y": 124,
+    "tileCount": 94,
+    "bounds": [
+      167,
+      118,
+      176,
+      132
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/kleschers/outside/lambda_entry",
+    "name": "Lambda Entry Zone",
+    "z": 1,
+    "x": 182,
+    "y": 133,
+    "tileCount": 328,
+    "bounds": [
+      169,
+      121,
+      198,
+      143
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/kleschers/int_heavy/lambda_virology",
+    "name": "Lambda Virology",
+    "z": 1,
+    "x": 210,
+    "y": 137,
+    "tileCount": 256,
+    "bounds": [
+      200,
+      127,
+      223,
+      146
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/kleschers/int_reg/library",
+    "name": "Library Complex",
+    "z": 1,
+    "x": 156,
+    "y": 142,
+    "tileCount": 252,
+    "bounds": [
+      151,
+      131,
+      162,
+      153
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/kleschers/int_glass/library",
+    "name": "Library Complex",
+    "z": 1,
+    "x": 156,
+    "y": 140,
+    "tileCount": 24,
+    "bounds": [
+      156,
+      134,
+      157,
+      145
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/kleschers/int_heavy/sec_armory",
+    "name": "Secured Storage",
+    "z": 1,
+    "x": 100,
+    "y": 96,
+    "tileCount": 128,
+    "bounds": [
+      94,
+      91,
+      107,
+      101
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/kleschers/int_reg/garage",
+    "name": "Spaceport Garage",
+    "z": 1,
+    "x": 24,
+    "y": 170,
+    "tileCount": 241,
+    "bounds": [
+      18,
+      161,
+      33,
+      178
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/kleschers/int_reg/telecomms",
+    "name": "Spaceport Telecommunication Hub",
+    "z": 1,
+    "x": 12,
+    "y": 185,
+    "tileCount": 100,
+    "bounds": [
+      6,
+      181,
+      17,
+      189
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/kleschers/outside/telecomms_yard",
+    "name": "Spaceport Telecommunication Yard",
+    "z": 1,
+    "x": 10,
+    "y": 180,
+    "tileCount": 233,
+    "bounds": [
+      3,
+      169,
+      17,
+      193
+    ],
+    "category": "room"
+  }
+]

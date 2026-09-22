@@ -1,0 +1,182 @@
+[
+  {
+    "id": "/area/firefly/briefing",
+    "name": "Briefing",
+    "z": 1,
+    "x": 80,
+    "y": 129,
+    "tileCount": 469,
+    "bounds": [
+      64,
+      114,
+      91,
+      138
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/firefly/cafeteria",
+    "name": "Cafeteria",
+    "z": 1,
+    "x": 49,
+    "y": 125,
+    "tileCount": 1590,
+    "bounds": [
+      17,
+      93,
+      76,
+      156
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/firefly/cryo_cell",
+    "name": "Cryo Cell",
+    "z": 1,
+    "x": 31,
+    "y": 113,
+    "tileCount": 379,
+    "bounds": [
+      20,
+      106,
+      45,
+      122
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/firefly/engineer",
+    "name": "Engineering",
+    "z": 1,
+    "x": 76,
+    "y": 46,
+    "tileCount": 399,
+    "bounds": [
+      62,
+      36,
+      142,
+      125
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/firefly/hangar",
+    "name": "Hangar",
+    "z": 1,
+    "x": 88,
+    "y": 106,
+    "tileCount": 2334,
+    "bounds": [
+      17,
+      61,
+      134,
+      137
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/firefly/ares",
+    "name": "OVERLORD Restricted Area",
+    "z": 1,
+    "x": 116,
+    "y": 55,
+    "tileCount": 485,
+    "bounds": [
+      106,
+      36,
+      126,
+      70
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/firefly/supply",
+    "name": "Supply",
+    "z": 1,
+    "x": 72,
+    "y": 27,
+    "tileCount": 3881,
+    "bounds": [
+      9,
+      5,
+      140,
+      58
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/firefly/medical",
+    "name": "Medical",
+    "z": 1,
+    "x": 51,
+    "y": 124,
+    "tileCount": 117,
+    "bounds": [
+      41,
+      118,
+      59,
+      127
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/firefly/co",
+    "name": "OVERWATCH Center",
+    "z": 1,
+    "x": 83,
+    "y": 142,
+    "tileCount": 137,
+    "bounds": [
+      73,
+      138,
+      92,
+      146
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/firefly/squad_omega",
+    "name": "Omega Squad Prep",
+    "z": 1,
+    "x": 75,
+    "y": 118,
+    "tileCount": 123,
+    "bounds": [
+      68,
+      112,
+      80,
+      125
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/firefly/ptsgt",
+    "name": "Operational Leaders' Room",
+    "z": 1,
+    "x": 74,
+    "y": 125,
+    "tileCount": 33,
+    "bounds": [
+      71,
+      121,
+      79,
+      127
+    ],
+    "category": "room"
+  },
+  {
+    "id": "/area/golden_arrow/vehicle_shuttle/upper",
+    "name": "Vehicle Elevator One Upper",
+    "z": 1,
+    "x": 128,
+    "y": 109,
+    "tileCount": 63,
+    "bounds": [
+      124,
+      106,
+      132,
+      112
+    ],
+    "category": "room"
+  }
+]

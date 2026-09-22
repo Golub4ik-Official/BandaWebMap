@@ -1,0 +1,47 @@
+[
+  {
+    "id": "/area/regretful_flame/indoors/cave",
+    "name": "Swamp Marsh - Cave",
+    "z": 1,
+    "x": 127,
+    "y": 206,
+    "tileCount": 21890,
+    "bounds": [
+      1,
+      151,
+      250,
+      250
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/regretful_flame/indoors/covenant",
+    "name": "Swamp Marsh - Covenant Structure",
+    "z": 1,
+    "x": 173,
+    "y": 75,
+    "tileCount": 1670,
+    "bounds": [
+      134,
+      49,
+      229,
+      150
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/regretful_flame/outdoors",
+    "name": "Swamp Marsh - Outdoors",
+    "z": 1,
+    "x": 122,
+    "y": 82,
+    "tileCount": 38938,
+    "bounds": [
+      1,
+      1,
+      250,
+      173
+    ],
+    "category": "major"
+  }
+]

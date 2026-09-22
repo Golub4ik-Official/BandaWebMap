@@ -1,0 +1,167 @@
+[
+  {
+    "id": "/area/lv295/landing_zone_1",
+    "name": "LV295 - Landing Zone One",
+    "z": 1,
+    "x": 65,
+    "y": 83,
+    "tileCount": 231,
+    "bounds": [
+      60,
+      73,
+      70,
+      93
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/lv295/landing_zone_2",
+    "name": "LV295 - Landing Zone Two",
+    "z": 1,
+    "x": 30,
+    "y": 30,
+    "tileCount": 238,
+    "bounds": [
+      23,
+      19,
+      37,
+      41
+    ],
+    "category": "landmark"
+  },
+  {
+    "id": "/area/lv295/outdoors/compound",
+    "name": "LV295 - Exterior Compound",
+    "z": 1,
+    "x": 65,
+    "y": 77,
+    "tileCount": 1541,
+    "bounds": [
+      41,
+      60,
+      96,
+      98
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv295/indoors/maint",
+    "name": "LV295 - Facility Maintenance",
+    "z": 1,
+    "x": 131,
+    "y": 46,
+    "tileCount": 2761,
+    "bounds": [
+      87,
+      2,
+      198,
+      85
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv295/oob",
+    "name": "LV295 - Out Of Bounds",
+    "z": 1,
+    "x": 58,
+    "y": 46,
+    "tileCount": 4349,
+    "bounds": [
+      1,
+      1,
+      200,
+      100
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv295/outdoors/barrens",
+    "name": "LV295 - Outdoors",
+    "z": 1,
+    "x": 50,
+    "y": 42,
+    "tileCount": 3758,
+    "bounds": [
+      10,
+      8,
+      96,
+      95
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv295/indoors/sublevel_1",
+    "name": "LV295 - Sublevel 1",
+    "z": 1,
+    "x": 139,
+    "y": 69,
+    "tileCount": 2372,
+    "bounds": [
+      103,
+      32,
+      162,
+      99
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv295/indoors/sublevel_2",
+    "name": "LV295 - Sublevel 2",
+    "z": 1,
+    "x": 181,
+    "y": 54,
+    "tileCount": 1265,
+    "bounds": [
+      164,
+      32,
+      199,
+      79
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv295/indoors/sublevel_3",
+    "name": "LV295 - Sublevel 3",
+    "z": 1,
+    "x": 156,
+    "y": 17,
+    "tileCount": 2021,
+    "bounds": [
+      102,
+      2,
+      199,
+      30
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv295/indoors/sublevel_4",
+    "name": "LV295 - Sublevel 4",
+    "z": 1,
+    "x": 178,
+    "y": 90,
+    "tileCount": 758,
+    "bounds": [
+      158,
+      81,
+      199,
+      99
+    ],
+    "category": "major"
+  },
+  {
+    "id": "/area/lv295/indoors/surface_lab",
+    "name": "LV295 - Surface Facility",
+    "z": 1,
+    "x": 93,
+    "y": 85,
+    "tileCount": 225,
+    "bounds": [
+      85,
+      74,
+      103,
+      93
+    ],
+    "category": "room"
+  }
+]
